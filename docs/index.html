@@ -1060,6 +1060,9 @@ function renderFiles(res){
 var EV={
   'REUPLOAD':{i:'reup',c:'serious',l:'Re-upload'},
   'HISTORY-REWRITTEN':{i:'warn',c:'crit',l:'History rewritten'},
+  'PF-TORRENT-ADDED':{i:'plus',c:'mut',l:'Torrent added'},
+  'PF-TORRENT-REMOVED':{i:'minus',c:'serious',l:'Torrent removed'},
+  'PF-TORRENT-UPDATED':{i:'tilde',c:'mut',l:'Torrent updated'},
   'FILE-REMOVED':{i:'minus',c:'serious',l:'File removed'},
   'REPO-UNAVAILABLE':{i:'x',c:'crit',l:'Repo unavailable'},
   'REPO-GATED':{i:'lock',c:'mut',l:'Repo gated'},
@@ -1068,7 +1071,7 @@ var EV={
   'NEW-REPO':{i:'plus',c:'mut',l:'Repo added'}
 };
 function evMeta(e){return EV[e]||{i:'dot',c:'mut',l:e}}
-function isAlert(e){return e.event==='HISTORY-REWRITTEN'||e.event==='REUPLOAD'||e.event==='FILE-REMOVED'||e.event==='REPO-UNAVAILABLE'}
+function isAlert(e){return e.event==='PF-TORRENT-REMOVED'||e.event==='HISTORY-REWRITTEN'||e.event==='REUPLOAD'||e.event==='FILE-REMOVED'||e.event==='REPO-UNAVAILABLE'}
 function byTimeDesc(a,b){return a.time<b.time?1:a.time>b.time?-1:0}
 function renderChanges(){
   var evs=(D.events||[]).filter(function(e){return e.event!=='NEW-REPO'}).sort(byTimeDesc);
@@ -1084,7 +1087,7 @@ function renderChanges(){
   $('alerts').innerHTML=h;
 
   var types={};evs.forEach(function(e){types[e.event]=(types[e.event]||0)+1});
-  var order=['HISTORY-REWRITTEN','REUPLOAD','FILE-REMOVED','REPO-UNAVAILABLE','REPO-GATED','REPO-BACK','MAIN-MOVED'];
+  var order=['HISTORY-REWRITTEN','REUPLOAD','FILE-REMOVED','REPO-UNAVAILABLE','PF-TORRENT-REMOVED','REPO-GATED','REPO-BACK','MAIN-MOVED','PF-TORRENT-UPDATED','PF-TORRENT-ADDED'];
   Object.keys(types).forEach(function(t){if(order.indexOf(t)<0)order.push(t)});
   var nNew=Number(D.new_repo_events)||0,recent=(D.new_repo_recent||[]).slice().sort(byTimeDesc);
   var fl='<div class="filters"><div class="fg">'+chipBtn('ev','all','All but repo added',evs.length)+
