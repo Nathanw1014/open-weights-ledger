@@ -62,3 +62,7 @@ or paste the hash into the dashboard.
 - ModelScope mostly mirrors Hugging Face, so it witnesses what Hugging Face served when the mirror was taken.
   A torrent that carries a file is a second copy of the bytes, not an independent hash.
 - Gated repos cannot be read anonymously and are listed as gated.
+
+## Licence
+
+MIT, for the code and the recorded data. See `LICENSE`.
