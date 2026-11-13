@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3.8-Flash-Next
+main commit at snapshot: 85e350e2eae6bb7abd02c922b09a69a96db9b08e
+snapshot taken: 2026-11-13T13:20:48Z

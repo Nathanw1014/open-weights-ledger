@@ -1,0 +1,14 @@
+[
+{
+"Path": "Qwen3-Embedding-0.6B-Q8_0.gguf",
+"Sha256": "06507c7b42688469c4e7298b0a1e16deff06caf291cf0a5b278c308249c3e439",
+"IsLFS": true,
+"CommittedDate": 1752544943
+},
+{
+"Path": "Qwen3-Embedding-0.6B-f16.gguf",
+"Sha256": "421a27e58d165478cc7acb984a688c2aa41404968b0203e7cd743ece44c54340",
+"IsLFS": true,
+"CommittedDate": 1752544943
+}
+]

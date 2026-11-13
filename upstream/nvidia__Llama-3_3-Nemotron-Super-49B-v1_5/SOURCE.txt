@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5
+main commit at snapshot: 420ba7d28211abf116b8b103ab700d92619daf98
+snapshot taken: 2026-11-13T13:56:09Z

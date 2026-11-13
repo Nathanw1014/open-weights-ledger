@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice
+main commit at snapshot: 0c0e3051f131929182e2c023b9537f8b1c68adfe
+snapshot taken: 2026-11-13T13:42:21Z

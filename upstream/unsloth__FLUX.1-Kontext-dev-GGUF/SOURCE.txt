@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/FLUX.1-Kontext-dev-GGUF
+main commit at snapshot: 036f27072cc710315f72f51727cac99998670ac6
+snapshot taken: 2026-11-13T13:09:20Z

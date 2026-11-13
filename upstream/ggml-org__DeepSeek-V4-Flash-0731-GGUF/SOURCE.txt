@@ -1,0 +1,4 @@
+repo: https://huggingface.co/ggml-org/DeepSeek-V4-Flash-0731-GGUF
+main commit at snapshot: 64da7c18350c54db6406cd085731f2a34363bf66
+lastModified: 2026-11-12T09:56:06.000Z
+snapshot taken: 2026-11-13T09:37:50Z

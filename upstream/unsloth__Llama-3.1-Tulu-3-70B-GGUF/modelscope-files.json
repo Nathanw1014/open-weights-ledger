@@ -1,0 +1,26 @@
+[
+{
+"Path": "Llama-3.1-Tulu-3-70B-Q2_K.gguf",
+"Sha256": "532b4042e5ab136676e7ccc053def0c670e5e4ed7ca409b224b864bc8baed834",
+"IsLFS": true,
+"CommittedDate": 1732267741
+},
+{
+"Path": "Llama-3.1-Tulu-3-70B-Q3_K_M.gguf",
+"Sha256": "ff24a12007548a340d520f36d6c82f94927c7e5961e7c1afbf1175d46d2ff0f2",
+"IsLFS": true,
+"CommittedDate": 1732267741
+},
+{
+"Path": "Llama-3.1-Tulu-3-70B-Q4_K_M.gguf",
+"Sha256": "301551b6e5f35ac04c04b2e55b62c501473b82369dda20b53aa78b00f03f86b7",
+"IsLFS": true,
+"CommittedDate": 1732267741
+},
+{
+"Path": "Llama-3.1-Tulu-3-70B-Q5_K_M.gguf",
+"Sha256": "c3cafef38aa67ddc9011c6f5ad1bb06e24a4823869af2a5aac756a735c3129b9",
+"IsLFS": true,
+"CommittedDate": 1732267741
+}
+]

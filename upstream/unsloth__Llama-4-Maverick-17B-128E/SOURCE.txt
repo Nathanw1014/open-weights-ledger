@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E
+main commit at snapshot: 764d2884ed58223ffc67f6904a32d3dc9a6267d7
+snapshot taken: 2026-11-13T13:32:56Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/YuYu1015/Huihui-Qwen3-30B-A3B-Instruct-2507-abliterated-NVFP4
+main commit at snapshot: af962b8fc79a02d68f9c96a7bb70df0c3395159b
+snapshot taken: 2026-11-13T14:00:39Z

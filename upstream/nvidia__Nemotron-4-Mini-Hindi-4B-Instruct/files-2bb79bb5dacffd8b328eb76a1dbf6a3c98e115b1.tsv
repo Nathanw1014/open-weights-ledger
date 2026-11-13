@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+model.safetensors	8381055584	815d91511ec209e5ef46b69dd74706b3efe133dc6f9bee74e9d2e9cc776a25c0	sha256
+nemotron-4-mini-hindi-4b-instruct.nemo	8387092480	721df1f7db1c9652f672d09a9eb90bb4bd7778eaec42b1457dee06edfcba9273	sha256
+tokenizer.json	18143149	83d0648daa0467fb02ddef7ff25460321dab2fbb20c280ae0bc1ea8052f7df90	sha256
+tokenizer.model	4545602	6dfd8b970f437002fc445214304969fe59e64d4f48500bd0b77ba55340f2d811	sha256

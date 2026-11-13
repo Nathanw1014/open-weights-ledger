@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash, git = git blob id)
+.gitattributes	1891	c0ba5ef56857785fc38ee9f4db3c29d144eb6191	git
+LICENSE	3235	9557a8961782792814714b7488346732c043793d	git
+Qwen3.8-Flash-Next-MTP-BF16.gguf	7770760096	c628ec200fcc090d502fd3fa458ef308e14888cbb3f87d08ca0035c683673856	sha256
+Qwen3.8-Flash-Next-MTP-Q4_K_M.gguf	2622313344	1f2a6991237d5412c9582b654e89e3aaa5a0fd33206d2b6d1813b15c475f4c02	sha256
+README.md	6132	5a305585a980702828022ec364c0ec8da0f332d3	git
+patches/merge-mtp-shard.py	4074	922a57c2077da8783fe0453161d808a2631e7908	git
+patches/qwen4exp-mtp-draft-head.patch	28220	0b56bef83501423aab7242b3ea197f873055d41a	git
+unsloth-UD-Q4_K_XL-mtp-shards/Qwen3.8-Flash-Next-UD-Q4_K_XL-00001-of-00005.gguf	10946667	0e49c15cd5c0d406b030a3ac7963b1a96309b1dc4096e39d10f9b9dda5bb63c3	sha256
+unsloth-UD-Q4_K_XL-mtp-shards/Qwen3.8-Flash-Next-UD-Q4_K_XL-00005-of-00005.gguf	1892070368	9626e7a7dc14460a1bdd7d4946507e2656ecb2d6a3687309ee9b8522f57f7036	sha256

@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-Qwen3.5-0.8B-abliterated.BF16.gguf	1557662176	28d4684a6f11817397158ca3eeac296a8ba6729538c5320e0d59b912ac7ae25b	sha256
+Huihui-Qwen3.5-0.8B-abliterated.F16-mmproj.gguf	204986752	33a9eb40acd0596006056dbb34580351ceec8280ab241aa9eb19158b6f44aff0	sha256
+Huihui-Qwen3.5-0.8B-abliterated.F16.gguf	1557662176	ec7644d2f6f4b353884936d4ecbd1e45b7cf8daec673010a90f73ee42c76672a	sha256
+Huihui-Qwen3.5-0.8B-abliterated.Q2_K_L.gguf	491351520	9ec36895952e245457c81de953a9dc308e05ddb3253afe58a25f2d770ef0d229	sha256
+Huihui-Qwen3.5-0.8B-abliterated.Q3_K_M.gguf	475867104	a8bedcebad6fa71af4c6dfbc88f27e6232eaad7484976c876b11b971d2d71915	sha256
+Huihui-Qwen3.5-0.8B-abliterated.Q4_K_M.gguf	541903328	7388c88323a74dc3631efa188903ef1de91db13e20f6894c0cbbe8077c5be9ed	sha256
+Huihui-Qwen3.5-0.8B-abliterated.Q5_K_M.gguf	592636384	2e1cb8d1a74275734babcaeb651ce27a5402d087e6d55834c148f3f864386b31	sha256
+Huihui-Qwen3.5-0.8B-abliterated.Q6_K.gguf	646540256	b8143dd3e09a5c72ab2bd073273fd1acd873351be0fa170f03f5dc24bd1ede83	sha256
+Huihui-Qwen3.5-0.8B-abliterated.Q8_0.gguf	833591776	f3dd2ddd9bdd248e17f7a75bfe64ec5dd05f6241b743f4a5d7502d39887d6064	sha256

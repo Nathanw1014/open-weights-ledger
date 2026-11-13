@@ -1,0 +1,44 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "28cd71c60e3034fc05ab67aa6b960d5340087fc72e456f2989b50294dd6b4dc9",
+"IsLFS": true,
+"CommittedDate": 1792520507
+},
+{
+"Path": "sam3.1-FP8.safetensors",
+"Sha256": "5c875433f4452c5c3790233dda3fdf9ee6d59febd844560e8219bfb2d99bfc34",
+"IsLFS": true,
+"CommittedDate": 1792520510
+},
+{
+"Path": "sam3.1-INT8-ConvRot.safetensors",
+"Sha256": "00609f3690ec52bef37b8f79c9e9d78baa2288cbe4ec1cf4eec996a24c285ce2",
+"IsLFS": true,
+"CommittedDate": 1792520512
+},
+{
+"Path": "sam3.1-INT8.safetensors",
+"Sha256": "bc4b9028135d5fee34d583b9a14cdf6f0ddbaf547ed1cd7883ed732a3454d303",
+"IsLFS": true,
+"CommittedDate": 1792520513
+},
+{
+"Path": "samples/living_room.png",
+"Sha256": "d0d95642879d997499b48f6ef8f3a4124df34bd40b3a3713c69d34ac65d109c6",
+"IsLFS": true,
+"CommittedDate": 1792520515
+},
+{
+"Path": "samples/street.png",
+"Sha256": "c563d4e1f5ae3aa069b886c1d5f714ccfd664a823c9f9bd72d1fc9e4ba4ee9cb",
+"IsLFS": true,
+"CommittedDate": 1792520517
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "6d9109cc838977f3ca94a379eec36aecc7c807e1785cd729660ca2fc0171fb35",
+"IsLFS": true,
+"CommittedDate": 1792520520
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/meta-models/Muse-Glimmer-30B-ExecuTorch-PTE
+main commit at snapshot: fc6fa93cdefeddc93abd7abf883e99279af7ea51
+snapshot taken: 2026-11-13T13:54:50Z

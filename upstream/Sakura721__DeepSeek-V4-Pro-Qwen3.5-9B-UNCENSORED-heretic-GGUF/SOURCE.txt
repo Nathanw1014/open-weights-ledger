@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
+main commit at snapshot: 35285bf9d161fb3a9f28aee914670b0b32e72f3d
+snapshot taken: 2026-11-13T14:07:28Z

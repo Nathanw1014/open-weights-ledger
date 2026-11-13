@@ -1,0 +1,14 @@
+[
+{
+"Path": "model-00001-of-00002.safetensors",
+"Sha256": "5b684409377e037e5ed75d680a070126e841dab17e8cb9a818868deadf01ab39",
+"IsLFS": true,
+"CommittedDate": 1731528857
+},
+{
+"Path": "model-00002-of-00002.safetensors",
+"Sha256": "8bc5227aae6174eaf0b589fd4fbeb0de046a1fc951a67f2d2538acad811e1068",
+"IsLFS": true,
+"CommittedDate": 1731528857
+}
+]

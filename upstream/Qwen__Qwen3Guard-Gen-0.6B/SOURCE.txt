@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B
+main commit at snapshot: fada3b2f655b89601929198343c94cd2f64d93cc
+snapshot taken: 2026-11-13T13:44:46Z

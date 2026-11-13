@@ -1,0 +1,3 @@
+repo: https://huggingface.co/PeetPedro/qwen4_exp-8b-obliterated-abliterated-kompress-ultra
+main commit at snapshot: 5317566e4aca1837bd7542c70b3728f83854a09c
+snapshot taken: 2026-11-13T14:05:44Z

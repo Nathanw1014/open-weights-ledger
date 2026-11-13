@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MiniMax-M2-GGUF
+main commit at snapshot: 06e952eab9e8e136847e9df067a0032582696778
+snapshot taken: 2026-11-13T13:10:52Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/FLUX.1-schnell
+main commit at snapshot: 9df3faa7ae3b6ddf0b2b69bb78616372897cc65c
+snapshot taken: 2026-11-13T13:04:12Z

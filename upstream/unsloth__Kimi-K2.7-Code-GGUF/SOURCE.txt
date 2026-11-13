@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF
+main commit at snapshot: 46352ca8dc32aa60f9754f5bd3fb778deeb9e430
+snapshot taken: 2026-11-13T13:07:52Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen2.5-Coder-7B-Instruct-OBLITERATED-i1-GGUF
+main commit at snapshot: 2d18eaa8a8ae9c5a6b85416bae65ab2d0679dae1
+snapshot taken: 2026-11-13T14:05:56Z

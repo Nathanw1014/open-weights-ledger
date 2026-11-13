@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-4B-Thinking-2507-FP8
+main commit at snapshot: b2a73f946cddbbacd70064a0842eccaf71e64cc7
+snapshot taken: 2026-11-13T13:33:48Z

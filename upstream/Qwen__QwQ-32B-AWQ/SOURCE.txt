@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/QwQ-32B-AWQ
+main commit at snapshot: dc9f21221581580ccfa51b74077db6056b56cb69
+snapshot taken: 2026-11-13T13:48:35Z

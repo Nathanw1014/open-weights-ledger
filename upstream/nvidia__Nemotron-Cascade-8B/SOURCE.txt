@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Cascade-8B
+main commit at snapshot: 276a779fe0c1fe2d63a68fd573fec7b4b0a1907e
+snapshot taken: 2026-11-13T13:58:37Z

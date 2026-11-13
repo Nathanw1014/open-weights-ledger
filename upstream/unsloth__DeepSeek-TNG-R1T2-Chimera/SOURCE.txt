@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-TNG-R1T2-Chimera
+main commit at snapshot: ab912071052657220319a7666f5e55a02138fbdf
+snapshot taken: 2026-11-13T13:40:20Z

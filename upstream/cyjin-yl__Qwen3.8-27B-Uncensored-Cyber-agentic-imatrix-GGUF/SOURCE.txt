@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cyjin-yl/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF
+main commit at snapshot: d82fb040934e0a491600a49477114d005accf59f
+snapshot taken: 2026-11-13T14:09:17Z

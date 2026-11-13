@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/embeddinggemma-300m-qat-q8_0-unquantized
+main commit at snapshot: dc4294deb8cbaad174042a020037fb3a5b008976
+snapshot taken: 2026-11-13T13:23:07Z

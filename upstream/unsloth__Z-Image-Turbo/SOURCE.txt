@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Z-Image-Turbo
+main commit at snapshot: dd538957de57d0ca305fbbb7c4de7f9d856be726
+snapshot taken: 2026-11-13T13:02:48Z

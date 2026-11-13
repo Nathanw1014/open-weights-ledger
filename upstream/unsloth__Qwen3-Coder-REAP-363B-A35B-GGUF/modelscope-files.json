@@ -1,0 +1,794 @@
+[
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00001-of-00016.gguf",
+"Sha256": "0a2ac76623a3b9a25cdd651059a1bbaccf11abd90358445c90b350ecefe9562b",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00002-of-00016.gguf",
+"Sha256": "fad5a274af5f3eee49b783e41a91f366af585d6fcc64e6aa9805db39be11a086",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00003-of-00016.gguf",
+"Sha256": "53804323e8f6a73de267c2da43ff2ce9c373d211736bde118bd707662ab52304",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00004-of-00016.gguf",
+"Sha256": "354e3ee95225b2cb50fd77db73866ba5f570ac0821f377525c498c2cf924bda1",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00005-of-00016.gguf",
+"Sha256": "52b1063a7b440da738293fd61e9363202cd9c706913530e3d1a9d47d41b5c09f",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00006-of-00016.gguf",
+"Sha256": "b3d28f81abf4fd3ce111a0668cecc9c6a8eecfeb1ed58ab3f2698ac100a00a80",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00007-of-00016.gguf",
+"Sha256": "333224d579cdc59318f87e5c6da629ba50c08f7c73c18b67dbc33876865102aa",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00008-of-00016.gguf",
+"Sha256": "944e57efe89065b73cf57f920a8f73276e0e35b18b4fe620aabd476720cceb69",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00009-of-00016.gguf",
+"Sha256": "66bfaca98c6949c04c6879c8639e35bc0ecde26a61291a9ecce19d82335d6566",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00010-of-00016.gguf",
+"Sha256": "e83086ce18b46c49725fc3e874abc64afdff32e7d348756b2df5d711c396e43f",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00011-of-00016.gguf",
+"Sha256": "79eadf4bf9c66253ab6f277b3dcd5c3e04f7c6d94c14fcfe6a25abc525ea80c6",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00012-of-00016.gguf",
+"Sha256": "fe762f618ab68b1b7b3afac79decba89875b0a814310679678eb9a5ace9e409e",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00013-of-00016.gguf",
+"Sha256": "3ae1a8df0fc971c2ee74df166e16ab98288cf7a0cf81933a5d8f5e7e85fc14d1",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00014-of-00016.gguf",
+"Sha256": "c7a5f80116404357d80235e6099ffba176b9e70e76ae5f69d7d05c138a039ed5",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00015-of-00016.gguf",
+"Sha256": "75a9ade6de30bc8d18391b44ee38708a8f53ccb629d28e1e7d83ffa50fb7d55e",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "BF16/Qwen3-Coder-REAP-363B-A35B-BF16-00016-of-00016.gguf",
+"Sha256": "ea5fb21110d7fdbad0a388b7d53aa3c364f82d0a2a244ba732684479ed70b8dd",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_NL/Qwen3-Coder-REAP-363B-A35B-IQ4_NL-00001-of-00005.gguf",
+"Sha256": "f53eabde6005918514af6bc2a85f8ae51b24fc0487da521fc6026b9d75a76694",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_NL/Qwen3-Coder-REAP-363B-A35B-IQ4_NL-00002-of-00005.gguf",
+"Sha256": "d4c47f87779e4e55c52e3d41ca924c6f394068f7df20b0a3d912b59d4e1ff739",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_NL/Qwen3-Coder-REAP-363B-A35B-IQ4_NL-00003-of-00005.gguf",
+"Sha256": "514d6c22973507fdefed3e9c12e963c6a0236842f3472ff94e300f03cfb52b6a",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_NL/Qwen3-Coder-REAP-363B-A35B-IQ4_NL-00004-of-00005.gguf",
+"Sha256": "fe31414090918b86b2392b6063bae8ffd442e928755eccb917626f82306c993d",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_NL/Qwen3-Coder-REAP-363B-A35B-IQ4_NL-00005-of-00005.gguf",
+"Sha256": "bc2ead244c2c30d86ba99636c05092aea6ee52f9c734da53acb736f738341446",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_XS/Qwen3-Coder-REAP-363B-A35B-IQ4_XS-00001-of-00004.gguf",
+"Sha256": "3bfda57f580cf8cee44e0ee721012d31f6a2d4a65b0514f750979032b8d8810a",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_XS/Qwen3-Coder-REAP-363B-A35B-IQ4_XS-00002-of-00004.gguf",
+"Sha256": "7314fc03c432c18c6af12c0cb0c5860d6623f94b063ddb8799b17b29e6879caf",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_XS/Qwen3-Coder-REAP-363B-A35B-IQ4_XS-00003-of-00004.gguf",
+"Sha256": "9b323e6e2cb545afda9703886d40da53b71204e839ed9b46704f39b415fc5d99",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "IQ4_XS/Qwen3-Coder-REAP-363B-A35B-IQ4_XS-00004-of-00004.gguf",
+"Sha256": "33f6142f3d098183408ba0a380ab2d561a2abcd1cbfe34a6685385ed2031ae6c",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q2_K/Qwen3-Coder-REAP-363B-A35B-Q2_K-00001-of-00003.gguf",
+"Sha256": "2e73498d86214f121db080d234ad2be9fcc85ed9530ff397d2545044eab63ca8",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q2_K/Qwen3-Coder-REAP-363B-A35B-Q2_K-00002-of-00003.gguf",
+"Sha256": "f5157e3fb184f383550c7b99e0d94ae9699b582d6fbd9ea84002afcaec35f71b",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q2_K/Qwen3-Coder-REAP-363B-A35B-Q2_K-00003-of-00003.gguf",
+"Sha256": "d898f2a40d7f396d06b3c01f04158cd39f6467e7a3beee4ebca66db74e5119bd",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q2_K_L/Qwen3-Coder-REAP-363B-A35B-Q2_K_L-00001-of-00003.gguf",
+"Sha256": "943547974efa5e32bd364e1922309e36a61c1a0a4b316868eb4654af986a5b2f",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q2_K_L/Qwen3-Coder-REAP-363B-A35B-Q2_K_L-00002-of-00003.gguf",
+"Sha256": "02df0f4af30f837e24d9150544597170dd0e4c815876faf8d1fb465a8adf0e44",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q2_K_L/Qwen3-Coder-REAP-363B-A35B-Q2_K_L-00003-of-00003.gguf",
+"Sha256": "d898f2a40d7f396d06b3c01f04158cd39f6467e7a3beee4ebca66db74e5119bd",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q3_K_M/Qwen3-Coder-REAP-363B-A35B-Q3_K_M-00001-of-00004.gguf",
+"Sha256": "b1d4c229e370dadc0b14ef7f95a055d986971913dbdeefb3848189da35b1230c",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q3_K_M/Qwen3-Coder-REAP-363B-A35B-Q3_K_M-00002-of-00004.gguf",
+"Sha256": "e24dbd349688a4d93450ea3f58589825efa991f9fea14da412fddeff23b2b628",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q3_K_M/Qwen3-Coder-REAP-363B-A35B-Q3_K_M-00003-of-00004.gguf",
+"Sha256": "527c87607d7c0f8adb25e1818f6ac6c78f40348d835fbc3e34b1d44b3f717c73",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q3_K_M/Qwen3-Coder-REAP-363B-A35B-Q3_K_M-00004-of-00004.gguf",
+"Sha256": "a639f1ed42cecfdc4d0324935ed10c450620d1ca00cd03f0a727db606d99da41",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q3_K_S/Qwen3-Coder-REAP-363B-A35B-Q3_K_S-00001-of-00004.gguf",
+"Sha256": "e119f201cf3192f639a76f13a31a4ac873451cf5fe20186919bce53a693bd5a6",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q3_K_S/Qwen3-Coder-REAP-363B-A35B-Q3_K_S-00002-of-00004.gguf",
+"Sha256": "e19b57161e469c60073272d952aa71455ac0ea7a0f7b9421e3b9154e1f0f3250",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q3_K_S/Qwen3-Coder-REAP-363B-A35B-Q3_K_S-00003-of-00004.gguf",
+"Sha256": "6e65bac86b46d887f8f5440358541c85283e85953f59c57b954949405525cdc7",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q3_K_S/Qwen3-Coder-REAP-363B-A35B-Q3_K_S-00004-of-00004.gguf",
+"Sha256": "ae8ca745af39b8555f3a1928c300439225fc3465bbf5368a9bb1b5ebe4695595",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_0/Qwen3-Coder-REAP-363B-A35B-Q4_0-00001-of-00005.gguf",
+"Sha256": "be2ea44380212dbe8a3019155e735e92e7f9d9dcc21b0fd9ecbb31e276d4b87f",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_0/Qwen3-Coder-REAP-363B-A35B-Q4_0-00002-of-00005.gguf",
+"Sha256": "197f29846f0d27c6daf3cd69932e76032273287973a45f465e7a556bcc93d57c",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_0/Qwen3-Coder-REAP-363B-A35B-Q4_0-00003-of-00005.gguf",
+"Sha256": "ae910f22fa2876684ee3f4a80a5506696707af5256344083786dde3f409174bb",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_0/Qwen3-Coder-REAP-363B-A35B-Q4_0-00004-of-00005.gguf",
+"Sha256": "aa66b7c3e57514885730a28d9e9c8603ac3e757119ceaf05fdf6c0a1ea7076a9",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_0/Qwen3-Coder-REAP-363B-A35B-Q4_0-00005-of-00005.gguf",
+"Sha256": "4ec429ad7436a3578b2147b8c77770fdaeb23d88634aec1ce9e2519e0ec2843d",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_1/Qwen3-Coder-REAP-363B-A35B-Q4_1-00001-of-00005.gguf",
+"Sha256": "d9f910241e25c166bb533e39185ef2d9e620853a24979b29e645beeddfc5da1e",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_1/Qwen3-Coder-REAP-363B-A35B-Q4_1-00002-of-00005.gguf",
+"Sha256": "baeb73e96eae19655605f8291e51af8188427987952ad0519afc1c5959580d0c",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_1/Qwen3-Coder-REAP-363B-A35B-Q4_1-00003-of-00005.gguf",
+"Sha256": "143da2ab38954f3dc1919d64566a4e17a933873693131d16ad0c967294b59bac",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_1/Qwen3-Coder-REAP-363B-A35B-Q4_1-00004-of-00005.gguf",
+"Sha256": "fe3905c899f5cbccb5b79bddfc0f9f405471def879791baed7b7c16e28aa10ea",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_1/Qwen3-Coder-REAP-363B-A35B-Q4_1-00005-of-00005.gguf",
+"Sha256": "b1758291b3e200cb34d8dab1b5f4e2e8e64e2ec84a73e94f8d41d61ec9fb27fb",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_K_M/Qwen3-Coder-REAP-363B-A35B-Q4_K_M-00001-of-00005.gguf",
+"Sha256": "ac8a786688a3f6dbd6f559149ed5ec0382beae33d8a2a437c6c51f33b4dc4d1f",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q4_K_M/Qwen3-Coder-REAP-363B-A35B-Q4_K_M-00002-of-00005.gguf",
+"Sha256": "d482c19c714ca821834a41f24644432200f2d318d1586c19820d35bcfa7a66c6",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q4_K_M/Qwen3-Coder-REAP-363B-A35B-Q4_K_M-00003-of-00005.gguf",
+"Sha256": "4dd484923a607514948c22b98a255dd41e088bbc32a55db532f22073fc7f195e",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q4_K_M/Qwen3-Coder-REAP-363B-A35B-Q4_K_M-00004-of-00005.gguf",
+"Sha256": "77b520e7a5a534c86412827b09c7132a35d13ed75d9b1ec7aa2035cfd9a90e67",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q4_K_M/Qwen3-Coder-REAP-363B-A35B-Q4_K_M-00005-of-00005.gguf",
+"Sha256": "4d0d0019d9cffa1c359be80ba0c3a6901d9d9b949d30e9a793d3cfa5b07e52dc",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q4_K_S/Qwen3-Coder-REAP-363B-A35B-Q4_K_S-00001-of-00005.gguf",
+"Sha256": "bd1665b7842b77b370cfe8452cc1b64c34ea19706ad160f263d26adc9d417a13",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_K_S/Qwen3-Coder-REAP-363B-A35B-Q4_K_S-00002-of-00005.gguf",
+"Sha256": "c547dfa6e8bf06fcac00897121540921b3e45a7f998910f0f466559980f8414f",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_K_S/Qwen3-Coder-REAP-363B-A35B-Q4_K_S-00003-of-00005.gguf",
+"Sha256": "0961dbcadedd5bdd8c24e2c4b0d9d86849c236efb5b2bd3a3498d218aa647e9d",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_K_S/Qwen3-Coder-REAP-363B-A35B-Q4_K_S-00004-of-00005.gguf",
+"Sha256": "f223d98f42089150dde5b802aea56ef938c8a993a4fc620e6f41479442c0780c",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q4_K_S/Qwen3-Coder-REAP-363B-A35B-Q4_K_S-00005-of-00005.gguf",
+"Sha256": "fe6da6bbcfc3a4fc30aaad3de47f08194f92aa54212b61a58d71e2e2af92a429",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_M/Qwen3-Coder-REAP-363B-A35B-Q5_K_M-00001-of-00006.gguf",
+"Sha256": "3e5809e02e961c714599713b2533a8f392be4302340d2e748771587ec77bd008",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_M/Qwen3-Coder-REAP-363B-A35B-Q5_K_M-00002-of-00006.gguf",
+"Sha256": "78bd082b6dd556de907522bc1a5ec534e15a3a4d89ea101ed9367bc9bc44e3ee",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_M/Qwen3-Coder-REAP-363B-A35B-Q5_K_M-00003-of-00006.gguf",
+"Sha256": "426bb2f3d934a5f9cb1a3df9f01018bfcb076f0d113e44ce7ebcf6dbf6448a0e",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_M/Qwen3-Coder-REAP-363B-A35B-Q5_K_M-00004-of-00006.gguf",
+"Sha256": "9d0001177e5559fdd91844ad8371b8d01207caa7a62f728fbd556b4aeb51311f",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_M/Qwen3-Coder-REAP-363B-A35B-Q5_K_M-00005-of-00006.gguf",
+"Sha256": "b8d62c9e91fa2ce50b36c84f6682f3e97293528a03839668dc5d1ec5859dd04a",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_M/Qwen3-Coder-REAP-363B-A35B-Q5_K_M-00006-of-00006.gguf",
+"Sha256": "ba99ce623274fc694119b8f36dd02d165969fc9cdbd99abac2361d033b574781",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_S/Qwen3-Coder-REAP-363B-A35B-Q5_K_S-00001-of-00006.gguf",
+"Sha256": "2995ef7e395f7e9f08f8b3a45052091f272da2892b668ce56dbc4447e70c5c8a",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_S/Qwen3-Coder-REAP-363B-A35B-Q5_K_S-00002-of-00006.gguf",
+"Sha256": "58f3551966323641081926cfc4984ba083d5ee12526abde8938ddda615e93642",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_S/Qwen3-Coder-REAP-363B-A35B-Q5_K_S-00003-of-00006.gguf",
+"Sha256": "8ccf6bc5b2f0b5c159b8219bd6ecd92aa607e47e6026f9108af87082da19a3b5",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_S/Qwen3-Coder-REAP-363B-A35B-Q5_K_S-00004-of-00006.gguf",
+"Sha256": "5b751a1a672ed86384363c355118f0b205de295faf7b3e531ce5b5f84984fa88",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_S/Qwen3-Coder-REAP-363B-A35B-Q5_K_S-00005-of-00006.gguf",
+"Sha256": "7a090aafe3621ff36206ad1fa7212a8ca278f13c1e189149df7550f0b5adbc95",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q5_K_S/Qwen3-Coder-REAP-363B-A35B-Q5_K_S-00006-of-00006.gguf",
+"Sha256": "c9a064119f3def148b4503bda214cd1b946e69af9d477fcf59f7ea9fa676fc5c",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q6_K/Qwen3-Coder-REAP-363B-A35B-Q6_K-00001-of-00007.gguf",
+"Sha256": "fdcdaaae749ba1164594eda37cf9741b8588b99b647c96172e9d392461c134cb",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q6_K/Qwen3-Coder-REAP-363B-A35B-Q6_K-00002-of-00007.gguf",
+"Sha256": "a246a69795f916bd67a9c9658330769954d63eb08e0fff8c65101712104e857a",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q6_K/Qwen3-Coder-REAP-363B-A35B-Q6_K-00003-of-00007.gguf",
+"Sha256": "971c2cb175ea83356bf5b32945624f12c9d061bc08c71ddaffaaf4825d48e658",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q6_K/Qwen3-Coder-REAP-363B-A35B-Q6_K-00004-of-00007.gguf",
+"Sha256": "d965ec86d40717ea6978274124a4b00c237755f5e25f5703cbb1b52a09eae824",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q6_K/Qwen3-Coder-REAP-363B-A35B-Q6_K-00005-of-00007.gguf",
+"Sha256": "10e3bdd194398b9b15639ab3c1faefd4e1004fc9047139df53f27bd374b41662",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q6_K/Qwen3-Coder-REAP-363B-A35B-Q6_K-00006-of-00007.gguf",
+"Sha256": "43062dd6eeb8919f3407db81b73ac26d7f634824cff764d22298a456cfe6730f",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q6_K/Qwen3-Coder-REAP-363B-A35B-Q6_K-00007-of-00007.gguf",
+"Sha256": "bcd1dbb0943a7e026c7e6dcab47e7d4b63cc1730597ad8b37b453bb6296fa06f",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "Q8_0/Qwen3-Coder-REAP-363B-A35B-Q8_0-00001-of-00008.gguf",
+"Sha256": "e3c6c3747450dd4bdc6e2c2b6180512e2f4f83426f550bb64b9897eeb5711fd0",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q8_0/Qwen3-Coder-REAP-363B-A35B-Q8_0-00002-of-00008.gguf",
+"Sha256": "dd414d10a39b5765c6470a6123bfbd5b7241d2df772fd1152a6ca7252655997b",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q8_0/Qwen3-Coder-REAP-363B-A35B-Q8_0-00003-of-00008.gguf",
+"Sha256": "ab3bda577a19da9e42da5b9142e306da0b305370426b7122f7047f0ebc1b7fef",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q8_0/Qwen3-Coder-REAP-363B-A35B-Q8_0-00004-of-00008.gguf",
+"Sha256": "a34814a909a01bbf2d2e07ee5f2ff3dd284233ac7aa25c2afaef49696f1bae90",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q8_0/Qwen3-Coder-REAP-363B-A35B-Q8_0-00005-of-00008.gguf",
+"Sha256": "8e2e8fd91e6aead3a652262a847e0382fdf7c9e1fa147e6affc04d9732429063",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q8_0/Qwen3-Coder-REAP-363B-A35B-Q8_0-00006-of-00008.gguf",
+"Sha256": "81d716a5b8a19ae7097a22fec61bc5052e6a3d6bc687ec8be8faaa7e9fb02d76",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q8_0/Qwen3-Coder-REAP-363B-A35B-Q8_0-00007-of-00008.gguf",
+"Sha256": "f358be0bb9cc8b7afe60fe725994f44f9ec27e1dd56e0f4ba87a3cd246791dfd",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Q8_0/Qwen3-Coder-REAP-363B-A35B-Q8_0-00008-of-00008.gguf",
+"Sha256": "73741da1bb58201de79b5a70fe423705ab895fcdaf4f4a7fdbd006d58a4e47b4",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "Qwen3-Coder-REAP-363B-A35B-UD-TQ1_0.gguf",
+"Sha256": "3f3e5c260ee55e3b9ea8fa554284e6561e504fce334d2d6325409505f2f2ac86",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ1_M/Qwen3-Coder-REAP-363B-A35B-UD-IQ1_M-00001-of-00003.gguf",
+"Sha256": "43f1c1aefa1a306e390d7f2e74842769f7b911b3af894128ad145342cc57d12c",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ1_M/Qwen3-Coder-REAP-363B-A35B-UD-IQ1_M-00002-of-00003.gguf",
+"Sha256": "37c5818f119ce3e9ae07b29ff16167e1532f93a7483c003654935d0b74837c74",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ1_M/Qwen3-Coder-REAP-363B-A35B-UD-IQ1_M-00003-of-00003.gguf",
+"Sha256": "794558b230c9fad73c87f5c3efeb1b25efeffecced742cc42a4ec5958ebda75e",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ1_S/Qwen3-Coder-REAP-363B-A35B-UD-IQ1_S-00001-of-00003.gguf",
+"Sha256": "e0339f31cccc9bd1633b87e502814f6e9b612ee222393d8cc09d8cf60ac3fb48",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ1_S/Qwen3-Coder-REAP-363B-A35B-UD-IQ1_S-00002-of-00003.gguf",
+"Sha256": "b2df0a1bd19ab604993d02c7dc86b0ad39a5688bf3c40f76fbf3019ba355a9b3",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ1_S/Qwen3-Coder-REAP-363B-A35B-UD-IQ1_S-00003-of-00003.gguf",
+"Sha256": "5a4aaca5962844279098af115b96c26ae831226841c0c63cdce2a06f2d37f8b0",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ3_XXS/Qwen3-Coder-REAP-363B-A35B-UD-IQ3_XXS-00001-of-00004.gguf",
+"Sha256": "29ea0ed8dd54ac6d4591a0d150bb5afd5a32a8d5ac76869f6db78504ab2b3d46",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ3_XXS/Qwen3-Coder-REAP-363B-A35B-UD-IQ3_XXS-00002-of-00004.gguf",
+"Sha256": "777404de612bc46162f658f99cd491788af71253cf48cf78140807d6ca43b3b2",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ3_XXS/Qwen3-Coder-REAP-363B-A35B-UD-IQ3_XXS-00003-of-00004.gguf",
+"Sha256": "09119ded01db2eb5530e99be942f8c2f546f0790a37e9b8dd3b7ecb5251e62c1",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-IQ3_XXS/Qwen3-Coder-REAP-363B-A35B-UD-IQ3_XXS-00004-of-00004.gguf",
+"Sha256": "272463eeeb9883975b4dbce26aa88c75d72d11644b6b1fd8aeb3caf9555f1421",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q2_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q2_K_XL-00001-of-00003.gguf",
+"Sha256": "17be4f8180bb3416ac1ea1f090e0e405050a7b726d33c0542d7f4a966d491c7e",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q2_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q2_K_XL-00002-of-00003.gguf",
+"Sha256": "6112bebf0fa45891a228fde426ead578ef2d85cdaff7d600e1a7748e67ad7e43",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q2_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q2_K_XL-00003-of-00003.gguf",
+"Sha256": "de32e76a5b3b7d39a049d92a56df996b07589c8039c9bd00d0dc7566844cedbb",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q3_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q3_K_XL-00001-of-00004.gguf",
+"Sha256": "e70dac69c4d76e89daf2288c1f2a52b421cba481db8ada1ec7ce44f4761a4615",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q3_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q3_K_XL-00002-of-00004.gguf",
+"Sha256": "14044e02b4ea3f0c964456d2137065eaca116b23e07cd1b0468782412fc6a22f",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q3_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q3_K_XL-00003-of-00004.gguf",
+"Sha256": "28a202ff43a66222688ca0a47039cd500757ca4a427be3787c8470beddab2f53",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q3_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q3_K_XL-00004-of-00004.gguf",
+"Sha256": "9d387174559a5cd34807279b68624f46290d2aa060478be70489d45b9aac9866",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q4_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q4_K_XL-00001-of-00005.gguf",
+"Sha256": "485020f8d172051cdf5acc2ad1eeee784626e8711b56005dbfcbb334f33474d2",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q4_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q4_K_XL-00002-of-00005.gguf",
+"Sha256": "9d5694f6dc9f093be6fa25c6c96c66871b5f7fabc7eba8661ec68e25592eeab3",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q4_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q4_K_XL-00003-of-00005.gguf",
+"Sha256": "d574aa6471e7acd56cd9e4525326499b4c65c6d8684f69dfeeba97d366bfd659",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q4_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q4_K_XL-00004-of-00005.gguf",
+"Sha256": "515e3fb86ce3132c4a3a47ae55f1df2d45d462e3813154c2add53ea6a97412ef",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q4_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q4_K_XL-00005-of-00005.gguf",
+"Sha256": "701a5bccc016ea758ca8a89c7eb9ee6244aebb748a89d8d93b61e26917f53891",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q5_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q5_K_XL-00001-of-00006.gguf",
+"Sha256": "3dc5245a464fccb343ae1972ac310e7dc6a6660be9cc3599274f729aae7194b2",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q5_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q5_K_XL-00002-of-00006.gguf",
+"Sha256": "80507f9b701c95869639e5b1f873b29de1d033f2552c7c028f5249c8a63aac4a",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q5_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q5_K_XL-00003-of-00006.gguf",
+"Sha256": "0a84847ac15cc67160473c71f9df5a07e21b59399a05c9ec353826cf62f2d131",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q5_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q5_K_XL-00004-of-00006.gguf",
+"Sha256": "7ce4634a0aa699aee7cb8cc5faf5b660d50ea06a0186224293c4ef3f9f1d0670",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q5_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q5_K_XL-00005-of-00006.gguf",
+"Sha256": "a6282fc98e0cf30f0fb13f4f9b72096769441a50d8d0bc6c9a7a307d02718ba3",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q5_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q5_K_XL-00006-of-00006.gguf",
+"Sha256": "eacb1ae2c97ed683be142672e6eea9d677f580a001a6e6d92d90b3a7f55c38f7",
+"IsLFS": true,
+"CommittedDate": 1762390874
+},
+{
+"Path": "UD-Q6_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q6_K_XL-00001-of-00007.gguf",
+"Sha256": "d6cf14b019ec19d6b2d7ddae59012080ce9aa6529189914f5493aa78b6bc93cd",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q6_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q6_K_XL-00002-of-00007.gguf",
+"Sha256": "b36c13047fac1a0597542ab19636fc42f804f4d49050f0e263927d14c79f0634",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q6_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q6_K_XL-00003-of-00007.gguf",
+"Sha256": "b94109f7bd4c249d8e555b57699b51949b2c1eba2bde95f81f4e2ed7faa8e49d",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q6_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q6_K_XL-00004-of-00007.gguf",
+"Sha256": "5f13c3998606c2f5a581bd06345ea339d6f3605a353cb7fb4c003afea3abe016",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q6_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q6_K_XL-00005-of-00007.gguf",
+"Sha256": "bc812357d6b8cca2da815769f0328667ae2eabf7c066dae937c6cc03b1068424",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q6_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q6_K_XL-00006-of-00007.gguf",
+"Sha256": "a5d241d94e81d2efdb83757efde79f3e85baa5c32cd720a5d970ad65f223c443",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q6_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q6_K_XL-00007-of-00007.gguf",
+"Sha256": "b90bc0385979240131cf00213b2fcfd17ef384abba8744648ac7582be0399363",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00001-of-00009.gguf",
+"Sha256": "578c8d56f1cfcc8b1a4461e60c9d23bab8452c7ab90cd06587cc518b774c7d74",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00002-of-00009.gguf",
+"Sha256": "59f5abeb72b7a8ad8d3f94291a1b040ebc0c98af2dae52d1e29a4f33ebef2141",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00003-of-00009.gguf",
+"Sha256": "316a88e26eb951bafe8cd529c261fc6bd6161a201704e4150ee40dd7d8d15153",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00004-of-00009.gguf",
+"Sha256": "ec8eb60611bef5eb31394f532b01e45de739e8738c3a94b6b5046dcce4fc2533",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00005-of-00009.gguf",
+"Sha256": "98e74cd70f04ce3473d1122e4a3f095b0e7443cd2be3c56212a9f15db1371033",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00006-of-00009.gguf",
+"Sha256": "c833b20a20f968f0bfc30884287e699db3e8c813db342e0c38c94a1b061d7571",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00007-of-00009.gguf",
+"Sha256": "c44ff287c9d4a3bace4edb9b5962c2bd7cde3b5e9a75521db1a8394cfb798f53",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00008-of-00009.gguf",
+"Sha256": "21436ec0e54aa548f6707c55e17431b45cbd48b93e2d03e624e929a5a5562acf",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "UD-Q8_K_XL/Qwen3-Coder-REAP-363B-A35B-UD-Q8_K_XL-00009-of-00009.gguf",
+"Sha256": "cccf24d625787c7e1859457d4ed24f669e729e20cf5b86122c068e9822c814a1",
+"IsLFS": true,
+"CommittedDate": 1762545628
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "950e2e264b0bf11018560863eec243ee0a3160dd956a859b4ae3631e58349757",
+"IsLFS": true,
+"CommittedDate": 1762545628
+}
+]

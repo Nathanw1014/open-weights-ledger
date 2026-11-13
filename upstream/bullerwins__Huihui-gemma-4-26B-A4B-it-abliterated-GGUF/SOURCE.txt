@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF
+main commit at snapshot: 60f5df7ccfde03291d895e3b689072073cfe9e6a
+snapshot taken: 2026-11-13T14:02:32Z

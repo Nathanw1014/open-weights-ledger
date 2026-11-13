@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash, git = git blob id)
+.gitattributes	1853	3afbb829168da2a66dabc8eebf6c63f81cbc1ce9	git
+Qwen3-Coder-Instruct-DRAFT-0.75B-128k-Q4_0.gguf	469076768	9881b00f30d2ea7d591897addd72d07d0b0417ee5599f41da420719c7169890f	sha256
+Qwen3-Coder-Instruct-DRAFT-0.75B-256k-Q4_0.gguf	469076768	9c621c5d99faab58b8ae27dc7cf90ed4e4ae48bdc082fb9d6661231983c6bc04	sha256
+Qwen3-Coder-Instruct-DRAFT-0.75B-32k-Q4_0.gguf	469076608	b8471644cfd8f7721c49b97043b173245b230d306f3d149d7d3d235b58c83b53	sha256
+Qwen3-Coder-Instruct-DRAFT-0.75B-64k-Q4_0.gguf	469076768	6e3516706491e90ce1d9bcbefa163c1c6cf64eaf328ee50fdd43608aa7ff8577	sha256
+README.md	4842	36e7fa8fa4aa93ab45013f507ffabc12d4bbeb60	git

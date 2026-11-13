@@ -1,0 +1,164 @@
+[
+{
+"Path": "BF16/Llama-3_3-Nemotron-Super-49B-v1-BF16-00001-of-00002.gguf",
+"Sha256": "6d63bdd571c52934642c1888c8c0c89eb835effe4c451d8604402627012614e3",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "BF16/Llama-3_3-Nemotron-Super-49B-v1-BF16-00002-of-00002.gguf",
+"Sha256": "24b95efbe91fc5cf783cd6e2971aa2934a05285da63d8cc539397ec7e9ecb461",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-IQ4_NL.gguf",
+"Sha256": "73d20d93fdf82279643e01ce62d711533fa33272133abdb5e3e43ba33f0d293d",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-IQ4_XS.gguf",
+"Sha256": "3a4bf88d1df95e0a1e00c4e42dcbbceeb1757701f429930b1798e1186c0d73a2",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q2_K.gguf",
+"Sha256": "54715067be038a6a3ef68d9411dfd25cbca2e15f1a81fe049f71aa1c858bf273",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q2_K_L.gguf",
+"Sha256": "5e0ebd48c8ccaa588559ee90e3673455f1a4df7651c0b8283b07978625f79107",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q3_K_M.gguf",
+"Sha256": "acd1ba84425f95b62349c895dde864e27b1f5f01d707954cf58dee9a17ec48e1",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q3_K_S.gguf",
+"Sha256": "392049cb661840eed01fc9ef986f251c219c2ea5b024e396a549b1603c564ab9",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q4_1.gguf",
+"Sha256": "a9205124462196b55d25a93bc04d68ce2605a7cbebe37e42fe05a320b4052f3d",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q4_K_M.gguf",
+"Sha256": "b359c6076bf84f947dcc9984f34e93af1d18eaefc1e3ebd796fc0485200f45eb",
+"IsLFS": true,
+"CommittedDate": 1747939822
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q4_K_S.gguf",
+"Sha256": "dfd6e07fe6e9e5e7be428be9e4ef9c9ef9789955d03c1fb3bfc55c25fdd4d58c",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q5_K_M.gguf",
+"Sha256": "a388d244f795515ad702f18dea274b6d46b27c24c9b130c034ce39e0ba7a4e47",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q5_K_S.gguf",
+"Sha256": "1943838c58616617d5bbae377aeb31987259c1f46cfd4be7c0778be658e2025a",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-Q6_K.gguf",
+"Sha256": "fbbe404b56ad07a336172b3e9d597fe6bd3cb13121681468e9260b9df28c9ac5",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-IQ1_M.gguf",
+"Sha256": "066cd88fb2f0dbedbd2fc657d922bcf8ac507c35143fa7b439e98e129c32dc65",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-IQ1_S.gguf",
+"Sha256": "01b91101c4f7063f877d3db2fa6f2cbf5102857a06308e7c48dc741aaee09ad9",
+"IsLFS": true,
+"CommittedDate": 1747939822
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-IQ2_M.gguf",
+"Sha256": "4f7ce33bbfecb2378410a0c37bd4ad91ea73b3b4a94714f01fc4d8dc09b4907a",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-IQ2_XXS.gguf",
+"Sha256": "5cd000958821520dab96c768c9d921a72f87ba94c595d2e4a394cc647fc20276",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-IQ3_XXS.gguf",
+"Sha256": "e644867226a6bc34ad26b2833c5e7b0ec6f777702a0c7c8055859449e2b467a8",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-Q2_K_XL.gguf",
+"Sha256": "d6ea79457ea65776394d4c14621765b133e278c1d6bd413efc58a1835201326d",
+"IsLFS": true,
+"CommittedDate": 1747939822
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-Q3_K_XL.gguf",
+"Sha256": "348098f5ce6f6395831991df36d1b0b71c65e496a6efa4060ba517e96260ba44",
+"IsLFS": true,
+"CommittedDate": 1747939822
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-Q4_K_XL.gguf",
+"Sha256": "51ba2d9431823c49478aa70a89ae46025307115c17b756460d064f4f071b992a",
+"IsLFS": true,
+"CommittedDate": 1747939822
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-Q5_K_XL.gguf",
+"Sha256": "963be4744c5b904946af465510728d8c97623e2c4379cdc8c62a8aa1d7755bae",
+"IsLFS": true,
+"CommittedDate": 1747939822
+},
+{
+"Path": "Llama-3_3-Nemotron-Super-49B-v1-UD-Q6_K_XL.gguf",
+"Sha256": "6fbd8b97e11cbfa3ff58014ccc0d9d023ee5475e89660f4961602dd03fc59fed",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "UD-Q8_K_XL/Llama-3_3-Nemotron-Super-49B-v1-UD-Q8_K_XL-00001-of-00002.gguf",
+"Sha256": "6886a404b3d2b15aa85ea276bf4434861a447d70c9542fcbdfc357f272dff544",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "UD-Q8_K_XL/Llama-3_3-Nemotron-Super-49B-v1-UD-Q8_K_XL-00002-of-00002.gguf",
+"Sha256": "2b61b5c018c3882d5454aea79e4da8f1b7e994414fbc9fe32b60e79385cb84b8",
+"IsLFS": true,
+"CommittedDate": 1748061701
+},
+{
+"Path": "imatrix_unsloth.dat",
+"Sha256": "0f6f01b5b1b85c0fb3b598cc375c60a8ed12c825dc087d8ce02c12453b9690b0",
+"IsLFS": true,
+"CommittedDate": 1748061701
+}
+]

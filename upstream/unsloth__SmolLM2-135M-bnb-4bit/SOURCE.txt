@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/SmolLM2-135M-bnb-4bit
+main commit at snapshot: 738fd459cdfaf82f75846cf075738987ed6eb2b8
+snapshot taken: 2026-11-13T13:32:14Z

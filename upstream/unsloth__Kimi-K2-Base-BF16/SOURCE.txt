@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Kimi-K2-Base-BF16
+main commit at snapshot: 854a8c6240ac8109bcb6103c1513a0e03feacfaa
+snapshot taken: 2026-11-13T13:38:45Z

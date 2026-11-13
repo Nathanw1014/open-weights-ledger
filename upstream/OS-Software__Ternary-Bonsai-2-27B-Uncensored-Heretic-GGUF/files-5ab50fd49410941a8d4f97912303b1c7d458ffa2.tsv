@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ternary-Bonsai-2-27B-Uncensored-Heretic-PQ2_0.gguf	7206168928	c0959544f1422c569d07ccef8911dc0d016034bc1285d91010a6630fdf4c4dda	sha256
+Ternary-Bonsai-2-27B-Uncensored-Heretic-PTQ1_0.gguf	5946648928	a18c3e17da397838305522b3ee877f9d2cbf4facd04ba01a394b22f3f3a477be	sha256
+mmproj-BF16.gguf	931145856	e287342d92332fa3577ed1d42e921dac9370c08da58ba9337fa450f6cc76cfd7	sha256
+mmproj-Q8_0.gguf	629246976	6807ede61d570bb86ba34b756a0fa109edc33668604de867c6ea6d8f1d631903	sha256

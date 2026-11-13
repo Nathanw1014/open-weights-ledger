@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Spark-TTS-0.5B
+main commit at snapshot: c80b03b63071ce0b4ee3ab1273d99f93fe7f5033
+snapshot taken: 2026-11-13T13:24:07Z

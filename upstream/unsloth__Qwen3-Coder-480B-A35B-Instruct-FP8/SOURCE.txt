@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-FP8
+main commit at snapshot: b4b0bc2e715608e407ae52a4796c575832b87aea
+snapshot taken: 2026-11-13T13:39:46Z

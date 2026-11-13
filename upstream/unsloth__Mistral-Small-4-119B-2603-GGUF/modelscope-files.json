@@ -1,0 +1,398 @@
+[
+{
+"Path": "BF16/Mistral-Small-4-119B-2603-BF16-00001-of-00006.gguf",
+"Sha256": "53f8660c38727bd0f8777da5cbc49529a4f0326c63f595c3e9664c01ca7b71db",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "BF16/Mistral-Small-4-119B-2603-BF16-00002-of-00006.gguf",
+"Sha256": "11c00135639edd477f5dd0006c8fb1f3fff0c23622489b47171dd1618ac5d607",
+"IsLFS": true,
+"CommittedDate": 1773732573
+},
+{
+"Path": "BF16/Mistral-Small-4-119B-2603-BF16-00003-of-00006.gguf",
+"Sha256": "99d95241cabbbd36e4839681d0f741bcfcd0ff9584b17143c865c76195f12f4b",
+"IsLFS": true,
+"CommittedDate": 1773732573
+},
+{
+"Path": "BF16/Mistral-Small-4-119B-2603-BF16-00004-of-00006.gguf",
+"Sha256": "d324c377bf81b00493114d59b640a7e55572a9e5afbbd351e88dde8f8ac7ae47",
+"IsLFS": true,
+"CommittedDate": 1773732573
+},
+{
+"Path": "BF16/Mistral-Small-4-119B-2603-BF16-00005-of-00006.gguf",
+"Sha256": "5adf748abd8c0aa4375566e5c45628c6136f5e4eebc7677f332352d712cd1b6e",
+"IsLFS": true,
+"CommittedDate": 1773732573
+},
+{
+"Path": "BF16/Mistral-Small-4-119B-2603-BF16-00006-of-00006.gguf",
+"Sha256": "c95d7a031b75a241f86a3d9a6f2e1c3da1f3b092927150dd9601f4600b4ea4c1",
+"IsLFS": true,
+"CommittedDate": 1773732573
+},
+{
+"Path": "MXFP4_MOE/Mistral-Small-4-119B-2603-MXFP4_MOE-00001-of-00003.gguf",
+"Sha256": "a46511af19832459a6a967c5a259d5b824c808017d33683d281fa0144c690009",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "MXFP4_MOE/Mistral-Small-4-119B-2603-MXFP4_MOE-00002-of-00003.gguf",
+"Sha256": "89ab81ea411fff16829a2b79632225f844ca4b4386d5c5d25f1bc7d8d418a484",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "MXFP4_MOE/Mistral-Small-4-119B-2603-MXFP4_MOE-00003-of-00003.gguf",
+"Sha256": "492313b6d897651cf917968d2e3b5ee66793a20cb35144752ffe7ca560679743",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Mistral-Small-4-119B-2603-UD-IQ1_M.gguf",
+"Sha256": "40fcdee4869110938638c6b8bac253f442b196518d4623f4afdf4b885cd961c7",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Mistral-Small-4-119B-2603-UD-IQ2_M.gguf",
+"Sha256": "8857df90cda4ef551e41e1d1bc43b31929c2eed5a86372c8e34c465f0422ff54",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Mistral-Small-4-119B-2603-UD-IQ2_XXS.gguf",
+"Sha256": "82a676844e27065abe36cf9292603b6e2484a23ca5665a6d8a0bc62ac478beb3",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Mistral-Small-4-119B-2603-UD-IQ3_S.gguf",
+"Sha256": "c56fdf063ad8c215c0e56c322383b3fb242189ce9047cdbb3e7dcad11380c1b8",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Mistral-Small-4-119B-2603-UD-IQ3_XXS.gguf",
+"Sha256": "9c2b030b565125a456f7eb7adb05bd533f292cd24611fa445421ad9178d5b4c8",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Mistral-Small-4-119B-2603-UD-Q2_K_XL.gguf",
+"Sha256": "e21133c39220d1a0eea8daae9b4359e4b0f4cb512cbaf3a2f153483ecac62e9b",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Mistral-Small-4-119B-2603-UD-Q3_K_S.gguf",
+"Sha256": "ac9b357631bb87bb923daab8277052d0ec451fb6092fa51e6badc70930c9fa29",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Q8_0/Mistral-Small-4-119B-2603-Q8_0-00001-of-00004.gguf",
+"Sha256": "204b226d54373fd36d1025565e0f607b002b8a56527751453bad6cac8ca3331e",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "Q8_0/Mistral-Small-4-119B-2603-Q8_0-00002-of-00004.gguf",
+"Sha256": "01963f96cfb50f8f3e5fa08eaeb363830ae6e1066095ba46f11894085c7ad5c3",
+"IsLFS": true,
+"CommittedDate": 1775284635
+},
+{
+"Path": "Q8_0/Mistral-Small-4-119B-2603-Q8_0-00003-of-00004.gguf",
+"Sha256": "3b99675d4548b400da51a7b3a11404f8e5e87a850cbee69897107f76281b77d5",
+"IsLFS": true,
+"CommittedDate": 1775284635
+},
+{
+"Path": "Q8_0/Mistral-Small-4-119B-2603-Q8_0-00004-of-00004.gguf",
+"Sha256": "421701d8ee946edb30bc355bb5357c2f6fa9c55495a567de6b804af7a6234a85",
+"IsLFS": true,
+"CommittedDate": 1775284635
+},
+{
+"Path": "UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00001-of-00003.gguf",
+"Sha256": "f589da874aaa702fb921fcd91af879b9154939731c0f37f6abe6e369ae6016bb",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00002-of-00003.gguf",
+"Sha256": "e6cca9eb011f6da245f839fb255a9eac4f90068dc0a2cd0463bb384e37291090",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00003-of-00003.gguf",
+"Sha256": "22e3e6054f9cc22de81287a55bcea6e723fc9dfa847486c2f107ac3294ae69b5",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-IQ4_XS/Mistral-Small-4-119B-2603-UD-IQ4_XS-00001-of-00003.gguf",
+"Sha256": "71bf2aea96ca44e5c33010fe7c6574c58f287b2019a05ccd2a9225e5380fe815",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-IQ4_XS/Mistral-Small-4-119B-2603-UD-IQ4_XS-00002-of-00003.gguf",
+"Sha256": "743d5b1361149be0b03bcf5eaa6894505bf56f38f13bbc5a45e73ab05d21e291",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-IQ4_XS/Mistral-Small-4-119B-2603-UD-IQ4_XS-00003-of-00003.gguf",
+"Sha256": "589f0c738163c05690afd0fdbfed6c5180ead05a50eda04dce12e0b442f88e4f",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q3_K_M/Mistral-Small-4-119B-2603-UD-Q3_K_M-00001-of-00003.gguf",
+"Sha256": "ee3687eae34a3fb7069941925e165295c0e1cb6949fd8917f7b9251d6cac3983",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q3_K_M/Mistral-Small-4-119B-2603-UD-Q3_K_M-00002-of-00003.gguf",
+"Sha256": "72db18ed0285761398e342d7b7e9f649cae1a882e01fc912e72a3bcfa0f5efb6",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q3_K_M/Mistral-Small-4-119B-2603-UD-Q3_K_M-00003-of-00003.gguf",
+"Sha256": "5c748b8a3faf2db78942c346fb9484a8f8b93cf6946230b1472401c6e65ca1a5",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q3_K_XL/Mistral-Small-4-119B-2603-UD-Q3_K_XL-00001-of-00003.gguf",
+"Sha256": "ee3687eae34a3fb7069941925e165295c0e1cb6949fd8917f7b9251d6cac3983",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q3_K_XL/Mistral-Small-4-119B-2603-UD-Q3_K_XL-00002-of-00003.gguf",
+"Sha256": "15e4661672d58bffc28807a16750024e6ae33b2d12e7ea8639ee712c09272477",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q3_K_XL/Mistral-Small-4-119B-2603-UD-Q3_K_XL-00003-of-00003.gguf",
+"Sha256": "ebaaeb415c566192929175ba50394db2497c81af72177ca6eadc44bb1fb6d355",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_M/Mistral-Small-4-119B-2603-UD-Q4_K_M-00001-of-00003.gguf",
+"Sha256": "fd3cc46082e4e64eb623eea4611b02583d1de4c20a59411bf1820925d5117dfe",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_M/Mistral-Small-4-119B-2603-UD-Q4_K_M-00002-of-00003.gguf",
+"Sha256": "f357d8dc029824fa4515ae60d7a8b7e108546763614f16c00a1b4ea0cd94145c",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_M/Mistral-Small-4-119B-2603-UD-Q4_K_M-00003-of-00003.gguf",
+"Sha256": "9dc960d67fb1ef23029d24878b4cf6c63b743ab26cf9137402549591bd770c50",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_S/Mistral-Small-4-119B-2603-UD-Q4_K_S-00001-of-00003.gguf",
+"Sha256": "bf35d81e64c8bf36fc6de2027eba71597b17a1af18cad9aba084f6ba0dcbbcc9",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_S/Mistral-Small-4-119B-2603-UD-Q4_K_S-00002-of-00003.gguf",
+"Sha256": "1685eb21121f2d7dfd8522ecd8b0395b1715d794f33ad49fbf0beefbe809b2a6",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_S/Mistral-Small-4-119B-2603-UD-Q4_K_S-00003-of-00003.gguf",
+"Sha256": "58f2f6c2020c7f238bafc751bb95c3e63f5414c98f224cbbd9f2568e5471d64b",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_XL/Mistral-Small-4-119B-2603-UD-Q4_K_XL-00001-of-00003.gguf",
+"Sha256": "fd3cc46082e4e64eb623eea4611b02583d1de4c20a59411bf1820925d5117dfe",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_XL/Mistral-Small-4-119B-2603-UD-Q4_K_XL-00002-of-00003.gguf",
+"Sha256": "f51e11020a2f36c542f3bdfda4c7e127d8d2a865e85a982e0a9185fa60d7b8f7",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q4_K_XL/Mistral-Small-4-119B-2603-UD-Q4_K_XL-00003-of-00003.gguf",
+"Sha256": "9dc960d67fb1ef23029d24878b4cf6c63b743ab26cf9137402549591bd770c50",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_M/Mistral-Small-4-119B-2603-UD-Q5_K_M-00001-of-00003.gguf",
+"Sha256": "6d3a3d2428d254314a3305628afb4d27141be3597903fa5d61413b69b40e8e30",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_M/Mistral-Small-4-119B-2603-UD-Q5_K_M-00002-of-00003.gguf",
+"Sha256": "f1340e0d2e7aa979028edffbc344bd3c8e3d4b1f0f8dd267bd4094b676f44142",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_M/Mistral-Small-4-119B-2603-UD-Q5_K_M-00003-of-00003.gguf",
+"Sha256": "b6181cde0c0dd1e5823ec8abd51e705f98bec50e7be1e01eedb1239e1c9ac434",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_S/Mistral-Small-4-119B-2603-UD-Q5_K_S-00001-of-00003.gguf",
+"Sha256": "4a0774cb341762dd38f4fae2fe8f8f925e46b98ad04a5adbb6a5c80908e04b60",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_S/Mistral-Small-4-119B-2603-UD-Q5_K_S-00002-of-00003.gguf",
+"Sha256": "1827966b1f269fce0a5180dc23cffe143497688d4f903b27b19ff944807f5fc4",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_S/Mistral-Small-4-119B-2603-UD-Q5_K_S-00003-of-00003.gguf",
+"Sha256": "f582230d954ea3eb583c5d847070a75d793d9360ad3fe2fe9d8f0a15c40d1892",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_XL/Mistral-Small-4-119B-2603-UD-Q5_K_XL-00001-of-00003.gguf",
+"Sha256": "6d3a3d2428d254314a3305628afb4d27141be3597903fa5d61413b69b40e8e30",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_XL/Mistral-Small-4-119B-2603-UD-Q5_K_XL-00002-of-00003.gguf",
+"Sha256": "175b73c5937dc7a8f41906cfc45ffb1d3f042ac378942c0aa2b9b22c9b731a0b",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q5_K_XL/Mistral-Small-4-119B-2603-UD-Q5_K_XL-00003-of-00003.gguf",
+"Sha256": "2bea1a192d16248d1104fe8d1ba8b9852bcd5c0b5e48444b9a3c56d9d7251147",
+"IsLFS": true,
+"CommittedDate": 1776736987
+},
+{
+"Path": "UD-Q6_K/Mistral-Small-4-119B-2603-UD-Q6_K-00001-of-00004.gguf",
+"Sha256": "793d292f8c5235e5aa82780e90bb08702b7152187656842b74299980b2c1ff1f",
+"IsLFS": true,
+"CommittedDate": 1776736987
+},
+{
+"Path": "UD-Q6_K/Mistral-Small-4-119B-2603-UD-Q6_K-00002-of-00004.gguf",
+"Sha256": "fac090a751b1e422db0f6b6958a0e46844a60af145db0c853988182af445a59e",
+"IsLFS": true,
+"CommittedDate": 1776736987
+},
+{
+"Path": "UD-Q6_K/Mistral-Small-4-119B-2603-UD-Q6_K-00003-of-00004.gguf",
+"Sha256": "454312436b12cf122b4ad5ee3ad6857c5118863f83fd2aff5deab350f501dfc3",
+"IsLFS": true,
+"CommittedDate": 1776736987
+},
+{
+"Path": "UD-Q6_K/Mistral-Small-4-119B-2603-UD-Q6_K-00004-of-00004.gguf",
+"Sha256": "73a0651f29d23e0de82ac9a9cd8c3ecb3bc838736cb992d10920c97559b9ca95",
+"IsLFS": true,
+"CommittedDate": 1776736987
+},
+{
+"Path": "UD-Q6_K_XL/Mistral-Small-4-119B-2603-UD-Q6_K_XL-00001-of-00004.gguf",
+"Sha256": "793d292f8c5235e5aa82780e90bb08702b7152187656842b74299980b2c1ff1f",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q6_K_XL/Mistral-Small-4-119B-2603-UD-Q6_K_XL-00002-of-00004.gguf",
+"Sha256": "b849289ef4e4a9850aea0d6864a194c5f8206def47bfc2757956d303d8b7972f",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q6_K_XL/Mistral-Small-4-119B-2603-UD-Q6_K_XL-00003-of-00004.gguf",
+"Sha256": "41f1187dc09633e8d87b7c94081215e997f6cfc403d4b5391912a303ebb95ee5",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q6_K_XL/Mistral-Small-4-119B-2603-UD-Q6_K_XL-00004-of-00004.gguf",
+"Sha256": "f54d48fe4ed7285048262c9f1d59c047f333e840812a5476f05204eede92953c",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q8_K_XL/Mistral-Small-4-119B-2603-UD-Q8_K_XL-00001-of-00004.gguf",
+"Sha256": "204b226d54373fd36d1025565e0f607b002b8a56527751453bad6cac8ca3331e",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q8_K_XL/Mistral-Small-4-119B-2603-UD-Q8_K_XL-00002-of-00004.gguf",
+"Sha256": "7ddfa95287d9b0acc1994033299630225adb18df40fad1ab9d8a2823d6df99f0",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q8_K_XL/Mistral-Small-4-119B-2603-UD-Q8_K_XL-00003-of-00004.gguf",
+"Sha256": "152822c08b586b51116f346f42c880fce16b8280861509662042f35c666b0ed2",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "UD-Q8_K_XL/Mistral-Small-4-119B-2603-UD-Q8_K_XL-00004-of-00004.gguf",
+"Sha256": "d1eaecf766918a0d593d71e615ca2c964aad0a977080c5c32e3f588c87d072f6",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "50424c64c7e65f7679b2568150e3965872fd0cb2bfdc83e23ba30eeb9de53860",
+"IsLFS": true,
+"CommittedDate": 1776668903
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "2f1f27544c4b4074b28edb8413af92a9111d7166bbc0944fd27db56adc054d0b",
+"IsLFS": true,
+"CommittedDate": 1775284635
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "8afb53096537664e248a0b4a9240c25677bb0f8a8cb5a5aad3cd1d608776a4e7",
+"IsLFS": true,
+"CommittedDate": 1775284635
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "739bbbf91efbb16833cb4763f91a7b8f58f21cfc864916b7262e54591a460fba",
+"IsLFS": true,
+"CommittedDate": 1775284635
+}
+]

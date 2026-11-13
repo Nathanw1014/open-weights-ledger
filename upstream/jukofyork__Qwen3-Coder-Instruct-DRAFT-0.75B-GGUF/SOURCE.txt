@@ -1,0 +1,4 @@
+repo: https://huggingface.co/jukofyork/Qwen3-Coder-Instruct-DRAFT-0.75B-GGUF
+main commit at snapshot: 07e59a562b865181360f93ca2087ceaa097dc949
+lastModified: 2025-08-11T08:01:33.000Z
+snapshot taken: 2026-11-13T09:38:46Z

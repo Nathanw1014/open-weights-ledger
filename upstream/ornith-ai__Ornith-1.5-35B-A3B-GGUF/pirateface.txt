@@ -1,0 +1,2 @@
+checked 2026-11-13T09:32:59Z
+ornith-ai/Ornith-1.5-35B-A3B-GGUF                                          186 GB   1 seeds  magnet:?xt=urn:btih:1cd30821c6088090e65102c333bb68d4257317c0&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fornith-ai%2FOrnith-1.5-35B-A3B-GGUF%2F12393612fd4f730ff5aadc23e9b8f9648aa49ceb%2F

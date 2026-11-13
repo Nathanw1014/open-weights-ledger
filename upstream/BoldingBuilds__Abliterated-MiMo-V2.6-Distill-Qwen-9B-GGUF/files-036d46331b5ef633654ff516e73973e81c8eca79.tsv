@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+MiMo-V2.6-Distill-Qwen-9B-Abliterated-Q4_K_M.gguf	5629105280	8798617e1da0b324a7d4c04659c59bb8f712dd5a7332b4703a5a2875d977ecf2	sha256
+MiMo-V2.6-Distill-Qwen-9B-Abliterated-Q5_K_M.gguf	6467966080	39648343a93842332110ffdbee81fd33190e511091879e447ac0fc93fbe73c17	sha256
+MiMo-V2.6-Distill-Qwen-9B-Abliterated-Q6_K.gguf	7359255680	290bd2ffcfcf9138909064183426323ab63971fb9c8c4acd496abccba959cede	sha256
+MiMo-V2.6-Distill-Qwen-9B-Abliterated-Q8_0.gguf	9527497856	92a8e5452cdd0e012d2e63c0599d7d05f4833c50f50673c3c56d87e3b3e63f57	sha256

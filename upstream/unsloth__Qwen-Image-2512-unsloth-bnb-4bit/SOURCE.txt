@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen-Image-2512-unsloth-bnb-4bit
+main commit at snapshot: f50b8c24fe21e9265509b15113b7cca82d0a4443
+snapshot taken: 2026-11-13T13:21:10Z

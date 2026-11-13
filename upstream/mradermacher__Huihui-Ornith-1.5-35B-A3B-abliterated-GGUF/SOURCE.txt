@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-Ornith-1.5-35B-A3B-abliterated-GGUF
+main commit at snapshot: 007c111a063d6257827c07ef25245e6be0990242
+snapshot taken: 2026-11-13T14:02:37Z

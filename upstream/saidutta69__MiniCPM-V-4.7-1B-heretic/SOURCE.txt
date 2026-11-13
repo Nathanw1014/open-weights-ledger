@@ -1,0 +1,3 @@
+repo: https://huggingface.co/saidutta69/MiniCPM-V-4.7-1B-heretic
+main commit at snapshot: c353e931b31f4bb6217b84ff99f0d1b6da93d97d
+snapshot taken: 2026-11-13T14:08:35Z

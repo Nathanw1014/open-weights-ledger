@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive
+main commit at snapshot: f12a584fecbeb5f20001130d8ecd66c9327ae685
+snapshot taken: 2026-11-13T14:08:56Z

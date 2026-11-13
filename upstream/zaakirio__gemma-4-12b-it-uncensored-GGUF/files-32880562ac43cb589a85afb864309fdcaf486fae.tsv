@@ -1,0 +1,11 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+gemma-4-12b-it-uncensored-Q2_K.gguf	4830147200	8c55fa7984d182aab10ae7dedb083c138f278557faf7d61b2e258c1a5cbc5fbb	sha256
+gemma-4-12b-it-uncensored-Q3_K_M.gguf	6087086720	54e5bfac71eaa430299ddbb9a398d40272c1257802c8abbe35ee44876345af0c	sha256
+gemma-4-12b-it-uncensored-Q4_K_M.gguf	7381381760	b2e1db5f81b9f0ce489f99fd448bbf4ea8ea719e8d28c05aaa5774afc5def76c	sha256
+gemma-4-12b-it-uncensored-Q4_K_S.gguf	7024046720	b2b1ac0e7bb4157fe2ca26ef411cacb1e44139c6dd96ffff9c0ffc7fb80ff478	sha256
+gemma-4-12b-it-uncensored-Q5_K_M.gguf	8547267200	54a6e309ebe7a3468cd0abb07f99c52bfc0e6408b6d4b6ca2aabbe94ca8ff52d	sha256
+gemma-4-12b-it-uncensored-Q6_K.gguf	9786020480	256c2874a793eac4145cfbb2c37e0330ea39861a56e8b99cfe1a9beeca5b0fa6	sha256
+gemma-4-12b-it-uncensored-Q8_0.gguf	12669645440	55e32e5791e1b8af38c41163a9986532e069e2cde0b2ac1cfc334fa811eb9cb3	sha256
+gemma-4-12b-it-uncensored-f16.gguf	23832064640	0f5cbfa4f2eb32827d6c31280c0cc33594d4bcfd109ee8139315892d3c7377a8	sha256
+mmproj-gemma-4-12B-it-bf16.gguf	175115584	675ad6e68101ca9413ec806855c452362f0213f2dfc5800996b086fdb8119842	sha256
+mtp-gemma-4-12b-it-uncensored.gguf	465109248	145db9094bc0f85f1701e255a2ed216dcc9800fc8bc8631ad00905b456bd451b	sha256

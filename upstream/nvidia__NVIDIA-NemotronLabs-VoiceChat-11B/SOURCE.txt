@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B
+main commit at snapshot: 443794ea956ef0065f001967ffd00e77f519cb39
+snapshot taken: 2026-11-13T13:56:46Z

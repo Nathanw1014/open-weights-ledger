@@ -1,0 +1,62 @@
+[
+{
+"Path": "mel_filters.npz",
+"Sha256": "dd2cc75e70e36fcbdd8ffbc2499062f30094093e6bf2cbafa9859f59972b420b",
+"IsLFS": true,
+"CommittedDate": 1710491208
+},
+{
+"Path": "model-00001-of-00009.safetensors",
+"Sha256": "f2d650d005d65ad01269d313b6567bc594fb5e0b55ca7df7c2c4e03c40bb29f7",
+"IsLFS": true,
+"CommittedDate": 1701178039
+},
+{
+"Path": "model-00002-of-00009.safetensors",
+"Sha256": "126cc6bcfe1db1be42e6359dd62e48d546124e0f24ff979574b6cffd22c9de39",
+"IsLFS": true,
+"CommittedDate": 1701178039
+},
+{
+"Path": "model-00003-of-00009.safetensors",
+"Sha256": "94d1440b3da648cfc18b321683e8b3151e8e799752c535998faaa748919c6202",
+"IsLFS": true,
+"CommittedDate": 1701178039
+},
+{
+"Path": "model-00004-of-00009.safetensors",
+"Sha256": "e7ddf4f7003b6d64ca033f7c5dc1fd5786e07e004fa81c6a27bc41314470d226",
+"IsLFS": true,
+"CommittedDate": 1701178039
+},
+{
+"Path": "model-00005-of-00009.safetensors",
+"Sha256": "f92ba83949ae9db0cecf0f88a228dd347352866dff6d3a2d537e62bae724de2a",
+"IsLFS": true,
+"CommittedDate": 1701178039
+},
+{
+"Path": "model-00006-of-00009.safetensors",
+"Sha256": "4002cea5509717c4165a533edc6826a5e3e3031159ef76da8c41631a713ffd24",
+"IsLFS": true,
+"CommittedDate": 1701178039
+},
+{
+"Path": "model-00007-of-00009.safetensors",
+"Sha256": "cf7e408c1d0bc261c641779cf32a8144ebefe0a3b852e371719d5b37c9521cb6",
+"IsLFS": true,
+"CommittedDate": 1701178039
+},
+{
+"Path": "model-00008-of-00009.safetensors",
+"Sha256": "3081751832f66719d7efee969f838872ff4a8e41585ac33e35c2fc4e08dbeee9",
+"IsLFS": true,
+"CommittedDate": 1701178039
+},
+{
+"Path": "model-00009-of-00009.safetensors",
+"Sha256": "9fb9f613d1fb54bf6e46f792bc5cec0e4156ebe23200c522814b9c56e186470b",
+"IsLFS": true,
+"CommittedDate": 1701178039
+}
+]

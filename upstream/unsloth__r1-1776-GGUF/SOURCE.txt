@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/r1-1776-GGUF
+main commit at snapshot: 30aa0a022fc707acd380c555ef38b4de7891b3b2
+snapshot taken: 2026-11-13T13:23:10Z

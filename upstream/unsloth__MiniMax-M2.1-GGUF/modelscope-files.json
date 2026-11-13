@@ -1,0 +1,530 @@
+[
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00001-of-00010.gguf",
+"Sha256": "c7a63112fee89caae7e47a171f871a078cb55ca585ca2d8c4084d699dc1306b2",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00002-of-00010.gguf",
+"Sha256": "1eeb83955b01998569e4fd7d29b73398031734fc5d30a89d3ddfa5ed38db421f",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00003-of-00010.gguf",
+"Sha256": "9eb981c315527821d99457ee17ac3172b65e4aa013229e924f80bff6d0fd424d",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00004-of-00010.gguf",
+"Sha256": "621ed1dd5a11d0c4fa0779aed1c1882142ba0c522adb1c2595b922ec1f64eba1",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00005-of-00010.gguf",
+"Sha256": "149833e5275baafe4425ed7a83f7aeb26eac61e918ce36a8ee9bbb5f4c69ab9b",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00006-of-00010.gguf",
+"Sha256": "59bd15a9a0b196415f756fdaaf198f69136b7a4c695f17a7f3423914b22e3292",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00007-of-00010.gguf",
+"Sha256": "a3988c4fa13646d3aea886db648fc065a4474b2ce5dd92adcd04ab157453cd2e",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00008-of-00010.gguf",
+"Sha256": "0b6d0c0bf2910b1fd9d00f6d951da58a1fce45d2b4ed06e0e36f3fa2ed556f13",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00009-of-00010.gguf",
+"Sha256": "296c49a49fe1088a0285989d9d66a248ea617e7d1ae61eacb8a725bf7d874d95",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "BF16/MiniMax-M2.1-BF16-00010-of-00010.gguf",
+"Sha256": "bde91a3adf84ca830cf434c71750f2d20a722ebd9dba1e9f0a478f4a22693c5d",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "IQ4_NL/MiniMax-M2.1-IQ4_NL-00001-of-00003.gguf",
+"Sha256": "cabb660341eb5442aed8048b2d0774ac1f984869f17fe7d47e038f2739546603",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "IQ4_NL/MiniMax-M2.1-IQ4_NL-00002-of-00003.gguf",
+"Sha256": "6bb33dfd1ae0241df61e9488d5b2b927e23d3417662568208f50e8845f3466a7",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "IQ4_NL/MiniMax-M2.1-IQ4_NL-00003-of-00003.gguf",
+"Sha256": "0d753719fdd7e7790e6f83895514220b510ede1a70a722be45ae085a0576df42",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "IQ4_XS/MiniMax-M2.1-IQ4_XS-00001-of-00003.gguf",
+"Sha256": "332806bee467946c8d43868c746cf20fa9b5a0fceadd1d263fb02185d3b2e53a",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "IQ4_XS/MiniMax-M2.1-IQ4_XS-00002-of-00003.gguf",
+"Sha256": "4fa13d517c3b45492fb04696de087c017972eaf01c8e6a0c8d1af83f0a11be2d",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "IQ4_XS/MiniMax-M2.1-IQ4_XS-00003-of-00003.gguf",
+"Sha256": "6f83d59cd00a19bb620f49d5854843a067bbcdbba9dd571188123a876abda635",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "MiniMax-M2.1-UD-TQ1_0.gguf",
+"Sha256": "e65a4addd1fe433380ddf6acc62d121a6f0cab3c5227020e154bc8b3d70335bc",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "Q2_K/MiniMax-M2.1-Q2_K-00001-of-00002.gguf",
+"Sha256": "cbd774f259181f647daa889b442de86480be4cbab0ea9aa36a4ec98015257e38",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q2_K/MiniMax-M2.1-Q2_K-00002-of-00002.gguf",
+"Sha256": "106cc1fd042a6fdd0a7b2fa730734417666c29b5e74ac6cbba8fd1e5cccdab79",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q2_K_L/MiniMax-M2.1-Q2_K_L-00001-of-00002.gguf",
+"Sha256": "49738a4749726da4ef4458910241c09886710a1e20688d23846bfad6e3ec6be9",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q2_K_L/MiniMax-M2.1-Q2_K_L-00002-of-00002.gguf",
+"Sha256": "1a2090f1457236b8261f4fcb1204a4231ace4125e35b74d1138cde8e7db17fd3",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q3_K_M/MiniMax-M2.1-Q3_K_M-00001-of-00003.gguf",
+"Sha256": "081c0f02fd7cfe360abee7bdf60e56817dbb4fbb5e53efa2eedbf8d5d25e4d48",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q3_K_M/MiniMax-M2.1-Q3_K_M-00002-of-00003.gguf",
+"Sha256": "c96625ca232b8921f516b15fd0bf38791fae1c63cd5cee7e374f23fd9c5a7eec",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q3_K_M/MiniMax-M2.1-Q3_K_M-00003-of-00003.gguf",
+"Sha256": "04dcb1cc86f786a47630bb4536209a43071757e6834eaecbc6248d1848465c19",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q3_K_S/MiniMax-M2.1-Q3_K_S-00001-of-00002.gguf",
+"Sha256": "febab7429e872f53c81a7e6adf31c3a05b63c06cd864ed518feeeeab06d89753",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q3_K_S/MiniMax-M2.1-Q3_K_S-00002-of-00002.gguf",
+"Sha256": "761df147baefd2f02dda4fb32a09d31b9ed7a0bb77de41ad98752f1a9dabc311",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_0/MiniMax-M2.1-Q4_0-00001-of-00003.gguf",
+"Sha256": "562b4fa69fb2b4db253b6d9b3cec8df05587929a0cfbe4acc3ae302519555591",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_0/MiniMax-M2.1-Q4_0-00002-of-00003.gguf",
+"Sha256": "f86e6c7a73fcee1b2be9eb8f90628ae1b068456b62ed952dfd05fab637de85ba",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_0/MiniMax-M2.1-Q4_0-00003-of-00003.gguf",
+"Sha256": "016656bac1609d7848f662c2213aa54a3175f668bd60073dcd1a9e1be664bf03",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_1/MiniMax-M2.1-Q4_1-00001-of-00003.gguf",
+"Sha256": "bdf01cd2e09d9c95855339af2e28fcfb66afcf645008080162cb80cd02f8a144",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_1/MiniMax-M2.1-Q4_1-00002-of-00003.gguf",
+"Sha256": "7363b20b4845afe7f1fdf8df861ee9ec070fe4b20d337c1f304dd3d99c350c8b",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_1/MiniMax-M2.1-Q4_1-00003-of-00003.gguf",
+"Sha256": "f0e4dcc0dddf735b867ce0f56f0edd9d515ef27d382797a93f5082ca91fabf1e",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_K_M/MiniMax-M2.1-Q4_K_M-00001-of-00003.gguf",
+"Sha256": "5fa2adb0303621490e825290f4240abf5fb4cab3689d2efac0350fcab9a360ed",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "Q4_K_M/MiniMax-M2.1-Q4_K_M-00002-of-00003.gguf",
+"Sha256": "e9383e86f1ecb2a74637f86996f41cfd31e317526e546fc7ec01a7a7cd3f05c2",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "Q4_K_M/MiniMax-M2.1-Q4_K_M-00003-of-00003.gguf",
+"Sha256": "1b98f9f3020a4db9f481ec380c54b55a939d2aeb05cd30f9b9f0e615a191f68c",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "Q4_K_S/MiniMax-M2.1-Q4_K_S-00001-of-00003.gguf",
+"Sha256": "d4a547c9717ed17ec04954081f7a8659de2d897afcccf3cd028cbdaedc007c86",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_K_S/MiniMax-M2.1-Q4_K_S-00002-of-00003.gguf",
+"Sha256": "cee755f4200fb7da2e15de281dac55c08ebff09f73fb76beef47a7dc39f460a4",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q4_K_S/MiniMax-M2.1-Q4_K_S-00003-of-00003.gguf",
+"Sha256": "02a75fa813936b32215c74a07a3e88b9c1e5c45af86667abef54411bff66198f",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q5_K_M/MiniMax-M2.1-Q5_K_M-00001-of-00004.gguf",
+"Sha256": "84409b7f4bf8a5a731a91570933afe3e1b530424972d77731ded9be6a911bee6",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q5_K_M/MiniMax-M2.1-Q5_K_M-00002-of-00004.gguf",
+"Sha256": "173dd0d430c2d527abd1fefa28fa9d39f4167269544dc1910ef2a7ba4d9dc2ea",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q5_K_M/MiniMax-M2.1-Q5_K_M-00003-of-00004.gguf",
+"Sha256": "e7059c9a0a1c2b177080d48819305ab9dd925870782bf2efe4e3deba20994d1a",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q5_K_M/MiniMax-M2.1-Q5_K_M-00004-of-00004.gguf",
+"Sha256": "7e7a09c389231ac25a3eb61c585e0b865c549d1453bfd3033a4308c53e8c590f",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q5_K_S/MiniMax-M2.1-Q5_K_S-00001-of-00004.gguf",
+"Sha256": "d2f79a2dd99f5a8b830c4b394dffcc08935cd00e6ff0ebd8f3caf942417e6f4d",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q5_K_S/MiniMax-M2.1-Q5_K_S-00002-of-00004.gguf",
+"Sha256": "1a3e61c85c70fe5d3a04f4d24008da3a581721bb6ba6a770db3bd1dd57076d35",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q5_K_S/MiniMax-M2.1-Q5_K_S-00003-of-00004.gguf",
+"Sha256": "040d8137448751f844d97e86c9d4dc69e71493b21b7f501a7cdaae15231414f7",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q5_K_S/MiniMax-M2.1-Q5_K_S-00004-of-00004.gguf",
+"Sha256": "626992f83ac76e06826bf9ccd74a7900e81b83c4daac6596496aa58a130ba6c5",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q6_K/MiniMax-M2.1-Q6_K-00001-of-00004.gguf",
+"Sha256": "b049fa21f21b7f4a59936dec8fffe60d6383ed6e23a48cde4861f5a38c1d9a71",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q6_K/MiniMax-M2.1-Q6_K-00002-of-00004.gguf",
+"Sha256": "0b47f5c6f558fe7e5fc8be7c5fa5a85486b492b1ac961972be02bcbdb18eb7db",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q6_K/MiniMax-M2.1-Q6_K-00003-of-00004.gguf",
+"Sha256": "d8bae4a2f9ebf1ef508b60eb31d4ce88cbdc1593238433eb9b364310dc20f0ad",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q6_K/MiniMax-M2.1-Q6_K-00004-of-00004.gguf",
+"Sha256": "8b1ce2fcdf3df22aae99cea1e0a9f0f6bb6d288143771bfdcd0f56932678603c",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q8_0/MiniMax-M2.1-Q8_0-00001-of-00005.gguf",
+"Sha256": "c9bedc69792cf301a8f08e3df3a74028921c5a4da89ad870dc9cbac4c030a092",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q8_0/MiniMax-M2.1-Q8_0-00002-of-00005.gguf",
+"Sha256": "bc32ce5bfda35701375cf63f4deae46784d466234a4b1af5d5de4a2522995cdd",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q8_0/MiniMax-M2.1-Q8_0-00003-of-00005.gguf",
+"Sha256": "c3dbb5db8f1864bcd69f66aefeafd16b2dc665b631011dbd4a8ea81a356be8a0",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q8_0/MiniMax-M2.1-Q8_0-00004-of-00005.gguf",
+"Sha256": "adc679a258f6aea006cf7ef8698e5a80d13a2cde2f6c4855e22f6768c7f7c8ab",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "Q8_0/MiniMax-M2.1-Q8_0-00005-of-00005.gguf",
+"Sha256": "02ed886e78501363edb6774ed5c2a5146887357dad4eb3cb0333423708029fc8",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-IQ1_M/MiniMax-M2.1-UD-IQ1_M-00001-of-00002.gguf",
+"Sha256": "929cbca6edbfb09553fc3dac38670ec260f483e93018c28ccbdafa9743ef7538",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-IQ1_M/MiniMax-M2.1-UD-IQ1_M-00002-of-00002.gguf",
+"Sha256": "8140d92d5c2a15ac8341e5b3ad2e1baa3d078f6f1269735b86f02c0fbefcfc4c",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-IQ1_S/MiniMax-M2.1-UD-IQ1_S-00001-of-00002.gguf",
+"Sha256": "5ef15a4ddb0420354ad7e122013abfe0d9337654aa5d6c202b81d12344b7364c",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-IQ1_S/MiniMax-M2.1-UD-IQ1_S-00002-of-00002.gguf",
+"Sha256": "3c571a2a180fbc41cacf694852b7bc13619ea48fb7192b427e1658ae9498fd32",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-IQ2_M/MiniMax-M2.1-UD-IQ2_M-00001-of-00002.gguf",
+"Sha256": "1f689889d6473a6be66db7d48a76626b1f8850d58aa838042d5dcf87828858ad",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-IQ2_M/MiniMax-M2.1-UD-IQ2_M-00002-of-00002.gguf",
+"Sha256": "7333bd9e7ce7f9e6b9da563c56272562564205b7df74c886afa38e940946a95f",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-IQ2_XXS/MiniMax-M2.1-UD-IQ2_XXS-00001-of-00002.gguf",
+"Sha256": "16342953d4ae92c01fa3abef14fb19db157639a47ea2e82b6d7a693b5f6d5b3c",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-IQ2_XXS/MiniMax-M2.1-UD-IQ2_XXS-00002-of-00002.gguf",
+"Sha256": "7a30ac0f06ad8f2c5b1aea665a031504c9e57e372c55dbda4cd34dbabd2b2f21",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-IQ3_XXS/MiniMax-M2.1-UD-IQ3_XXS-00001-of-00002.gguf",
+"Sha256": "ad6e221fd5db417f5b00397fb16e2760d4cc6b1804e696bc9a6dbe192304f022",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-IQ3_XXS/MiniMax-M2.1-UD-IQ3_XXS-00002-of-00002.gguf",
+"Sha256": "d43236ac8683f3f5627b118ec80fc8837eb952fe779d735ca4b30e9eaf1c9afe",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q2_K_XL/MiniMax-M2.1-UD-Q2_K_XL-00001-of-00002.gguf",
+"Sha256": "fd8116ab30cead2806d086aa3c71f2be3624ccca70c227a57bef825403055071",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q2_K_XL/MiniMax-M2.1-UD-Q2_K_XL-00002-of-00002.gguf",
+"Sha256": "4b795250ef39eeddbe97b39440f62cb17b9d09e9e2902ad9bf3fd8473c5a6fbf",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q3_K_XL/MiniMax-M2.1-UD-Q3_K_XL-00001-of-00003.gguf",
+"Sha256": "9ba9d7ccf5eca62fbdccae464e5f42732d2d2c52ed6577546134bbaeba69f350",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q3_K_XL/MiniMax-M2.1-UD-Q3_K_XL-00002-of-00003.gguf",
+"Sha256": "595a8446a8bbef5c89efeb46505e9b3ddbdf6113d3ed17d2bf410c476303c6af",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q3_K_XL/MiniMax-M2.1-UD-Q3_K_XL-00003-of-00003.gguf",
+"Sha256": "275a0c6bb01872ff3dd58bcbdeedcaf4fccacc5a9714f4cbabe86adeb6be6d1c",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q4_K_XL/MiniMax-M2.1-UD-Q4_K_XL-00001-of-00003.gguf",
+"Sha256": "7eaf9c62666a52348f1b47d6db83e7c63a41b21d38dfbfb8d6eaeaee4c353c4a",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q4_K_XL/MiniMax-M2.1-UD-Q4_K_XL-00002-of-00003.gguf",
+"Sha256": "c2bbe45dda6b56bd423bd9dbb8887c005b8cd7c2349a32efb7ec359a731f4211",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q4_K_XL/MiniMax-M2.1-UD-Q4_K_XL-00003-of-00003.gguf",
+"Sha256": "885369e39036d2d30bdb30f4459b595c50e6e0e6858126b9da8c58b61a1f27cb",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q5_K_XL/MiniMax-M2.1-UD-Q5_K_XL-00001-of-00004.gguf",
+"Sha256": "3700c574e42debec5318b45bf69953b1b76034e9ffd024cc496ee54a5c766a31",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q5_K_XL/MiniMax-M2.1-UD-Q5_K_XL-00002-of-00004.gguf",
+"Sha256": "3ca2a2104a52cdb33028e6596fe2786580cc13c98f31a86fa0da4ca5a379c66d",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q5_K_XL/MiniMax-M2.1-UD-Q5_K_XL-00003-of-00004.gguf",
+"Sha256": "068551d89d9a0c9ef574435b417c98c7e773b234748155bc42614cc434ac9200",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q5_K_XL/MiniMax-M2.1-UD-Q5_K_XL-00004-of-00004.gguf",
+"Sha256": "9b742eaef008d208c01824405e624d83312e7c583310d35f292df2c352b17498",
+"IsLFS": true,
+"CommittedDate": 1766778244
+},
+{
+"Path": "UD-Q6_K_XL/MiniMax-M2.1-UD-Q6_K_XL-00001-of-00004.gguf",
+"Sha256": "88f73b160e3c9df8af55a9378bfb21afc028d082b86abf859b0a570231ff0521",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q6_K_XL/MiniMax-M2.1-UD-Q6_K_XL-00002-of-00004.gguf",
+"Sha256": "3af1ae7525fbf8291ff7c71c5a0be8fa0f26748b973e43d9251b94d3ba56d5ce",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q6_K_XL/MiniMax-M2.1-UD-Q6_K_XL-00003-of-00004.gguf",
+"Sha256": "8e6408aa528137d7c6e761a0dd82faafedbe683248c5d8baa2322fcece843e36",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q6_K_XL/MiniMax-M2.1-UD-Q6_K_XL-00004-of-00004.gguf",
+"Sha256": "b6c37638e4cd611d2067257eb5c5fdd2eb311ae1c599fde942d29e00d78d43e9",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q8_K_XL/MiniMax-M2.1-UD-Q8_K_XL-00001-of-00006.gguf",
+"Sha256": "a7cc51472b1a5534422572d39031ac7382d8f242f1b9fabf34350ffc4cf676db",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q8_K_XL/MiniMax-M2.1-UD-Q8_K_XL-00002-of-00006.gguf",
+"Sha256": "e92af9b79eaa3bc6b6c358d55cfdc324eeb7f95765b02fcfdc7a5b5aedd0064b",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q8_K_XL/MiniMax-M2.1-UD-Q8_K_XL-00003-of-00006.gguf",
+"Sha256": "1081591a8c69637af8f18d1b53a95c154c6469e2d98e5db101025358671923e0",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q8_K_XL/MiniMax-M2.1-UD-Q8_K_XL-00004-of-00006.gguf",
+"Sha256": "ea71c412412792750c3fb0ac72f9bc8d8926cc2c8c10d581742d3a01c5185e8d",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q8_K_XL/MiniMax-M2.1-UD-Q8_K_XL-00005-of-00006.gguf",
+"Sha256": "89053b51806296122d39888daa5a39c483184fab97712e6d88e66c57e67a5f36",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "UD-Q8_K_XL/MiniMax-M2.1-UD-Q8_K_XL-00006-of-00006.gguf",
+"Sha256": "db8efa4374e2b08c605f1f0d4c8b40f2d53dea137e8056642eba03d5507e2f42",
+"IsLFS": true,
+"CommittedDate": 1766869485
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "35ee3d5e313511828bec864b5eee3f1d2dbf9b11e193850fbc4f3b29c6ae4967",
+"IsLFS": true,
+"CommittedDate": 1766869485
+}
+]

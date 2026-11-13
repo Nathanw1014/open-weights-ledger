@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Coder-0.5B-Instruct-128K-GGUF
+main commit at snapshot: 82cf9c5ec1d083b55bdf088a74b8d6b3ea77c79a
+snapshot taken: 2026-11-13T13:18:42Z

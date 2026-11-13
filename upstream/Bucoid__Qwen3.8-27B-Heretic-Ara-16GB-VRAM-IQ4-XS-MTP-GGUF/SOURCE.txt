@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Bucoid/Qwen3.8-27B-Heretic-Ara-16GB-VRAM-IQ4-XS-MTP-GGUF
+main commit at snapshot: d54ccececdc99aea47de641912d600835a98428f
+snapshot taken: 2026-11-13T14:07:44Z

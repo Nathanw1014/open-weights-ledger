@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-R1-Zero-BF16
+main commit at snapshot: 8644af0b71e124f5e72be61a19d0c3a8e270fc9b
+snapshot taken: 2026-11-13T13:31:24Z

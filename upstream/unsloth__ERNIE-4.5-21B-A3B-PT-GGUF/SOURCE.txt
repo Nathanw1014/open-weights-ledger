@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/ERNIE-4.5-21B-A3B-PT-GGUF
+main commit at snapshot: de45a831ceac3c876bb63f39bc60406a7d07e3bb
+snapshot taken: 2026-11-13T13:10:57Z

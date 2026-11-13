@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Phi-4-reasoning-plus-unsloth-bnb-4bit
+main commit at snapshot: dea1b859b766661386945670477d27eeac52ff52
+snapshot taken: 2026-11-13T13:36:13Z

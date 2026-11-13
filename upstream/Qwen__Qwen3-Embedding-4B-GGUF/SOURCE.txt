@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-Embedding-4B-GGUF
+main commit at snapshot: f4602530db1d980e16da9d7d3a70294cf5c190be
+snapshot taken: 2026-11-13T13:46:05Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/LFM2.5-24B-A2B-Uncensored-GGUF
+main commit at snapshot: b0f357bb729bcf03269e7f138cd4d30060515dee
+snapshot taken: 2026-11-13T14:08:57Z

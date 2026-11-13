@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Noobito45/Qwen3.8-9B-heretic-uncensored-NVFP4-GGUF
+main commit at snapshot: 6a9d3ae466e566cd3319d0cbae3e1243279b62e3
+snapshot taken: 2026-11-13T14:07:35Z

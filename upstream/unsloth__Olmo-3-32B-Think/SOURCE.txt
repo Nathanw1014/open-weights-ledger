@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Olmo-3-32B-Think
+main commit at snapshot: f94d380d94abdfa3c65548a981bd0844aa30c2bc
+snapshot taken: 2026-11-13T13:30:40Z

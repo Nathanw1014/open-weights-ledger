@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/llava-v1.6-mistral-7b-hf-bnb-4bit
+main commit at snapshot: 9152689d3f1b6adbbb977353a383f4bd69cc010d
+snapshot taken: 2026-11-13T13:25:47Z

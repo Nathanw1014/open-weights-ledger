@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/yi-34b-chat-bnb-4bit
+main commit at snapshot: c1f96c40d44081f73bd4fd9adb57c239a70c6c9f
+snapshot taken: 2026-11-13T13:33:04Z

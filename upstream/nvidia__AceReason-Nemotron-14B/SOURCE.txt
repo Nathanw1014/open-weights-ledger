@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/AceReason-Nemotron-14B
+main commit at snapshot: b244ed5578b03df25c49c7d1e7bc30fbcf8a63b5
+snapshot taken: 2026-11-13T13:58:43Z

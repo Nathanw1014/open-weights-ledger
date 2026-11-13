@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/SAE-Res-Qwen3-30B-A3B-Base-W32K-L0_50
+main commit at snapshot: efd0026557c5dcd91509652a3073689faa24abb8
+snapshot taken: 2026-11-13T13:53:04Z

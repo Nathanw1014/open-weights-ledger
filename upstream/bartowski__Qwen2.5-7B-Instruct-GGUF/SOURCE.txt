@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-GGUF
+main commit at snapshot: 8911e8a47f92bac19d6f5c64a2e2095bd2f7d031
+snapshot taken: 2026-11-13T13:01:08Z

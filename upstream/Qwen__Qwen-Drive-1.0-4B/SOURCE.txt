@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-Drive-1.0-4B
+main commit at snapshot: 28484089a7cc8c335cf5089fb0745cf7c49b6eaa
+snapshot taken: 2026-11-13T13:48:05Z

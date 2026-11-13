@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lenalibon/Meta-Llama-3-8B-Instruct-heretic-mlabonne
+main commit at snapshot: 1079bfd1ba00040e48ea7144e01d58513c59c355
+snapshot taken: 2026-11-13T14:07:26Z

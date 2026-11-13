@@ -1,0 +1,146 @@
+[
+{
+"Path": "functiongemma-270m-it-BF16.gguf",
+"Sha256": "2d9469b8ea30c0aaa73f4119ca52426acc2edbf34cda4847f11644f4d0cd0193",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-IQ4_NL.gguf",
+"Sha256": "adb50a1bb18a53f6fa5bf6fdc82b920a5148d162b1b472ab341d28afb5a8a695",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-IQ4_XS.gguf",
+"Sha256": "f09801c4ea7c8a110ec62482a7ccb800fe4c982eada582cf6697f658467bbfe0",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q2_K.gguf",
+"Sha256": "27251af25a5bd1a71f838eb266351da1a907c2436bd253889290956fd2a3e03b",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q2_K_L.gguf",
+"Sha256": "27251af25a5bd1a71f838eb266351da1a907c2436bd253889290956fd2a3e03b",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q3_K_M.gguf",
+"Sha256": "271535c71694792c840ccc71032602a84c07f91678e93a79a95d7c8a841673dd",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q3_K_S.gguf",
+"Sha256": "d3b24335cdeda7772586c10dc1991aa8213cede6c38048dc04e1bc1e86b8054b",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q4_0.gguf",
+"Sha256": "efb07072790bac5c0cd7bd4c2b96e8d98d39bfea8f604f3902904a13568c115a",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q4_1.gguf",
+"Sha256": "befc23b53d8253153089d60ac38396f55477e0a329991cfffe11a61abe3b1c01",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q4_K_M.gguf",
+"Sha256": "7474135cf63b5de86bd29d2feb92c644d48e9df5e1ac31550662af373c67d0fc",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q4_K_S.gguf",
+"Sha256": "34fc671f6563342dbd3d8af55d12a9a08b5c391e848b3c47df3fe8ffe8c52ccb",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q5_K_M.gguf",
+"Sha256": "29190489f54f33a30858ac54524fdbb2d2d714b391e69491a1106f292498655f",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q5_K_S.gguf",
+"Sha256": "4191a836670decbb914345d5af8b4b1ba5ef1fc0193e184f0a5ab64b8d614ef1",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q6_K.gguf",
+"Sha256": "e6a7d0c529941737f2567a4e60e09e44905a789091b8f37f4b52bfad6a789d77",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-Q8_0.gguf",
+"Sha256": "8a17a4eda2b28eaf685a487129fd5295eeff3f722b9c6451dd3d98c18c23a98d",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-IQ2_M.gguf",
+"Sha256": "1061b3bd11d91d464890b37b1b6368a583a77f87e1ac9c014bbd8db31eff2eea",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-IQ2_XXS.gguf",
+"Sha256": "1c8e15f445199702207e424ead4483518294d9229034ee8d35618aceab44bbef",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-IQ3_XXS.gguf",
+"Sha256": "6bb6fa5eeb31318f59bcdc96db1a6fd2b7da189fc0927d1ad0c688a8e6ff19c6",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-Q2_K_XL.gguf",
+"Sha256": "498ca0cb40dfd7e07ac684e6ec67be091db9a0bab5abb6484f8f00bcaf43cb0a",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-Q3_K_XL.gguf",
+"Sha256": "b48a79b3acb89c102de87f6fe8ecff1d36532dc499fe85a7f10f8b710967b260",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-Q4_K_XL.gguf",
+"Sha256": "982eee79939d3bae56e303b59337d06cb6004bd40c57dce6743744cd0d6b9ec2",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-Q5_K_XL.gguf",
+"Sha256": "b9e4c557e9843bbf3103175ad95f41770abf10d96e8a3c816e130c4c31b81d31",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-Q6_K_XL.gguf",
+"Sha256": "906f29fc5343b33a8d7d5ccd7433a82d8d3cefe61893825ca0e504c402add759",
+"IsLFS": true,
+"CommittedDate": 1766082079
+},
+{
+"Path": "functiongemma-270m-it-UD-Q8_K_XL.gguf",
+"Sha256": "35f84ebb7da441206cc305da82aaddb2df29cd59f52f565e0605f43087e6fc39",
+"IsLFS": true,
+"CommittedDate": 1766082079
+}
+]

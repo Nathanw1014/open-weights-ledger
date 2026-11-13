@@ -1,0 +1,44 @@
+[
+{
+"Path": "MOSS-Image-Base-BF16.gguf",
+"Sha256": "a2de182c756cd0c9860b935fa1b08f8737519e2a3b6ba6d712ca43f510a58e81",
+"IsLFS": true,
+"CommittedDate": 1792679309
+},
+{
+"Path": "MOSS-Image-Base-Q4_K_M.gguf",
+"Sha256": "2c6b2741bc31d766c125369fabd2d5dbcc29ebf41e12e4af5adadb053a994572",
+"IsLFS": true,
+"CommittedDate": 1792646994
+},
+{
+"Path": "MOSS-Image-Base-Q8_0.gguf",
+"Sha256": "2f6dd1eb13a78f9156a7d343a1be1e3c86bf35b90215f1f15101565740e0e94b",
+"IsLFS": true,
+"CommittedDate": 1792647013
+},
+{
+"Path": "MOSS-Image-Base-UD-Q3_K_XL.gguf",
+"Sha256": "56ce03dc9c61a24b82244f8e76a58478e19df48289f12268d9095ca1593dbae4",
+"IsLFS": true,
+"CommittedDate": 1792647014
+},
+{
+"Path": "MOSS-Image-Base-UD-Q4_K_XL.gguf",
+"Sha256": "0274efa9945413c456c9c3ec2ed9989e13c57a3241c513889e1a03f591004354",
+"IsLFS": true,
+"CommittedDate": 1792647016
+},
+{
+"Path": "MOSS-Image-Base-UD-Q5_K_XL.gguf",
+"Sha256": "0babb8484724a08102d97a6074e723d0828b70fcf70d9c7fd96b1d0525c7a110",
+"IsLFS": true,
+"CommittedDate": 1792647022
+},
+{
+"Path": "MOSS-Image-Base-UD-Q6_K_XL.gguf",
+"Sha256": "90ce2f65e17ba1b491397734cb8f5ca154be8af422796f309dd37d51f2c6627d",
+"IsLFS": true,
+"CommittedDate": 1792647028
+}
+]

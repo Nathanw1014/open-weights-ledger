@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Gemma-4-12B-it-AEON-Abliterated-MLXFP4
+main commit at snapshot: d2bec0b86ece5118ea41d37cdd215c158b4412f3
+snapshot taken: 2026-11-13T14:03:36Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2-Audio-7B
+main commit at snapshot: dd84470756e6277a71d4d7188773a43cde92696e
+snapshot taken: 2026-11-13T13:48:03Z

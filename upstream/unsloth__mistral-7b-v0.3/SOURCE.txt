@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/mistral-7b-v0.3
+main commit at snapshot: 9ea1b83f5ced5663c5fa89c300fe59f9bdcd2b10
+snapshot taken: 2026-11-13T13:18:22Z

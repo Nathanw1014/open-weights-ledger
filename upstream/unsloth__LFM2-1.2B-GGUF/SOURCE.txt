@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/LFM2-1.2B-GGUF
+main commit at snapshot: 154016c6696a2d84ea8c5c2a9e6b2c97f2547f59
+snapshot taken: 2026-11-13T13:18:53Z

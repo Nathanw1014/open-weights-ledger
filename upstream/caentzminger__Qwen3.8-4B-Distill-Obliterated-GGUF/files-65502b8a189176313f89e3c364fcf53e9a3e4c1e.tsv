@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+qwen3.8-4b-distill-obliterated-Q4_K_M.gguf	2708803936	e4b693101014421d25c04cf04f2759c8135785b077af2c56985cda254dd3ab8c	sha256
+tokenizer.json	12807982	5f9e4d4901a92b997e463c1f46055088b6cca5ca61a6522d1b9f64c4bb81cb42	sha256

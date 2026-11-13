@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3-0.6B-Heretic-Heresy-Edition-i1-GGUF
+main commit at snapshot: decc6ce87e808bcc6637c0dab122975fea845f79
+snapshot taken: 2026-11-13T14:07:24Z

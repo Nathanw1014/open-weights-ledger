@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/granite-4.0-350m-base
+main commit at snapshot: b40bdaac3b7ddf381a937e92302522e55fd1ebfb
+snapshot taken: 2026-11-13T13:35:37Z

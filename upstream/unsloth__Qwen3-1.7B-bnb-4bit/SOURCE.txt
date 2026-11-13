@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-1.7B-bnb-4bit
+main commit at snapshot: d1d7781199f38692496fab70012c39598f0c858f
+snapshot taken: 2026-11-13T13:11:46Z

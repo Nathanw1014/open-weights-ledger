@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4
+main commit at snapshot: f3766dce0693269f96eb3bf0712d9530e22c93db
+snapshot taken: 2026-11-13T13:28:32Z

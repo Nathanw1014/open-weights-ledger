@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-9B-distill-heretic_nvfp4_q4_k_m.gguf	5178305056	c609376c4cc8b3ca42bc9d0dbed193ce4ae00f83914559a65bf395dfd5c48777	sha256
+Qwen3.8-9B-distill-heretic_nvfp4_q8_0.gguf	6071429664	74ae68a66a450ef65412c8253c00ad25dcaa9d74403507a5b2a27650d6405ed7	sha256
+mmproj-BF16.gguf	921705024	853698ce7aa6c7ba732478bad280240969ddf7b0fcbf93900046f63903a83383	sha256

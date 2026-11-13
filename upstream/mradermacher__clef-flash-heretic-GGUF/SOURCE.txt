@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/clef-flash-heretic-GGUF
+main commit at snapshot: 318728fcf17de2f2a057e5ca82d961d2d35613a0
+snapshot taken: 2026-11-13T14:08:06Z

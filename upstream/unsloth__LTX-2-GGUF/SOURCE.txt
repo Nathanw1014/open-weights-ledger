@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/LTX-2-GGUF
+main commit at snapshot: f6212950c786257ed92509ff725d025d323bb4b8
+snapshot taken: 2026-11-13T13:05:48Z

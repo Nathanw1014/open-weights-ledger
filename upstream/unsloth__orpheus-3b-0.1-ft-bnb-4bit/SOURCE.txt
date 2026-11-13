@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/orpheus-3b-0.1-ft-bnb-4bit
+main commit at snapshot: e71c72575d0cab0c990011d0f96c5e32783adf78
+snapshot taken: 2026-11-13T13:29:20Z

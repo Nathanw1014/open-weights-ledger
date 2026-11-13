@@ -1,0 +1,80 @@
+[
+{
+"Path": "flux-3-image-klein-BF16.gguf",
+"Sha256": "86b6f43e51f8083a1a2bd51b635d7aa8e6517433ba10f22dc721dc832a74feea",
+"IsLFS": true,
+"CommittedDate": 1792179483
+},
+{
+"Path": "flux-3-image-klein-Q3_K_M.gguf",
+"Sha256": "2b60e07a3b1100625da9ad017b19572319aeda8bbf2ea4a74b5b199accdd5b46",
+"IsLFS": true,
+"CommittedDate": 1792179492
+},
+{
+"Path": "flux-3-image-klein-Q4_K_M.gguf",
+"Sha256": "a0fe17e27da7660832a3ae3fe35b9c5cd0d81566a4ea5ec7bb4a26421d4f8542",
+"IsLFS": true,
+"CommittedDate": 1792179502
+},
+{
+"Path": "flux-3-image-klein-Q5_K_M.gguf",
+"Sha256": "0a796f9a549e44dd19bdc60f9a350ec692eb0b8679db3675c410a543958ee334",
+"IsLFS": true,
+"CommittedDate": 1792179511
+},
+{
+"Path": "flux-3-image-klein-Q6_K.gguf",
+"Sha256": "a33abd53ee3484cb9aec0a81c4bc5227e0a0fc40a67e645834f3253195cf5ed8",
+"IsLFS": true,
+"CommittedDate": 1792179520
+},
+{
+"Path": "flux-3-image-klein-Q8_0.gguf",
+"Sha256": "af562de40a975439a0f55340221bf48c951e2fc5ad0e11df0bdd73c8091eefcf",
+"IsLFS": true,
+"CommittedDate": 1792179529
+},
+{
+"Path": "flux-3-image-klein-UD-Q2_K_XL.gguf",
+"Sha256": "3884a92132597e7052c309e9e23708721ca903197228b01041d111ef756c0e52",
+"IsLFS": true,
+"CommittedDate": 1792179533
+},
+{
+"Path": "flux-3-image-klein-UD-Q3_K_XL.gguf",
+"Sha256": "8508bfefa5c0e62de434336a9836c5ac8a234c73f02a296507c1d637f560ac9c",
+"IsLFS": true,
+"CommittedDate": 1792179537
+},
+{
+"Path": "flux-3-image-klein-UD-Q4_K_XL.gguf",
+"Sha256": "0a057e07550a5b2169e344d686171a7dd3c7d82c7d8d1d1605d8d881c16e9fa7",
+"IsLFS": true,
+"CommittedDate": 1792179538
+},
+{
+"Path": "flux-3-image-klein-UD-Q5_K_XL.gguf",
+"Sha256": "12ed7d9f4fbd4aba881bc1741f7d35dc840435c754ffb298a04e8199df9e275b",
+"IsLFS": true,
+"CommittedDate": 1792179540
+},
+{
+"Path": "samples/UD-Q4_K_XL_knitted.png",
+"Sha256": "10ef37294956a73fb423a11ac8c07f404f0d9865c20a7f8b0420099b481d6560",
+"IsLFS": true,
+"CommittedDate": 1792179541
+},
+{
+"Path": "samples/compare_church.png",
+"Sha256": "3c8e7357ac5f98890bb879ed244800ed66b9ae2aedcbb3f076e5925d261c801f",
+"IsLFS": true,
+"CommittedDate": 1792179544
+},
+{
+"Path": "samples/compare_knitted.png",
+"Sha256": "a78d9f48896c6f5e786120d03d6a026d10e36aa8ba67a85bfc3bad17adb5a0eb",
+"IsLFS": true,
+"CommittedDate": 1792179547
+}
+]

@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-I-Balanced.gguf	25962671520	782636c45124fd40bf55254f802aba3b6c14e53d36f7a60f724f332761e9aa89	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-I-Compact.gguf	17016624544	ff82d1993140be550f21f17ec9e93697a060d71ce15d8f6089c911032b448058	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-I-MINI.gguf	14273277376	e4eae0e289b36039faa26f955ca021025754e0c56130a16746749bb1491118d4	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-I-Quality.gguf	23514746272	31a6a415d4de270cdd2128103a671202f4b92b6eb30c5f87934f3b06fc2a55cc	sha256
+mmproj-Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-F16.gguf	899283072	c8e702344a81f8c226a914aa980ed6e1f604bce9374f1fed8e65c896908af414	sha256

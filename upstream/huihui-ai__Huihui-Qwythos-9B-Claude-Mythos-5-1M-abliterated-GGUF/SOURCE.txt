@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUF
+main commit at snapshot: a56bb66534a758a99991ae502316b07c18950941
+snapshot taken: 2026-11-13T14:01:00Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/omni-embed-nemotron-3b
+main commit at snapshot: 865db1bb57e369a85357cf114cbd6b3c5322d19d
+snapshot taken: 2026-11-13T13:57:32Z

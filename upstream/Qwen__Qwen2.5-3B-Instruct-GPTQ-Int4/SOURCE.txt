@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GPTQ-Int4
+main commit at snapshot: 68c4276063d1496cdf13d0b8e8221f899bfa77f7
+snapshot taken: 2026-11-13T13:49:22Z

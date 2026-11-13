@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/flux-3-image-klein-FP8
+main commit at snapshot: affde3246472311c236dbde7257652561ee59858
+snapshot taken: 2026-11-13T13:03:09Z

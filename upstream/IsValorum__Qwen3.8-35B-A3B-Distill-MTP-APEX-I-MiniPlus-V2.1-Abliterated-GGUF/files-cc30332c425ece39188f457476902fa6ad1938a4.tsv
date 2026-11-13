@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-35B-A3B-Distill.APEX-I-MiniPlus-V2.1-Abliterated.gguf	14658690144	0dae47840f8115d894e74c5cd1a6aca27e01feaa4f07890a50bdcf7db4c56227	sha256
+mmproj-Q8_0.gguf	614194720	d526b0a3910992e2af1cf56aae8785f7f38942e7a875e60590f7049b5c7112ca	sha256
+mtp-Qwen3.8-35B-A3B-Distill-Q4_0.gguf	1191151872	e7c8e84223da9ff00fcd7e6a09269c48e3de73c3f6d9215382860b213eb400ea	sha256
+mtp-Qwen3.8-35B-A3B-Distill-Q8_0.gguf	1990650112	6dc07405819c36492fc32ce40a2c709f647e0d2284facbbb6cca72b929e25021	sha256

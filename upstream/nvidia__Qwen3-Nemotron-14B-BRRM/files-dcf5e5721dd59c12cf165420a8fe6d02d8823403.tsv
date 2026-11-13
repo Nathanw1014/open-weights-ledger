@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+pytorch_model.bin	59073377531	8fd0cf3c47904b5ffd292d7836ac26192ebf7e117c4051107661bf59e7aa6b40	sha256
+tokenizer.json	11422654	aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4	sha256

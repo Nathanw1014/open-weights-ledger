@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Ministral-3-8B-Instruct-2512-unsloth-bnb-4bit
+main commit at snapshot: 20b41a4990a9eac0ffafa76478c3a56859391156
+snapshot taken: 2026-11-13T13:15:14Z

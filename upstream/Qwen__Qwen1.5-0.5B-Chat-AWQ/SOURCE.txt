@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat-AWQ
+main commit at snapshot: c36295493dfbf95d341ea8b1d1de7a3989a1f947
+snapshot taken: 2026-11-13T13:52:59Z

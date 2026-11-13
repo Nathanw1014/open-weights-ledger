@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-Instruction-Following
+main commit at snapshot: ef1ac9054312647348381edc79d5311e17db5f6d
+snapshot taken: 2026-11-13T13:59:23Z

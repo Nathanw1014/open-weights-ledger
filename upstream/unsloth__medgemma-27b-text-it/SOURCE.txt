@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/medgemma-27b-text-it
+main commit at snapshot: b780610baf99c087ba3719a77cf0dacec7261a65
+snapshot taken: 2026-11-13T13:23:50Z

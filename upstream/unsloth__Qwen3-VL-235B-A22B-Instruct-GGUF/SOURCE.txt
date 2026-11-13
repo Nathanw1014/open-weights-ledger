@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-235B-A22B-Instruct-GGUF
+main commit at snapshot: 37cfb2aeae01a1b10effb1716212c6dd75c80874
+snapshot taken: 2026-11-13T13:12:01Z

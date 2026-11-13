@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/WorldPM-72B
+main commit at snapshot: 8d62143e5264dc458ab23221874577a26eb07146
+snapshot taken: 2026-11-13T13:53:29Z

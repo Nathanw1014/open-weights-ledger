@@ -1,0 +1,74 @@
+[
+{
+"Path": "FLUX.2-klein-4B-FP8.pt",
+"Sha256": "a94b81ec4581980973bfc2201a29e539004a3615c1c4f5b4982455df43a02260",
+"IsLFS": true,
+"CommittedDate": 1785869139
+},
+{
+"Path": "FLUX.2-klein-4B-FP8.safetensors",
+"Sha256": "975c805a46a1b07d25655a806f0ae05169bfe9f5d8cd77d4c9a9b6099bad725f",
+"IsLFS": true,
+"CommittedDate": 1791223087
+},
+{
+"Path": "FLUX.2-klein-4B-INT8-ConvRot.safetensors",
+"Sha256": "8776b823f0947d631dbe39c3c94f2a8a4d94b493b2ab6e34ea917b6fc276096a",
+"IsLFS": true,
+"CommittedDate": 1794238622
+},
+{
+"Path": "FLUX.2-klein-4B-INT8.pt",
+"Sha256": "c6df3177cfeead330dfdcebcfa058af2706700180a4b6c2040d5d0e997fb2c81",
+"IsLFS": true,
+"CommittedDate": 1785869142
+},
+{
+"Path": "FLUX.2-klein-4B-INT8.safetensors",
+"Sha256": "96b8f423f607094436b4d067e4462b1c1089bbb80f64b98798691c64e0588530",
+"IsLFS": true,
+"CommittedDate": 1791223087
+},
+{
+"Path": "FLUX.2-klein-4B-text_encoder-FP8.safetensors",
+"Sha256": "caa768f498a811fa9355d98c28c426ec750c61c81177669e2bd690a101bbb9aa",
+"IsLFS": true,
+"CommittedDate": 1792677658
+},
+{
+"Path": "samples/fp8_1.png",
+"Sha256": "51b330aecc4a6eb6f75a04ec145db36b8e97fcb6632844f9c49584dac0722f35",
+"IsLFS": true,
+"CommittedDate": 1785869149
+},
+{
+"Path": "samples/fp8_2.png",
+"Sha256": "f58c52b8350bed517865560c8938f8afdd0ac78339849d612fdf2131f86a428f",
+"IsLFS": true,
+"CommittedDate": 1785869152
+},
+{
+"Path": "samples/fp8_3.png",
+"Sha256": "2fdebca205050a6170255829f05658866c229c7907147ca965ae93f452b082ab",
+"IsLFS": true,
+"CommittedDate": 1785869155
+},
+{
+"Path": "samples/int8_1.png",
+"Sha256": "5bfc265a4c7befae17c014a4c75f2311f0d9be2c2bb3a0dcbfb49dfbdb770b46",
+"IsLFS": true,
+"CommittedDate": 1785869158
+},
+{
+"Path": "samples/int8_2.png",
+"Sha256": "c94a67e5f0109cd707ae71e3b679e83dbba1e6fa9e4885360f8fb4b82e54f76b",
+"IsLFS": true,
+"CommittedDate": 1785869162
+},
+{
+"Path": "samples/int8_3.png",
+"Sha256": "b5e331b04263c4b000c9da39e8a240235e10acb543cbc72a48302cecd98376e2",
+"IsLFS": true,
+"CommittedDate": 1785869165
+}
+]

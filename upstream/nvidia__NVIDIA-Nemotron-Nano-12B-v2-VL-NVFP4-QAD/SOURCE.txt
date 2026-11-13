@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-NVFP4-QAD
+main commit at snapshot: 16853d6c682223e967d5622c99d0082cb994b771
+snapshot taken: 2026-11-13T13:56:15Z

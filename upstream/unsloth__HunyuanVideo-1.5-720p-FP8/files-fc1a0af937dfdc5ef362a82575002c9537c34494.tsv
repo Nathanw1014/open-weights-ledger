@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+HunyuanVideo-1.5-720p-INT8.pt	13938141977	3bd1edab515988221c1b1f65c9d68be7d76d8eb2277943fcdb89dcf704f463bd	sha256
+samples/int8_1.png	856309	f7d021ad3027281c67d3c0778911f915949e9f5ffd9cb28d4d7a7a004bd30a76	sha256
+samples/int8_2.png	691919	ee3dbf91d5d180133adaee376dbff06e3bc78b0669d709d1ea60c939dcbeb58a	sha256
+samples/int8_3.png	571030	b025d4d2ff6bf2769996a7fb751a49e183c033e88be2d53eb5dc782b1b9c2103	sha256

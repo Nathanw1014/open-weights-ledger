@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gpt-oss-20b
+main commit at snapshot: 30061408d1b88e5da5a2ca4583adc4ee93028781
+snapshot taken: 2026-11-13T13:07:15Z

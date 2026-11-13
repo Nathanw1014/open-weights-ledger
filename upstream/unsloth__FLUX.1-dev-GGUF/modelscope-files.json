@@ -1,0 +1,92 @@
+[
+{
+"Path": "flux1-dev-BF16.gguf",
+"Sha256": "fa77cbfb5afda3aff26aff2611bfbaebb96350695602aef2691a25e44c823e7d",
+"IsLFS": true,
+"CommittedDate": 1751308240
+},
+{
+"Path": "flux1-dev-F16.gguf",
+"Sha256": "a2de702fef42761c1e9fe9d69284bd85711a5e717e1351fb140ce4ff8d0847eb",
+"IsLFS": true,
+"CommittedDate": 1751308240
+},
+{
+"Path": "flux1-dev-Q2_K.gguf",
+"Sha256": "a9dbb7ca7f078074f59296264fdb2582ab79c9d14122ee4645e5edcf4e658f56",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q3_K_M.gguf",
+"Sha256": "4c2a1e947a84b02fc89df1e1ed53cbb884775d255300777994de9803da76e88d",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q3_K_S.gguf",
+"Sha256": "7f68bd9e766cf78874a6224124251ab415d09f3fc47499042463213c61c552db",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q4_0.gguf",
+"Sha256": "0e69aa3f9714999904552b5c4788fba5dbb88618c56b28155b03164cd824beb8",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q4_1.gguf",
+"Sha256": "8a75448b948d8a2995b963701fdbc5fad1213aaf8fd75c9a5ef7ceb24250fa7c",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q4_K_M.gguf",
+"Sha256": "88b506c0da8413e177c4008555fd6ec5ddcddfdb691fc7a581518e3101f2775e",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q4_K_S.gguf",
+"Sha256": "b5457483cdc8e4fbcea90b38ca55cada2e7163dfc8b0c18557371bd1d89a2284",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q5_0.gguf",
+"Sha256": "5c6a88d4588c41e6541233c4bef8dc6f2b1f30aeff4724e80fd8f52e4dd280e2",
+"IsLFS": true,
+"CommittedDate": 1751308240
+},
+{
+"Path": "flux1-dev-Q5_1.gguf",
+"Sha256": "d06d630080de1f5f53e0b9a292ef397ae61922907a9eb8406697f6195a9713cb",
+"IsLFS": true,
+"CommittedDate": 1751308240
+},
+{
+"Path": "flux1-dev-Q5_K_M.gguf",
+"Sha256": "516908172087d6ad684a4e31d93ab3d98ae6273c6bc83d6293b3273593fa2c00",
+"IsLFS": true,
+"CommittedDate": 1751308240
+},
+{
+"Path": "flux1-dev-Q5_K_S.gguf",
+"Sha256": "34d3698fbd2c015756e90dd684ae0b5592e68c99327df95263afeb5aa08c6446",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q6_K.gguf",
+"Sha256": "3eecdc985280541a10fa8d1c288ef90fbc0c981fb31c45618654f3a77a1bc060",
+"IsLFS": true,
+"CommittedDate": 1793630476
+},
+{
+"Path": "flux1-dev-Q8_0.gguf",
+"Sha256": "5cd00555037318715b2eff75f64b0d045403b41f4880e8c0ab0875d784e5c710",
+"IsLFS": true,
+"CommittedDate": 1793630476
+}
+]

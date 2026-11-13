@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.1-Nemotron-Nano-4B-v1.1-bnb-4bit
+main commit at snapshot: bb96e15b9cc496e237ab2cb056cd1b7fd39efb48
+snapshot taken: 2026-11-13T13:33:20Z

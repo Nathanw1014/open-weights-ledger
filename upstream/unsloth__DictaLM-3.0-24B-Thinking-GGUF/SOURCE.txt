@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DictaLM-3.0-24B-Thinking-GGUF
+main commit at snapshot: 9d87d2b08be34549a578f9d491478abefe5df1e5
+snapshot taken: 2026-11-13T13:17:49Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/llama-2-7b-bnb-4bit
+main commit at snapshot: d3a9fcb2d76d5c4310c4f85652a4c67c94d9a119
+snapshot taken: 2026-11-13T13:16:01Z

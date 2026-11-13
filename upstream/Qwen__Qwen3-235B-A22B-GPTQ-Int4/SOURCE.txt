@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-235B-A22B-GPTQ-Int4
+main commit at snapshot: dff138951f3898772fc0d795a4b5b30f417577f4
+snapshot taken: 2026-11-13T13:49:44Z

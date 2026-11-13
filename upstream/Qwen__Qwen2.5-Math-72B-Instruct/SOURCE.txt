@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Math-72B-Instruct
+main commit at snapshot: 8fcf92b1eac8eca48c3d49778ad3dd1b394c9a17
+snapshot taken: 2026-11-13T13:49:38Z

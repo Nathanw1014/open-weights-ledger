@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash, git = git blob id)
+.gitattributes	1950	f94799914eda2f4c533db76b7ae2f9ffb86cadd5	git
+Qwen3.8-Flash-Next-DFlash2-BF16.gguf	1217349024	fa63c62374607095cfb07441abfe8c18982ae99d130472e2ea0da35c61d98b20	sha256
+Qwen3.8-Flash-Next-DFlash2-Q4_K_M.gguf	362124704	2f174e593998c77df0eb7ca13961915a26f25f7944d784a1838e1856e857ff0d	sha256
+Qwen3.8-Flash-Next-DFlash2-Q5_K_M.gguf	431920544	266938012dc73c3c3b37910b419b973ecf4362968b925bccd1ab9d06a0620c85	sha256
+Qwen3.8-Flash-Next-DFlash2-Q6_K.gguf	506078624	ab821a803621b99eda23a9bd499829f5476db74d4e2427bb8a21d63e3325a2c7	sha256
+Qwen3.8-Flash-Next-DFlash2-Q8_0.gguf	652101024	541f4d6ee230747a34d4a2c6890e6e08cc8b19c461226dc1829701a544e46e8a	sha256
+README.md	3124	39e683eb36a4daf568795f1ae12f78cbae8e5bea	git
+assets/dflash2-figure.png	286889	6d8dcc9a9472bddb644c881fe83050b5343d09bf5ffb0912e5598e55fe671e99	sha256

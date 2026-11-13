@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Ornith-1.5-35B-A3B-FULLY-OBLITERATED-GGUF
+main commit at snapshot: d141218a7afbe89c3eeec7f284ad9901ec456b91
+snapshot taken: 2026-11-13T14:05:33Z

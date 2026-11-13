@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/all-mpnet-base-v2
+main commit at snapshot: d0a69f4c91dd1649c3bf964d5e4de9cfa69cb9b7
+snapshot taken: 2026-11-13T13:23:09Z

@@ -1,0 +1,650 @@
+[
+{
+"Path": "UD-IQ1_M/Kimi-K2.7-Code-UD-IQ1_M-00001-of-00008.gguf",
+"Sha256": "b58b6d660a41ce62f173a4a998f2c866c3990571ac35ca7047adaae566f65dcf",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2.7-Code-UD-IQ1_M-00002-of-00008.gguf",
+"Sha256": "462eb625c9e83d1e99259eba2c6078d1df212cb29db3a15341a49b80dbe708e8",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2.7-Code-UD-IQ1_M-00003-of-00008.gguf",
+"Sha256": "148f97410a6f2b8064a1f84923eeeb7d3d108ed0fe8935ae323cbb7f7d795553",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2.7-Code-UD-IQ1_M-00004-of-00008.gguf",
+"Sha256": "4303c748bc4f1588d603c0cb0dd9b72504a8b20eb16b304338bf6b29bd0f79c2",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2.7-Code-UD-IQ1_M-00005-of-00008.gguf",
+"Sha256": "b64ef2102067721a3f9f35abd74c869a602308de862fe87d4516f46f985817b2",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2.7-Code-UD-IQ1_M-00006-of-00008.gguf",
+"Sha256": "64af87c5511bbc2942012d741e5a2cf6d66864653bb20c321b60abda2c9a6d5f",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2.7-Code-UD-IQ1_M-00007-of-00008.gguf",
+"Sha256": "c32484a9b3c412e2d54b3ce4e7253a030b26468418340795d6720f13aac56674",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2.7-Code-UD-IQ1_M-00008-of-00008.gguf",
+"Sha256": "895ad029fa5374dd87f9b8ce79551498ec0e36dd0126244ff8bc6127aea9cbe3",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2.7-Code-UD-IQ2_M-00001-of-00008.gguf",
+"Sha256": "27022bd0376cf9ac02c84eaf59460a81c2f62417e24699841dd1ed8f95933292",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2.7-Code-UD-IQ2_M-00002-of-00008.gguf",
+"Sha256": "292953954ee43949640dfd6d3a86a9bada46e980c45d6035bae7a0247e4dc6c6",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2.7-Code-UD-IQ2_M-00003-of-00008.gguf",
+"Sha256": "e3d64f79fe5bb76e729190fc2ba671ac6767287e3eb7a9328902f0cc656a9df0",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2.7-Code-UD-IQ2_M-00004-of-00008.gguf",
+"Sha256": "0bb96d73c3c6fbe81f5401108b34f8f94304e931282cb27cc6f914c8490866da",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2.7-Code-UD-IQ2_M-00005-of-00008.gguf",
+"Sha256": "61044b1016776899c66c0e4eddfc930cc7163bddf972bbd4aa7e8b7e93e87173",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2.7-Code-UD-IQ2_M-00006-of-00008.gguf",
+"Sha256": "419bfac3ccd25295adfff1f2059b10d57b792485ac5f64fe48d297c84baf5ec6",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2.7-Code-UD-IQ2_M-00007-of-00008.gguf",
+"Sha256": "71826d31b12f1a42019b6971dcbc3d115ef9eab71f0cb8be9aa16d5627c9b787",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2.7-Code-UD-IQ2_M-00008-of-00008.gguf",
+"Sha256": "2c367a0800a3327450ce3cc4d9b8fd5bccc786b72a93c9d0d33ee7f77e51c941",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2.7-Code-UD-IQ2_XXS-00001-of-00008.gguf",
+"Sha256": "897926e65d304c2defb7195a5d4cc6d9dba436b950b48e9b22c9511c21a7e6bf",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2.7-Code-UD-IQ2_XXS-00002-of-00008.gguf",
+"Sha256": "05d5098f2471ed890ba7eab71b2db443ba5366075d960235da86ff7b9ff3127a",
+"IsLFS": true,
+"CommittedDate": 1781490219
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2.7-Code-UD-IQ2_XXS-00003-of-00008.gguf",
+"Sha256": "e3d64f79fe5bb76e729190fc2ba671ac6767287e3eb7a9328902f0cc656a9df0",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2.7-Code-UD-IQ2_XXS-00004-of-00008.gguf",
+"Sha256": "0bb96d73c3c6fbe81f5401108b34f8f94304e931282cb27cc6f914c8490866da",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2.7-Code-UD-IQ2_XXS-00005-of-00008.gguf",
+"Sha256": "61044b1016776899c66c0e4eddfc930cc7163bddf972bbd4aa7e8b7e93e87173",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2.7-Code-UD-IQ2_XXS-00006-of-00008.gguf",
+"Sha256": "419bfac3ccd25295adfff1f2059b10d57b792485ac5f64fe48d297c84baf5ec6",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2.7-Code-UD-IQ2_XXS-00007-of-00008.gguf",
+"Sha256": "71826d31b12f1a42019b6971dcbc3d115ef9eab71f0cb8be9aa16d5627c9b787",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2.7-Code-UD-IQ2_XXS-00008-of-00008.gguf",
+"Sha256": "2c367a0800a3327450ce3cc4d9b8fd5bccc786b72a93c9d0d33ee7f77e51c941",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00001-of-00010.gguf",
+"Sha256": "98e213a31582329b878d02c7971942727e3bff0dcc4dc99d75f808249a824144",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00002-of-00010.gguf",
+"Sha256": "338e8fd576d28b815e6018ac04b3bd06fec996301b4f236aeaa336c59f339fbe",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00003-of-00010.gguf",
+"Sha256": "7dc0eeaf012f7583d21b3f05bf4749bdb088ae19e746ee47d416e5497e6b476b",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00004-of-00010.gguf",
+"Sha256": "e4f2855be3644ce42cf24499889d1c004e3e95951be5f88184be4ae0698ea4fb",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00005-of-00010.gguf",
+"Sha256": "f39c7f0f0efd21229a5cb901567123e487baa0cbb4fe8598e44e6c720ea36715",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00006-of-00010.gguf",
+"Sha256": "ef9022b75960afb5c842d2ce5e353908335e96b4f98d2202cbdc12d320fd4c0c",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00007-of-00010.gguf",
+"Sha256": "bee0a7682bf96018693ee73b7bcf547e87f2c876a4c7f27b6704e204b5d6cda8",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00008-of-00010.gguf",
+"Sha256": "8400d04bfbeeb1456a4bbb082f710f08897434f68c0a15f9be47e1faff0e638a",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00009-of-00010.gguf",
+"Sha256": "ade852f38d84e4017a0c5e170cb31844ceb90e430a08dea108ac609192a4ea58",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ3_S/Kimi-K2.7-Code-UD-IQ3_S-00010-of-00010.gguf",
+"Sha256": "8a97e05766004d70d096b48f9623b06895680bfff7aeeb99e3437073d5c184f1",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00001-of-00012.gguf",
+"Sha256": "dec4dd82c2a648a0bac4a7bcf3eef507f88ceb7699739b3797f5dcbd6ec885e5",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00002-of-00012.gguf",
+"Sha256": "bb371cf4b078929a9b25ea69e9741e81cdd2c0d18d74ec7340011f6f90772551",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00003-of-00012.gguf",
+"Sha256": "14f862c313b7299eecfdd9e863b03097c9a11df598d2efe88f9f2f73b2a10664",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00004-of-00012.gguf",
+"Sha256": "fdfe6c30c25019beb337d607ac69c00809f9bc5d77ed93e7ccdbdcb719b064b7",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00005-of-00012.gguf",
+"Sha256": "9268686f8add8ae49100f8e7fb95bf5b2a116143f98235d5b1eb47ce41938925",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00006-of-00012.gguf",
+"Sha256": "b7724229a83453a05efa5706b202a7b8539754686c1ae31fe68fc483b808a70a",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00007-of-00012.gguf",
+"Sha256": "231832cad770583e8903702bb9899e739058d8381a33e547cb8753edf3495d91",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00008-of-00012.gguf",
+"Sha256": "096279ed5b4fff243eddb285ac27eb70d9153d75e2c495897c096d405e0845c2",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00009-of-00012.gguf",
+"Sha256": "cec94407cbf4335cb63932a6b89a20d93fdd1f851dc22b0f21fa1b22131caeed",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00010-of-00012.gguf",
+"Sha256": "cf217e2b49aa6c8b6aca122908a63fa576389b920a49c0ad48f392122a057d29",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00011-of-00012.gguf",
+"Sha256": "d876c8fac380e4fb7e7b27dfad0302f3b48ab6b242dc0ea46f05980ee35a5f08",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-IQ4_XS/Kimi-K2.7-Code-UD-IQ4_XS-00012-of-00012.gguf",
+"Sha256": "047492fe03fb94e40d6a9788d07cffe1bcd65e05cecb097eb6cfba13873dd7fe",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2.7-Code-UD-Q2_K_XL-00001-of-00008.gguf",
+"Sha256": "2fb6f21ef59c622f3b1dbdc45c6d26d883092394d09fc43a516126b36a60d404",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2.7-Code-UD-Q2_K_XL-00002-of-00008.gguf",
+"Sha256": "7f8c25897b1f96153aa56839f188c258f85d700b403029509efb5c433909d98b",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2.7-Code-UD-Q2_K_XL-00003-of-00008.gguf",
+"Sha256": "efe9b2f6aaa1db9b7131cbf0d8c0d118d341ffc1e1654633176e6025fb06eeca",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2.7-Code-UD-Q2_K_XL-00004-of-00008.gguf",
+"Sha256": "7039e54b6694a56f9bba7cb8121e467f2f7ad6fcaa3a9207ba7488b4a331007d",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2.7-Code-UD-Q2_K_XL-00005-of-00008.gguf",
+"Sha256": "956132c588c4f945d0b8566f312d38b104ca9c06340e7fac80f334196241794a",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2.7-Code-UD-Q2_K_XL-00006-of-00008.gguf",
+"Sha256": "91645cdbcbfde42a5eb35ceeb1cb6c8794641379423b72bd136a36e898ba4451",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2.7-Code-UD-Q2_K_XL-00007-of-00008.gguf",
+"Sha256": "7185530f9d07fa3e4785bcb36915319f909d5f70b512ddffdb9e38f7107f3f9d",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2.7-Code-UD-Q2_K_XL-00008-of-00008.gguf",
+"Sha256": "ba884a96a29677524c8f30f2b2418c4bcef0d9c52ca49b22ca13c8c9ef37cb5c",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00001-of-00011.gguf",
+"Sha256": "dffd1d4866acaaf4f0381ecb6d926bc1458e957b014ca5f8253525cdb221a606",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00002-of-00011.gguf",
+"Sha256": "1cafa670237f701ed2e12f21216fcf43f4f4b46b24ddceda82d09da6746d2d5e",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00003-of-00011.gguf",
+"Sha256": "d749e0e486f1a500e8fe1353c4d526629144a2f87049c6d44db44e02ce91049e",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00004-of-00011.gguf",
+"Sha256": "9079071035be1b83296af0bd6d08b292f62ccd525c2df7ee884defdaa47e2259",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00005-of-00011.gguf",
+"Sha256": "56bab59317161c05570d7e7a575bdfb3673f6e5471d74821dacc9faf9c14d8e1",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00006-of-00011.gguf",
+"Sha256": "a00374d437efe5d43e229b6fcdac43719ceb0afb9f3194a1e0cfb6c15c8edcec",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00007-of-00011.gguf",
+"Sha256": "b1663874e06fd2de369752aa2986753eb2309ad281146ca5232b6fbab850b7e7",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00008-of-00011.gguf",
+"Sha256": "4c6f1ebdf1792450912a5d79f8f057614efc5172fd21247637e3702906136e4a",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00009-of-00011.gguf",
+"Sha256": "9931f5d60765268ca752a34fd23d021b6e7a594035d27eea930e9cc1135bbfa0",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00010-of-00011.gguf",
+"Sha256": "d8309fcd4f9ea22e737a6949d45caaab5d9cbc2a906a1905a1515bfe3389af2c",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_M/Kimi-K2.7-Code-UD-Q3_K_M-00011-of-00011.gguf",
+"Sha256": "5778ea5db1a3770c82b7365f5dbb1252967d7b40e369512587e4cc821460ffc8",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00001-of-00011.gguf",
+"Sha256": "dffd1d4866acaaf4f0381ecb6d926bc1458e957b014ca5f8253525cdb221a606",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00002-of-00011.gguf",
+"Sha256": "4b6d900c7d36b4780bee686df8bf95173ac2400637fb46d40eeb225b3850539b",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00003-of-00011.gguf",
+"Sha256": "d749e0e486f1a500e8fe1353c4d526629144a2f87049c6d44db44e02ce91049e",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00004-of-00011.gguf",
+"Sha256": "9079071035be1b83296af0bd6d08b292f62ccd525c2df7ee884defdaa47e2259",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00005-of-00011.gguf",
+"Sha256": "56bab59317161c05570d7e7a575bdfb3673f6e5471d74821dacc9faf9c14d8e1",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00006-of-00011.gguf",
+"Sha256": "a00374d437efe5d43e229b6fcdac43719ceb0afb9f3194a1e0cfb6c15c8edcec",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00007-of-00011.gguf",
+"Sha256": "b1663874e06fd2de369752aa2986753eb2309ad281146ca5232b6fbab850b7e7",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00008-of-00011.gguf",
+"Sha256": "4c6f1ebdf1792450912a5d79f8f057614efc5172fd21247637e3702906136e4a",
+"IsLFS": true,
+"CommittedDate": 1781504982
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00009-of-00011.gguf",
+"Sha256": "9931f5d60765268ca752a34fd23d021b6e7a594035d27eea930e9cc1135bbfa0",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00010-of-00011.gguf",
+"Sha256": "d8309fcd4f9ea22e737a6949d45caaab5d9cbc2a906a1905a1515bfe3389af2c",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2.7-Code-UD-Q3_K_XL-00011-of-00011.gguf",
+"Sha256": "5778ea5db1a3770c82b7365f5dbb1252967d7b40e369512587e4cc821460ffc8",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00001-of-00014.gguf",
+"Sha256": "65f0aca336f876902323a90e2aff32cac76d071b2cdd818c6a8d78be8fc2c680",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00002-of-00014.gguf",
+"Sha256": "f102be787da86a4aac79b7dfdc6494874324cc85ece4e45abc52afba0cb3e996",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00003-of-00014.gguf",
+"Sha256": "89fb7712d8bed69d8bb7711bf72b2abdfe30bef5ae38052b3b7fa412ce473ec8",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00004-of-00014.gguf",
+"Sha256": "5f877aa68d1d8dc8c2a8d2b524f9ab48036d36bebb26720d4e8b7ea8194b59b6",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00005-of-00014.gguf",
+"Sha256": "af6536329c917c540cb6836f4c01116625e4988c53d8ac7bffa2ef1fe55b8050",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00006-of-00014.gguf",
+"Sha256": "ec43a68ce0b74b5fab325301df74ee8e2101e2c054c87d13953b07190b07ef06",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00007-of-00014.gguf",
+"Sha256": "9df412dbd52c69a4336316d03e740cae35a7399094ef9a64e07dfa16635ecb34",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00008-of-00014.gguf",
+"Sha256": "b2d81255165052a24968a8f38f0bf33c3de5ed1afce90f29156d8d3f49e51c46",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00009-of-00014.gguf",
+"Sha256": "0c22d79912f1ecd3ec8ae25bb026e8b16ce6a3bda092eb013c91938a331c7e36",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00010-of-00014.gguf",
+"Sha256": "0b8ea23ffa13a2d9f532f7ba94b046e426ae774b6106d340de2d45c5913124ef",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00011-of-00014.gguf",
+"Sha256": "33cb554c2d84fc1ba865457df6c08bc4a3d22a39a17d462089bf56b42667f9a1",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00012-of-00014.gguf",
+"Sha256": "b3e784c728cd56a0eb9b19437a96f02fca37f196b1b6db7ae7097986856b01ed",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00013-of-00014.gguf",
+"Sha256": "5a0bad3e3064da729703717c235e7e2d2ba9e5976004457cbe4094f4b4518f59",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2.7-Code-UD-Q4_K_XL-00014-of-00014.gguf",
+"Sha256": "8e9d0a59883bc7f2ccbb3980109b78daaa11ece7b7c645c0119ccd984aadae7d",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00001-of-00014.gguf",
+"Sha256": "65f0aca336f876902323a90e2aff32cac76d071b2cdd818c6a8d78be8fc2c680",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00002-of-00014.gguf",
+"Sha256": "40f4416c130827a11502778891f4ef95b2144db90f51d63aa3548d0952a39683",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00003-of-00014.gguf",
+"Sha256": "ba2ba0b5168784ace7c752ecadfc3631279b2bb023824cb0fe9e2dab3dd28f22",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00004-of-00014.gguf",
+"Sha256": "10298a6c98b13ef49be286fefbea8663e16473fb69bbeabe153bc80c60ae116e",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00005-of-00014.gguf",
+"Sha256": "8e9e4c8e35d34fc4fef6bfb65a715ad7defbd196970d833c1df6924d701c88b3",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00006-of-00014.gguf",
+"Sha256": "ccff6e7f299742f82cf6f51a871e3eb3167511efaee967477cc8387f54d16442",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00007-of-00014.gguf",
+"Sha256": "1a3b639633a2d22f71156a9f643ded2329cdd969cc21177b644b5741bac1af8e",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00008-of-00014.gguf",
+"Sha256": "bde28f682a1eab973538b2102007d952f37a13c1f7d55e2ed99177445ddc4282",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00009-of-00014.gguf",
+"Sha256": "b6a23a95b61e100f7593fa75e2363966323fa767b7e4fdf45d963b59e8fdc69f",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00010-of-00014.gguf",
+"Sha256": "fb10231c2e6d76921d40f22690f4aa08a8090c708edeaf7e581abafc24d3b25c",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00011-of-00014.gguf",
+"Sha256": "d2290be7ed1a22ac1f9f8a4813389689e075ce2ab8abc3aaaa1157a3cb1462d8",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00012-of-00014.gguf",
+"Sha256": "ce0d028314aa3fc783082dbca097e1055d69686a17ab8306574e2949568f26a5",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00013-of-00014.gguf",
+"Sha256": "217864ce63a1d130ab39dcb0996b6097e1aa78eb896e38efaefdbbac3a00b7ec",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2.7-Code-UD-Q8_K_XL-00014-of-00014.gguf",
+"Sha256": "eb7582ad7066c5eaa01bde95acb00b4ad9cd7b07cd50a6cf5c9ee427258bc9dd",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "87dfb5c37ae69be0214584746d6f3d700632212200585a8debcab28f4d895862",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "bd3e97de8deedc471b17b3ffa17e0d318cf298b8b319f7b28462a0c19b8f3195",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "9036f4050ca6e0cb4007ad9e46644f47031b4b979ba29ae4e355de5e006e7afe",
+"IsLFS": true,
+"CommittedDate": 1781508020
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "b2cc50c8c13fe70fc4968a83332f31e9007ea09ebb9ae91d46a4e4cd2a3053cd",
+"IsLFS": true,
+"CommittedDate": 1781508020
+}
+]

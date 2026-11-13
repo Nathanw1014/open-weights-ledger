@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llasa-3B
+main commit at snapshot: 08db217b7b8d1b54bcb1d31819e33cc3e15c178f
+snapshot taken: 2026-11-13T13:34:07Z

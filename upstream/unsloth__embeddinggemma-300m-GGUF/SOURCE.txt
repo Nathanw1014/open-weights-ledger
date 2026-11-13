@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/embeddinggemma-300m-GGUF
+main commit at snapshot: 6661a6504c30d8304af13455cb4a5d4f5bc6011f
+snapshot taken: 2026-11-13T13:09:46Z

@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+auxiliary_prediction_heads.safetensors.extra	8397256	8d5a627313cd51dd643593ad7ea08aa06fc52af647bb63b9fc636f78f42260fd	sha256
+model.safetensors	3612281104	8257a724e949ce2609bd36afbc31707a8f36b5e9008b7bc5d26b7d4557afe3ba	sha256

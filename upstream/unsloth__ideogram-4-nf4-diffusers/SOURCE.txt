@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/ideogram-4-nf4-diffusers
+main commit at snapshot: cb5b5dda5e0406c04160f3555c48256ec0cfc899
+snapshot taken: 2026-11-13T13:26:31Z

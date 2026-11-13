@@ -1,0 +1,15 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-9B-Distill-uncensored-heretic.IQ4_XS.gguf	5357875552	ae3239e968526c15a2dfc71baccaffd7a4200a1ccd592186c0f5c3182f895df7	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q2_K.gguf	3914969440	1d75be7a93e336226584250f785782ea23e2ed3652510df7d96cd69e0aae6452	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q3_K_L.gguf	5048512864	5dcc2b259397680d55066909e5c28ea71146808fc5a3c4ddc5538f9a362e27af	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q3_K_M.gguf	4737610080	a07aef45a7ea7d229d5cca35a4c5acbd29798edff86e09aa38511651669fb0de	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q3_K_S.gguf	4364022112	9c64b356b6f1185ece65cbd0712f48eb0d3804823aafbcb6167c1ca98c44122f	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q4_K_M.gguf	5780091232	7bda572597874a743ed26fbfbc0f9e75a782c5d1489115cc13032eb0812d4e23	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q4_K_S.gguf	5488554336	3fda19e5b462c130fd903cd0770bec6bed28182c426a199f564f9d439e0d2960	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q5_K_M.gguf	6642544992	a35898118db2c9d043662160ba35b4a2f7fb75820f4500d39d61e52fb36a55d1	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q5_K_S.gguf	6472642912	53c9395754db340822c7afdd691743119c1ee554f9934d762523a26b45367162	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q6_K.gguf	7558902112	49d470957cebe56aee450cda02f5d0c46b9c48a8212481a9338ec668a1938bbc	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.Q8_0.gguf	9786061152	33c95be777efcf133dc5d1e8f1a44b5d4e73917824b6d5a042dddedac4d6dca2	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.f16.gguf	18407321952	02d53e2d0038d21cccd1fb5678a9eda56ca866420e762c21fccd63f0c610e04b	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.mmproj-Q8_0.gguf	624229824	2b662e79ae4ec2714c43fc8a9fb59b83114ea60891a599573b5d057c5f9fa47f	sha256
+Qwen3.8-9B-Distill-uncensored-heretic.mmproj-f16.gguf	918166080	e7533699652986a036394cf905d7babc0dd89bac8c6a99b24b1742e3d7c65a08	sha256

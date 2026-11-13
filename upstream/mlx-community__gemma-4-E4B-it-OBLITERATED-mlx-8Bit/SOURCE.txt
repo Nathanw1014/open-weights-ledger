@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/gemma-4-E4B-it-OBLITERATED-mlx-8Bit
+main commit at snapshot: db71b2644248b4f9e7e31ede5e6f631b870d8af5
+snapshot taken: 2026-11-13T14:05:08Z

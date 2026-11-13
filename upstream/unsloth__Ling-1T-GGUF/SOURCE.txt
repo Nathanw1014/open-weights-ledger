@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Ling-1T-GGUF
+main commit at snapshot: dfd0505d271ddf411a42474f1045cd36f1b8dc1f
+snapshot taken: 2026-11-13T13:19:27Z

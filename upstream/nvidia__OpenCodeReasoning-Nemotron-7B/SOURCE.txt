@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-7B
+main commit at snapshot: 3baa2a3d73bbca12483ad19fef7babdcb2222987
+snapshot taken: 2026-11-13T13:57:24Z

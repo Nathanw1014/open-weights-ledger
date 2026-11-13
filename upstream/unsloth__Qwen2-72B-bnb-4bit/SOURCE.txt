@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2-72B-bnb-4bit
+main commit at snapshot: 42c82fec0fac880ad8543b43699a32996fa1e1ff
+snapshot taken: 2026-11-13T13:31:16Z

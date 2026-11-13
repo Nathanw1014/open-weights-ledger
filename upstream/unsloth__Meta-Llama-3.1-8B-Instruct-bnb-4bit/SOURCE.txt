@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit
+main commit at snapshot: f15c379fb32bb402fa06a7ae9aecb1febf4b79ec
+snapshot taken: 2026-11-13T13:04:48Z

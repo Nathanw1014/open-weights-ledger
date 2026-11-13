@@ -1,0 +1,3 @@
+repo: https://huggingface.co/axi0mX/Qwen3.8-Flash-Next-Uncensored-GGUF
+main commit at snapshot: 652bba2d64b02f460d818b452efbaf71a3a0d640
+snapshot taken: 2026-11-13T14:09:34Z

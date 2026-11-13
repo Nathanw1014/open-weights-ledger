@@ -1,0 +1,182 @@
+[
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-BF16.gguf",
+"Sha256": "4897c9bacbbe084fc3b4e20d9bccf9bd42e1b939ee25abe3659c976c155849ac",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-IQ4_NL.gguf",
+"Sha256": "a2e6bae5ca93f8269911cddc31299a416caf651483215606389dd9ac16929248",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-IQ4_XS.gguf",
+"Sha256": "07f877b56e95f51f20289fa1a70e4e00d9fb8fdf482538ea5d15df47cae79056",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q2_K.gguf",
+"Sha256": "842224d378b1ec78ce22dd0c3325f62aefeda226772e7c031a378d00c1e4b6e6",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q2_K_L.gguf",
+"Sha256": "a3e7425666bce763ff479f7f380b490634867b9fef6d4ad2787fb14e8750e13e",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q3_K_M.gguf",
+"Sha256": "1345b08462b0d647f963de719361f50ea39ca5d569f67ccb5d282d216afd7d3c",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q3_K_S.gguf",
+"Sha256": "d895fffcf6273694e880410b5b79e246b39da4fb042328d70ad2361fe00045b8",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q4_0.gguf",
+"Sha256": "2797468ae2d9583c31b9e70260fc7b2421170bfbd1712e50620c4460837e6131",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q4_1.gguf",
+"Sha256": "03833075960d9c14218a3e0adce9b6fa7c42ec87ea5cc0f70f4aad419577f517",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q4_K_M.gguf",
+"Sha256": "0848c5094555a7f94bd54ceee7440b4c1813f0be376cc4db589037ab93ff1424",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q4_K_S.gguf",
+"Sha256": "65e5cb76c0c598aec3ab8e14078b23490697be13394e4b904d17249af1f8a7ad",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q5_K_M.gguf",
+"Sha256": "75ee88c9d18e6120a09ae9167a223fc5bc1864a9edb003370e7cb36344023215",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q5_K_S.gguf",
+"Sha256": "fe4f0c7f9f3b601f46f5d1844d6bdd10bea6a6505539c029bb9613c18535ba32",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q6_K.gguf",
+"Sha256": "d006ad800dca31efd1f9927e1bae9b3924ef6fefa4eb6f8e791e7eec2b80c4f7",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-Q8_0.gguf",
+"Sha256": "c681b394d300bf279bf1ad8e5cc7fdfd574b96f666141c6e13f41ba9f77d30c9",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-IQ1_M.gguf",
+"Sha256": "f62cf356e350d07a9eb033c89e2ab4c89fb53d27bcee17a67f268d769f114ae8",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-IQ1_S.gguf",
+"Sha256": "41b21fd101a30e875b97447146b748612d1249bf23acd6b3a35a42885e4a4df9",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-IQ2_M.gguf",
+"Sha256": "7cae1380eb4a679268b741fd27c1c3277dc2c6ea1e6c4398d4ee720e3c7549e3",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-IQ2_XXS.gguf",
+"Sha256": "b822b0be24ce9abeb712821c9615ded722c1864e6a5bc194c477289e749c3a29",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-IQ3_XXS.gguf",
+"Sha256": "7481eb33890c59a5d7b02cb8adb03242ea96fd25a06286b3d5c3d5617257cf29",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-Q2_K_XL.gguf",
+"Sha256": "47869476dfcafa665b467a0ad9a8621cf5a12e1b3baaa34f9eb9af7fcc79a833",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-Q3_K_XL.gguf",
+"Sha256": "ecf3e53f3b756d5c4279e7a919ac90c65ac3e4d21950b8346710c84dcd8b812f",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-Q4_K_XL.gguf",
+"Sha256": "3da22ca47db302edd8761119c1deb7e41bb9b0e621691aea905e41f7a8d6222f",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-Q5_K_XL.gguf",
+"Sha256": "1100620ee3c9921a993c545ebf10824ecaed627e2e5320a79ec1a84f029c35c0",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-Q6_K_XL.gguf",
+"Sha256": "638eadb461d77e750b73d5134cf7429e484a3e831a0cc7dc63668ce3aad464e9",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "Qwen3-VL-8B-Instruct-1M-UD-Q8_K_XL.gguf",
+"Sha256": "94d2056dd3e712a70404f02f6a37929cf379a3a65e7c601c08a6471e0eda583e",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "d1ace0dbfb4a328899f248b5ff7092029f3a46737deec7011cba34f33e6aa95b",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "be380cab808bd677e306528e884e08a68f821cb1186ca48478a6dcdbf31f63a3",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "a64a9e44dc06cfaca2b3854a0921e9768a094fac7eb7c7066acdd55f10c59440",
+"IsLFS": true,
+"CommittedDate": 1762061648
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "aa4189fb551ac2da887f295b7c5bd2154f5a77c2c66d2894361dd486027ab214",
+"IsLFS": true,
+"CommittedDate": 1762061648
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int4
+main commit at snapshot: 5fece1e232475f4da75cf0e4283606a3186fee8a
+snapshot taken: 2026-11-13T13:49:50Z

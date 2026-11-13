@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-32B-Instruct
+main commit at snapshot: 5ede1c97bbab6ce5cda5812749b4c0bdf79b18dd
+snapshot taken: 2026-11-13T13:42:58Z

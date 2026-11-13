@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3-Embedding-0.6B-Q8_0.gguf	639150592	06507c7b42688469c4e7298b0a1e16deff06caf291cf0a5b278c308249c3e439	sha256
+Qwen3-Embedding-0.6B-f16.gguf	1197629632	421a27e58d165478cc7acb984a688c2aa41404968b0203e7cd743ece44c54340	sha256

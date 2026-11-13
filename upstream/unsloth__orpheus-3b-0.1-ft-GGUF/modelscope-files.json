@@ -1,0 +1,158 @@
+[
+{
+"Path": "orpheus-3b-0.1-ft-F16.gguf",
+"Sha256": "fc70e45d1d8d4b332babb4e734575833b72ec42ef06880991a0ed0520eea1a25",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-IQ4_NL.gguf",
+"Sha256": "d321fb60c252f2e7fa0d7b4db47e673353deae24cd24305a319ca6cdc39f5f45",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-IQ4_XS.gguf",
+"Sha256": "3dd5ed613707e4314b2d21cde977e9918370d5dc6960e202bb2b358667b80639",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q2_K.gguf",
+"Sha256": "1f11731ace630829c5918d9f18a7db0d88eb10514d5dce4d1b169c53ca091aa0",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q2_K_L.gguf",
+"Sha256": "1f11731ace630829c5918d9f18a7db0d88eb10514d5dce4d1b169c53ca091aa0",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q3_K_M.gguf",
+"Sha256": "c1aed51c603742e0c71a0442ca429f3b780e32b95ad55eaf011755c8e8ca0bd5",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q3_K_S.gguf",
+"Sha256": "6f3559383ceae734454dae168b8f296993c3c9d1339347ef35393be9280a4dc5",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q4_0.gguf",
+"Sha256": "32128e4c75261cf813b8f598be8e7f995d48bfdca3cbc6464003a54cd493e9a8",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q4_1.gguf",
+"Sha256": "d3cc79ca683f44f2bc58cb852e240413c18a9f8a97454818db12e92e29faa905",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q4_K_M.gguf",
+"Sha256": "4e94a925593c8fc1c20ee50e5b0e4bf915ea106a0bda3b917ff69b02559f7ab9",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q4_K_S.gguf",
+"Sha256": "6814ac8f25a3dcd7acdd4bebe28323acd7839cdc9f46204f77aad5d607048408",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q5_K_M.gguf",
+"Sha256": "be3ae2ce574b280a45548ef8839931db6b45a1805d909117a2fdfe17714f96c5",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q5_K_S.gguf",
+"Sha256": "4949d2ac118a1003c3b0c214ad8fe9eedde316eb1337f9ce0af4ce09d6e4a327",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q6_K.gguf",
+"Sha256": "e6a19288767e505e59383d598f95399649c3b26814235a14581957e1fcb8c414",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-Q8_0.gguf",
+"Sha256": "9a01ea76b66dd66d08a0952ed72932f0ecce59db3d5c9b1a33621ff7200ba531",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-IQ1_M.gguf",
+"Sha256": "6360c6b9c43f0fed847817281ad2f03d2c4644e1d45a45b721a0af8346e76ef2",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-IQ1_S.gguf",
+"Sha256": "0845947e208a8636eeb9d60014551d41a42458e417407d5f347ef5684076e60e",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-IQ2_M.gguf",
+"Sha256": "3f887c6ecb54d41800ac26b7547a7232c420eadefca7fcd832e51c2c8848cb53",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-IQ2_XXS.gguf",
+"Sha256": "a3bcc15333c5a1ebaa88a8f478d006ec69b57579afb3d10c551cec8afcae4f17",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-IQ3_XXS.gguf",
+"Sha256": "6b32a1ca38beb77f19de72cadd4569154412a2de6e346317b6d3f43aeeb50931",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-Q2_K_XL.gguf",
+"Sha256": "e511df5ba6448dc9fabd61933f1d51fc1d680b4fdf522828ac341f3c887cc7aa",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-Q3_K_XL.gguf",
+"Sha256": "8c15fe5c3c7693ddc578cf903f96f4bf0f717ccfabfdb9916fb971ea4d75bbe5",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-Q4_K_XL.gguf",
+"Sha256": "a71f69da4ea6afcbdcf33a936cbb2dd5e04276edf68da93ca833af4c1641f4d0",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-Q5_K_XL.gguf",
+"Sha256": "17e147bfb781f3762594e8a283b93feb8899c777be57ac62d74f460b004d9be8",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-Q6_K_XL.gguf",
+"Sha256": "cfd93ddaafea970e36168dbb1d95ab653ff4c88b683299ac6776ef210a28b9ea",
+"IsLFS": true,
+"CommittedDate": 1752085045
+},
+{
+"Path": "orpheus-3b-0.1-ft-UD-Q8_K_XL.gguf",
+"Sha256": "21fb4fd734c107af7d4a4048fda391b00cea88790393012ef426c46be0316a47",
+"IsLFS": true,
+"CommittedDate": 1752085045
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/WorldPM-72B-HelpSteer2
+main commit at snapshot: f148c293dc30570d37a85cb3dcc2e5468047fcf3
+snapshot taken: 2026-11-13T13:53:30Z

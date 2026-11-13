@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cygnal/Qwen3.8-Flash-Next-Heretic2-IQ4XS-NGQ4-GGUF
+main commit at snapshot: b7a350f3ba4c29962cefe9e69af225f142cda9bc
+snapshot taken: 2026-11-13T14:07:44Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic-GGUF
+main commit at snapshot: 617ff2a8186836b41cbe3998abdc0f4572b51aa5
+snapshot taken: 2026-11-13T14:08:04Z

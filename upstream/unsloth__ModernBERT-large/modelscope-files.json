@@ -1,0 +1,68 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "44510fec5d3a81a1877f225637b869495f18e55f6f23a09abb9be0acc030295f",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "onnx/model.onnx",
+"Sha256": "6bab50009674e7f26bb23023da41c886d1688cba62ea7009521f03a976cff561",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "onnx/model_bnb4.onnx",
+"Sha256": "8b179381ce3cc64460968ec9f5f35591140cc9f8f516ddf74ecc06b7a6500139",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "onnx/model_fp16.onnx",
+"Sha256": "29cef3547cd40ca45e585125b3cb58e0028c5a71cfe2ecded1e507b966cd0075",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "onnx/model_int8.onnx",
+"Sha256": "84baefd65face547d9090dfa591ba15eae35eaaa84a2eae5e75b9fd47f6ebe85",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "onnx/model_q4.onnx",
+"Sha256": "b480f884c31dbc0c752f89097a7fb37258b17bd904b1904bad770b02b6e1bc76",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "onnx/model_q4f16.onnx",
+"Sha256": "0a12b6229a1fa5221e6a8c04a7a0cc9f2bbfa21f3e142369a1d76a35b670940f",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "onnx/model_quantized.onnx",
+"Sha256": "84baefd65face547d9090dfa591ba15eae35eaaa84a2eae5e75b9fd47f6ebe85",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "onnx/model_uint8.onnx",
+"Sha256": "9020c46e799c51965677e0fd85fabb43eabfeb3d2e0bb686d11166bb6052c4f1",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "pytorch_model.bin",
+"Sha256": "fabb014a0b62d28ec5f2de530d2ade920b9293f170a4ec38acfa1b8096531adc",
+"IsLFS": true,
+"CommittedDate": 1769105903
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "9fd55248d51d33976b324fc11592e28071da7d41e0e9401dfb7082e30574b7b1",
+"IsLFS": true,
+"CommittedDate": 1769105903
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B
+main commit at snapshot: 60d2b0434a53d2e62a7c00a489586815d94ebffb
+snapshot taken: 2026-11-13T13:47:51Z

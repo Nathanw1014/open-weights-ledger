@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MiMo-V2.5
+main commit at snapshot: 760708b096977a24c7f3e81704c4dbcd3582ecb5
+snapshot taken: 2026-11-13T13:40:38Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Z-Image-Turbo-unsloth-bnb-4bit
+main commit at snapshot: 46c16987e6b5ede9c1108441f79c2823038b86a1
+snapshot taken: 2026-11-13T13:17:05Z

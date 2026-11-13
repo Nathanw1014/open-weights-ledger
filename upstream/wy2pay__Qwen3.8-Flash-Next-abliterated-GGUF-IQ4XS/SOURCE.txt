@@ -1,0 +1,3 @@
+repo: https://huggingface.co/wy2pay/Qwen3.8-Flash-Next-abliterated-GGUF-IQ4XS
+main commit at snapshot: 6c3bc492fc1983fbd065cb0745f07a61c7f5f698
+snapshot taken: 2026-11-13T14:03:35Z

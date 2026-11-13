@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HeYujie/Qwen3.5-35B-A3B-abliterated-GGUF
+main commit at snapshot: c584b125c827ac29c62dc95cb46d0343b5a490ff
+snapshot taken: 2026-11-13T14:03:59Z

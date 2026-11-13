@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/FLUX.2-dev-ComfyUI
+main commit at snapshot: 78d49c54bd590c1b273ddf40aa6f435c49764c46
+snapshot taken: 2026-11-13T13:40:33Z

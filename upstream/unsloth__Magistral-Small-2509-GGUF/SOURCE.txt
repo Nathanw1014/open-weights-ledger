@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Magistral-Small-2509-GGUF
+main commit at snapshot: 77fe877ee8e44eadf97235a1ad77471678eed310
+snapshot taken: 2026-11-13T13:10:46Z

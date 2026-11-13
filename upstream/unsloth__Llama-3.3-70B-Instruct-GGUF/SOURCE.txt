@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.3-70B-Instruct-GGUF
+main commit at snapshot: 8f14c5c5d06fca109ff16f94496147a8479711de
+snapshot taken: 2026-11-13T13:06:33Z

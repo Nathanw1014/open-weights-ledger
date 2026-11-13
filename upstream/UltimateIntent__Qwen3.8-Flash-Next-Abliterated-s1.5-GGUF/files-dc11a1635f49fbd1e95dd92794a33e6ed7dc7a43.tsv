@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-Flash-Next-Abliterated-s1.5-IQ4_XS.gguf	98421788032	ae599d73aa8e8be63a14cb5cd46dfa1648af223a71046bf3540861dfcb409ecf	sha256
+Qwen3.8-Flash-Next-Abliterated-s1.5-Q4_K_M.gguf	119137881472	be9247e2a2c02da71bb8b6e133059a7472a81a55f0004537da523495bb689f36	sha256
+Qwen3.8-Flash-Next-Abliterated-s1.5-Q5_K_M.gguf	134100052352	8953778a5404efd207dc0e082c31adb7e2fbed47113f32735202f6c33231836c	sha256
+Qwen3.8-Flash-Next-Abliterated-s1.5-Q6_K.gguf	167639838592	873015f55a23999e25ceb7ffe4374972f191cbf06a9f2dc56188e85bfd57b617	sha256
+Qwen3.8-Flash-Next-Abliterated-s1.5-Q8_0.gguf	188224949536	381ffeb184a0e49d8e6d81329c50c4dadaf2864ce102bf042a9daf56d24ccbfc	sha256
+Qwen3.8-Flash-Next-Abliterated-s1.5-mmproj-BF16.gguf	907543008	b7f8e3efbdf9f6e685fdf1a2b02dc8cf32fa9074e6ab90d4672303bbb33b3ec9	sha256

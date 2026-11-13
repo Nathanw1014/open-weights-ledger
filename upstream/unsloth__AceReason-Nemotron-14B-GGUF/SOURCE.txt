@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/AceReason-Nemotron-14B-GGUF
+main commit at snapshot: e18a69a3f24d2800b7eac2ee8dcda3db3e7375ba
+snapshot taken: 2026-11-13T13:19:50Z

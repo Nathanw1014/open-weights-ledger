@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3.5-35B-A3B-Experiments-GGUF
+main commit at snapshot: eb6afb2fde8e3b4310c66e6e5d970215e936c9a3
+snapshot taken: 2026-11-13T13:15:26Z

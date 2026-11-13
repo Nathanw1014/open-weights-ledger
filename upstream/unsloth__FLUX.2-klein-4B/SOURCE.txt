@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/FLUX.2-klein-4B
+main commit at snapshot: 04e0a8a04668b5a41d554c37c0e59f220c46c533
+snapshot taken: 2026-11-13T13:05:10Z

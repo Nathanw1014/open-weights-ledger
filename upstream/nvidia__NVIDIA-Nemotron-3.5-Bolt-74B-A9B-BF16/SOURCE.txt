@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-BF16
+main commit at snapshot: e09a4cedb1787db1760375ee5539f222cae0c672
+snapshot taken: 2026-11-13T13:56:17Z

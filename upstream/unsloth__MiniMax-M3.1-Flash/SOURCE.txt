@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MiniMax-M3.1-Flash
+main commit at snapshot: 99dcb72794f35f0e89d00edc588dff704df359b0
+snapshot taken: 2026-11-13T13:23:15Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF
+main commit at snapshot: eb48357c179d34dbf515983f798dfb8752a0f261
+snapshot taken: 2026-11-13T13:03:55Z

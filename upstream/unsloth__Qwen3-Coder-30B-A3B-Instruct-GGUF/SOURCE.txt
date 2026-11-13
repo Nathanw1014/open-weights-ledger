@@ -1,0 +1,4 @@
+repo: https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF
+main commit at snapshot: b17cb02dd882d5b6ab62fc777ad2995f19668350
+lastModified: 2026-01-30T06:29:38.000Z
+snapshot taken: 2026-11-13T09:41:03Z

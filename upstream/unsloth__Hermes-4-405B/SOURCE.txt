@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Hermes-4-405B
+main commit at snapshot: b9c177de2828f6fd648d087e79fa1cac375f166c
+snapshot taken: 2026-11-13T13:40:50Z

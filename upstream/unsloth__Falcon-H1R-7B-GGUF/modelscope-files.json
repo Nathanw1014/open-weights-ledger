@@ -1,0 +1,164 @@
+[
+{
+"Path": "Falcon-H1R-7B-BF16.gguf",
+"Sha256": "fa2359b5aadb28048c720a9765271b50230fafd6ebd1c2748704005c94c6c33b",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-IQ4_NL.gguf",
+"Sha256": "9115a6f7a08ce2bba2000371be85ab09b455c381ddb2f3a0fa805a9644853b84",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-IQ4_XS.gguf",
+"Sha256": "0f20c8e7dbaff1c5a5f949ac8e666fbb9513bcb7479d996aa9d66e1a51157d45",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q2_K.gguf",
+"Sha256": "eee4c41add925ca5719eddd9ee03fc3026a87a64679040aa9aa49808c3c38883",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q2_K_L.gguf",
+"Sha256": "266f66c889a27bbfd2885a5ac4a26cc96110ea5808b9d5c031ec2abee494e6ed",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q3_K_M.gguf",
+"Sha256": "aacf7b2f6c0e8b9ce02b401743121f67230f31f285482ad02bb43910d88e794a",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q3_K_S.gguf",
+"Sha256": "0baa59a8ebaafe6172e4dd70f1297b507c153e29728a9113cfa3185398a3b105",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q4_0.gguf",
+"Sha256": "80876a886cbb451a525d4542eeb95b80a094062b0c790abc64578599d51adefc",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q4_1.gguf",
+"Sha256": "139ae87a27a8f9dc9fbe1a3b0188a4a7cd5c745a331f3e104e61ab1a952a9af5",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q4_K_M.gguf",
+"Sha256": "997e88ab6741f0da6f247c016ffbf127db15a95dae0bce5a2b4cbf305315fd7b",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q4_K_S.gguf",
+"Sha256": "96625a0f9d07167df76c6134aafceb27d9260203c1038227d216c1caa55379e5",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q5_K_M.gguf",
+"Sha256": "53fedf5b7671d5797a1a4366240d3b0e4bbe73f1e9f8c3b6d883e964b241eebc",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q5_K_S.gguf",
+"Sha256": "474a130ff07be82d7f310de7c2daa6ad10ff56c9b7700c009bc1e7bb56a0ef1a",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q6_K.gguf",
+"Sha256": "16d1bedea3fe3fce5c458aaadbdb701e224f2b6a0df066f442f88b44c09b61a1",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-Q8_0.gguf",
+"Sha256": "7eda9c400737469b7f3a574fefbf01475046027f9bb01b48393c72f5baea1602",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-IQ1_M.gguf",
+"Sha256": "fe6c7638e8fb4840f911036a3d5ab39c44dcf455abdd75ef31010ea3f22629e6",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-IQ1_S.gguf",
+"Sha256": "db505936a558a458eb2299a85f897a982436facc77ec5f0a4c59bc116dda43c4",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-IQ2_M.gguf",
+"Sha256": "fc83b6d57b5348df4ff9476530a03291e4a7be728eae2c140d9d3278c06d805d",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-IQ2_XXS.gguf",
+"Sha256": "73fcd2cd08e15447a455bfa2a85ae07b06fa8de246a5409f3a0f8da4d91109fb",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-IQ3_XXS.gguf",
+"Sha256": "1737beaef506c52c16420fd6e8d8506eab2d65d43cb9957d39f9e428019a96c9",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-Q2_K_XL.gguf",
+"Sha256": "255e30baa05965975a115f0a318b94891d0a8cf0ca578db5b88aef8343b93779",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-Q3_K_XL.gguf",
+"Sha256": "692322d43570bb2954220fc7db46a198e60fa4ea04019e409141521ccac1e56c",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-Q4_K_XL.gguf",
+"Sha256": "3bb3a9af20f895cae276f65557b586576931e555f5f293689dc634df5433ea5a",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-Q5_K_XL.gguf",
+"Sha256": "20caee684eead411a81504adb8c7ddb4a469822f569bfd19e6b928d98c810e73",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-Q6_K_XL.gguf",
+"Sha256": "95d7c93c524ded690d7df3231942b735293d55fbfe41733e4ad9d30d5a226224",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "Falcon-H1R-7B-UD-Q8_K_XL.gguf",
+"Sha256": "28a1b49d69a929cfc30464753ac71d47665da7c638f884ccdc8351d90824062a",
+"IsLFS": true,
+"CommittedDate": 1767724757
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "edcd1f04c9634c3c464f3c53dfe2df88e85d18b006173303fcffc120ce58f30e",
+"IsLFS": true,
+"CommittedDate": 1767724757
+}
+]

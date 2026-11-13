@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int8
+main commit at snapshot: 1355275e3b43ac4a3ad710fb8fdcdaf9483d807c
+snapshot taken: 2026-11-13T13:51:02Z

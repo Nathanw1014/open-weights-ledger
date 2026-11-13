@@ -1,0 +1,2 @@
+checked 2026-11-13T09:35:08Z
+unsloth/gemma-4-E2B-it-GGUF                             81 GB   2 seeds  magnet:?xt=urn:btih:91653415113858b0c45a9ab84b276ba08b066aed&xt=urn:btmh:1220cd5fec02107147af20d4b40e05c01a83d97ea25cb43b6e7e62b1f5d67ccf2571&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2Fgemma-4-E2B-it-GGUF%2F0314792d7f1f7e229411f620751375812bb9faf2%2F

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-14B-MLX-8bit
+main commit at snapshot: 7f11bdbf4e522b155526983c77d33771330d5b8f
+snapshot taken: 2026-11-13T13:49:55Z

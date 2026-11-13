@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.5-9B-Claude-4.6-HighIQ-INSTRUCT-HERETIC-UNCENSORED-GGUF
+main commit at snapshot: 0f1ae866bd40b47ad6272ff5ae7ceb1c05769eba
+snapshot taken: 2026-11-13T14:08:26Z

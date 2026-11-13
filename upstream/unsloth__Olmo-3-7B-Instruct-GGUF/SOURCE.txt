@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Olmo-3-7B-Instruct-GGUF
+main commit at snapshot: a2a9ae53f5a95087616b3f45ca96e9d2631344ee
+snapshot taken: 2026-11-13T13:10:32Z

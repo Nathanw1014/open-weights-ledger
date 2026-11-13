@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-Prover-V2-7B-bnb-4bit
+main commit at snapshot: d17a3db97508a40d1cef8fcf356e69dc14423136
+snapshot taken: 2026-11-13T13:33:21Z

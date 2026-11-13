@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced
+main commit at snapshot: ae8045ac2bd216293ca49a3065da2c942dde4b68
+snapshot taken: 2026-11-13T14:08:57Z

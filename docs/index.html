@@ -1,0 +1,1296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Open Weights Ledger</title>
+<style>
+:root{
+  color-scheme:light;
+  --plane:#f9f9f7;--surface:#fcfcfb;--sunk:#f1f0ec;
+  --ink:#0b0b0b;--ink2:#52514e;--muted:#6f6e69;
+  --line:#e1e0d9;--line2:#c3c2b7;--ring:rgba(11,11,11,.10);
+  --good:#0ca30c;--warn:#fab219;--serious:#ec835a;--crit:#d03b3b;
+  --s1:#2a78d6;--s3:#1baf7a;--s0:#c3c2b7;
+  --link:#1d5fb4;--focus:#2a78d6;
+  --crit-bg:rgba(208,59,59,.08);--serious-bg:rgba(236,131,90,.10);--good-bg:rgba(12,163,12,.07);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --plane:#0d0d0d;--surface:#1a1a19;--sunk:#232322;
+    --ink:#f0efec;--ink2:#c3c2b7;--muted:#9a988f;
+    --line:#2c2c2a;--line2:#44443f;--ring:rgba(255,255,255,.10);
+    --s1:#3987e5;--s3:#199e70;--s0:#55544f;
+    --link:#7fb2f2;--focus:#3987e5;
+    --crit-bg:rgba(208,59,59,.16);--serious-bg:rgba(236,131,90,.13);--good-bg:rgba(12,163,12,.12);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --plane:#0d0d0d;--surface:#1a1a19;--sunk:#232322;
+  --ink:#f0efec;--ink2:#c3c2b7;--muted:#9a988f;
+  --line:#2c2c2a;--line2:#44443f;--ring:rgba(255,255,255,.10);
+  --s1:#3987e5;--s3:#199e70;--s0:#55544f;
+  --link:#7fb2f2;--focus:#3987e5;
+  --crit-bg:rgba(208,59,59,.16);--serious-bg:rgba(236,131,90,.13);--good-bg:rgba(12,163,12,.12);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:52px}
+body{margin:0;background:var(--plane);color:var(--ink);font:14px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:1240px;margin:0 auto;padding:0 16px 72px}
+h1{font-size:18px;margin:0;font-weight:650}
+h2{font-size:16px;margin:0;font-weight:650}
+h3{font-size:13px;margin:0 0 6px;font-weight:650}
+p{margin:0}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+code,.mono{font:12px/1.4 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--focus);outline-offset:1px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.i{width:14px;height:14px;flex:none;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;vertical-align:-2px}
+.num{font-variant-numeric:tabular-nums}
+.dim{color:var(--ink2)}
+.small{font-size:12px}
+.c-good{color:var(--good)}.c-crit{color:var(--crit)}.c-serious{color:var(--serious)}.c-mut{color:var(--muted)}.c-s1{color:var(--s1)}
+
+/* top bar */
+.top{position:sticky;top:0;z-index:5;background:var(--plane);border-bottom:1px solid var(--line);margin:0 -16px;padding:8px 16px;display:flex;gap:6px 18px;align-items:baseline;flex-wrap:wrap}
+.top nav{display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+.top nav a{color:var(--ink2)}
+.top .gen{margin-left:auto;color:var(--ink2);font-size:12px}
+
+/* search */
+.search{margin:16px 0 0;position:relative}
+.search input{width:100%;padding:11px 40px 11px 38px;border:1px solid var(--line2);border-radius:8px;background:var(--surface);font-size:15px;min-width:0}
+.search .i.mag{position:absolute;left:12px;top:14px;width:16px;height:16px;color:var(--muted)}
+.search button{position:absolute;right:6px;top:6px;width:32px;height:32px;border:0;background:none;border-radius:6px;color:var(--ink2)}
+.search button:hover{background:var(--sunk)}
+.search input::-webkit-search-cancel-button{display:none}
+.hint{color:var(--ink2);font-size:12px;margin-top:6px}
+
+/* verdict */
+.verdict{margin-top:10px;display:grid;gap:10px}
+.vc{background:var(--surface);border:1px solid var(--line2);border-left-width:4px;border-radius:8px;padding:12px 14px;min-width:0}
+.vc.good{border-left-color:var(--good)}.vc.serious{border-left-color:var(--serious)}.vc.crit{border-left-color:var(--crit)}.vc.neutral{border-left-color:var(--line2)}
+.vc .vh{display:flex;gap:8px;align-items:center;font-size:16px;font-weight:650}
+.vc .vh .i{width:18px;height:18px}
+.vc .vs{color:var(--ink2);margin-top:2px}
+.fullhash{display:flex;gap:8px;align-items:flex-start;margin-top:8px}
+.fullhash code{overflow-wrap:anywhere;user-select:all;background:var(--sunk);padding:4px 6px;border-radius:4px;min-width:0}
+.place{border-top:1px solid var(--line);margin-top:10px;padding-top:10px;min-width:0}
+.place .path{font-weight:600;overflow-wrap:anywhere}
+.place .repo{color:var(--ink2);font-size:12px;overflow-wrap:anywhere}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:3px 12px;margin-top:8px;font-size:13px}
+.kv dt{color:var(--ink2)}
+.kv dd{margin:0;min-width:0;overflow-wrap:anywhere}
+.kv dd .i{margin-right:4px}
+
+/* panels */
+section{margin-top:28px}
+.sh{display:flex;gap:6px 12px;align-items:baseline;flex-wrap:wrap;margin-bottom:8px}
+.sh .dim{font-size:12px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.pad{padding:12px 14px}
+
+/* summary */
+.sum{display:grid;grid-template-columns:minmax(0,2fr) repeat(2,minmax(0,1fr));gap:10px;margin-top:16px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;min-width:0}
+.tile .lab{font-size:12px;color:var(--ink2)}
+.tile .val{font-size:26px;font-weight:650;line-height:1.15;margin-top:2px;font-variant-numeric:tabular-nums}
+.tile .val small{font-size:13px;font-weight:400;color:var(--ink2)}
+.tile .sub{font-size:12px;color:var(--ink2);margin-top:4px}
+.tile .sub button,.linkbtn{border:0;background:none;padding:0;color:var(--link);text-align:left}
+.tile .sub button:hover,.linkbtn:hover{text-decoration:underline}
+.seg{display:flex;gap:2px;height:10px;margin:10px 0 8px}
+.seg span{display:block;min-width:3px;height:100%}
+.seg span:first-child{border-radius:4px 0 0 4px}.seg span:last-child{border-radius:0 4px 4px 0}.seg span:only-child{border-radius:4px}
+.leg{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:12px}
+.leg button{border:0;background:none;padding:2px 0;display:flex;gap:6px;align-items:center;color:var(--ink)}
+.leg button:hover .lt{text-decoration:underline}
+.leg i{width:10px;height:10px;border-radius:2px;flex:none}
+.leg b{font-variant-numeric:tabular-nums}
+@media (max-width:900px){.sum{grid-template-columns:repeat(2,minmax(0,1fr))}.sum .wide{grid-column:1/-1}}
+@media (max-width:560px){.sum{grid-template-columns:1fr}}
+
+/* filters */
+.filters{display:grid;gap:8px;padding:10px 12px;border-bottom:1px solid var(--line)}
+.fg{display:flex;gap:6px 8px;align-items:center;flex-wrap:wrap;min-width:0}
+.fg>.fl{font-size:12px;color:var(--ink2);width:72px;flex:none}
+.chip{border:1px solid var(--line2);background:var(--surface);border-radius:999px;padding:3px 10px;font-size:12.5px;white-space:nowrap;display:inline-flex;gap:5px;align-items:center}
+.chip:hover{background:var(--sunk)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+.chip .ct{opacity:.7;font-variant-numeric:tabular-nums}
+select{background:var(--surface);border:1px solid var(--line2);border-radius:6px;padding:4px 6px;font-size:12.5px;max-width:100%;min-width:0}
+.key{display:flex;flex-wrap:wrap;gap:4px 14px;padding:8px 12px;border-bottom:1px solid var(--line);font-size:12px;color:var(--ink2)}
+.key span{display:inline-flex;gap:4px;align-items:center}
+.keyd{border-bottom:1px solid var(--line)}.keyd>summary{padding:6px 12px;font-size:12px}.keyd[open]>summary{border-bottom:0;padding-bottom:0}.keyd .key{border-bottom:0}
+#fd>summary{color:var(--ink)}#fd[open]>summary{padding-bottom:0}
+.count{padding:8px 12px;font-size:12px;color:var(--ink2);display:flex;gap:6px 12px;flex-wrap:wrap;align-items:center}
+
+/* tables */
+.tw{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;font-weight:600;color:var(--ink2);white-space:nowrap;background:var(--surface)}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.nw{white-space:nowrap}
+tbody tr:last-child>td{border-bottom:0}
+tr.r{cursor:pointer}
+tr.r:hover>td{background:var(--sunk)}
+tr.r.open>td{background:var(--sunk);border-bottom-color:transparent}
+tr.d>td{background:var(--sunk);padding:4px 14px 14px}
+.path{overflow-wrap:anywhere;font-weight:550}
+.repo{overflow-wrap:anywhere;color:var(--ink2);font-size:12px}
+.c-file{min-width:220px}
+.badge{display:inline-flex;gap:4px;align-items:center;white-space:nowrap;min-height:20px}
+.svs{display:inline-flex;gap:4px;flex-wrap:nowrap}
+.sv{display:inline-flex;align-items:center;gap:3px;border:1px solid var(--line2);border-radius:5px;padding:1px 5px 1px 6px;font-size:11.5px;font-weight:600;line-height:18px;white-space:nowrap;background:var(--surface)}
+.sv .i{width:13px;height:13px}
+.sv-ok .i{color:var(--good)}
+.sv-copy .i{color:var(--s1)}
+.sv-bad{background:var(--crit-bg);border-color:var(--crit)}.sv-bad .i{color:var(--crit)}
+.sv-gone{background:var(--crit-bg);border-color:var(--crit)}.sv-gone .i{color:var(--crit)}
+.sv-newer,.sv-part,.sv-hist{border-style:dashed;color:var(--ink2);font-weight:500}
+.sv-none{border-color:transparent;background:none;color:var(--muted);font-weight:500}.sv-src{color:var(--ink2);font-weight:500}
+.hash{white-space:nowrap}
+.cp{border:0;background:none;padding:2px 4px;border-radius:4px;color:var(--ink2);margin-left:2px}
+.cp:hover{background:var(--line)}
+.cp.done{color:var(--good)}
+.more{display:block;width:100%;border:0;border-top:1px solid var(--line);background:none;padding:10px;color:var(--link);font-size:13px}
+.more:hover{background:var(--sunk)}
+.empty{padding:22px 14px;color:var(--ink2);text-align:center}
+.detail{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:4px 28px}
+.detail .kv{font-size:12.5px}
+.vers{list-style:none;margin:6px 0 0;padding:0;font-size:12.5px}
+.vers li{display:flex;gap:4px 10px;flex-wrap:wrap;padding:2px 0;align-items:center}
+.meter{display:inline-block;width:44px;height:6px;border-radius:3px;background:var(--s0);vertical-align:1px;margin-left:6px;overflow:hidden}
+.meter i{display:block;height:100%;background:var(--s1)}
+
+/* alerts and events */
+.alert{display:flex;gap:10px;padding:10px 14px;border-left:4px solid var(--line2);border-bottom:1px solid var(--line);min-width:0}
+.alert:last-child{border-bottom:0}
+.alert.crit{border-left-color:var(--crit);background:var(--crit-bg)}
+.alert.serious{border-left-color:var(--serious);background:var(--serious-bg)}
+.alert .i{width:16px;height:16px;margin-top:2px}
+.alert .b{min-width:0;overflow-wrap:anywhere}
+.alert .t{font-weight:650}
+.quiet{display:flex;gap:8px;align-items:center;padding:12px 14px;color:var(--ink2)}
+.ev{display:grid;grid-template-columns:150px 150px minmax(0,1fr);gap:2px 12px;padding:6px 14px;border-bottom:1px solid var(--line);font-size:13px}
+.ev:last-child{border-bottom:0}
+.ev .d{grid-column:3;color:var(--ink2);font-size:12px;overflow-wrap:anywhere}
+.ev>span{min-width:0;overflow-wrap:anywhere}
+details>summary{cursor:pointer;padding:10px 14px;color:var(--ink2)}
+details[open]>summary{border-bottom:1px solid var(--line)}
+.notes{color:var(--ink2);font-size:12.5px;display:grid;gap:6px;max-width:78ch}
+.notes b{color:var(--ink)}
+
+/* phone: rows become cards */
+@media (max-width:760px){
+  .top{position:static}
+  html{scroll-padding-top:8px}
+  .top .gen{margin-left:0;width:100%}
+  .fg>.fl{width:100%}
+  table.cards thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  table.cards,table.cards tbody{display:block}
+  table.cards tr.r{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 10px;padding:10px 12px;border-bottom:1px solid var(--line)}
+  table.cards tr.r>td{display:block;padding:0;border:0;background:none!important;min-width:0}
+  table.cards tr.r.open{background:var(--sunk)}
+  table.cards tr.r>td.full{grid-column:1/-1}
+  table.cards tr.r>td.hidem{display:none}
+  table.cards tr.r>td.n{text-align:right}
+  table.cards tr.r>td[data-l]:before{content:attr(data-l) " ";color:var(--ink2);font-size:12px}
+  table.cards tr.d{display:block;border-bottom:1px solid var(--line)}
+  table.cards tr.d>td{display:block;border:0;padding:0 12px 12px}
+  table.cards tbody tr:last-child{border-bottom:0}
+  .c-file{min-width:0}
+  table.kvc tr.r{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  table.kvc tr.r>td.n{text-align:left}
+  table.kvc tr.r>td[data-l]{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+  .ev{grid-template-columns:minmax(0,1fr) auto}
+  .ev .d,.ev .rp{grid-column:1/-1}
+  .detail{grid-template-columns:minmax(0,1fr)}
+}
+/* round 2: pickers, notices, progress */
+.top nav button{border:0;background:none;padding:0;color:var(--ink2);font-size:13px}
+.top nav button:hover{text-decoration:underline}
+.pick{border:1px solid var(--line2);background:var(--surface);border-radius:6px;padding:3px 8px;font-size:12.5px;display:inline-flex;gap:6px;align-items:center;max-width:100%;min-width:0}
+.pick:hover{background:var(--sunk)}
+.pick b{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+.pick.on{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.pickx{border:0;background:none;padding:2px 4px;margin-left:-4px;border-radius:4px;color:var(--ink2)}
+.pickx:hover{background:var(--sunk)}
+.pop{position:absolute;z-index:20;background:var(--surface);border:1px solid var(--line2);border-radius:8px;box-shadow:0 8px 28px rgba(0,0,0,.22);width:360px;max-width:calc(100vw - 32px)}
+.pop input{width:100%;border:0;border-bottom:1px solid var(--line);background:none;padding:9px 12px;font-size:14px;border-radius:8px 8px 0 0}
+.pop ul{list-style:none;margin:0;padding:4px;max-height:320px;overflow:auto}
+.pop li button{display:flex;gap:10px;justify-content:space-between;width:100%;border:0;background:none;padding:5px 8px;border-radius:5px;text-align:left;font-size:13px}
+.pop li button:hover,.pop li button.act{background:var(--sunk)}
+.pop li button span:first-child{overflow-wrap:anywhere;min-width:0}
+.pop li button .ct{color:var(--ink2);font-variant-numeric:tabular-nums;white-space:nowrap}
+.pop .pn{padding:6px 12px 8px;font-size:12px;color:var(--ink2)}
+.notice{display:flex;gap:8px 12px;align-items:center;flex-wrap:wrap;padding:8px 12px;border-bottom:1px solid var(--line);font-size:12.5px;background:var(--sunk)}
+.notice .i{color:var(--ink2)}
+.btn{border:1px solid var(--line2);background:var(--surface);border-radius:6px;padding:3px 10px;font-size:12.5px}
+.btn:hover{background:var(--plane)}
+.btn[disabled]{opacity:.6;cursor:default}
+.prog{display:inline-block;width:120px;height:6px;border-radius:3px;background:var(--s0);overflow:hidden;vertical-align:middle}
+.prog i{display:block;height:100%;background:var(--s1);width:0}
+.tag{display:inline-block;border:1px solid var(--line2);border-radius:4px;padding:0 5px;font-size:11px;line-height:16px;color:var(--ink2);white-space:nowrap;vertical-align:1px;font-weight:500}
+.rbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.rbar input{border:1px solid var(--line2);border-radius:6px;background:var(--surface);padding:4px 8px;font-size:13px;min-width:0;flex:1 1 180px;max-width:320px}
+.sv-unk{border-style:dotted;color:var(--ink2);font-weight:500}
+.sv-gate{border-style:dashed;color:var(--ink2)}
+.vnote{display:flex;gap:8px;align-items:center;color:var(--ink2);font-size:12.5px}
+
+/* round 3: tap explanations, settings sheet, compact filter bar */
+.top .gear{border:1px solid var(--line2);background:var(--surface);border-radius:6px;padding:4px 9px;display:inline-flex;gap:6px;align-items:center;font-size:13px;align-self:center}
+.top .gear:hover{background:var(--sunk)}
+.fbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;padding:10px 12px;border-bottom:1px solid var(--line)}
+.act{display:inline-flex;gap:2px;align-items:center;border:1px solid var(--ink);border-radius:999px;padding:1px 3px 1px 9px;font-size:12px;max-width:100%;min-width:0}
+.act>span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+.act button{border:0;background:none;padding:3px;border-radius:999px;color:var(--ink2);display:inline-flex}
+.act button:hover{background:var(--sunk)}
+button.sv{cursor:pointer;font-family:inherit;color:inherit}
+button.sv.sv-none,button.sv.sv-unk,button.sv.sv-newer,button.sv.sv-part,button.sv.sv-hist,button.sv.sv-gate{color:var(--ink2)}
+button.sv.sv-none{color:var(--muted)}
+button.sv[aria-expanded="true"],button.tapb[aria-expanded="true"]{outline:2px solid var(--focus);outline-offset:1px}
+button.tapb{border:0;background:none;padding:0;font:inherit;color:inherit;cursor:pointer;text-decoration:underline dotted var(--line2);text-underline-offset:4px}
+button.tapb.c-mut{color:var(--muted)}
+button.tag{cursor:pointer;background:none;font-family:inherit}
+.ib{border:0;background:none;padding:0 2px;margin-left:4px;color:var(--ink2);vertical-align:-2px;display:inline-flex;border-radius:999px}
+.ib:hover{color:var(--ink)}
+#tip{position:absolute;z-index:40;width:max-content;max-width:min(340px,calc(100vw - 16px));background:var(--pop,var(--surface));border:1px solid var(--line2);border-radius:8px;box-shadow:0 8px 28px rgba(0,0,0,.28);padding:10px 12px;font-size:13px;line-height:1.45;color:var(--ink)}
+#tip h4{margin:0 0 4px;font-size:13px;font-weight:650;display:flex;gap:6px;align-items:center}
+#tip p{margin:0 0 6px}
+#tip p:last-child{margin-bottom:0}
+#tip .dim{font-size:12px}
+#tip ul{list-style:none;margin:4px 0 6px;padding:0;font-size:12.5px}
+#tip li{display:flex;gap:10px;font-variant-numeric:tabular-nums}
+.pop{background:var(--pop,var(--surface))}
+.pop .menu button{padding:8px 10px}
+.pop .menu button[aria-selected="true"]{font-weight:650}
+.backdrop{position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:14}
+.sheet{position:fixed;top:0;right:0;bottom:0;width:400px;max-width:100vw;background:var(--pop,var(--surface));border-left:1px solid var(--line2);z-index:15;overflow:auto;-webkit-overflow-scrolling:touch;box-shadow:-8px 0 28px rgba(0,0,0,.25)}
+.sheet-h{position:sticky;top:0;background:inherit;display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-bottom:1px solid var(--line);z-index:1}
+.sheet-s{padding:12px 16px;border-bottom:1px solid var(--line);display:grid;gap:8px}
+.sheet-s h3{margin:0}
+.sheet .fg>.fl{width:100%}
+.sheet label.ck{display:inline-flex;gap:6px;align-items:center;font-size:13px;margin-right:12px}
+.about{margin:28px 0 0;color:var(--ink2);font-size:12.5px;max-width:78ch}
+.plain{grid-column:1/-1;margin:6px 0 4px;font-size:13px;max-width:80ch}
+.sumlink{display:none}
+details.fold>summary{padding:10px 14px;color:var(--ink)}
+.hide-sha .col-sha,.hide-size .col-size,.hide-date .col-date{display:none!important}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--pop:#262624}}
+:root[data-theme="dark"]{--pop:#262624}
+@media (max-width:760px){
+  .top{gap:4px 14px}
+  .top h1{flex:1;order:0}
+  .top .gear{order:1}
+  .top nav{order:2;width:100%}
+  .top .gen{order:3}
+  .gen .genx{display:none}
+  .sh>.dim.hidem{display:none}
+  section{margin-top:16px}
+  table.cards tr.r>td[data-l="Version"]{order:1}
+  table.cards tr.r>td.col-size{order:2;align-self:center}
+  table.cards tr.r>td.col-sha{order:3;grid-column:1/-1}
+  .sum .extra{display:none}
+  .sum.more .extra{display:block}
+  .sumlink{display:inline}
+  .tile.abl .val{font-size:16px;display:inline}
+  .tile.abl .val small{font-size:12px}
+  .tile.abl .lab{display:inline;margin-right:6px}
+  .tile.abl .sub br{display:none}
+  .tile.abl .sub>span{margin-right:10px}
+  .search{margin-top:10px}
+  .sum{margin-top:10px;gap:8px}
+  .sh>.dim{display:none}
+  .tile{padding:10px 12px}
+  .tile .val{font-size:22px}
+  .svs{gap:6px}
+  .sv{min-height:30px;padding:3px 8px 3px 9px;font-size:12.5px}
+  button.tapb{min-height:30px;display:inline-flex;align-items:center}
+  .sheet{width:100vw;border-left:0}
+  .pick{padding:6px 9px}
+}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-check" viewBox="0 0 16 16"><path d="M3 8.6l3.2 3.2L13 4.6"/></symbol>
+  <symbol id="i-neq" viewBox="0 0 16 16"><path d="M3 6h10M3 10h10M10.5 2.8l-5 10.4"/></symbol>
+  <symbol id="i-dot" viewBox="0 0 16 16"><path d="M5.5 8h5"/></symbol>
+  <symbol id="i-src" viewBox="0 0 16 16"><circle cx="8" cy="8" r="2.6"/></symbol>
+  <symbol id="i-copy" viewBox="0 0 16 16"><rect x="5.5" y="5.5" width="8" height="8" rx="1.5"/><path d="M3 10.5V3.5a1 1 0 0 1 1-1h6.5"/></symbol>
+  <symbol id="i-up" viewBox="0 0 16 16"><path d="M8 13V3.5M4 7.2l4-4 4 4"/></symbol>
+  <symbol id="i-tilde" viewBox="0 0 16 16"><path d="M2.5 9.2c1.6-3.2 3.6-3.2 5.5-1.2s3.9 2 5.5-1.2"/></symbol>
+  <symbol id="i-x" viewBox="0 0 16 16"><path d="M4 4l8 8M12 4l-8 8"/></symbol>
+  <symbol id="i-clock" viewBox="0 0 16 16"><circle cx="8" cy="8" r="5.6"/><path d="M8 4.8V8l2.2 1.4"/></symbol>
+  <symbol id="i-warn" viewBox="0 0 16 16"><path d="M8 2.4l6 10.8H2zM8 6.8v3M8 11.6v.2"/></symbol>
+  <symbol id="i-minus" viewBox="0 0 16 16"><path d="M3.5 8h9"/></symbol>
+  <symbol id="i-reup" viewBox="0 0 16 16"><path d="M13 8a5 5 0 1 1-1.6-3.7M13 2.6v3.2H9.8"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 16 16"><path d="M8 3.5v9M3.5 8h9"/></symbol>
+  <symbol id="i-right" viewBox="0 0 16 16"><path d="M3 8h10M9 4l4 4-4 4"/></symbol>
+  <symbol id="i-q" viewBox="0 0 16 16"><circle cx="8" cy="8" r="5.6"/><path d="M6.4 6.4a1.7 1.7 0 1 1 2.4 1.7c-.6.3-.8.7-.8 1.3M8 11.4v.2"/></symbol>
+  <symbol id="i-mag" viewBox="0 0 16 16"><circle cx="7" cy="7" r="4.5"/><path d="M10.4 10.4L14 14"/></symbol>
+  <symbol id="i-lock" viewBox="0 0 16 16"><rect x="3.5" y="7" width="9" height="6.5" rx="1.5"/><path d="M5.5 7V5.2a2.5 2.5 0 0 1 5 0V7"/></symbol>
+  <symbol id="i-down" viewBox="0 0 16 16"><path d="M4 6.5l4 4 4-4"/></symbol>
+  <symbol id="i-gear" viewBox="0 0 16 16"><circle cx="8" cy="8" r="2.2"/><path d="M8 1.6v1.9M8 12.5v1.9M1.6 8h1.9M12.5 8h1.9M3.5 3.5l1.3 1.3M11.2 11.2l1.3 1.3M12.5 3.5l-1.3 1.3M4.8 11.2l-1.3 1.3"/><circle cx="8" cy="8" r="4.6"/></symbol>
+</svg>
+<main>
+<div class="top">
+  <h1>Open Weights Ledger</h1>
+  <nav aria-label="Sections"><button type="button" data-act="go" data-v="files">Files</button><button type="button" data-act="go" data-v="changes">Changes</button><button type="button" data-act="go" data-v="repos">Repos</button></nav>
+  <span class="gen" id="gen"></span>
+  <button type="button" class="gear" data-act="settings" aria-haspopup="dialog"><svg class="i" aria-hidden="true"><use href="#i-gear"/></svg>Settings</button>
+</div>
+
+<div class="search">
+  <svg class="i mag"><use href="#i-mag"/></svg>
+  <label class="sr" for="q">Check a sha256, or search file and repo names</label>
+  <input id="q" type="search" placeholder="Paste a sha256, or type part of a file or repo name" autocomplete="off" autocapitalize="off" spellcheck="false">
+  <button type="button" data-act="clearq" aria-label="Clear search" title="Clear"><svg class="i"><use href="#i-x"/></svg></button>
+</div>
+<div id="verdict" class="verdict" aria-live="polite"></div>
+
+<div class="sum" id="summary"></div>
+
+<section id="files">
+  <div class="sh"><h2>Files</h2><span class="dim">Tap a row for details. Tap any mark for what it means.</span></div>
+  <div class="panel">
+    <div class="fbar" id="fbar"></div>
+    <div id="fnotice"></div>
+    <div class="count" id="count"></div>
+    <div class="tw"><table class="cards" id="ftable"></table></div>
+    <div id="fmore"></div>
+  </div>
+</section>
+
+<section id="changes">
+  <div class="sh"><h2>Changes upstream</h2><span class="dim">Re-uploads, removals, gated and unavailable repos seen by the daily scrape.</span></div>
+  <div class="panel" id="alerts"></div>
+  <div class="sh" style="margin-top:16px"><h3>Event log</h3></div>
+  <div class="panel" id="events"></div>
+  <div class="sh" style="margin-top:16px"><h3>Paths with more than one hash</h3><span class="dim">From Hugging Face commit history, including changes made before tracking began.</span></div>
+  <div class="panel" id="hist"></div>
+</section>
+
+<section id="repos">
+  <div class="sh"><h2>Repos</h2><span class="dim hidem">Select a repo to filter the file list.</span></div>
+  <div class="panel">
+    <div class="filters">
+      <div id="rfilters" class="fbar" style="padding:0;border:0"></div>
+      <div class="fg"><span class="fl">Find</span><div class="rbar" style="flex:1"><label class="sr" for="rq">Filter repos by name</label><input id="rq" type="search" placeholder="Part of a repo name" autocomplete="off" autocapitalize="off" spellcheck="false">
+        <label class="small dim" for="r-sort">Sort</label><select id="r-sort"><option value="downloads">Most downloaded</option><option value="name">Name</option><option value="files">Most current files</option><option value="unconf">Fewest confirmed</option><option value="older">Most older versions</option><option value="last">Latest commit</option></select></div></div>
+    </div>
+    <div class="count" id="rcount"></div>
+    <div class="tw"><table class="cards kvc" id="rtable"></table></div>
+    <div id="rmore"></div>
+  </div>
+</section>
+
+<section id="notes">
+  <details class="panel fold" id="notes-d"><summary>How to read this page</summary>
+  <div class="notes pad">
+    <p><b>What this is</b>: a dated record of model weight file hashes scraped from Hugging Face, which other services list the same hash, and what has changed since. A matching hash shows the bytes are the same as the ones recorded here. It does not show that a model is safe.</p>
+    <p><b>Confirmed by a second service</b> means ModelScope lists the same sha256 for the file, independently of Hugging Face.</p>
+    <p><b>Pirate Face</b> torrents are pinned to a repo commit. A pinned torrent is a second copy of the bytes, but its per-file hashes are copied from Hugging Face, so it is not an independent witness and does not count as confirmation here. Repos that have not been looked up on Pirate Face yet show as "not checked", which is different from "no torrent".</p>
+    <p><b>Superseded</b> means the path now has a different hash at main. <b>Removed</b> means the path is no longer at main. On superseded rows a different ModelScope hash only means ModelScope carries the newer version.</p>
+    <p><b>Older versions</b> (superseded and removed hashes) are kept in separate files and loaded on demand. A pasted hash loads only the one file it could be in. Lists that need all of them say so and offer a button.</p>
+    <p><b>Abliterated or uncensored</b> is derived from repo names and tags (abliterated, obliterated, uncensored, heretic and similar), so it can miss a repo or include one by mistake. <b>Gated</b> means the repo needs a Hugging Face login, so its hashes could not be read. It is not an outage.</p>
+    <p><b>Versions</b>: v1 is the first hash on record for a file. "v2 (+1)" means the file was re-uploaded once and this is the second hash. A copy downloaded before a re-upload has the older hash.</p>
+    <p>All dates and times are UTC.</p>
+  </div>
+  </details>
+</section>
+<p class="about" id="about">A dated record of model weight hashes scraped from Hugging Face: which services list the same hash, and what has changed. A matching hash shows the bytes are the same as recorded, not that a model is safe.<span id="about-src"></span></p>
+</main>
+<div id="pop" class="pop" hidden></div>
+<div id="tip" role="dialog" aria-label="Explanation" hidden></div>
+<div id="backdrop" class="backdrop" data-act="closeset" hidden></div>
+<aside id="settings" class="sheet" role="dialog" aria-label="Settings" hidden>
+  <div class="sheet-h"><h2>Settings</h2><button type="button" class="btn" data-act="closeset">Close</button></div>
+  <div class="sheet-s"><h3>More filters</h3><div class="filters" id="filters" style="padding:0;border:0"></div></div>
+  <div class="sheet-s"><h3>Display <span class="dim small" style="font-weight:400">saved on this device</span></h3><div id="setdisp" style="display:grid;gap:8px"></div></div>
+  <div class="sheet-s"><h3>Key to the marks</h3><div class="key" id="key" style="padding:0;border:0"></div><div class="dim small">Tap any mark in the list for an explanation of that row.</div></div>
+  <div class="sheet-s"><h3>Reference</h3><div class="fg"><button type="button" class="btn" data-act="ref" data-v="notes">How to read this page</button></div></div>
+</aside>
+
+<script src="data.js"></script>
+<script>
+(function(){
+'use strict';
+/* link to the source repository; the footer link is rendered only when this is set */
+var REPO_URL='https://github.com/Nathanw1014/open-weights-ledger';
+var $=function(id){return document.getElementById(id)};
+function esc(s){return String(s==null?'':s).replace(/[&<>"'`]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;','`':'&#96;'}[c]})}
+function ic(n,cls){return '<svg class="i'+(cls?' '+cls:'')+'" aria-hidden="true"><use href="#i-'+n+'"/></svg>'}
+function fmtN(n){n=Number(n);if(!isFinite(n))n=0;return String(n).replace(/\B(?=(\d{3})+(?!\d))/g,',')}
+function fmtK(n){n=Number(n)||0;return n>=1e6?(n/1e6).toFixed(n>=1e7?0:1)+'M':n>=1e3?(n/1e3).toFixed(n>=1e4?0:1)+'k':String(n)}
+function size(b){b=+b||0;return b>=1e9?(b/1e9).toFixed(b>=1e11?0:1)+' GB':b>=1e6?(b/1e6).toFixed(0)+' MB':b>=1e3?(b/1e3).toFixed(0)+' kB':b+' B'}
+function utc(t){return t?String(t).slice(0,16).replace('T',' ')+' UTC':''}
+function short(h){return String(h).slice(0,12)}
+function seg(p){return String(p).split('/').map(encodeURIComponent).join('/')}
+function hfRepo(r){return 'https://huggingface.co/'+seg(r)}
+function hfFile(f){return hfRepo(f.repo)+'/blob/'+encodeURIComponent(f.commit)+'/'+seg(f.path)}
+function msRepo(r){return 'https://modelscope.cn/models/'+seg(r)}
+function ext(url,label){return '<a href="'+esc(url)+'" target="_blank" rel="noopener noreferrer">'+esc(label)+'</a>'}
+function hashHTML(h){return '<span class="hash"><code title="'+esc(h)+'">'+esc(short(h))+'</code><button type="button" class="cp" data-act="copy" data-v="'+esc(h)+'" title="Copy full sha256" aria-label="Copy full sha256">'+ic('copy')+'</button></span>'}
+function pct(a,b){return b?Math.round(100*a/b):0}
+function plural(n,one,many){return fmtN(n)+' '+(Number(n)===1?one:many)}
+
+var D,BASE,F,bySha,shaList,byPath,repoMap,ORD,VIEW=[],RVIEW=[];
+var DEF={q:'',state:'current',tier:'any',ms:'',pf:'',repo:'',fam:'',upl:'',abl:'any',sort:'repo',rq:'',rstatus:'any',rsort:'downloads'};
+var S={svc:{ms:false,pf:false},q:'',state:'current',tier:'any',repo:'',fam:'',upl:'',abl:'any',sort:'repo',limit:50,open:null,
+  ev:'all',evLimit:50,histLimit:12,rq:'',rstatus:'any',rsort:'downloads',rLimit:50,auto:false};
+var PAGE=50,RPAGE=50,LASTC=null,RC=null,FIRST=true;
+var T=window.MH_T={script:performance.now()};
+/* display preferences: per device, never in the URL */
+var PREF_DEF={page:50,cols:{sha:true,size:true,date:true}};
+var PREF={page:50,cols:{sha:true,size:true,date:true}};
+function loadPref(){try{var p=JSON.parse(window.localStorage.getItem('mh-settings')||'null');if(p&&typeof p==='object'){if([25,50,100].indexOf(p.page)>=0)PREF.page=p.page;if(p.cols)for(var k in PREF.cols)if(typeof p.cols[k]==='boolean')PREF.cols[k]=p.cols[k]}}catch(e){}}
+function savePref(){try{window.localStorage.setItem('mh-settings',JSON.stringify(PREF))}catch(e){}}
+function applyPref(){PAGE=PREF.page;for(var k in PREF.cols)document.body.classList.toggle('hide-'+k,!PREF.cols[k])}
+function prefChanged(){if(PREF.page!==PREF_DEF.page)return true;for(var k in PREF.cols)if(PREF.cols[k]!==PREF_DEF.cols[k])return true;return false}
+
+/* ---------- older versions: hist/XX.js shards, loaded on demand ---------- */
+var HIST={raw:{},rows:{},st:{},cbs:{},all:false,busy:false,done:0,total:0,failed:0,src:null};
+window.HIST_LOADED=function(p,rows){HIST.raw[String(p)]=rows};
+function shardList(){return (D&&D.hist_shards)||[]}
+function hasShard(p){return shardList().indexOf(p)>=0}
+function loadShard(p,cb){
+  if(HIST.st[p]==='ok'||HIST.st[p]==='fail'){if(cb)cb(HIST.st[p]==='ok');return}
+  (HIST.cbs[p]=HIST.cbs[p]||[]).push(cb);
+  if(HIST.st[p]==='load')return;
+  HIST.st[p]='load';
+  var s=document.createElement('script'),fin=false;
+  function done(){
+    if(fin)return;fin=true;
+    var ok=Object.prototype.hasOwnProperty.call(HIST.raw,p);
+    if(ok){HIST.rows[p]=HIST.raw[p].map(function(a){var f=inflate(a);f._h=true;return f});delete HIST.raw[p];addSha(HIST.rows[p])}
+    HIST.st[p]=ok?'ok':'fail';
+    if(s.parentNode)s.parentNode.removeChild(s);
+    var c=HIST.cbs[p]||[];HIST.cbs[p]=[];c.forEach(function(f){if(f)f(ok)});
+  }
+  if(Object.prototype.hasOwnProperty.call(HIST.raw,p)){setTimeout(done,0);return} /* already delivered by hist/all.js */
+  s.onload=done;s.onerror=done;s.src='hist/'+encodeURIComponent(p)+'.js';
+  document.head.appendChild(s);
+}
+function loadAllHist(){
+  if(HIST.all||HIST.busy)return;
+  var todo=shardList().filter(function(p){return HIST.st[p]!=='ok'});
+  todo.forEach(function(p){if(HIST.st[p]==='fail')delete HIST.st[p]});
+  HIST.busy=true;HIST.total=todo.length;HIST.done=0;HIST.failed=0;
+  var i=0,active=0;
+  function tick(){
+    var els=document.querySelectorAll('.histprog');
+    for(var k=0;k<els.length;k++)els[k].innerHTML='<span class="prog"><i style="width:'+pct(HIST.done,HIST.total)+'%"></i></span> Loading older versions, file '+fmtN(HIST.done)+' of '+fmtN(HIST.total);
+  }
+  function next(){
+    if(i>=todo.length){if(!active)finish();return}
+    while(active<6&&i<todo.length){active++;loadShard(todo[i++],function(ok){active--;HIST.done++;if(!ok)HIST.failed++;if(HIST.done%4===0||HIST.done===HIST.total)tick();next()})}
+  }
+  function finish(){HIST.busy=false;HIST.all=HIST.failed===0;setTimeout(render,0)}
+  renderNotice();renderChanges();tick();
+  /* one request for everything when the build provides hist/all.js; the per-prefix files remain the fallback */
+  var b=document.createElement('script'),started=false;
+  function go(){if(started)return;started=true;if(b.parentNode)b.parentNode.removeChild(b);next()}
+  b.onload=go;b.onerror=go;b.src='hist/all.js';document.head.appendChild(b);
+}
+function histTotal(){var t=(D&&D.totals)||{};return t.history_rows!=null?Number(t.history_rows)||0:(Number(t.superseded)||0)+(Number(t.removed)||0)}
+function histBtn(label){
+  if(HIST.busy)return '<span class="histprog vnote">Loading older versions</span>';
+  return '<button type="button" class="btn" data-act="loadhist">'+esc(label||'Load all older versions')+'</button>';
+}
+
+/* ---------- classification: one place, used by summary, filters, rows, verdict ---------- */
+function repoState(r){return !r||r.status===200||r.status==='200'?'ok':String(r.status).toLowerCase()==='gated'?'gated':'down'}
+function repoGone(f){return repoState(f._r)==='down'}
+function confirmed(f){return f.modelscope==='same'}
+function conflict(f){return f.state==='current'&&f.modelscope==='differs'}
+function tier(f){return confirmed(f)?'conf':f.pirateface==='pinned'?'pfcopy':'hfonly'}
+function services(f){
+  var hf,ms,pf,rs=repoState(f._r);
+  if(rs==='down') hf={c:'gone',i:'x',t:'repo unavailable now; hash is from our record'};
+  else if(rs==='gated') hf={c:'gate',i:'lock',t:'repo is gated now (login needed); hash is from our record'};
+  else if(f.state==='current') hf={c:'ok',i:'check',t:'has the latest version and hash of this file (Hugging Face is the source, so it does not count as a second confirmation)'};
+  else if(f.state==='superseded') hf={c:'hist',i:'clock',t:'in commit history only; main has a newer hash for this path'};
+  else hf={c:'hist',i:'clock',t:'in commit history only; path removed from main'};
+  if(f.modelscope==='same') ms={c:'ok',i:'check',t:f.state==='current'?'has the latest version and hash of this file':'lists this exact hash'};
+  else if(f.modelscope==='differs') ms=f.state==='current'?{c:'bad',i:'neq',t:'lists a DIFFERENT hash for this path'}:{c:'newer',i:'up',t:'carries a different (newer) version of this path'};
+  else if(f.modelscope==='older') ms={c:'hist',i:'clock',t:'mirror is behind: it still lists an older version of this file and has not picked up the latest hash'};
+  else if(f.modelscope==='absent') ms={c:'none',i:'dot',t:'repo is mirrored, this file is not listed'};
+  else ms={c:'none',i:'dot',t:'no mirror of this repo'};
+  if(f.pirateface==='pinned') pf={c:'copy',i:'copy',t:'torrent pinned to this commit carries this file (copy, not an independent hash)'};
+  else if(f.pirateface==='torrent-other-commit') pf={c:'part',i:'tilde',t:'torrent exists for the repo but is not pinned to this version'};
+  else if(f.pirateface==='unchecked') pf={c:'unk',i:'q',t:'not checked yet for this repo'};
+  else pf={c:'none',i:'dot',t:'no torrent'};
+  hf.k='HF';hf.n='Hugging Face';ms.k='MS';ms.n='ModelScope';pf.k='PF';pf.n='Pirate Face';
+  return [hf,ms,pf];
+}
+var ICOL={src:'c-mut',ok:'c-good',copy:'c-s1',bad:'c-crit',gone:'c-crit',newer:'c-mut',part:'c-mut',hist:'c-mut',none:'c-mut',unk:'c-mut',gate:'c-mut'};
+function chips(f,tap){
+  return '<span class="svs">'+services(f).map(function(s,i){
+    var inner=s.k+ic(s.i)+'<span class="sr"> '+esc(s.n+' '+s.t)+'. </span>';
+    return tap?'<button type="button" class="sv sv-'+s.c+'" data-act="info" data-k="sv" data-v="'+i+'" aria-expanded="false" title="'+esc(s.n+': '+s.t)+'">'+inner+'</button>'
+              :'<span class="sv sv-'+s.c+'" title="'+esc(s.n+': '+s.t)+'">'+inner+'</span>';
+  }).join('')+'</span>';
+}
+/* turn a badge into a tap target that opens its explanation */
+function tap(html,k,v){return html.replace(/^<span class="badge/,'<button type="button" data-act="info" data-k="'+k+'"'+(v==null?'':' data-v="'+esc(v)+'"')+' aria-expanded="false" class="badge tapb').replace(/<\/span>$/,'</button>')}
+function ib(v){return '<button type="button" class="ib" data-act="info" data-k="term" data-v="'+v+'" aria-expanded="false" aria-label="What this means">'+ic('q')+'</button>'}
+function stateBadge(f){
+  /* version number of this path on Hugging Face: v1 = first upload on record, (+N) = times it has been re-uploaded since */
+  var v=f.ver?'v'+f.ver:'',n=f.vers||0;
+  if(f.state==='current'){
+    if(!v) return '<span class="badge">Latest</span>';
+    if(n>f.ver) return '<span class="badge" title="Version '+f.ver+' of '+n+' on record, and the one at main now.">'+ic('reup','c-serious')+esc(v)+' of '+n+'</span>';
+    return f.ver>1?'<span class="badge" title="Version '+f.ver+' of this path. Re-uploaded '+(f.ver-1)+' time(s) since the first upload on record.">'+ic('reup','c-serious')+esc(v)+' (+'+(f.ver-1)+')</span>'
+                  :'<span class="badge" title="First and only version of this path on record.">'+esc(v)+'</span>';
+  }
+  var of=v?esc(v)+(n?' of '+n:'')+', ':'';
+  if(f.state==='superseded') return '<span class="badge" title="An older version. The path has a newer hash now.">'+ic('reup','c-serious')+of+'superseded</span>';
+  return '<span class="badge" title="The path is no longer at main.">'+ic('minus','c-serious')+of+'removed</span>';
+}
+function repoStatusBadge(r){
+  var s=repoState(r);
+  if(s==='ok') return '<span class="badge">'+ic('check','c-good')+'Available</span>';
+  if(s==='gated') return '<span class="badge" title="Needs a Hugging Face login; hashes could not be read">'+ic('lock','c-mut')+'Gated</span>';
+  return '<span class="badge" style="font-weight:650">'+ic('x','c-crit')+'Unavailable ('+esc(r.status)+')</span>';
+}
+
+/* ---------- rows ---------- */
+/* columns are read by name from DATA.cols, so a column added or dropped by the build cannot shift fields */
+var COLS_DEF=['repo','path','sha256','size','commit','committed','state','modelscope','pirateface','ver','vers'],CI={};
+function mapCols(){var c=(D&&D.cols&&D.cols.length)?D.cols:COLS_DEF;CI={};for(var i=0;i<c.length;i++)CI[c[i]]=i;COLS_DEF.forEach(function(k){if(!(k in CI))CI[k]=-1})}
+var NOREPO={repo:'(unknown repo)',uploader:'',family:'',abliterated:false,status:200};
+function inflate(a){
+  var r0=a[CI.repo],r=typeof r0==='number'?(D.repos[r0]||NOREPO):(repoMap[r0]||NOREPO);
+  var f={repo:r.repo,path:String(a[CI.path]),sha256:String(a[CI.sha256]),size:a[CI.size],commit:String(a[CI.commit]||''),committed:String(a[CI.committed]||''),state:a[CI.state],modelscope:a[CI.modelscope],pirateface:a[CI.pirateface],ver:a[CI.ver]||0,vers:a[CI.vers]||0,_r:r};
+  f._hay=(r.repo+' '+f.path).toLowerCase();
+  f._t=tier(f);f._c=conflict(f);f._b=f.state==='current'&&f.modelscope==='older';
+  return f;
+}
+function addSha(rows){for(var i=0;i<rows.length;i++){var f=rows[i],k=f.sha256;if(bySha[k])bySha[k].push(f);else{bySha[k]=[f];shaList.push(k)}}}
+
+/* ---------- search ---------- */
+function parseQ(raw){
+  var t=String(raw||'').trim().toLowerCase();
+  var h=t.replace(/^sha-?256[:=\s]+/,'').replace(/\s+/g,'');
+  var hex=/^[0-9a-f]+$/.test(h);
+  if(!hex){var m=/(?:^|[^0-9a-f])([0-9a-f]{64})(?![0-9a-f])/.exec(t);if(m)return {text:m[1],toks:[m[1]],hash:m[1],full:true,tooLong:false,len:64}}
+  return {text:t,toks:t?t.split(/\s+/):[],hash:hex&&h.length>=8?h:'',full:hex&&h.length===64,tooLong:hex&&h.length>64,len:h.length};
+}
+function matchQ(f,q){
+  if(q.hash&&f.sha256.indexOf(q.hash)>=0) return true;
+  var hay=f._hay,t=q.toks;
+  for(var i=0;i<t.length;i++) if(hay.indexOf(t[i])<0) return false;
+  return true;
+}
+function scoped(r){
+  if(S.fam&&r.family!==S.fam) return false;
+  if(S.upl&&r.uploader!==S.upl) return false;
+  if(S.abl!=='any'&&(S.abl==='yes')!==!!r.abliterated) return false;
+  return true;
+}
+function scopeLabel(){var a=[];if(S.abl==='yes')a.push('abliterated or uncensored');if(S.abl==='no')a.push('not abliterated');if(S.fam)a.push(S.fam);if(S.upl)a.push(S.upl);return a.join(', ')}
+
+/* ---------- build indexes ---------- */
+function index(){
+  D=window.DATA||{files:[],repos:[],events:[],generated:''};
+  if(!D.repos)D.repos=[];
+  mapCols();
+  bySha={};shaList=[];byPath={};repoMap={};ORD={};
+  D.repos.forEach(function(r){repoMap[r.repo]=r;r._cur=0;r._conf=0;r._lc=String(r.repo).toLowerCase()});
+  BASE=(D.files||[]).map(inflate);
+  addSha(BASE);
+  Object.keys(HIST.rows).forEach(function(p){
+    HIST.rows[p].forEach(function(f){var r=repoMap[f.repo];if(r)f._r=r});
+    addSha(HIST.rows[p]);
+  });
+  if(!shardList().length) HIST.all=true;
+  F=BASE;
+  if(HIST.all&&shardList().length){F=BASE.slice();shardList().forEach(function(p){var h=HIST.rows[p];if(h)for(var i=0;i<h.length;i++)F.push(h[i])})}
+  for(var i=0;i<F.length;i++){
+    var f=F[i],k=f.repo+'\n'+f.path;
+    if(byPath[k])byPath[k].push(f);else byPath[k]=[f];
+    if(f.state==='current'){f._r._cur++;if(f._t==='conf')f._r._conf++}
+  }
+}
+function versionsOf(f){var v=(byPath[f.repo+'\n'+f.path]||[]).slice();v.sort(function(a,b){return a.committed<b.committed?1:a.committed>b.committed?-1:0});return v}
+
+/* sorted orders are built once per index, so typing never sorts */
+var SORTS={
+  repo:function(a,b){return a._hay<b._hay?-1:a._hay>b._hay?1:(a.committed<b.committed?1:-1)},
+  newest:function(a,b){return a.committed<b.committed?1:a.committed>b.committed?-1:SORTS.repo(a,b)},
+  largest:function(a,b){return b.size-a.size||SORTS.repo(a,b)},
+  name:function(a,b){var x=a._pl||(a._pl=a.path.toLowerCase()),y=b._pl||(b._pl=b.path.toLowerCase());return x<y?-1:x>y?1:SORTS.repo(a,b)},
+  popular:function(a,b){return (b._r.downloads||0)-(a._r.downloads||0)||SORTS.repo(a,b)}
+};
+function order(){var k=SORTS[S.sort]?S.sort:'repo';return ORD[k]||(ORD[k]=F.slice().sort(SORTS[k]))}
+
+/* one pass: rows that pass, plus a count for every chip */
+function scan(){
+  var q=parseQ(S.q),o=order(),rows=[],matched=0,hasQ=!!q.text;
+  var c={state:{current:0,superseded:0,removed:0,all:0},tier:{conf:0,pfcopy:0,hfonly:0,conflict:0,behind:0},svc:{ms:0,pf:0},abl:{yes:0,no:0}};
+  var st=S.state,ti=S.tier,ab=S.abl,rp=S.repo,fa=S.fam,up=S.upl,sm=S.svc.ms,sp=S.svc.pf;
+  for(var i=0,n=o.length;i<n;i++){
+    var f=o[i],r=f._r;
+    if(rp&&f.repo!==rp) continue;
+    if(fa&&r.family!==fa) continue;
+    if(up&&r.uploader!==up) continue;
+    if(hasQ&&!matchQ(f,q)) continue;
+    matched++;
+    var nf=0,fd='';
+    if(st!=='all'&&f.state!==st){nf++;fd='state'}
+    if(ti!=='any'&&(ti==='conflict'?!f._c:ti==='behind'?!f._b:f._t!==ti)){nf++;fd='tier'}
+    if(sm&&f.modelscope!=='same'){nf++;fd='svc'}
+    if(sp&&f.pirateface!=='pinned'){nf++;fd='svc'}
+    if(ab!=='any'&&(ab==='yes')!==!!r.abliterated){nf++;fd='abl'}
+    if(nf>1) continue;
+    if(nf===0){
+      rows.push(f);
+      if(f.modelscope==='same')c.svc.ms++;if(f.pirateface==='pinned')c.svc.pf++;
+    }
+    if(nf===0||fd==='state'){c.state[f.state]++;c.state.all++}
+    if(nf===0||fd==='tier'){c.tier[f._t]++;if(f._c)c.tier.conflict++;if(f._b)c.tier.behind++}
+    if(nf===0||fd==='abl')c.abl[r.abliterated?'yes':'no']++;
+  }
+  /* a pasted hash that sits in a loaded shard is listed too, before all older versions are loaded */
+  if(q.full&&!HIST.all){var x=bySha[q.hash]||[];for(i=0;i<x.length;i++)if(x[i]._h){rows.push(x[i]);matched++}}
+  return {rows:rows,c:c,matched:matched,q:q};
+}
+
+/* ---------- summary ---------- */
+function renderSummary(){
+  var c={conf:0,pfcopy:0,hfonly:0},conf=0,n=0,ab={repos:0,cur:0,conf:0,down:0,gated:0,todo:0},todo=0,i,f;
+  for(i=0;i<BASE.length;i++){f=BASE[i];if(f.state!=='current')continue;
+    if(f._r.abliterated){ab.cur++;if(f._t==='conf')ab.conf++}
+    if(!scoped(f._r))continue;n++;c[f._t]++;if(f._c)conf++}
+  var gone=0,gated=0,ms=0,pfT=0,pfU=0;
+  D.repos.forEach(function(r){var s=repoState(r);if(s==='down')gone++;else if(s==='gated')gated++;if(r.modelscope)ms++;if(r.pirateface)pfT++;if(r.pirateface_checked===false)pfU++;
+    if(!r.checked)todo++;
+    if(r.abliterated){ab.repos++;if(!r.checked)ab.todo++;if(s==='down')ab.down++;else if(s==='gated')ab.gated++}});
+  var parts=[['conf','Confirmed by a second service','var(--s1)'],['pfcopy','Pirate Face copy only','var(--s3)'],['hfonly','Only Hugging Face','var(--s0)']];
+  var bar=parts.filter(function(p){return c[p[0]]>0}).map(function(p){return '<span style="flex:'+c[p[0]]+' 1 0;background:'+p[2]+'" title="'+esc(p[1]+': '+c[p[0]])+'"></span>'}).join('');
+  var leg=parts.map(function(p){return '<button type="button" data-act="tier" data-v="'+p[0]+'"><i style="background:'+p[2]+'"></i><b>'+fmtN(c[p[0]])+'</b><span class="lt">'+p[1]+'</span></button>'}).join('');
+  var sl=scopeLabel();
+  var h='<div class="tile wide"><div class="lab">Current files by who lists the same hash'+ib('agree')+(sl?' · <b style="color:var(--ink)">'+esc(sl)+'</b> <button type="button" class="linkbtn" data-act="clearscope">show all</button>':'')+'</div>'+
+    '<div class="val">'+fmtN(c.conf)+' <small>of '+fmtN(n)+' current files confirmed by a second service ('+pct(c.conf,n)+'%)</small></div>'+
+    '<div class="seg" role="img" aria-label="'+esc(c.conf+' confirmed, '+c.pfcopy+' Pirate Face copy only, '+c.hfonly+' only Hugging Face')+'">'+(bar||'<span style="flex:1;background:var(--s0)"></span>')+'</div><div class="leg">'+leg+'</div>'+
+    (conf?'<div class="sub" style="margin-top:8px">'+ic('neq','c-crit')+' <button type="button" data-act="tier" data-v="conflict"><b>'+conf+' current '+(conf===1?'file has':'files have')+' a different hash on ModelScope</b></button></div>':'')+'</div>';
+
+  h+='<div class="tile abl"><div class="lab">Abliterated or uncensored variants'+ib('abl')+'</div><div class="val">'+fmtN(ab.repos)+' <small>'+(ab.repos===1?'repo':'repos')+' tracked</small></div>'+
+    '<div class="sub">'+(ab.repos?'<span>'+fmtN(ab.conf)+' of '+fmtN(ab.cur)+' current files confirmed by a second service'+(ab.todo?' ('+fmtN(ab.todo)+' repos not scanned yet)':'')+'</span><br><span>'+
+      (ab.down?ic('x','c-crit')+' <button type="button" data-act="rview" data-v="down"><b>'+ab.down+' unavailable</b></button>':ic('check','c-good')+' none unavailable')+
+      (ab.gated?', '+fmtN(ab.gated)+' gated':'')+
+      '</span><br><span><button type="button" data-act="ablview" data-v="any">Show files</button> · <button type="button" data-act="ablview" data-v="hfonly">only Hugging Face</button></span>':'None tracked yet.')+
+      ' <span class="sumlink"><button type="button" data-act="moresum" aria-expanded="'+!!S.moreSum+'">'+(S.moreSum?'Fewer numbers':'More numbers')+'</button></span></div></div>';
+
+  var t=D.totals||{};
+  h+='<div class="tile extra"><div class="lab">Repos tracked'+ib('repos')+'</div><div class="val">'+fmtN(D.repos.length)+'</div>'+
+    '<div class="sub">'+(gone?ic('x','c-crit')+' <button type="button" data-act="rstatus" data-v="down"><b>'+gone+' unavailable</b></button>':ic('check','c-good')+' none unavailable')+
+    (gated?', <button type="button" data-act="rstatus" data-v="gated">'+fmtN(gated)+' gated</button>':'')+
+    '<br>'+fmtN(ms)+' on ModelScope, '+fmtN(pfT)+' with a torrent'+(pfU?', '+fmtN(pfU)+' not checked on Pirate Face':'')+
+    (todo?'<br>'+fmtN(todo)+' repos not scanned yet':'')+
+    '<br>'+fmtN(t.superseded)+' superseded and '+fmtN(t.removed)+' removed versions on record</div></div>';
+  $('summary').innerHTML=h;
+  $('summary').classList.toggle('more',!!S.moreSum);
+}
+
+/* ---------- verdict ---------- */
+function placeHTML(f){
+  var sv=services(f),k=byPath[f.repo+'\n'+f.path]||[],cur=null;
+  k.forEach(function(x){if(x.state==='current')cur=x});
+  var st;
+  if(f.state==='current') st=ic('check','c-good')+'Current version at main';
+  else if(f.state==='superseded') st=ic('reup','c-serious')+'Superseded. '+(cur?'This path now has hash <button type="button" class="linkbtn mono" data-act="q" data-v="'+esc(cur.sha256)+'">'+esc(short(cur.sha256))+'</button> (committed '+esc(cur.committed)+').':'This path now has a different hash.');
+  else st=ic('minus','c-serious')+'Removed. This path is no longer at main.';
+  return '<div class="place"><div class="path">'+esc(f.path)+'</div><div class="repo">'+esc(f.repo)+' · '+size(f.size)+' · committed '+esc(f.committed)+'</div>'+
+    '<dl class="kv"><dt>Version</dt><dd>'+st+'</dd>'+
+    sv.map(function(s){return '<dt>'+s.n+'</dt><dd>'+ic(s.i,ICOL[s.c])+esc(s.t)+'</dd>'}).join('')+
+    '</dl></div>';
+}
+function verdictCard(sha,partial,tail){
+  var rows=bySha[sha]||[];
+  var anyCur=rows.some(function(f){return f.state==='current'}),anySup=rows.some(function(f){return f.state==='superseded'});
+  var cls,head,sub;
+  if(rows.length){
+    var anyConf=rows.some(function(f){return f.state==='current'&&confirmed(f)});
+    if(rows.some(conflict)){cls='crit';head=ic('neq','c-crit')+'Known, but ModelScope lists a different hash'}
+    else if(rows.some(repoGone)){cls='serious';head=ic('warn','c-serious')+'Known. Its Hugging Face repo is unavailable now.'}
+    else if(anyCur&&rows.every(function(f){return repoState(f._r)==='gated'})){cls='neutral';head=ic('lock','c-mut')+'Known. Its repo is gated now, so it could not be re-read.'}
+    else if(anyCur){cls='good';head=ic('check','c-good')+'Known. Current version.'}
+    else if(anySup){cls='serious';head=ic('reup','c-serious')+'Known, but superseded'}
+    else{cls='serious';head=ic('minus','c-serious')+'Known, but removed from main'}
+    sub='Listed for '+rows.length+(rows.length===1?' file':' files')+' on Hugging Face. '+(anyCur?(anyConf?'Confirmed by a second service.':'Not confirmed by a second service.'):'');
+  }else{cls='neutral';head=ic('q','c-mut')+'No listing on record';sub='No tracked service lists this hash.'}
+  return '<div class="vc '+cls+'"><div class="vh">'+head+'</div><div class="vs">'+esc(sub)+(partial?' Matched on part of the hash.':'')+'</div>'+
+    '<div class="fullhash"><code>'+esc(sha)+'</code><button type="button" class="cp" data-act="copy" data-v="'+esc(sha)+'" aria-label="Copy full sha256" title="Copy">'+ic('copy')+'</button></div>'+
+    rows.map(placeHTML).join('')+(tail||'')+'</div>';
+}
+function renderVerdict(){
+  var q=parseQ(S.q),el=$('verdict');
+  if(q.tooLong){el.innerHTML='<div class="vc neutral"><div class="vh">'+ic('q','c-mut')+'Not a sha256</div><div class="vs">That is '+q.len+' hex characters; a sha256 has 64.</div></div>';return}
+  if(!q.hash){el.innerHTML='';return}
+  /* older versions live in one shard per two leading hex digits */
+  var p=q.hash.slice(0,2),hs=HIST.all?'ok':!hasShard(p)?'none':HIST.st[p]==='ok'?'ok':HIST.st[p]==='fail'?'fail':'load';
+  if(hs==='load') loadShard(p,function(){if(parseQ(S.q).hash===q.hash){renderVerdict();renderList()}});
+  var hsList=[],i,s;
+  if(q.full){if(bySha[q.hash])hsList.push(q.hash)}
+  else{
+    var set={};
+    for(i=0;i<shaList.length&&hsList.length<6;i++){s=shaList[i];if(s.indexOf(q.hash)>=0){set[s]=1;hsList.push(s)}}
+  }
+  var pend=hs==='load'?'<div class="place vnote">'+ic('clock')+'Checking older versions for other listings of this hash.</div>':
+           hs==='fail'?'<div class="place vnote">'+ic('warn','c-serious')+'Older versions could not be checked: hist/'+esc(p)+'.js did not load.</div>':'';
+  if(!hsList.length){
+    if(hs==='load'){el.innerHTML='<div class="vc neutral"><div class="vh">'+ic('clock','c-mut')+'Checking older versions</div><div class="vs">Not among current files. Loading the older versions that start with '+esc(p)+'.</div></div>';return}
+    if(!q.full&&BASE.some(function(f){return f._hay.indexOf(q.hash)>=0})){el.innerHTML='';return}
+    if(hs==='fail'){el.innerHTML='<div class="vc serious"><div class="vh">'+ic('warn','c-serious')+'Not in current files; older versions not checked</div><div class="vs">hist/'+esc(p)+'.js did not load, so this is not a full verdict. Reload the page to try again.</div></div>';return}
+    var t=D.totals||{};
+    el.innerHTML='<div class="vc crit"><div class="vh">'+ic('x','c-crit')+(q.full?'Unknown hash':'No recorded hash starts with or contains this')+'</div><div class="vs">Checked '+fmtN(BASE.length)+' current files, plus '+(HIST.all?'all '+fmtN(histTotal())+' older versions':hs==='ok'?'the older versions starting with '+esc(p):'older versions (none start with '+esc(p)+')')+'. '+(q.full?'Either the file is not from a tracked repo, or it is not the file it claims to be.':(HIST.all?'':'Part of a hash is matched from its start among older versions.'))+'</div>'+(q.full?'<div class="fullhash"><code>'+esc(q.hash)+'</code></div>':'')+'</div>';
+    return;
+  }
+  if(hsList.length>4){el.innerHTML='<div class="vc neutral"><div class="vh">'+ic('q','c-mut')+'Several recorded hashes contain this</div><div class="vs">Paste more of the hash for a verdict. Matching rows are listed below.</div></div>';return}
+  el.innerHTML=hsList.map(function(s,i){return verdictCard(s,!q.full,i===hsList.length-1?pend:'')}).join('');
+}
+
+/* ---------- explanations: one popover, opened by tap, click or keyboard ---------- */
+function times(n){return n===1?'once':n===2?'twice':n+' times'}
+function rowPlain(f){
+  var a,v=f.ver||0,n=f.vers||0;
+  if(f._c)a='Conflict: ModelScope lists a different hash for this file.';
+  else if(f.state!=='current')a=f.state==='superseded'?'An older hash for this file; it has been re-uploaded since.':'This file is no longer in the repo at main; the hash is kept so an old copy can still be checked.';
+  else if(f._t==='conf')a='Confirmed: ModelScope lists the same hash as Hugging Face.';
+  else if(f._t==='pfcopy')a='Not confirmed by a second service. A pinned Pirate Face torrent carries a copy of it.';
+  else if(f._b)a='Not confirmed yet: the ModelScope mirror still has an older version of this file.';
+  else a='Only Hugging Face lists this hash'+(f.pirateface==='unchecked'?' (Pirate Face has not been checked for this repo yet).':'.');
+  if(f.state==='current'&&v)a+=n>v?' It is version '+v+' of '+n+' on record.':v>1?' It is the latest version (v'+v+'); the file has been re-uploaded '+times(v-1)+'.':' The file has only ever had this one hash.';
+  return a;
+}
+function verTip(f){
+  var v=f.ver||0,n=f.vers||0,vs=versionsOf(f).slice().reverse(),have=HIST.all||(n>0&&vs.length>=n),head,t,cur=null;
+  vs.forEach(function(x){if(x.state==='current')cur=x});
+  if(!v){head='Version';t='No version number is recorded for this row.'}
+  else if(f.state==='current'){
+    if(n<=1){head='Version 1, never re-uploaded';t='This is the only hash this file has had on record (committed '+f.committed+'). A genuine copy of the file should match it.'}
+    else if(v>=n){head='Version '+v+', the latest';t='This file has been re-uploaded '+times(v-1)+'. This hash is the one at main now, committed '+f.committed+'. A copy downloaded before then has an older hash and will not match this row.'}
+    else{head='Version '+v+' of '+n+', at main now';t='Hugging Face is serving this hash now, yet '+(n-v)+' later '+(n-v===1?'version is':'versions are')+' on record. Either the repo went back to an earlier upload, or several uploads share a commit date and their order here is uncertain. Open the row to compare the dates.'}
+  }else if(f.state==='superseded'){head='Version '+v+(n?' of '+n:'')+', replaced';t='An older hash for this file, committed '+f.committed+'. The file has been re-uploaded since'+(cur?'; main now has version '+cur.ver+' from '+cur.committed:'')+'. A copy with this hash is the old upload, not a corrupt one.'}
+  else{head='Version '+v+(n?' of '+n:'')+', removed';t='This file is no longer in the repo at main. The hash is kept so an old copy can still be checked.'}
+  var h='<h4>'+ic(f.state==='removed'?'minus':n>1?'reup':'check',n>1||f.state!=='current'?'c-serious':'c-good')+esc(head)+'</h4><p>'+esc(t)+'</p>';
+  if(n>1){
+    if(have&&vs.length>1)h+='<ul>'+vs.map(function(x){return '<li><span>v'+esc(x.ver)+'</span><span>'+esc(x.committed)+'</span><span class="dim">'+(x===f?'this row':x.state==='current'?'at main now':x.state)+'</span></li>'}).join('')+'</ul>';
+    else h+='<p class="dim">The dates of the other versions are in the older versions, which are not loaded.</p><p>'+histBtn('Load older versions')+'</p>';
+  }
+  return h;
+}
+function svTip(f,i){
+  var s=services(f)[i],r=f._r,t,pf=r.pirateface;
+  if(i===0){
+    t=s.c==='ok'?'Hugging Face has this file at this hash on its main branch right now. It is where every hash here comes from, so it never counts as a second confirmation.'
+     :s.c==='gone'?'The repo is unavailable now (status '+r.status+'), so nothing can be re-read. This hash is the one recorded before it went away, which is what this page is for.'
+     :s.c==='gate'?'The repo is gated now: it needs a Hugging Face login, so the scrape cannot re-read it. This hash is from the earlier record.'
+     :f.state==='superseded'?'Hugging Face no longer serves this hash at main. It is in the commit history only, because the file was re-uploaded.'
+     :'Hugging Face no longer has this file at main. The hash is from the commit history.';
+  }else if(i===1){
+    t=f.modelscope==='same'?(f.state==='current'?'ModelScope lists the same sha256 for this file. That is a second, separate listing, so this file counts as confirmed.':'ModelScope lists this exact older hash.')
+     :f.modelscope==='older'?'ModelScope is behind. It still lists an older version of this file and has not picked up this hash yet. Not a conflict, but not a confirmation of this hash either.'
+     :f.modelscope==='differs'?(f.state==='current'?'ModelScope lists a different hash that matches no version on record. Treat it as a conflict and check both copies.':'ModelScope carries a different, newer version of this file. Expected for an older row.')
+     :f.modelscope==='absent'?'Not listed. ModelScope mirrors this repo, but this file is not in the mirror, so there is nothing to compare.'
+     :'Not listed. ModelScope has no repo of this name, so there is nothing to compare. Hugging Face is the only place this hash can be checked.';
+  }else if(i===2){
+    t=f.pirateface==='pinned'?'Pirate Face has a torrent pinned to this exact commit, so it carries these bytes'+(pf?' ('+pf.size+', '+pf.seeds+(String(pf.seeds)==='1'?' seed':' seeds')+')':'')+'. Its hashes are copied from Hugging Face: a second copy of the file, not a second witness.'
+     :f.pirateface==='torrent-other-commit'?'A torrent exists for this repo but is pinned to a different commit, so it may carry another version of this file. Not a match for this hash.'
+     :f.pirateface==='unchecked'?'Not checked yet. Pirate Face has not been looked up for this repo, so this is unknown, not "no torrent".'
+     :'Not listed. Pirate Face was checked and has no torrent for this repo.';
+  }
+  return '<h4>'+s.k+ic(s.i,ICOL[s.c])+esc(s.n)+'</h4><p>'+esc(t)+'</p>';
+}
+var TERMS={
+  agree:['Who lists the same hash','<p><b>Confirmed by a second service</b>: ModelScope lists the same sha256 as Hugging Face.</p><p><b>Pirate Face copy only</b>: a pinned torrent carries the file, but its hashes are copied from Hugging Face, so it is a copy and not a confirmation.</p><p><b>Only Hugging Face</b>: nobody else lists this hash. If the repo goes, this record is the only reference.</p>'],
+  abl:['Abliterated or uncensored variants','<p>Repos whose name or tags say abliterated, obliterated, uncensored, heretic or similar. The label comes from the name, so it can miss a repo or include one by mistake.</p><p>They are watched because they are the likeliest to be taken down.</p>'],
+  repos:['Repos tracked','<p><b>Unavailable</b>: the repo now returns an error. Its recorded hashes stay here.</p><p><b>Gated</b>: the repo needs a Hugging Face login, so its hashes could not be read. Not an outage.</p><p><b>Not checked on Pirate Face</b>: not looked up yet, which is different from having no torrent.</p>'],
+  picked:['Picked','<p>A hand-picked repo (also keeps a git history bundle), as opposed to one that came in with a whole publisher or the most-downloaded list.</p>']
+};
+function repoTip(r,k){
+  var st=repoState(r),pf=r.pirateface;
+  if(k==='rst'){
+    var t=st==='ok'?'Available: the repo answered on the last check and its file hashes were read.'
+      :st==='gated'?'Gated: the repo needs a Hugging Face login, so the scrape could not read its file hashes. It is not an outage, and nothing here says the files changed.'
+      :'Unavailable: the repo returned status '+r.status+' on the last check. The hashes recorded before that are kept, so a copy found elsewhere can still be checked.';
+    return '<h4>'+ic(st==='ok'?'check':st==='gated'?'lock':'x',st==='ok'?'c-good':st==='gated'?'c-mut':'c-crit')+'Repo status</h4><p>'+esc(t)+'</p><p class="dim">Checked '+esc(utc(r.checked))+(r.main?', main at '+esc(String(r.main).slice(0,12)):'')+'.</p>';
+  }
+  var p=pf?(pf.commit===r.main?'A torrent is pinned to the commit at main, so it carries the current files. It is a second copy of the bytes; its hashes come from Hugging Face.':'A torrent exists but is pinned to an older commit, so it may not carry the current files.')
+      :r.pirateface_checked===false?'Not checked yet: Pirate Face has not been looked up for this repo. That is unknown, not "no torrent".'
+      :'Pirate Face was checked and has no torrent for this repo.';
+  return '<h4>PF'+ic(pf?(pf.commit===r.main?'copy':'tilde'):r.pirateface_checked===false?'q':'dot','c-mut')+'Pirate Face</h4><p>'+esc(p)+'</p>'+(pf?'<p class="dim mono" style="overflow-wrap:anywhere">'+esc(pf.infohash)+'<br>'+esc(pf.size)+', checked '+esc(utc(pf.checked))+'</p>':'');
+}
+var TIP={btn:null,sub:null};
+function tipSubject(b){
+  var tr=b.closest('tr.r[data-i]');if(tr)return VIEW[+tr.getAttribute('data-i')]||null;
+  var th=b.closest('tr[data-hist]');
+  if(th){var pv=byPath[th.getAttribute('data-hist')]||[];for(var j=0;j<pv.length;j++)if(pv[j].state==='current')return pv[j];return pv[0]||null}
+  var li=b.closest('[data-vsha]');
+  if(li&&S.open){var sha=li.getAttribute('data-vsha'),vs=versionsOf(S.open);for(var i=0;i<vs.length;i++)if(vs[i].sha256===sha)return vs[i]}
+  return null;
+}
+function infoFor(b){
+  var k=b.getAttribute('data-k'),v=b.getAttribute('data-v');
+  if(k==='term'){var t=TERMS[v];return t?'<h4>'+esc(t[0])+'</h4>'+t[1]:''}
+  if(k==='rst'||k==='rpf'){var tr=b.closest('tr[data-ri]'),r=tr&&RVIEW[+tr.getAttribute('data-ri')];return r?repoTip(r,k):''}
+  var f=tipSubject(b);if(!f)return '';
+  TIP.sub={k:k,v:v,key:f.repo+'\n'+f.path+'\n'+f.sha256};
+  return k==='ver'?verTip(f):k==='sv'?svTip(f,+v):'';
+}
+function openTip(b){
+  var html=infoFor(b),t=$('tip');if(!html)return;
+  var sub=TIP.sub;closeTip();TIP.sub=sub;
+  t.innerHTML=html;t.hidden=false;t.style.left='0px';t.style.top='0px';
+  var r=b.getBoundingClientRect(),w=t.offsetWidth,h=t.offsetHeight,vw=document.documentElement.clientWidth,vh=window.innerHeight;
+  var left=Math.max(8,Math.min(r.left,vw-w-8)),top=r.bottom+6;
+  if(top+h>vh-8&&r.top-6-h>=8)top=r.top-6-h;
+  t.style.left=(left+window.pageXOffset)+'px';t.style.top=(top+window.pageYOffset)+'px';
+  TIP.btn=b;b.setAttribute('aria-expanded','true');
+}
+function closeTip(){var t=$('tip');if(!t||t.hidden)return;t.hidden=true;t.innerHTML='';if(TIP.btn)TIP.btn.setAttribute('aria-expanded','false');TIP.btn=null;TIP.sub=null}
+/* after older versions arrive, show the same explanation again, now with dates */
+function reopenTip(sub){
+  if(!sub)return;
+  for(var i=0;i<VIEW.length;i++){var f=VIEW[i];if(f.repo+'\n'+f.path+'\n'+f.sha256===sub.key){
+    var tr=$('ftable').querySelector('tr.r[data-i="'+i+'"]'),b=tr&&tr.querySelector('[data-act="info"][data-k="'+sub.k+'"]'+(sub.k==='sv'?'[data-v="'+sub.v+'"]':''));
+    if(b)openTip(b);return}}
+}
+
+/* ---------- pickers (family, uploader, repo): searchable, never a long select ---------- */
+var PICK={fam:{label:'Family',all:'All families',ph:'Type a family'},upl:{label:'Uploader',all:'All uploaders',ph:'Type an uploader'},repo:{label:'Repo',all:'All repos',ph:'Type part of a repo name'},
+  abl:{label:'Variant',menu:1,def:'any',names:{any:'Any',yes:'Abliterated or uncensored',no:'Everything else'},short:{yes:'Abliterated',no:'Not abliterated'},note:'Derived from repo names and tags, so it can be wrong.'},
+  tier:{label:'Agreement',menu:1,def:'any',names:{any:'Any',conf:'Confirmed by a second service',pfcopy:'Pirate Face copy only',hfonly:'Only Hugging Face',behind:'ModelScope mirror is behind',conflict:'ModelScope differs'},short:{conf:'Confirmed',pfcopy:'Pirate Face copy',hfonly:'Only Hugging Face',behind:'Mirror behind',conflict:'Differs'},note:'A Pirate Face torrent is a copy, not a second confirmation.'},
+  rstatus:{label:'Status',menu:1,def:'any',names:{any:'Any',ok:'Available',gated:'Gated',down:'Unavailable'},note:'Gated repos need a Hugging Face login, so their hashes could not be read.'}};
+function pickBtn(kind){
+  var v=S[kind],p=PICK[kind],on=p.menu?v!==p.def:!!v,lab=p.menu?((p.short&&p.short[v])||p.names[v]||v):(v||'All');
+  return '<button type="button" class="pick'+(on?' on':'')+'" data-act="pick" data-v="'+kind+'" aria-haspopup="listbox"><span class="dim">'+p.label+'</span>'+(on?'<b>'+esc(lab)+'</b>':'')+ic('down')+'</button>'+
+    (on?'<button type="button" class="pickx" data-act="unpick" data-v="'+kind+'" aria-label="Clear '+p.label+'" title="Clear">'+ic('x')+'</button>':'');
+}
+function menuOptions(kind,inRepos){
+  var p=PICK[kind],c=LASTC||{tier:{},abl:{}},rc=RC||{st:{},abl:{}},out=[],n;
+  Object.keys(p.names).forEach(function(v){
+    n=v==='any'?null:kind==='abl'?(inRepos?rc.abl[v]:c.abl[v]):kind==='rstatus'?rc.st[v]:c[kind][v];
+    if((v==='behind'||v==='conflict')&&!n&&S.tier!==v)return;
+    out.push({v:v,label:p.names[v],n:n});
+  });
+  return out;
+}
+function pickOptions(kind){
+  var out=[],m={},i,r;
+  if(kind==='repo'){
+    for(i=0;i<D.repos.length;i++){r=D.repos[i];if(scoped(r))out.push({v:r.repo,l:r._lc,n:r._cur,d:r.downloads||0})}
+    out.sort(function(a,b){return b.d-a.d||(a.l<b.l?-1:1)});
+    return out;
+  }
+  var key=kind==='fam'?'family':'uploader';
+  for(i=0;i<D.repos.length;i++){r=D.repos[i];
+    if(kind==='fam'?(S.upl&&r.uploader!==S.upl):(S.fam&&r.family!==S.fam))continue;
+    if(S.abl!=='any'&&(S.abl==='yes')!==!!r.abliterated)continue;
+    var k=r[key]||'(none)',o=m[k];if(!o){o=m[k]={v:k,l:String(k).toLowerCase(),n:0,r:0};out.push(o)}o.n+=r._cur;o.r++}
+  out.sort(function(a,b){return b.n-a.n||b.r-a.r||(a.l<b.l?-1:1)});
+  return out;
+}
+var POP={kind:'',opts:[],shown:[]};
+function placePop(pop,btn){
+  var r=btn.getBoundingClientRect(),vw=document.documentElement.clientWidth,w=Math.min(360,vw-32);
+  var left=Math.max(16,Math.min(r.left,vw-w-16));
+  pop.style.left=(left+window.pageXOffset)+'px';pop.style.top=(r.bottom+window.pageYOffset+4)+'px';
+}
+function openPick(kind,btn){
+  var pop=$('pop'),p=PICK[kind];
+  POP.kind=kind;
+  if(p.menu){
+    var inR=!!btn.closest('#rfilters'),mo=menuOptions(kind,inR);
+    pop.innerHTML='<ul role="listbox" class="menu" aria-label="'+p.label+'">'+mo.map(function(o){return '<li><button type="button" role="option" aria-selected="'+(S[kind]===o.v)+'" data-act="choose" data-v="'+o.v+'"'+(S[kind]===o.v?' class="act"':'')+'><span>'+esc(o.label)+'</span>'+(o.n==null?'':'<span class="ct">'+fmtN(o.n)+(inR?' repos':'')+'</span>')+'</button></li>'}).join('')+'</ul><div class="pn">'+esc(p.note||'')+'</div>';
+    pop.hidden=false;placePop(pop,btn);
+    var fb=pop.querySelector('button.act')||pop.querySelector('button');if(fb)fb.focus();
+    return;
+  }
+  POP.opts=pickOptions(kind);
+  pop.innerHTML='<label class="sr" for="pop-q">'+p.label+'</label><input id="pop-q" type="text" placeholder="'+p.ph+'" autocomplete="off" autocapitalize="off" spellcheck="false"><ul role="listbox" id="pop-l"></ul><div class="pn" id="pop-n"></div>';
+  pop.hidden=false;placePop(pop,btn);
+  fillPick('');
+  $('pop-q').addEventListener('input',function(){fillPick(this.value)});
+  $('pop-q').addEventListener('keydown',function(e){
+    if(e.key==='Enter'){e.preventDefault();if(POP.shown.length)choosePick(POP.shown[0].v)}
+    else if(e.key==='Escape'){closePick()}
+  });
+  $('pop-q').focus();
+}
+function fillPick(t){
+  t=String(t).trim().toLowerCase();var toks=t?t.split(/\s+/):[],o=POP.opts,out=[],total=0,i,j,ok;
+  for(i=0;i<o.length;i++){ok=true;for(j=0;j<toks.length;j++)if(o[i].l.indexOf(toks[j])<0){ok=false;break}if(ok){total++;if(out.length<60)out.push(o[i])}}
+  POP.shown=out;
+  var unit=POP.kind==='repo'?'':' files';
+  $('pop-l').innerHTML=(t?'':'<li><button type="button" data-act="choose" data-v="">'+'<span>'+PICK[POP.kind].all+'</span></button></li>')+
+    out.map(function(x,i){return '<li><button type="button" role="option" data-act="choose" data-v="'+esc(x.v)+'"'+(t&&i===0?' class="act"':'')+'><span>'+esc(x.v)+'</span><span class="ct">'+fmtN(x.n)+(POP.kind==='repo'?'':', '+plural(x.r,'repo','repos'))+'</span></button></li>'}).join('');
+  $('pop-n').textContent=(total>out.length?fmtN(total-out.length)+' more, keep typing. ':total?'':'Nothing matches. ')+'Numbers are current files'+(POP.kind==='repo'?'; most downloaded first.':'.');
+}
+function closePick(){var p=$('pop');if(!p.hidden){p.hidden=true;p.innerHTML='';POP.kind=''}}
+function choosePick(v){var k=POP.kind;closePick();S[k]=v;
+  if(k==='rstatus'){S.rLimit=RPAGE;renderRepos();return}
+  if(k==='tier'){S.limit=PAGE;S.open=null;renderList();return}
+  if(k!=='repo'&&S.repo&&!scoped(repoMap[S.repo]||NOREPO))S.repo='';scopeChanged()}
+function scopeChanged(){S.limit=PAGE;S.rLimit=RPAGE;S.open=null;renderSummary();renderList();renderRepos()}
+
+/* ---------- files ---------- */
+function chipBtn(group,v,label,n){return '<button type="button" class="chip" data-act="'+group+'" data-v="'+esc(v)+'" aria-pressed="'+(group==='svc'?!!S.svc[v]:S[group]===v)+'">'+label+(n==null?'':' <span class="ct">'+fmtN(n)+'</span>')+'</button>'}
+function ablChips(c){return chipBtn('abl','any','Any')+chipBtn('abl','yes','Abliterated or uncensored',c?c.yes:null)+chipBtn('abl','no','Everything else',c?c.no:null)}
+function renderFilters(res){
+  var c=res.c;LASTC=c;
+  $('fbar').innerHTML=pickBtn('abl')+pickBtn('fam')+pickBtn('upl')+pickBtn('tier')+
+    '<button type="button" class="pick" data-act="settings" aria-haspopup="dialog">'+ic('gear')+'More</button>';
+  /* everything below lives in the settings sheet */
+  var n=histTotal();
+  var h='<div class="fg"><span class="fl">Version</span>'+
+    chipBtn('state','current','Current',c.state.current)+chipBtn('state','superseded','Superseded',HIST.all?c.state.superseded:null)+
+    chipBtn('state','removed','Removed',HIST.all?c.state.removed:null)+chipBtn('state','all','All',HIST.all?c.state.all:null)+'</div>';
+  h+='<div class="vnote">'+(HIST.all?ic('check','c-good')+'<span>All older versions are loaded.</span>':!n?'<span>No older versions are on record.</span>':ic('clock')+'<span>Superseded, Removed and All need the '+fmtN(n)+' older versions on record. Choosing one loads them.</span> '+histBtn('Load them now'))+'</div>';
+  h+='<div class="fg"><span class="fl">Listed by</span>'+chipBtn('svc','ms','ModelScope, same hash',c.svc.ms)+
+    chipBtn('svc','pf','Pirate Face, pinned torrent',c.svc.pf)+'</div>';
+  h+='<div class="fg"><span class="fl">One repo</span>'+pickBtn('repo')+'</div>';
+  h+='<div class="fg"><label class="fl" for="f-sort">Sort</label><select id="f-sort">'+
+    SORTL.map(function(o){return '<option value="'+o[0]+'"'+(S.sort===o[0]?' selected':'')+'>'+o[1]+'</option>'}).join('')+'</select></div>';
+  $('filters').innerHTML=h;
+  renderDisplay();
+}
+var SORTL=[['repo','Repo, then file'],['name','File name'],['newest','Newest commit'],['largest','Largest'],['popular','Most downloaded repo']];
+var COLL=[['sha','sha256'],['size','Size'],['date','Committed date']];
+function renderDisplay(){
+  $('setdisp').innerHTML='<div class="fg"><span class="fl">Rows per page</span>'+[25,50,100].map(function(n){return '<button type="button" class="chip" data-act="page" data-v="'+n+'" aria-pressed="'+(PREF.page===n)+'">'+n+'</button>'}).join('')+'</div>'+
+    '<div class="fg"><span class="fl">Columns in the file list</span>'+COLL.map(function(o){return '<label class="ck"><input type="checkbox" data-col="'+o[0]+'"'+(PREF.cols[o[0]]?' checked':'')+'>'+o[1]+'</label>'}).join('')+'</div>'+
+    (prefChanged()?'<div><button type="button" class="linkbtn" data-act="unset" data-v="disp">Restore display defaults</button></div>':'');
+}
+function activeChips(){
+  var a=[];
+  if(S.state!=='current'&&!S.auto)a.push(['state','Version: '+{superseded:'superseded',removed:'removed',all:'all'}[S.state]]);
+  if(S.svc.ms)a.push(['ms','On ModelScope, same hash']);if(S.svc.pf)a.push(['pf','Pinned torrent']);
+  if(S.repo)a.push(['repo','Repo: '+S.repo]);
+  if(S.sort!=='repo')a.push(['sort','Sort: '+(SORTL.filter(function(o){return o[0]===S.sort})[0]||['',S.sort])[1].toLowerCase()]);
+  if(prefChanged())a.push(['disp','Display changed']);
+  return a.map(function(x){return '<span class="act"><span>'+esc(x[1])+'</span><button type="button" data-act="unset" data-v="'+x[0]+'" aria-label="Remove: '+esc(x[1])+'">'+ic('x')+'</button></span>'}).join('');
+}
+function openSet(){closeTip();closePick();$('settings').hidden=false;$('backdrop').hidden=false;document.body.style.overflow='hidden';var b=$('settings').querySelector('button');if(b)b.focus()}
+function closeSet(){if($('settings').hidden)return;closePick();$('settings').hidden=true;$('backdrop').hidden=true;document.body.style.overflow=''}
+function renderKey(){
+  var k=[['check','c-good','has this version and hash'],['copy','c-s1','torrent carries this file (copy, not a witness)'],['neq','c-crit','lists a different hash'],['up','c-mut','has a newer version'],['tilde','c-mut','torrent at another commit'],['clock','c-mut','mirror is behind (older version), or in history only'],['q','c-mut','not checked yet'],['lock','c-mut','repo gated'],['dot','c-mut','not listed']];
+  $('key').innerHTML='<span><b>HF</b> Hugging Face</span><span><b>MS</b> ModelScope</span><span><b>PF</b> Pirate Face</span>'+
+    k.map(function(x){return '<span>'+ic(x[0],x[1])+x[2]+'</span>'}).join('');
+}
+function renderNotice(){
+  var el=$('fnotice');if(!el)return;
+  var q=parseQ(S.q),older=S.state!=='current',n=histTotal();
+  if(HIST.all||!n||(!older&&!q.text)||(q.full&&S.auto)){el.innerHTML=HIST.busy?'<div class="notice"><span class="histprog vnote">Loading older versions</span></div>':'';return}
+  var msg=older&&!S.auto?'Older versions are not loaded yet, so this list is empty. '+fmtN(n)+' are on record.'
+    :'This search covers current files, not the '+fmtN(n)+' older versions on record.';
+  if(HIST.failed&&!HIST.busy) msg=plural(HIST.failed,'file of older versions','files of older versions')+' did not load, so older versions are incomplete.';
+  el.innerHTML='<div class="notice">'+ic(HIST.failed&&!HIST.busy?'warn':'clock')+'<span>'+esc(msg)+'</span>'+histBtn(HIST.failed?'Try again':older&&!S.auto?'Load all older versions':'Include older versions')+'</div>';
+}
+function rowHTML(f,i){
+  var open=S.open===f;
+  return '<tr class="r'+(open?' open':'')+'" data-i="'+i+'" tabindex="0" aria-expanded="'+open+'">'+
+    '<td class="c-file full"><div class="path">'+esc(f.path)+'</div><div class="repo">'+esc(f.repo)+'</div></td>'+
+    '<td class="nw full">'+chips(f,true)+'</td>'+
+    '<td class="nw" data-l="Version">'+tap(stateBadge(f),'ver')+'</td>'+
+    '<td class="nw col-sha">'+hashHTML(f.sha256)+'</td>'+
+    '<td class="n col-size">'+size(f.size)+'</td>'+
+    '<td class="nw num hidem col-date">'+esc(f.committed)+'</td></tr>'+(open?detailHTML(f):'');
+}
+function detailHTML(f){
+  var r=f._r,vers=versionsOf(f),sv=services(f),dup=(bySha[f.sha256]||[]).filter(function(x){return x!==f});
+  var a='<dl class="kv"><dt>sha256</dt><dd><code style="user-select:all">'+esc(f.sha256)+'</code><button type="button" class="cp" data-act="copy" data-v="'+esc(f.sha256)+'" aria-label="Copy full sha256">'+ic('copy')+'</button></dd>'+
+    sv.map(function(s){return '<dt>'+s.n+'</dt><dd>'+ic(s.i,ICOL[s.c])+esc(s.t)+'</dd>'}).join('')+
+    '</dl>';
+  var pf=r.pirateface;
+  var b='<dl class="kv"><dt>Size</dt><dd class="num">'+size(f.size)+' ('+fmtN(f.size)+' bytes)</dd>'+
+    '<dt>Committed</dt><dd>'+esc(f.committed)+' in <code>'+esc(String(f.commit).slice(0,12))+'</code> '+ext(hfFile(f),'file at this commit')+'</dd>'+
+    '<dt>Repo</dt><dd>'+esc(r.family||'')+(r.abliterated?' <span class="tag">abliterated or uncensored</span>':'')+(r.downloads!=null?' · '+fmtK(r.downloads)+' downloads':'')+'</dd>'+
+    '<dt>Links</dt><dd>'+ext(hfRepo(f.repo),'Hugging Face repo')+(f.modelscope!=='no-repo'?' · '+ext(msRepo(f.repo),'ModelScope repo'):'')+' · <button type="button" class="linkbtn" data-act="repo" data-v="'+esc(f.repo)+'">only this repo</button></dd>'+
+    (pf?'<dt>Torrent</dt><dd>pinned to <code>'+esc(String(pf.commit).slice(0,12))+'</code>, '+esc(pf.size)+', '+esc(pf.seeds)+(String(pf.seeds)==='1'?' seed':' seeds')+'<br><code style="user-select:all">'+esc(pf.infohash)+'</code></dd>':'')+
+    (dup.length?'<dt>Same hash</dt><dd>'+dup.slice(0,8).map(function(x){return esc(x.repo+' / '+x.path)}).join('<br>')+(dup.length>8?'<br>and '+fmtN(dup.length-8)+' more':'')+'</dd>':'')+'</dl>';
+  var v='',older=(Number(r.superseded)||0)+(Number(r.removed)||0);
+  if(vers.length>1){
+    v='<h3>'+(HIST.all?'All '+vers.length+' versions of this path':vers.length+' loaded versions of this path')+'</h3><ul class="vers">'+vers.map(function(x){
+      return '<li data-vsha="'+esc(x.sha256)+'">'+(x===f?'<b class="num">'+esc(x.committed)+'</b>':'<span class="num">'+esc(x.committed)+'</span>')+hashHTML(x.sha256)+tap(stateBadge(x),'ver')+(x===f?'<span class="dim">this row</span>':'')+'</li>'}).join('')+'</ul>';
+  }
+  if(!HIST.all) v+='<div class="vnote" style="margin-top:6px">'+(older?ic('clock')+'<span>This repo has '+plural(older,'older version','older versions')+' on record. They are not loaded, so this path may have more history.</span> '+histBtn('Load older versions'):ic('check','c-good')+'<span>This repo has no older versions on record.</span>')+'</div>';
+  else if(vers.length<2) v+='<div class="vnote" style="margin-top:6px">'+ic('check','c-good')+'<span>This path has only ever had this hash.</span></div>';
+  return '<tr class="d"><td colspan="6"><div class="detail"><p class="plain">'+esc(rowPlain(f))+'</p>'+a+b+'<div style="grid-column:1/-1;margin-top:6px">'+v+'</div></div></td></tr>';
+}
+function renderFiles(res){
+  var rows=res.rows,q=res.q;
+  var hidden=res.matched-rows.length,filtered=S.svc.ms||S.svc.pf||(S.state!=='current'&&!S.auto)||S.tier!=='any'||S.repo||S.fam||S.upl||S.abl!=='any';
+  var c='<span>Showing <b class="num">'+fmtN(Math.min(S.limit,rows.length))+'</b> of <b class="num">'+fmtN(rows.length)+'</b> '+(rows.length===1?'version':'versions')+'</span>';
+  if(q.text&&hidden) c+='<span>'+fmtN(hidden)+' more '+(hidden===1?'match is':'matches are')+' hidden by the filters. <button type="button" class="linkbtn" data-act="showall">Show all matches</button></span>';
+  c+=activeChips();
+  if(filtered||q.text||S.sort!=='repo') c+='<button type="button" class="linkbtn" data-act="reset">Reset</button>';
+  $('count').innerHTML=c;closeTip();
+  renderNotice();
+  VIEW=rows.slice(0,S.limit);
+  if(!rows.length){
+    $('ftable').innerHTML='<tbody><tr><td class="empty">'+(q.text?'Nothing matches "'+esc(q.text.slice(0,80))+'" with these filters.':'No files match these filters.')+'</td></tr></tbody>';
+    $('fmore').innerHTML='';return;
+  }
+  $('ftable').innerHTML='<thead><tr><th>File</th><th>Listed by</th><th>Version</th><th class="col-sha">sha256</th><th class="n col-size">Size</th><th class="col-date">Committed</th></tr></thead><tbody>'+
+    VIEW.map(rowHTML).join('')+'</tbody>';
+  $('fmore').innerHTML=rows.length>S.limit?'<button type="button" class="more" data-act="more">Show '+Math.min(PAGE,rows.length-S.limit)+' more ('+fmtN(rows.length-S.limit)+' not shown)</button>':'';
+}
+
+/* ---------- changes ---------- */
+var EV={
+  'REUPLOAD':{i:'reup',c:'serious',l:'Re-upload'},
+  'HISTORY-REWRITTEN':{i:'warn',c:'crit',l:'History rewritten'},
+  'FILE-REMOVED':{i:'minus',c:'serious',l:'File removed'},
+  'REPO-UNAVAILABLE':{i:'x',c:'crit',l:'Repo unavailable'},
+  'REPO-GATED':{i:'lock',c:'mut',l:'Repo gated'},
+  'REPO-BACK':{i:'check',c:'good',l:'Repo back'},
+  'MAIN-MOVED':{i:'right',c:'mut',l:'Main moved'},
+  'NEW-REPO':{i:'plus',c:'mut',l:'Repo added'}
+};
+function evMeta(e){return EV[e]||{i:'dot',c:'mut',l:e}}
+function isAlert(e){return e.event==='HISTORY-REWRITTEN'||e.event==='REUPLOAD'||e.event==='FILE-REMOVED'||e.event==='REPO-UNAVAILABLE'}
+function byTimeDesc(a,b){return a.time<b.time?1:a.time>b.time?-1:0}
+function renderChanges(){
+  var evs=(D.events||[]).filter(function(e){return e.event!=='NEW-REPO'}).sort(byTimeDesc);
+  var al=evs.filter(isAlert),gone=[],gated=0;
+  D.repos.forEach(function(r){var s=repoState(r);if(s==='down')gone.push(r);else if(s==='gated')gated++});
+  var h=gone.slice(0,8).map(function(r){return '<div class="alert crit">'+ic('x','c-crit')+'<div class="b"><div class="t">Repo unavailable now (HTTP '+esc(r.status)+')'+(r.abliterated?' <span class="tag">abliterated or uncensored</span>':'')+'</div><div><button type="button" class="linkbtn" data-act="repo" data-v="'+esc(r.repo)+'">'+esc(r.repo)+'</button></div><div class="small dim">Checked '+utc(r.checked)+'. '+plural(r.versions,'hash version is','hash versions are')+' on record for it.</div></div></div>'}).join('');
+  if(gone.length>8) h+='<div class="alert crit">'+ic('x','c-crit')+'<div class="b"><button type="button" class="linkbtn" data-act="rstatus" data-v="down"><b>'+fmtN(gone.length-8)+' more unavailable repos</b>, listed under Repos</button></div></div>';
+  h+=al.slice(0,20).map(function(e){var m=evMeta(e.event);return '<div class="alert '+m.c+'">'+ic(m.i,'c-'+m.c)+'<div class="b"><div class="t">'+esc(m.l)+' <span class="small dim" style="font-weight:400">'+utc(e.time)+'</span></div><div><button type="button" class="linkbtn" data-act="repo" data-v="'+esc(e.repo)+'">'+esc(e.repo)+'</button></div><div class="small dim">'+esc(e.detail)+'</div></div></div>'}).join('');
+  var ng=evs.filter(function(e){return e.event==='REPO-GATED'}).length;
+  if(!h) h='<div class="quiet">'+ic('check','c-good')+'<span>No re-uploads, removals or unavailable repos have been seen by the scrape.'+(ng?' '+plural(ng,'repo was','repos were')+' found gated; see the log.':'')+'</span></div>';
+  else if(al.length>20) h+='<div class="quiet">'+fmtN(al.length-20)+' older alerts are in the event log below.</div>';
+  if(gated) h+='<div class="quiet">'+ic('lock','c-mut')+'<span>'+plural(gated,'repo is','repos are')+' gated (login needed), so '+(gated===1?'its':'their')+' hashes could not be read. <button type="button" class="linkbtn" data-act="rstatus" data-v="gated">List</button></span></div>';
+  $('alerts').innerHTML=h;
+
+  var types={};evs.forEach(function(e){types[e.event]=(types[e.event]||0)+1});
+  var order=['HISTORY-REWRITTEN','REUPLOAD','FILE-REMOVED','REPO-UNAVAILABLE','REPO-GATED','REPO-BACK','MAIN-MOVED'];
+  Object.keys(types).forEach(function(t){if(order.indexOf(t)<0)order.push(t)});
+  var nNew=Number(D.new_repo_events)||0,recent=(D.new_repo_recent||[]).slice().sort(byTimeDesc);
+  var fl='<div class="filters"><div class="fg">'+chipBtn('ev','all','All but repo added',evs.length)+
+    order.filter(function(t){return types[t]}).map(function(t){return chipBtn('ev',t,esc(evMeta(t).l),types[t])}).join('')+(nNew?chipBtn('ev','NEW-REPO','Repo added',nNew):'')+'</div></div>';
+  var list=S.ev==='NEW-REPO'?recent:S.ev==='all'?evs:evs.filter(function(e){return e.event===S.ev});
+  var body=S.ev==='NEW-REPO'&&nNew>recent.length?'<div class="quiet">The latest '+fmtN(recent.length)+' of '+fmtN(nNew)+' repos added.</div>':'';
+  body+=list.slice(0,S.evLimit).map(function(e){var m=evMeta(e.event);
+    return '<div class="ev"><span class="num dim">'+utc(e.time)+'</span><span class="badge"'+(isAlert(e)?' style="font-weight:650"':'')+'>'+ic(m.i,'c-'+m.c)+esc(m.l)+'</span><span class="rp">'+esc(e.repo)+'</span><span class="d">'+esc(e.detail)+'</span></div>'}).join('');
+  if(!list.length) body='<div class="quiet">'+(S.ev==='all'&&nNew?'Nothing yet apart from '+plural(nNew,'repo','repos')+' added.':'No events of this kind.')+'</div>';
+  if(list.length>S.evLimit) body+='<button type="button" class="more" data-act="evmore">Show more ('+fmtN(list.length-S.evLimit)+' not shown)</button>';
+  if((D.events||[]).length>=2000) body+='<div class="quiet">The log holds the latest 2,000 events.</div>';
+  $('events').innerHTML=fl+body;
+
+  if(!HIST.all){
+    var n=histTotal();
+    $('hist').innerHTML=n?'<div class="notice" style="border-bottom:0">'+ic('clock')+'<span>This list needs all '+fmtN(n)+' older versions ('+plural(shardList().length,'file','files')+').'+(HIST.failed&&!HIST.busy?' '+plural(HIST.failed,'file','files')+' did not load last time.':'')+'</span>'+histBtn(HIST.failed?'Try again':'Load older versions')+'</div>':'<div class="quiet">No older versions are on record.</div>';
+    return;
+  }
+  var keys=[];for(var k in byPath)if(byPath[k].length>1)keys.push(k);
+  var latest={};keys.forEach(function(k){var m='',v=byPath[k];for(var i=0;i<v.length;i++)if(v[i].committed>m)m=v[i].committed;latest[k]=m});
+  keys.sort(function(a,b){var x=latest[a],y=latest[b];return x<y?1:x>y?-1:a<b?-1:1});
+  if(!keys.length){$('hist').innerHTML='<div class="quiet">Every tracked path has had a single hash.</div>';return}
+  var t='<div class="count">'+fmtN(keys.length)+' paths have had more than one hash.</div><div class="tw"><table class="cards kvc"><thead><tr><th>File</th><th class="n">Hashes</th><th>Latest change</th><th>Now</th><th></th></tr></thead><tbody>'+
+    keys.slice(0,S.histLimit).map(function(k){var v=byPath[k],f=v[0],cur=null;v.forEach(function(x){if(x.state==='current')cur=x});
+      return '<tr class="r" data-hist="'+esc(k)+'" tabindex="0"><td class="c-file full"><div class="path">'+esc(f.path)+'</div><div class="repo">'+esc(f.repo)+'</div></td>'+
+        '<td class="n" data-l="Hashes">'+v.length+'</td><td class="nw num" data-l="Latest">'+esc(latest[k])+'</td>'+
+        '<td class="nw" data-l="Now">'+(cur?tap(stateBadge(cur),'ver'):'<span class="badge">'+ic('minus','c-serious')+'Removed</span>')+'</td>'+
+        '<td class="nw hidem"><span class="linkbtn" style="color:var(--link)">versions</span></td></tr>'}).join('')+'</tbody></table></div>';
+  if(keys.length>S.histLimit) t+='<button type="button" class="more" data-act="histmore">Show more ('+fmtN(keys.length-S.histLimit)+' of '+fmtN(keys.length)+' paths not shown)</button>';
+  $('hist').innerHTML=t;
+}
+
+/* ---------- repos ---------- */
+var RSORT={
+  downloads:function(a,b){return (b.downloads||0)-(a.downloads||0)||(a._lc<b._lc?-1:1)},
+  name:function(a,b){return a._lc<b._lc?-1:a._lc>b._lc?1:0},
+  files:function(a,b){return b._cur-a._cur||RSORT.downloads(a,b)},
+  unconf:function(a,b){return (b._cur-b._conf)-(a._cur-a._conf)||RSORT.downloads(a,b)},
+  older:function(a,b){return ((b.superseded||0)+(b.removed||0))-((a.superseded||0)+(a.removed||0))||RSORT.downloads(a,b)},
+  last:function(a,b){var x=a.last||'',y=b.last||'';return x<y?1:x>y?-1:RSORT.downloads(a,b)}
+};
+function renderRepos(){
+  var toks=S.rq.trim().toLowerCase().split(/\s+/).filter(Boolean),c={ok:0,gated:0,down:0},rows=[],i,j,r,ok,ca={yes:0,no:0};
+  for(i=0;i<D.repos.length;i++){
+    r=D.repos[i];
+    if(S.fam&&r.family!==S.fam)continue;if(S.upl&&r.uploader!==S.upl)continue;
+    ok=true;for(j=0;j<toks.length;j++)if(r._lc.indexOf(toks[j])<0){ok=false;break}
+    if(!ok)continue;
+    var s=repoState(r),pa=S.abl==='any'||(S.abl==='yes')===!!r.abliterated,ps=S.rstatus==='any'||S.rstatus===s;
+    if(pa)c[s]++;if(ps)ca[r.abliterated?'yes':'no']++;
+    if(pa&&ps)rows.push(r);
+  }
+  rows.sort(RSORT[S.rsort]||RSORT.downloads);
+  RC={st:c,abl:ca};
+  $('rfilters').innerHTML=pickBtn('rstatus')+pickBtn('abl')+pickBtn('fam')+pickBtn('upl');
+  var filtered=toks.length||S.rstatus!=='any'||S.fam||S.upl||S.abl!=='any';
+  $('rcount').innerHTML='<span>Showing <b class="num">'+fmtN(Math.min(S.rLimit,rows.length))+'</b> of <b class="num">'+fmtN(rows.length)+'</b> '+(rows.length===1?'repo':'repos')+(filtered?' (of '+fmtN(D.repos.length)+' tracked)':'')+'</span>'+(filtered?'<button type="button" class="linkbtn" data-act="rreset">Reset</button>':'');
+  RVIEW=rows.slice(0,S.rLimit);
+  if(!rows.length){$('rtable').innerHTML='<tbody><tr><td class="empty">No repos match these filters.</td></tr></tbody>';$('rmore').innerHTML='';saveHash();return}
+  $('rtable').innerHTML='<thead><tr><th>Repo</th><th>Status</th><th class="n">Downloads</th><th class="n">Current files</th><th>Confirmed</th><th class="n">Older versions</th><th>ModelScope</th><th>Pirate Face</th><th>Last commit</th></tr></thead><tbody>'+
+  RVIEW.map(function(r,i){var pf=r.pirateface,pinned=pf&&pf.commit===r.main,older=(Number(r.superseded)||0)+(Number(r.removed)||0),st=repoState(r);
+    return '<tr class="r" data-ri="'+i+'" tabindex="0">'+
+    '<td class="c-file full"><div class="path">'+esc(r.repo)+'</div><div class="repo">'+esc(r.family||'')+(r.abliterated?' <span class="tag">abliterated or uncensored</span>':'')+(r.pinned?' <button type="button" class="tag" data-act="info" data-k="term" data-v="picked" aria-expanded="false">picked</button>':'')+'</div></td>'+
+    '<td class="nw">'+tap(repoStatusBadge(r),'rst')+'</td>'+
+    '<td class="n" data-l="Downloads">'+fmtK(r.downloads)+'</td>'+
+    '<td class="n" data-l="Current files">'+(st==='gated'?'<span class="c-mut">not read</span>':fmtN(r._cur))+'</td>'+
+    '<td class="nw num" data-l="Confirmed">'+(r._cur?r._conf+' of '+r._cur+'<span class="meter" aria-hidden="true"><i style="width:'+pct(r._conf,r._cur)+'%"></i></span>':'<span class="c-mut">'+ic('dot')+'</span>')+'</td>'+
+    '<td class="n" data-l="Older versions">'+fmtN(older)+'</td>'+
+    '<td class="nw" data-l="ModelScope">'+(r.modelscope?'<span class="badge">'+ic('check','c-good')+'Mirrored</span>':'<span class="badge c-mut">'+ic('dot')+'None</span>')+'</td>'+
+    '<td class="nw" data-l="Pirate Face">'+tap(pf?'<span class="badge">'+ic(pinned?'copy':'tilde',pinned?'c-s1':'c-mut')+(pinned?'At main':'Other commit')+', '+esc(pf.seeds)+(String(pf.seeds)==='1'?' seed':' seeds')+'</span>':r.pirateface_checked===false?'<span class="badge c-mut">'+ic('q')+'Not checked</span>':'<span class="badge c-mut">'+ic('dot')+'None</span>','rpf')+'</td>'+
+    '<td class="nw num" data-l="Last commit">'+esc(r.last||'')+'</td></tr>'}).join('')+'</tbody>';
+  $('rmore').innerHTML=rows.length>S.rLimit?'<button type="button" class="more" data-act="rmore">Show '+Math.min(RPAGE,rows.length-S.rLimit)+' more ('+fmtN(rows.length-S.rLimit)+' not shown)</button>':'';
+  saveHash();
+}
+
+/* ---------- filter state in the URL hash, so a view can be bookmarked ---------- */
+function stateObj(){return {q:S.q.trim(),state:S.auto?'current':S.state,tier:S.tier,ms:S.svc.ms?'1':'',pf:S.svc.pf?'1':'',repo:S.repo,fam:S.fam,upl:S.upl,abl:S.abl,sort:S.sort,rq:S.rq.trim(),rstatus:S.rstatus,rsort:S.rsort}}
+var lastHash=null;
+function saveHash(){
+  var o=stateObj(),a=[];
+  for(var k in DEF)if(o[k]!==DEF[k])a.push(k+'='+encodeURIComponent(o[k]));
+  var h=a.join('&');if(h===lastHash)return;lastHash=h;
+  try{history.replaceState(null,'',h?'#'+h:location.pathname+location.search)}catch(e){}
+}
+function readHash(){
+  var h=String(location.hash||'').replace(/^#/,'');if(h.indexOf('=')<0)return;
+  for(var d in DEF)if(d!=='ms'&&d!=='pf')S[d]=DEF[d];
+  S.svc={ms:false,pf:false};S.auto=false;S.open=null;
+  var one={state:['current','superseded','removed','all'],tier:['any','conf','pfcopy','hfonly','conflict','behind'],abl:['any','yes','no'],rstatus:['any','ok','gated','down']};
+  h.split('&').forEach(function(p){
+    var i=p.indexOf('=');if(i<0)return;var k=p.slice(0,i),v;try{v=decodeURIComponent(p.slice(i+1))}catch(e){return}
+    if(!(k in DEF))return;
+    if(k==='ms'||k==='pf'){S.svc[k]=v==='1';return}
+    if(one[k]&&one[k].indexOf(v)<0)return;
+    if(k==='sort'&&!SORTS[v])return;if(k==='rsort'&&!RSORT[v])return;
+    S[k]=String(v).slice(0,200);
+  });
+  if(S.q&&S.state==='current'){S.state='all';S.auto=true}
+}
+
+/* ---------- wiring ---------- */
+function renderList(){var keep=TIP.keep?TIP.sub:null;var res=scan();renderFilters(res);renderFiles(res);saveHash();if(keep){TIP.keep=false;reopenTip(keep)}}
+function render(){
+  index();
+  if(S.repo&&!repoMap[S.repo])S.repo='';
+  var t=D.totals||{};
+  $('gen').innerHTML=esc(D.generated?'Data from '+utc(D.generated):'No data loaded')+'<span class="genx"> · '+fmtN(D.repos.length)+' repos · '+fmtN(BASE.length+histTotal())+' hash versions</span>';
+  T.index=T.index||performance.now();
+  $('q').value=S.q;$('rq').value=S.rq;$('r-sort').value=S.rsort;
+  renderSummary();renderVerdict();renderKey();renderList();
+  /* the list is on screen first; sections below the fold follow on first load */
+  if(FIRST){FIRST=false;T.list=performance.now();setTimeout(function(){renderChanges();renderRepos();T.rest=performance.now()},0)}
+  else{renderChanges();renderRepos()}
+  $('about-src').innerHTML=REPO_URL?' '+ext(REPO_URL,'Source and data')+'.':'';
+  if(!window.DATA){$('verdict').innerHTML='<div class="vc crit"><div class="vh">'+ic('x','c-crit')+'data.js did not load</div><div class="vs">Keep data.js in the same folder as this page.</div></div>'}
+}
+window.render=render;
+
+/* a search looks across all loaded versions; clearing it returns to current files */
+function searchScope(v){var had=!!S.q.trim(),has=!!String(v).trim();if(has&&!had&&S.state==='current'){S.state='all';S.auto=true}else if(!has&&had&&S.auto){S.state='current';S.auto=false}}
+function setQ(v,scroll){searchScope(v);S.q=v;$('q').value=v;S.limit=PAGE;S.open=null;renderVerdict();renderList();if(scroll)window.scrollTo(0,0)}
+function go(id){var el=$(id);if(el&&el.scrollIntoView)el.scrollIntoView()}
+function goFiles(){S.limit=PAGE;S.open=null;renderSummary();renderList();renderRepos();go('files')}
+function clearSvc(){S.svc={ms:false,pf:false}}
+function copyText(t,btn){
+  function ok(){btn.classList.add('done');btn.innerHTML=ic('check');setTimeout(function(){btn.classList.remove('done');btn.innerHTML=ic('copy')},1200)}
+  function fallback(){var ta=document.createElement('textarea');ta.value=t;ta.setAttribute('readonly','');ta.style.cssText='position:fixed;top:0;left:0;opacity:0';document.body.appendChild(ta);ta.select();try{if(document.execCommand('copy'))ok()}catch(e){}document.body.removeChild(ta)}
+  if(navigator.clipboard&&window.isSecureContext) navigator.clipboard.writeText(t).then(ok,fallback); else fallback();
+}
+var tq=0,trq=0;
+$('q').addEventListener('input',function(){var v=this.value;clearTimeout(tq);tq=setTimeout(function(){searchScope(v);S.q=v;S.limit=PAGE;S.open=null;renderVerdict();renderList()},140)});
+$('rq').addEventListener('input',function(){var v=this.value;clearTimeout(trq);trq=setTimeout(function(){S.rq=v;S.rLimit=RPAGE;renderRepos()},140)});
+document.addEventListener('change',function(e){
+  if(e.target.getAttribute&&e.target.getAttribute('data-col')){PREF.cols[e.target.getAttribute('data-col')]=!!e.target.checked;savePref();applyPref();renderList();return}
+  if(e.target.id==='f-sort'){S.sort=e.target.value;S.limit=PAGE;S.open=null;renderList()}
+  else if(e.target.id==='r-sort'){S.rsort=e.target.value;S.rLimit=RPAGE;renderRepos()}
+});
+function pickRepo(name){clearSvc();S.repo=name;S.fam='';S.upl='';S.abl='any';S.state=HIST.all?'all':'current';S.auto=false;S.tier='any';if(S.q){S.q='';$('q').value='';renderVerdict()}goFiles()}
+function rowAct(tr){
+  if(tr.hasAttribute('data-i')){var f=VIEW[+tr.getAttribute('data-i')];S.open=S.open===f?null:f;$('ftable').querySelector('tbody').innerHTML=VIEW.map(rowHTML).join('');return}
+  if(tr.hasAttribute('data-ri')){var r=RVIEW[+tr.getAttribute('data-ri')];if(r)pickRepo(r.repo);return}
+  if(tr.hasAttribute('data-hist')){var k=tr.getAttribute('data-hist').split('\n');clearSvc();S.repo=k[0];S.fam='';S.upl='';S.abl='any';S.state='all';S.auto=false;S.tier='any';S.sort='name';S.q=k[1];$('q').value=k[1];renderVerdict();goFiles();return}
+  if(tr.hasAttribute('data-sha')){setQ(tr.getAttribute('data-sha'),true)}
+}
+document.addEventListener('click',function(e){
+  var inPop=e.target.closest&&e.target.closest('#pop');
+  var b=e.target.closest('[data-act]');
+  var hadOverlay=!$('tip').hidden||!!POP.kind;
+  if(!inPop&&!(b&&b.getAttribute('data-act')==='pick'))closePick();
+  if(!(e.target.closest&&e.target.closest('#tip'))&&!(b&&b.getAttribute('data-act')==='info'))closeTip();
+  if(b){
+    var a=b.getAttribute('data-act'),v=b.getAttribute('data-v');
+    if(a==='info'){e.preventDefault();if(TIP.btn===b)closeTip();else openTip(b);return}
+    if(a==='settings'){openSet();return}
+    if(a==='closeset'){closeSet();return}
+    if(a==='ref'){closeSet();var sec=$(v),dt=sec&&sec.querySelector('details');if(dt)dt.open=true;go(v);return}
+    if(a==='moresum'){S.moreSum=!S.moreSum;renderSummary();return}
+    if(a==='page'){PREF.page=+v;savePref();applyPref();S.limit=PAGE;S.open=null;renderList();return}
+    if(a==='unset'){
+      if(v==='state'){S.state='current';S.auto=false}else if(v==='ms'||v==='pf')S.svc[v]=false;else if(v==='repo')S.repo='';else if(v==='sort')S.sort='repo';
+      else if(v==='disp'){PREF=JSON.parse(JSON.stringify(PREF_DEF));savePref();applyPref()}
+      scopeChanged();return}
+    if(a==='copy'){e.stopPropagation();copyText(v,b);return}
+    if(a==='go'){go(v);return}
+    if(a==='clearq'){setQ('');$('q').focus();return}
+    if(a==='q'){setQ(v,true);return}
+    if(a==='pick'){if(POP.kind===v){closePick()}else{closePick();openPick(v,b)}return}
+    if(a==='choose'){choosePick(v);return}
+    if(a==='unpick'){S[v]=PICK[v].menu?PICK[v].def:'';if(v==='rstatus'){S.rLimit=RPAGE;renderRepos()}else scopeChanged();return}
+    if(a==='loadhist'){if(b.closest('#tip')&&TIP.sub){var keep=TIP.sub;closeTip();TIP.sub=keep;TIP.keep=true}loadAllHist();return}
+    if(a==='abl'){S.abl=S.abl===v?'any':v;if(S.repo&&!scoped(repoMap[S.repo]||NOREPO))S.repo='';scopeChanged();return}
+    if(a==='clearscope'){S.fam='';S.upl='';S.abl='any';scopeChanged();return}
+    if(a==='ablview'){clearSvc();S.abl='yes';S.fam='';S.upl='';S.repo='';S.state='current';S.auto=false;S.tier=v==='hfonly'?'hfonly':'any';goFiles();return}
+    if(a==='rstatus'){var inR=!!b.closest('#rfilters');S.rstatus=(inR&&S.rstatus===v)?'any':v;S.rLimit=RPAGE;if(!inR){S.rq='';$('rq').value='';S.fam='';S.upl='';S.abl='any';renderSummary();renderList()}renderRepos();if(!inR)go('repos');return}
+    if(a==='rview'){S.rstatus=v;S.abl='yes';S.fam='';S.upl='';S.rq='';$('rq').value='';S.rLimit=RPAGE;renderSummary();renderList();renderRepos();go('repos');return}
+    if(a==='rreset'){S.rq='';$('rq').value='';S.rstatus='any';S.fam='';S.upl='';S.abl='any';scopeChanged();return}
+    if(a==='rmore'){S.rLimit+=RPAGE;renderRepos();return}
+    if(a==='state'||a==='tier'){
+      var inFilters=!!b.closest('#filters');
+      if(a==='state')S.auto=false;S[a]=(inFilters&&S[a]===v&&a!=='state')?'any':v;
+      if(!inFilters){clearSvc();if(a==='tier')S.state='current';if(a==='state'){S.tier='any'}goFiles()}
+      else{S.limit=PAGE;S.open=null;renderList()}
+      /* older versions are not in data.js: choosing one of those views is the request to load them */
+      if(a==='state'&&v!=='current'&&!HIST.all&&!HIST.busy&&histTotal())loadAllHist();
+      return;
+    }
+    if(a==='svc'){S.svc[v]=!S.svc[v];S.limit=PAGE;S.open=null;renderList();return}
+    if(a==='repo'){pickRepo(v);return}
+    if(a==='more'){S.limit+=PAGE;renderList();return}
+    if(a==='showall'){clearSvc();S.state='all';S.tier='any';S.repo='';S.fam='';S.upl='';S.abl='any';scopeChanged();return}
+    if(a==='reset'){clearSvc();S.auto=false;S.q='';$('q').value='';S.state='current';S.tier='any';S.repo='';S.fam='';S.upl='';S.abl='any';S.sort='repo';renderVerdict();scopeChanged();return}
+    if(a==='ev'){S.ev=v;S.evLimit=50;renderChanges();return}
+    if(a==='evmore'){S.evLimit+=100;renderChanges();return}
+    if(a==='histmore'){S.histLimit+=40;renderChanges();return}
+    return;
+  }
+  if(e.target.closest('a,button,select,input,label,code,tr.d,#pop,#tip,#settings')) return;
+  if(hadOverlay) return; /* this tap only dismissed an explanation or menu; it must not also open a row */
+  if(String(window.getSelection&&window.getSelection())) return;
+  var tr=e.target.closest('tr.r');
+  if(tr) rowAct(tr);
+});
+document.addEventListener('keydown',function(e){
+  if(e.key==='Escape'){if(!$('tip').hidden){var tb=TIP.btn;closeTip();if(tb)tb.focus()}else if(POP.kind)closePick();else closeSet()}
+  if((e.key==='Enter'||e.key===' ')&&e.target.matches&&e.target.matches('tr.r')){e.preventDefault();rowAct(e.target)}
+  if(e.key==='/'&&!/^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName)){e.preventDefault();$('q').focus()}
+});
+window.addEventListener('hashchange',function(){var h=location.hash.replace(/^#/,'');if(h.indexOf('=')>=0&&h!==lastHash){readHash();render()}});
+var lastW=window.innerWidth;
+window.addEventListener('resize',function(){if(window.innerWidth!==lastW){lastW=window.innerWidth;closePick();closeTip()}});
+window.addEventListener('scroll',closeTip,{passive:true});
+loadPref();applyPref();S.limit=PAGE;
+readHash();
+render();
+})();
+</script>
+</body>
+</html>

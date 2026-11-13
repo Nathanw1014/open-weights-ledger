@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF
+main commit at snapshot: faa5b025c584459c13febfa5c59883516710ae39
+snapshot taken: 2026-11-13T13:02:07Z

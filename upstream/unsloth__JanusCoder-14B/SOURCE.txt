@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/JanusCoder-14B
+main commit at snapshot: 38842abd81807ec7f29fd312df19d32de1076117
+snapshot taken: 2026-11-13T13:38:36Z

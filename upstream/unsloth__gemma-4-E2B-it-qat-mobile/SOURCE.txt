@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-4-E2B-it-qat-mobile
+main commit at snapshot: a1bfa60a703f79afc47d6c278e642bd38f57421b
+snapshot taken: 2026-11-13T13:26:40Z

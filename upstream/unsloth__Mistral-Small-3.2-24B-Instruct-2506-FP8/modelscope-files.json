@@ -1,0 +1,14 @@
+[
+{
+"Path": "consolidated.safetensors",
+"Sha256": "41ea047d36ad1bd552dd2d78abb8a74031d3f9042a658a0365df02a73202ea29",
+"IsLFS": true,
+"CommittedDate": 1750530289
+},
+{
+"Path": "tekken.json",
+"Sha256": "6e2501687ccd0e1f30f36319eaf2b46958b897811e246cd8eb5d385b9e3de7d1",
+"IsLFS": true,
+"CommittedDate": 1750530288
+}
+]

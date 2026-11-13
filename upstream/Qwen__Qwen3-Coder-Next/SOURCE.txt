@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-Coder-Next
+main commit at snapshot: a7fbcb5c0e12d62a448eaa0e260346bf5dcc0feb
+snapshot taken: 2026-11-13T13:43:49Z

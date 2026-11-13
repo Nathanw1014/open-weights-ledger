@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct-AWQ
+main commit at snapshot: 6ec2560b0afc3a618d4acc9b8e2967d1642f463d
+snapshot taken: 2026-11-13T13:43:54Z

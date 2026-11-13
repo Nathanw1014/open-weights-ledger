@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-Qwen3-14B-abliterated-v2-GGUF
+main commit at snapshot: daac977bbc287a398b4e46e190149142bb46c184
+snapshot taken: 2026-11-13T14:00:49Z

@@ -1,0 +1,32 @@
+[
+{
+"Path": "Qwen3VL-8B-Thinking-F16.gguf",
+"Sha256": "b0f1e99a42e1a7fabec794af37d7501ed097d322716b86c08a078e8b2f0b6e41",
+"IsLFS": true,
+"CommittedDate": 1761816613
+},
+{
+"Path": "Qwen3VL-8B-Thinking-Q4_K_M.gguf",
+"Sha256": "9e54ca761ab1eb0e8bf9eddae356fd3535b910b3bf3e38e10c914f42cf8751cb",
+"IsLFS": true,
+"CommittedDate": 1761816613
+},
+{
+"Path": "Qwen3VL-8B-Thinking-Q8_0.gguf",
+"Sha256": "6657d91e693b7ff8eec9f137589642f8813a7611fea4eeae365d31edcaaf0cf5",
+"IsLFS": true,
+"CommittedDate": 1761816613
+},
+{
+"Path": "mmproj-Qwen3VL-8B-Thinking-F16.gguf",
+"Sha256": "0fda38a08e4344096c5b6d779daf79ffc073adc2736962aaae8692025ef04bae",
+"IsLFS": true,
+"CommittedDate": 1761816613
+},
+{
+"Path": "mmproj-Qwen3VL-8B-Thinking-Q8_0.gguf",
+"Sha256": "c6aebeb17ab596dda1976629ea4ed1bdb94d506fd198630eb8567ae11cfb4684",
+"IsLFS": true,
+"CommittedDate": 1761816613
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/LFM2.5-24B-A2B
+main commit at snapshot: f8919e5dc304fd3c82b194963dc16a1a59f88623
+snapshot taken: 2026-11-13T13:15:17Z

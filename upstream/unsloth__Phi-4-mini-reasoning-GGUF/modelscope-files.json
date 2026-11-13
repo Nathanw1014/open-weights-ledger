@@ -1,0 +1,146 @@
+[
+{
+"Path": "Phi-4-mini-reasoning-BF16.gguf",
+"Sha256": "58f7fb0c1ba81a477d2dea7f7f0aeb45ca914837558d9dfa48212688e553b90b",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-IQ4_NL.gguf",
+"Sha256": "99911890d0ad6ce44c2ab5593a110bd853837952bc0b1514a0784ef2a49d0825",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-IQ4_XS.gguf",
+"Sha256": "5eff458459acb798ef3ef7121606d466a5eb95a459c0e0b19a89b92d894be260",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q2_K.gguf",
+"Sha256": "076ff295a9cdf104d63c9ad3ce13ed4902188a3b8480226cf8b5ae157c77e358",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q2_K_L.gguf",
+"Sha256": "076ff295a9cdf104d63c9ad3ce13ed4902188a3b8480226cf8b5ae157c77e358",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q3_K_M.gguf",
+"Sha256": "af960224852dafc84508bbd58b3a6232ab72ccb05e3c223e91df35f9d4246f5f",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q3_K_S.gguf",
+"Sha256": "4231df0620fb231a28ea4bad0d79d8ffd3f099efdc14c6f05fc60dfefb272c9a",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q4_0.gguf",
+"Sha256": "a99247cb8b96396558cdb7ed0c6120882a7e20c2a8a0c0d38c144e98e923878a",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q4_1.gguf",
+"Sha256": "b6c1e6e3b0bd0a22904edf154fb8452d63560127137a721ee3025e2bde778cc4",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q4_K_M.gguf",
+"Sha256": "81878401a2f8160473649af89560a7fc0932f3623e4f6e58143d5dcbf71d6480",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q5_K_M.gguf",
+"Sha256": "036c6d0d06bcc08c4a3bcfe8ba2693e3485389c1ca1b1d81d7f7c6451d0c5e48",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q6_K.gguf",
+"Sha256": "e5742248749c8e049ee339857f629d61317730cdb3a3dddecc7c5c10b310dbbf",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-Q8_0.gguf",
+"Sha256": "d1267c8c6e567717aa8f1d11916a4db2b46094fe5f60e3ba053a708086b218d3",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-IQ1_M.gguf",
+"Sha256": "8aeacce133f4e28ab19b607cd9d85edf9fb52dd231b866b903739b19372e1c37",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-IQ1_S.gguf",
+"Sha256": "325758ced3f234b5debfab7b97b040545f018438fb201ba670a1127d7a75e927",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-IQ2_M.gguf",
+"Sha256": "fa80f2d71bf5e9356c9983d1ac092800ef8e458d5530ec4ce9d906af9a94b4d8",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-IQ2_XXS.gguf",
+"Sha256": "7ec4980f980fea652baad6b748d97a6809a2d6092965f8a8ee36b6b7b10dbdd3",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-IQ3_XXS.gguf",
+"Sha256": "be0af7b40c9cebc18e93adf26645aedadd542ea569ffadd96c3d7576576e5df9",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-Q2_K_XL.gguf",
+"Sha256": "795d18656943be4f9bdeddcde99bc7a3ea6f8c42acf66c3330e5036f9defa4ca",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-Q3_K_XL.gguf",
+"Sha256": "d2a42036cc769ecf06918cc71d3ea0d3181e796c4a8133f71ee9d4b1ec41edae",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-Q4_K_XL.gguf",
+"Sha256": "60fd722999c9c67dcf0d9f1b2aad550cbc8aa38c728eddbb0d94af8a016af581",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-Q5_K_XL.gguf",
+"Sha256": "ec93b5d90a8aaf22125af70ac2cec1166721a44c705b0981f49059cdc2511223",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-Q6_K_XL.gguf",
+"Sha256": "cfb338964c7c367869e526646d425ce59b21b720bd8e3df4615a1e2563bdb602",
+"IsLFS": true,
+"CommittedDate": 1746077739
+},
+{
+"Path": "Phi-4-mini-reasoning-UD-Q8_K_XL.gguf",
+"Sha256": "65a3b9ae927ad6b6f2effc01c54a485d76f68e37bd1801ec3ef7b935bf124f5d",
+"IsLFS": true,
+"CommittedDate": 1746077739
+}
+]

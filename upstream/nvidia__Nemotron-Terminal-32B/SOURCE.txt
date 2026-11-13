@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Terminal-32B
+main commit at snapshot: a6794afe7fcce15a44a02c0a8d54616f0bed81f1
+snapshot taken: 2026-11-13T13:58:53Z

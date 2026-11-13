@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3.1-Nemotron-8B-UltraLong-2M-Instruct
+main commit at snapshot: 243daed3e0054d8c1ad113e77257b1c3f81bce1e
+snapshot taken: 2026-11-13T13:57:27Z

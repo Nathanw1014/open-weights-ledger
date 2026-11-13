@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-BF16
+main commit at snapshot: 8fe5546888e9bd03fdbf52d808adebdfca901b52
+snapshot taken: 2026-11-13T13:57:35Z

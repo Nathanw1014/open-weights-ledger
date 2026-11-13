@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gpt-oss-120b-GGUF
+main commit at snapshot: ff1a82da6ad466e32284fa3d2b86694db3204789
+snapshot taken: 2026-11-13T13:04:50Z

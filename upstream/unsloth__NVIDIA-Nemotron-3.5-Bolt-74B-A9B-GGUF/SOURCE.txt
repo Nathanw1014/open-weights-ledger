@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-GGUF
+main commit at snapshot: 34841e360524d421c564cc3ed247aa04a865473b
+snapshot taken: 2026-11-13T13:04:45Z

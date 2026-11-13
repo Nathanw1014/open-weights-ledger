@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-LiLiCorr
+main commit at snapshot: 449d24140160b8e51871bfc0f0a7338abf640aa1
+snapshot taken: 2026-11-13T13:56:31Z

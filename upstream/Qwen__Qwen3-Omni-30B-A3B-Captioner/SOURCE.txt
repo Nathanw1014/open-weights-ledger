@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Captioner
+main commit at snapshot: a2bd106cbf527db5676e79662674da22b0545ec0
+snapshot taken: 2026-11-13T13:48:14Z

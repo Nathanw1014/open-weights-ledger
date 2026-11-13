@@ -1,0 +1,56 @@
+[
+{
+"Path": "Qwen-Image-2.1-FP8.safetensors",
+"Sha256": "70e151cfbedd37de7f4a11bda8f58180965c85f4960584c3d10acff599fcd205",
+"IsLFS": true,
+"CommittedDate": 1790102027
+},
+{
+"Path": "Qwen-Image-2.1-INT8-ConvRot.safetensors",
+"Sha256": "f5f30176b7314cdc0574fe80778c56ef6651a4ac2b89aa28bbc897818fb497f0",
+"IsLFS": true,
+"CommittedDate": 1791212060
+},
+{
+"Path": "Qwen-Image-2.1-INT8.safetensors",
+"Sha256": "51ed9fe73c8780e43d91c2ff2f36bf609369a8af2761d617b9a10c83d6ea3c60",
+"IsLFS": true,
+"CommittedDate": 1790102077
+},
+{
+"Path": "Qwen-Image-2.1-text_encoder-FP8.safetensors",
+"Sha256": "0a1e217ea5a327c77cf4c58ee2ec4b15dabdd55cc4ffa6d999085865e70db3df",
+"IsLFS": true,
+"CommittedDate": 1790102129
+},
+{
+"Path": "Qwen-Image-2.1-text_encoder-INT8-ConvRot.safetensors",
+"Sha256": "0cb5ed0653e2ec8065f25a6cfb2ab6a89b6c8f143a500acea19f0e36214814b7",
+"IsLFS": true,
+"CommittedDate": 1791212060
+},
+{
+"Path": "int8_1.png",
+"Sha256": "72da1b06068dcde47957ac607b3c2aef585686e3e8a28b84756ca46e43c82c51",
+"IsLFS": true,
+"CommittedDate": 1790102134
+},
+{
+"Path": "samples/fp8_1.png",
+"Sha256": "ab071d9d7da6308877dd707eb4fd994eb3faaf18debb8d3d6ba25cb3dd29d845",
+"IsLFS": true,
+"CommittedDate": 1790102136
+},
+{
+"Path": "samples/int8_1.png",
+"Sha256": "72da1b06068dcde47957ac607b3c2aef585686e3e8a28b84756ca46e43c82c51",
+"IsLFS": true,
+"CommittedDate": 1790102140
+},
+{
+"Path": "vae/qwen_image_2.1_vae_bf16.safetensors",
+"Sha256": "71879ffd5321e6d10c3c87513e2b474b1252efa7f3dec2969214a9bf06a6dd5c",
+"IsLFS": true,
+"CommittedDate": 1790102145
+}
+]

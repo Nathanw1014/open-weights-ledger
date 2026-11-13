@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Llama3.3-8B-Instruct-Thinking-Heretic-Uncensored-Claude-4.5-Opus-High-Reasoning-i1-GGUF
+main commit at snapshot: dda52d8ebbad5e03bd0ac994e0158b5434dc4227
+snapshot taken: 2026-11-13T14:06:52Z

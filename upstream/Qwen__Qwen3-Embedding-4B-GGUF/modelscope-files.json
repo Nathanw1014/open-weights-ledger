@@ -1,0 +1,38 @@
+[
+{
+"Path": "Qwen3-Embedding-4B-Q4_K_M.gguf",
+"Sha256": "2b0cf8f17b4c723c27303015383c27ec4bf2d8314bb677d05e920dd70bb0f16b",
+"IsLFS": true,
+"CommittedDate": 1752543340
+},
+{
+"Path": "Qwen3-Embedding-4B-Q5_0.gguf",
+"Sha256": "15e65ad36896d269f0ece7e5ead453e860bcea9c208c436b992af89c7bd44c74",
+"IsLFS": true,
+"CommittedDate": 1752543340
+},
+{
+"Path": "Qwen3-Embedding-4B-Q5_K_M.gguf",
+"Sha256": "9fd05563211c2d69d74abb8769fa92983a102d11575b2517a119b0037dff217c",
+"IsLFS": true,
+"CommittedDate": 1752543340
+},
+{
+"Path": "Qwen3-Embedding-4B-Q6_K.gguf",
+"Sha256": "7e7693eb2503fff2050a0bd45ce7e4f08c617a3bbe0b5ee25896113d97a9fe51",
+"IsLFS": true,
+"CommittedDate": 1752543340
+},
+{
+"Path": "Qwen3-Embedding-4B-Q8_0.gguf",
+"Sha256": "b60ae5ce2dd6a0b77f82cadf21def1f310a3e10cde380ad0081b07a9d416949d",
+"IsLFS": true,
+"CommittedDate": 1754230630
+},
+{
+"Path": "Qwen3-Embedding-4B-f16.gguf",
+"Sha256": "e8b4e85c8fcc26079d27418cf8d6a16df1a09890cba0966324a97280f91e782c",
+"IsLFS": true,
+"CommittedDate": 1752543340
+}
+]

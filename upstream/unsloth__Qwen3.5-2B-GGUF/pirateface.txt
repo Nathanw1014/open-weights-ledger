@@ -1,0 +1,2 @@
+checked 2026-11-13T09:34:22Z
+unsloth/Qwen3.5-2B-GGUF                                        35 GB  1 seeds  magnet:?xt=urn:btih:b97a19035371c03be6a5b2a65281ee41d990e1f6&xt=urn:btmh:122023a03829af577b2706e1078b52b7b28d21e0d496c8876dd63c1a7fac80230f3b&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2FQwen3.5-2B-GGUF%2Ff6d5376be1edb4d416d56da11e5397a961aca8ae%2F

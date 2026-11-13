@@ -1,0 +1,27 @@
+# regex (case-insensitive, matched against the repo name without the uploader; first match wins)	family (\1 = first group)
+Flash-?Next	Qwen3.8 Flash-Next
+Qwopus	Qwopus
+Qwen-?(Image|Edit)	Qwen Image
+QwQ|QVQ	QwQ
+Qwen-?(\d+(?:\.\d+)?)-?Coder	Qwen\1 Coder
+Qwen-?(\d+(?:\.\d+)?)	Qwen\1
+Qwen	Qwen (other)
+Nemotron	Nemotron
+Muse-?Glimmer|Glimmer	Muse Glimmer
+Muse-?Spark	Muse Spark
+Ornith-?(\d+(?:\.\d+)?)	Ornith \1
+Ornith	Ornith
+gemma-?(\d+)n?	Gemma \1
+DeepSeek-?V(\d+)	DeepSeek V\1
+DeepSeek	DeepSeek (other)
+GLM	GLM
+Kimi	Kimi
+MiniMax	MiniMax
+LFM	LFM
+granite	Granite
+Llama-?(\d+)	Llama \1
+(Mistral|Mixtral|Devstral|Magistral|Codestral|Ministral|Pixtral|Voxtral)	Mistral
+Phi-?(\d+)	Phi \1
+gpt-oss	gpt-oss
+Hermes	Hermes
+SmolLM|SmolVLM	SmolLM

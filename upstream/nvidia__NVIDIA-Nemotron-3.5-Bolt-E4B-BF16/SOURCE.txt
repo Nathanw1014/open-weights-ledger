@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-BF16
+main commit at snapshot: 49843eed8db1f1c616c47af75cfd36e07aec0667
+snapshot taken: 2026-11-13T13:55:49Z

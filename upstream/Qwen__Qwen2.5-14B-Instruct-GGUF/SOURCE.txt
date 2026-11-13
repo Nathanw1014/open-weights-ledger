@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-GGUF
+main commit at snapshot: b466e1f8c07172155743e8e1307507d8a4f91fbd
+snapshot taken: 2026-11-13T13:46:11Z

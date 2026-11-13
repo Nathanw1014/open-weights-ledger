@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen-Image-2.1-Turbo-FP8
+main commit at snapshot: 3162aea250af0c50101b75f454aa54ed49832292
+snapshot taken: 2026-11-13T13:02:44Z

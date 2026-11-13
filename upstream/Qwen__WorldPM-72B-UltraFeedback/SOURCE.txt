@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/WorldPM-72B-UltraFeedback
+main commit at snapshot: 7a21e7fd8426502017457e64f096c620ac048ee7
+snapshot taken: 2026-11-13T13:53:35Z

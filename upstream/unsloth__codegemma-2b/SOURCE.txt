@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/codegemma-2b
+main commit at snapshot: 5903569be58fd5a967ef10e9b8ffacbf2f7690dd
+snapshot taken: 2026-11-13T13:18:59Z

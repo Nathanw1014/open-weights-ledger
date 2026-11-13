@@ -1,0 +1,4 @@
+repo: https://huggingface.co/unsloth/granite-4.0-h-tiny-GGUF
+main commit at snapshot: 56b37fdc52891304726c4a0a8b140dd1fc1582d5
+lastModified: 2025-10-07T08:56:54.000Z
+snapshot taken: 2026-11-13T09:39:50Z

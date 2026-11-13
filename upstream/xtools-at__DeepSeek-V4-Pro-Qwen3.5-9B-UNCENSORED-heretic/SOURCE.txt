@@ -1,0 +1,3 @@
+repo: https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic
+main commit at snapshot: fbccdc6adf70a1981e8f40e91a8370e428e4f998
+snapshot taken: 2026-11-13T14:07:51Z

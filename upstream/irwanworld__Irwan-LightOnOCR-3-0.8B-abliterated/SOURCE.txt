@@ -1,0 +1,3 @@
+repo: https://huggingface.co/irwanworld/Irwan-LightOnOCR-3-0.8B-abliterated
+main commit at snapshot: d79664b4dfb44a99dd789b2c8ad1865f86a6ef90
+snapshot taken: 2026-11-13T14:04:05Z

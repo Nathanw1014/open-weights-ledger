@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3.6-35B-A3B-NVFP4
+main commit at snapshot: 739af1e7aac320af1682ed1e0cce369af4c5265d
+snapshot taken: 2026-11-13T13:02:00Z

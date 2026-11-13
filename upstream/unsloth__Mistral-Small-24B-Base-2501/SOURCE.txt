@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Mistral-Small-24B-Base-2501
+main commit at snapshot: 6894f0236b0ee15d3292d5ab1ff29c30cd85da09
+snapshot taken: 2026-11-13T13:20:42Z

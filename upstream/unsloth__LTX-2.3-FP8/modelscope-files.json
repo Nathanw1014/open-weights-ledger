@@ -1,0 +1,44 @@
+[
+{
+"Path": "LTX-2.3-FP8.pt",
+"Sha256": "c3a3e301e6f569630373c0d4aca0ad69465322e217ad00f46c2f24ab5cd36d05",
+"IsLFS": true,
+"CommittedDate": 1785870006
+},
+{
+"Path": "LTX-2.3-FP8.safetensors",
+"Sha256": "adf09aa946e35c6f2fce2664ed6856f8fa298e72775fee40394870f79f9dc632",
+"IsLFS": true,
+"CommittedDate": 1791219231
+},
+{
+"Path": "LTX-2.3-INT8.pt",
+"Sha256": "442bd2132aa95a0dd155b217e67f911c9f3074fd435ae06a40fd0f4b72396533",
+"IsLFS": true,
+"CommittedDate": 1785870009
+},
+{
+"Path": "LTX-2.3-INT8.safetensors",
+"Sha256": "5ed59b155e1a7f2fddfe306e60dee39cdbc7b437dbf721f1f75a87fd067503a9",
+"IsLFS": true,
+"CommittedDate": 1791219231
+},
+{
+"Path": "ltx-2.3-22b-dev.safetensors",
+"Sha256": "7ab7225325bc403448ea84b6db2269811a880e5118cd2ee2b6282a93d585016f",
+"IsLFS": true,
+"CommittedDate": 1792159362
+},
+{
+"Path": "ltx-2.3-22b-distilled-1.1.safetensors",
+"Sha256": "b33b7fe4bbfe084f484be4aaf90b0f1d95dca20d403ac4c0e037eb8c4f0af7cc",
+"IsLFS": true,
+"CommittedDate": 1792159362
+},
+{
+"Path": "ltx-2.3-22b-distilled.safetensors",
+"Sha256": "14409a4d1337a8ded02fa87fb895b17a91ab2c6588f7cc3352e624ff18a689bf",
+"IsLFS": true,
+"CommittedDate": 1792159362
+}
+]

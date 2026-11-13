@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/QwQ-32B-Preview-GGUF
+main commit at snapshot: 2d34d32b03eab6f7a3d83031326ee2a87ee3db86
+snapshot taken: 2026-11-13T13:35:13Z

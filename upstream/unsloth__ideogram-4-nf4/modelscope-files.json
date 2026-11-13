@@ -1,0 +1,38 @@
+[
+{
+"Path": "assets/samples/collage_landscape.jpg",
+"Sha256": "b98b2d7cde3e24c1f28341fb531898e0b09cfe03ccbdc978a14cf87ef8bb1987",
+"IsLFS": true,
+"CommittedDate": 1785954887
+},
+{
+"Path": "text_encoder/model.safetensors",
+"Sha256": "1a24d0a826b5cb3209a0e91ede72ed0978405c3dc6d1fc7224f6263602a1ce32",
+"IsLFS": true,
+"CommittedDate": 1785954911
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "be75606093db2094d7cd20f3c2f385c212750648bd6ea4fb2bf507a6a4c55506",
+"IsLFS": true,
+"CommittedDate": 1785954914
+},
+{
+"Path": "transformer/diffusion_pytorch_model.safetensors",
+"Sha256": "797804d99ed15606c26cda49bc2816c4d6d1231ec29cdd931a360563da252972",
+"IsLFS": true,
+"CommittedDate": 1785954917
+},
+{
+"Path": "unconditional_transformer/diffusion_pytorch_model.safetensors",
+"Sha256": "5643d06fb7818c81c4bf5e9fa8d135612bf1ef5be4c318764c56ea59675cda7a",
+"IsLFS": true,
+"CommittedDate": 1785954919
+},
+{
+"Path": "vae/diffusion_pytorch_model.safetensors",
+"Sha256": "925ce3a08e8759174667f5e89384ba2b54dd81a87b7379dadb68a1a87b70b052",
+"IsLFS": true,
+"CommittedDate": 1785954922
+}
+]

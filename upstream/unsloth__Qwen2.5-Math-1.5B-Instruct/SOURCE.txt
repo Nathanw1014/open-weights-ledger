@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Math-1.5B-Instruct
+main commit at snapshot: e367d367d2c4ce9757e31681bfa94db829bd92e8
+snapshot taken: 2026-11-13T13:23:55Z

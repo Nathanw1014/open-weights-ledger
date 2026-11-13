@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf
+main commit at snapshot: 94560aacac621cace6152114d3339db8f57d94df
+snapshot taken: 2026-11-13T14:01:48Z

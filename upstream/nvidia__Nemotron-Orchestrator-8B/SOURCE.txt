@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Orchestrator-8B
+main commit at snapshot: 26df4b9aad5abdc5b7871ee4c71063ce888feb26
+snapshot taken: 2026-11-13T13:56:45Z

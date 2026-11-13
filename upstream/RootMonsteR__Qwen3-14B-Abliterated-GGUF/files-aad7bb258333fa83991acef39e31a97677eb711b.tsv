@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+assets/03-agentic-loop.png	126279	e36b68584f749d442d434ed351b6a37472857f10619ffe72f67ece5157bbc011	sha256
+assets/04-format-decision.png	174633	854e4262b9edbc641a945731a88eff712efdbc7f16f4b7cb2437486fc9ffbfe8	sha256
+assets/banner.png	169512	6a96507d186ffaf474d71348cd5a73750ab267252a72d85e7c7bf72bd7eb9116	sha256
+qwen3-14b-abliterated-Q4_K_M.gguf	9001753792	c74b5bcfcf7d4c9386075cde43fd7a4580c602b46b90ad01d7fc58b696748bbb	sha256
+qwen3-14b-abliterated-Q5_K_M.gguf	10514570432	dd502f4f28ec24c24d014ebc67caf39c7f2fae5e537eb818bdb54a25fe7b3703	sha256

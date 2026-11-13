@@ -1,0 +1,3 @@
+repo: https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GPTQ-Int4
+main commit at snapshot: fb685a8409e4290f8a15dad0a691e6a9e3d42c3f
+snapshot taken: 2026-11-13T14:08:20Z

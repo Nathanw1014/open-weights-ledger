@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Phi-3-mini-4k-instruct-v0-bnb-4bit
+main commit at snapshot: c28350f19e2ceb848a851b9132509224d70bf83c
+snapshot taken: 2026-11-13T13:29:50Z

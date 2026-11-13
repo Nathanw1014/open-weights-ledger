@@ -1,0 +1,13 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3-0.6B-Heretic-Heresy-Edition.IQ4_XS.gguf	369278624	abf643ec2ff08ded3057229de2a6f20d35bf2ec5deb65c2890be9179013ce5af	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q2_K.gguf	296238752	0236b7019aacad86ed0ffe8e8692634f4058624d9e77dc3f5edd61f68538fec1	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q3_K_L.gguf	368492192	5e525b06c4faa33c02e68b37119674ff70188cd2a885dd68e4372779aa7fc6c9	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q3_K_M.gguf	347127456	2b2df81f05b4fe647d998d82419a5c2ccb970bb7d274f5207672a5147b0fe52b	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q3_K_S.gguf	323075744	5a8aad4692ac66ff76afb78da21ca0949eb56bb688ab1b1da9a54076e364e0e8	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q4_K_M.gguf	396705440	b39f35d5654d03b106c9cb6f76d0fe597848bdc1c51bcdf1f5411602e2cec118	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q4_K_S.gguf	383270560	782b866a98e2d647ab139ee92b135f0aaa5f8bd7a4a15db7e50b5fe962dd7d19	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q5_K_M.gguf	444415648	f75067aedd71eab0e2d067631812e89447ec42ac8849de3bcf522c22a932bc50	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q5_K_S.gguf	436616864	7a4c5b399ab09666e1841e97f0f5634699cf95adac3b530b9ab58e0c4dac9598	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q6_K.gguf	495107744	04669d106d5bacb10f89cced8b6a5f2800eac600b477115ac5def6c635b0fc31	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.Q8_0.gguf	639447712	c616300e64c434eeb7bd07f7fb460bb8c788a5a362e77bd27151816a146a1c6f	sha256
+Qwen3-0.6B-Heretic-Heresy-Edition.f16.gguf	1198183072	2a8ed8abfb6b8ac293b9a88e9e2abefa5da54636f06e4245e25814849717cd68	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3-0.6B-heretic-abliterated-uncensored-i1-GGUF
+main commit at snapshot: ad2ba4e03abd93ca8c72fc6effbe62c3033a4b8f
+snapshot taken: 2026-11-13T14:01:24Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MAI-DS-R1-GGUF
+main commit at snapshot: e9cb78ceada9edfd1689e8a2582b3a7e119e9392
+snapshot taken: 2026-11-13T13:31:01Z

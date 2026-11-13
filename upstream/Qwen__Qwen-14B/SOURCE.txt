@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-14B
+main commit at snapshot: c4051215126d906ac22bb67fe5edb39a921cd831
+snapshot taken: 2026-11-13T13:48:43Z

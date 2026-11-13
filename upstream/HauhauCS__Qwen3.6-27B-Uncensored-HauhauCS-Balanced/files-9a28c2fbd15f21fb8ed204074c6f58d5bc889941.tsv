@@ -1,0 +1,12 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-IQ2_M.gguf	10004592032	1740639c89fe5cd09f00619a08dcefbba464240badfc587d553bc06aa339bd2f	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-IQ3_M.gguf	12580873632	08c29d8693b04c58ea0c9f4d97e4e4c0f08099f87148c362b62c0f1f8ec7650c	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-IQ3_XS.gguf	11967128992	85322e30740443a37c0fb0f79554fd2e6f79d30e72503261d3adec997b6a3d2f	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-IQ4_XS.gguf	15082505632	6945f84c2698ce275c9ae79c6bc57387be28e64feb15a1abc7f1507bbb5657bc	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-Q2_K_P.gguf	11516069792	e04094c14c5eacf29f7527507dbfc9bd62607e6f5c7408648d1833179d2dfbd6	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-Q3_K_P.gguf	14301709472	b05225af1105ffa7095436142ffa27fb248b3c68bb4645966339ac425381546a	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-Q4_K_P.gguf	17536279712	f62e4e04389f94cbf32639143d7049d34bdd8ebdba2875dd6c25d6f742241b60	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-Q5_K_P.gguf	20812952992	a6eedc895657e7f6b0f5cc300eb595442585c714b5c31db12e4bec565a65f18e	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-Q6_K_P.gguf	23154960032	ce7be37b6cd8eb324b6ed4e020d7bbf18f2764ece7bd5b660d82143368389734	sha256
+Qwen3.6-27B-Uncensored-HauhauCS-Balanced-Q8_K_P.gguf	31963749792	33a79bf28179e703ac8425dc06461de6212873df41ec6cff25a4cfb201d3f02a	sha256
+mmproj-Qwen3.6-27B-Uncensored-HauhauCS-Balanced-f16.gguf	927606944	81c5dfa3cd41367eb7b3f6e480def1a8cfaf50532ebae791931578b5c7a01437	sha256

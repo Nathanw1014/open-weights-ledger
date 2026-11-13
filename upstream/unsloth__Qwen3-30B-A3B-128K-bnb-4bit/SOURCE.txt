@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-30B-A3B-128K-bnb-4bit
+main commit at snapshot: 8b0213acc73e8b15092050638fb7d9dcc84f40d0
+snapshot taken: 2026-11-13T13:38:12Z

@@ -1,0 +1,62 @@
+[
+{
+"Path": "Qwen-Image-2512-FP8.pt",
+"Sha256": "cff1e1cbec87c02b4aa45de1a5f40232dea2ca6d29b5f587721e2e5729b5c460",
+"IsLFS": true,
+"CommittedDate": 1784747648
+},
+{
+"Path": "Qwen-Image-2512-FP8.safetensors",
+"Sha256": "f3e49498eb1df4f033930eedb1a48f23888ebcce5d709462a602fbcaaa6ad4ca",
+"IsLFS": true,
+"CommittedDate": 1791383299
+},
+{
+"Path": "Qwen-Image-2512-INT8.pt",
+"Sha256": "57ad58e01d80cc428c60c6fa14d578c901196d508ad5fb02e7893d8036cc1d4e",
+"IsLFS": true,
+"CommittedDate": 1791990779
+},
+{
+"Path": "Qwen-Image-2512-INT8.safetensors",
+"Sha256": "e809e5d477307abf7a468901bc2da427ac7b4cb48467288973605f6ddee45404",
+"IsLFS": true,
+"CommittedDate": 1791990779
+},
+{
+"Path": "samples/fp8_1.png",
+"Sha256": "74fdcda96462f1d16d42afa3260f9b1cae12e40f179ea5146198f73b4e57d0ca",
+"IsLFS": true,
+"CommittedDate": 1791990779
+},
+{
+"Path": "samples/fp8_2.png",
+"Sha256": "ebaa9a7ce45cef0dc1d3104ae504e8e7c385b29aea8b8de2cec136d90988562a",
+"IsLFS": true,
+"CommittedDate": 1791990779
+},
+{
+"Path": "samples/fp8_3.png",
+"Sha256": "c248880e11777907f12977204a07a1041308a355e4955eafec122a743d1fd8ba",
+"IsLFS": true,
+"CommittedDate": 1791990779
+},
+{
+"Path": "samples/int8_1.png",
+"Sha256": "537b0fc8c210f4e63ee38cdcc6e8181a462eb6564da4faf649e8e7e3a25d94c2",
+"IsLFS": true,
+"CommittedDate": 1791990779
+},
+{
+"Path": "samples/int8_2.png",
+"Sha256": "32efbdc15e211cb747a0af626ba405df1e7737c8ff8ee9841ba27cfe7bed632b",
+"IsLFS": true,
+"CommittedDate": 1791990779
+},
+{
+"Path": "samples/int8_3.png",
+"Sha256": "04684ada71b58b210c24f64dfbdea6dd501f8a32a7a8a0ce3d10ff7005904f45",
+"IsLFS": true,
+"CommittedDate": 1791990779
+}
+]

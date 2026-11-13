@@ -1,0 +1,50 @@
+[
+{
+"Path": "pytorch_model-00001-of-00006.bin",
+"Sha256": "0c747c14b388e0b9f7f94a3bb01e5927371a8719820503757d0c179e80f79225",
+"IsLFS": true,
+"CommittedDate": 1758135139
+},
+{
+"Path": "pytorch_model-00002-of-00006.bin",
+"Sha256": "818138e097ce4ecd2f70b498c5f6fb0700faeb1d82245e1a59e58e23be2fdc98",
+"IsLFS": true,
+"CommittedDate": 1758135139
+},
+{
+"Path": "pytorch_model-00003-of-00006.bin",
+"Sha256": "fde171fd256512d56a72f3b7ea1d53a2eca887e1cad6321d4f034fec221b4cf8",
+"IsLFS": true,
+"CommittedDate": 1758135139
+},
+{
+"Path": "pytorch_model-00004-of-00006.bin",
+"Sha256": "5516240325c3c837534ca415ddcb565ddf3fb16124cd3ff82eda192352fd7bcb",
+"IsLFS": true,
+"CommittedDate": 1758135139
+},
+{
+"Path": "pytorch_model-00005-of-00006.bin",
+"Sha256": "409a63cb65b92c2b42be5a0e738c28ace4d479040833603e123bfa65fe6a22dc",
+"IsLFS": true,
+"CommittedDate": 1758135139
+},
+{
+"Path": "pytorch_model-00006-of-00006.bin",
+"Sha256": "6740ac92d68bc8f020809c1897b5f28c8c6af3d6cc950fa6db9c1b4fb122ed26",
+"IsLFS": true,
+"CommittedDate": 1758135139
+},
+{
+"Path": "tekken.json",
+"Sha256": "05e051a32ae9d6333459da0083d36507116334fc85378321cfb32dfff7187531",
+"IsLFS": true,
+"CommittedDate": 1758135139
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "158915c7c928301e0d32f1da363e45c294d907bd4c64a8e855f0bd1a47b9e870",
+"IsLFS": true,
+"CommittedDate": 1758135139
+}
+]

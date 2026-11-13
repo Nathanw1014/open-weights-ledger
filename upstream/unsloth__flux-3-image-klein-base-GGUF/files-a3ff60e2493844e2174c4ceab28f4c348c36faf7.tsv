@@ -1,0 +1,14 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+flux-3-image-klein-base-BF16.gguf	11076965120	042f32454b06727b20c5d0306ccacd2623f3852d56898c8a89a05c3e7db8fd4c	sha256
+flux-3-image-klein-base-Q3_K_M.gguf	2991952640	4094aeb6c5f4b2c8b15efe70b8d8d6a876036582f414f880a2012968083cdfbe	sha256
+flux-3-image-klein-base-Q4_K_M.gguf	3646460672	48f0d62520451158f309de2fd38d8540a817d76a8fb104c082ff47397734a8c3	sha256
+flux-3-image-klein-base-Q5_K_M.gguf	4195783424	5be13e32eb9d768526aba3f4a230ecaf315f442b5bf3c29c673d9884b6ac41c1	sha256
+flux-3-image-klein-base-Q6_K.gguf	4779438848	3421e69d3a327533dceef2ee636ebf52b05d28a2c961fe77e4eba66db2c08526	sha256
+flux-3-image-klein-base-Q8_0.gguf	6072308480	7ec6f9b26a54eb307a92bb928efb698ee40fe56bc73cfd43e29e772194828826	sha256
+flux-3-image-klein-base-UD-Q2_K_XL.gguf	2619208448	5d1d1e4a4acc75dc011286e8d32731f270a02d4372df642005a672f87a5bcd85	sha256
+flux-3-image-klein-base-UD-Q3_K_XL.gguf	3279860480	607ecc018c28ff673e9e25f2ddd24b2583fbac5f35a0b986acbd7cbb783ba2a4	sha256
+flux-3-image-klein-base-UD-Q4_K_XL.gguf	3929871104	8f32b955763b8c9ba55ea5fd648d7faa1055fe13f00d3641d971746aa1585d0f	sha256
+flux-3-image-klein-base-UD-Q5_K_XL.gguf	4479341312	31cac2ba3847c5572d7bdaee1b1053037d2dcf4106f3f07d7a6bff782da279b8	sha256
+samples/UD-Q4_K_XL_man_dog.png	2108335	ae42e7f4582b55851afc10d8fb67e966107267a3756f1f8019a81512862b453f	sha256
+samples/compare_eval_long_prompt.png	1957936	e6f568c1283a2798ed017bedc5bbb97974a46f61d9629a5c4c42978dba452c6d	sha256
+samples/compare_man_dog.png	2208750	985f64d40ed2a3bad10e3a6cedd05f6198701a52a449feaf277caa23cc8e0d50	sha256

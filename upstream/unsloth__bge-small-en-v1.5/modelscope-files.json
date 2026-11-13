@@ -1,0 +1,20 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "3c9f31665447c8911517620762200d2245a2518d6e7208acc78cd9db317e21ad",
+"IsLFS": true,
+"CommittedDate": 1780341783
+},
+{
+"Path": "onnx/model.onnx",
+"Sha256": "828e1496d7fabb79cfa4dcd84fa38625c0d3d21da474a00f08db0f559940cf35",
+"IsLFS": true,
+"CommittedDate": 1780341813
+},
+{
+"Path": "pytorch_model.bin",
+"Sha256": "84868a67d847f7f37d1df745b73a4c20b5bc0a797c87a23b265f8a0131728b88",
+"IsLFS": true,
+"CommittedDate": 1780341831
+}
+]

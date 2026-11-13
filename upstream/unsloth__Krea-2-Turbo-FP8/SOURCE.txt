@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Krea-2-Turbo-FP8
+main commit at snapshot: 9bb83b8e8cf462381185c88b056d210b4fc4463e
+snapshot taken: 2026-11-13T13:06:19Z

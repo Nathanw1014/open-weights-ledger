@@ -1,0 +1,3 @@
+repo: https://huggingface.co/RoadToNowhere/Qwen3-32B-abliterated-Q4_K_M-GGUF
+main commit at snapshot: 36a6a1be225e6728acaec150ae944cf24491f684
+snapshot taken: 2026-11-13T14:01:30Z

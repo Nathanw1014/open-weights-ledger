@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Dolphin3.0-Llama3.1-8B-abliterated-GGUF
+main commit at snapshot: a58298bb7ca5393024d1844e97cc5e078bb002c1
+snapshot taken: 2026-11-13T14:04:05Z

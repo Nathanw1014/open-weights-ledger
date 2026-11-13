@@ -1,0 +1,152 @@
+[
+{
+"Path": "AceReason-Nemotron-14B-BF16.gguf",
+"Sha256": "faa5977d32d218bac0e500baf04e545bb8cbe8ece77014df0c173d59c8fd68d1",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-IQ4_NL.gguf",
+"Sha256": "50757f277e1079adcf48cb74d0cfc97cc181aeab7b6b957c8a9072fbd3338c9b",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-IQ4_XS.gguf",
+"Sha256": "a8372a96d57b1166b12421f68a5d58d1b5cc4d7ba08e8a279b061907bbcee35e",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q2_K.gguf",
+"Sha256": "298afc6bb636edda6a12c0e6d4df6253fb21a9f3b27ff905c1905051e18cf54e",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q2_K_L.gguf",
+"Sha256": "19f5955425e051a539dc1ef17c59360a5afbf977c0c2c6169d9e71344b41df69",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q3_K_M.gguf",
+"Sha256": "a4d03deb99a510f7d7755f2e7f5163c0bdc330f37d04c91f6b4a62fc946501aa",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q3_K_S.gguf",
+"Sha256": "a82c8033707eb9681074ac56aa859af8672a33115a6af5e5330525ad3916915c",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q4_1.gguf",
+"Sha256": "e52b013889f3650223033050f1919ded0462624964dcba6491b3f15bada026a7",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q4_K_M.gguf",
+"Sha256": "5aa3abbcee06c9c5a061ba24bcccbbec8bc08f507f9e1c827ee4f66d95d7e474",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q4_K_S.gguf",
+"Sha256": "4f56ea82d2bd70a422b264783a487c19f5bdd10b016fd260cbff397cba9d3656",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q5_K_M.gguf",
+"Sha256": "2e94dbdc85a8d4d6a8e22f700bfc24bba30cc98d29acedf2cd7fb28acbba51e9",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q5_K_S.gguf",
+"Sha256": "d34d2884408af4830cd0ba646170666dbf57ee560146cd307cad9de40d10486e",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-Q6_K.gguf",
+"Sha256": "416bafda1ae5be213436cd32acb0acde4952640d7d8fd396bbe4c04c10a72802",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-IQ1_M.gguf",
+"Sha256": "31721b05dadccac87f21535e75f6c4560eda5807262ee31589cff5c5633fce50",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-IQ1_S.gguf",
+"Sha256": "3e2f891a8d883b43d3c3da9ae5e7b0ea84e8eac677da04a24436b238f9af1786",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-IQ2_M.gguf",
+"Sha256": "5648f2e965da40b692fcf132fe19a45c88a91ec2b4ff51b26fe7d06557277005",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-IQ2_XXS.gguf",
+"Sha256": "9b23ea23ba7d705cf4e026d0cb0dd54dd61442fb5f28349e5eb96f147c1355e6",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-IQ3_XXS.gguf",
+"Sha256": "1469d80ec61031a620891584aa4fdb79f1e3b85b6d76dfbf6dbfe2ae6121e811",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-Q2_K_XL.gguf",
+"Sha256": "3f3dc9ee3e77e7e35f84462e18696b0db1c10bec317d37b22dbb03c2a867c695",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-Q3_K_XL.gguf",
+"Sha256": "5ce7cb3934f778dfb81163fa93ec5488aec3bf5cebae265f4724d96755e6f04c",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-Q4_K_XL.gguf",
+"Sha256": "d1ac2574f119bd241cbb49411a8d4860be7ef661157b134292cad4cf5fa4622e",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-Q5_K_XL.gguf",
+"Sha256": "e724257efb291b9deef8566d5547bffcede5e7c8b3dc02c06121c4ddf82d05ce",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-Q6_K_XL.gguf",
+"Sha256": "a7bf85f002021878a83eeecc2eb8842a114b1bebdb20335d19a118cac51ef7ae",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "AceReason-Nemotron-14B-UD-Q8_K_XL.gguf",
+"Sha256": "3b9912d1ab4009d1a78351784e6e3a86c3effc4c7b5b167050eefcc187095cb5",
+"IsLFS": true,
+"CommittedDate": 1748025494
+},
+{
+"Path": "imatrix_unsloth.dat",
+"Sha256": "cebac9c4f34a7d7d517d825df835d24a6a4663a1f9c74f22939a32a312fff117",
+"IsLFS": true,
+"CommittedDate": 1748025492
+}
+]

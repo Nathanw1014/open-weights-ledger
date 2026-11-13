@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/llama-2-13b
+main commit at snapshot: d02f2b2a79ecab06839415ac8cc3196a5df09516
+snapshot taken: 2026-11-13T13:25:55Z

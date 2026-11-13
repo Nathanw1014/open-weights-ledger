@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+OYM_banner.png	1657698	a714b89b47ac285ed6548a4a3c715b6871259f52fd622973fe3ad67021728659	sha256
+Qwopus3.5-122B-A10B-Kimi-K2.6-destill-healed-abliterated-Q4_K_M.gguf	75842332192	a504c6840511e8032010636cfea9147f58e462ba313d2f70695c02c7f68047df	sha256
+mmproj-Qwopus3.5-122B-A10B-Kimi-K2.6-destill-healed-abliterated-F16.gguf	908724320	e77aff84f0a1e5d2aa42276abb0eceedba23aae4123a1eed8316cc55f8d72e63	sha256

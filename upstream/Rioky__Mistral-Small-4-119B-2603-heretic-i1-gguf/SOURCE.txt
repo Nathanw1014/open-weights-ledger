@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Rioky/Mistral-Small-4-119B-2603-heretic-i1-gguf
+main commit at snapshot: 0fb0a30f7f452054aa08509c2c1dafb07bdf1baf
+snapshot taken: 2026-11-13T14:07:56Z

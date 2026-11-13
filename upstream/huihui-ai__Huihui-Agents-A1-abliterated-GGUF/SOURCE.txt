@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-Agents-A1-abliterated-GGUF
+main commit at snapshot: 9189aa287362d13d803cb0d21335c0b0fd5d191c
+snapshot taken: 2026-11-13T14:03:08Z

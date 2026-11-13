@@ -1,0 +1,164 @@
+[
+{
+"Path": "BF16/medgemma-27b-text-it-BF16-00001-of-00002.gguf",
+"Sha256": "999694f6630cbb3fda066419c2b75aa20df26c5c00d0a7ae386e80e46b10f2c1",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "BF16/medgemma-27b-text-it-BF16-00002-of-00002.gguf",
+"Sha256": "248c5bcb7edb9cfd874ea2b7963fc793a9e4a5dee42cdd40b63e6c09d5fbcb1f",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "imatrix_unsloth.dat",
+"Sha256": "bc2f7ea684845c97e344ed5e8c60258f0c2ad525871449506f333fae91fc1980",
+"IsLFS": true,
+"CommittedDate": 1747828973
+},
+{
+"Path": "medgemma-27b-text-it-IQ4_NL.gguf",
+"Sha256": "4f6b3fb12bf9cd789715ea303a906e2da88e94216fd89361f9bbc166bd11d70b",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-IQ4_XS.gguf",
+"Sha256": "2f282301193c072b3d2cd42d41b0f06ed1772c2df73a1dc2a005961d502b09dd",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q2_K.gguf",
+"Sha256": "b137aac80f2bcb1c1ed35bfe13387bc496eb18898d5f46425687604f0f714481",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q2_K_L.gguf",
+"Sha256": "b137aac80f2bcb1c1ed35bfe13387bc496eb18898d5f46425687604f0f714481",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q3_K_M.gguf",
+"Sha256": "c63f4483560b82497687d03b9c4e635c59ce70392344fc0536150dc6995fb387",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q3_K_S.gguf",
+"Sha256": "0c4ecb695d144799ffb0bb85c86b2f59d3f22f6e6988bccdcbc47ec4ba6bdd3a",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q4_1.gguf",
+"Sha256": "8c20396346af3e411553407b03ec1d5d685d6eef97b516794f2c55225a567538",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q4_K_M.gguf",
+"Sha256": "383b1c414d3f2f1a9c577a61e623d29a4ed4f7834f60b9e5412f5ff4e8aaf080",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q4_K_S.gguf",
+"Sha256": "1ad12d20c9e2ef61f74c0e952de589c93cb3dce17750f1fbfe0db4921616a5b1",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q5_K_M.gguf",
+"Sha256": "27069242c6640da27b35d11ca00490e599030290b455012ace0939dd59e84cb5",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q5_K_S.gguf",
+"Sha256": "1ea2d9df1fa8d5cd2dda0123f959816c5b7685e1b3a67bf77307403d50b31267",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q6_K.gguf",
+"Sha256": "7081192d6160dee67c0a99ab37661f4794b8e1ca8497e6d859a6a8397b1a53de",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-Q8_0.gguf",
+"Sha256": "ef02e1b21e9833ef7cdab1cce0ac7b8280b825a9fefb0a7f42f7b03e9e46133a",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-IQ1_M.gguf",
+"Sha256": "e0aa3b314c50a7bbd30ef05816156ba363024184b317ec0357d26325325b7aa4",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-IQ1_S.gguf",
+"Sha256": "0ce3c42b90f93741e080edf26f6cfe3313cba36f618a8d9f165ac62fdf6a5c29",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-IQ2_M.gguf",
+"Sha256": "c9b4e42f964bc3327837e0a6d6bf88e238bd986be476a53b6c84c588cd249f2b",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-IQ2_XXS.gguf",
+"Sha256": "ad8c5f1c58046643b72261664400904085ac280cc4fcdaedb550c1576116e6ac",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-IQ3_XXS.gguf",
+"Sha256": "2882ade197b4b36849bd2e1cb32caa5d250950bc7b50b9b213ce7db8bacb414e",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-Q2_K_XL.gguf",
+"Sha256": "87eb60811b6d426421ed9d89ef60fa1dff72e4d54d5479e8f123f005bb0e7c0e",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-Q3_K_XL.gguf",
+"Sha256": "28e62cbe89b1ae3442c51a7f6a37883c2bb3037db5f34e6bc4288f5394443d55",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-Q4_K_XL.gguf",
+"Sha256": "665719f41bdb9b84e2e730d4e8be121044f80e973056d3127eb8a986ac808f89",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-Q5_K_XL.gguf",
+"Sha256": "22b8f15e0f880929e0c3bc442453e5270899f7985032d515383ac85232c1365f",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-Q6_K_XL.gguf",
+"Sha256": "e3a2aad9e41fbbd089a53b8212ca467e153d0ebed409543201ab0e6ecd903634",
+"IsLFS": true,
+"CommittedDate": 1747828974
+},
+{
+"Path": "medgemma-27b-text-it-UD-Q8_K_XL.gguf",
+"Sha256": "02cffc01abc62bb11af0d0f6691b0c3cc52c312ff7806980f5a01634e669dc9d",
+"IsLFS": true,
+"CommittedDate": 1747828974
+}
+]

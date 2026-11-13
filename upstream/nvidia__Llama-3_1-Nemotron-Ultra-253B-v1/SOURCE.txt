@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+main commit at snapshot: 5b47def5b8957142d82faeb44bfad9349d02840d
+snapshot taken: 2026-11-13T13:56:53Z

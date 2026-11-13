@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/llama-3-8b-Instruct
+main commit at snapshot: f3710969eb766fb49d4d1ed3aeabcb03390772bd
+snapshot taken: 2026-11-13T13:06:55Z

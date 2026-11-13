@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Devstral-Small-2-24B-Instruct-2512
+main commit at snapshot: d6b5eadf13edd4d137d71f5cbfd7d947a5a6cc3f
+snapshot taken: 2026-11-13T13:22:37Z

@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Demo.ipynb	878101	4c6af3fabb5d255609ad3954c451015dbf565d3855ae54440f99429ba6978f55	sha256
+example.png	201319	3d420c29fda058e9d72ce556cf66261b1e35ee0fbb293b1abbc4f2ebae5f52ce	sha256
+nemotron_graphic_elements_v1/weights.pth	433919084	580b566b6746a5f1f045e1b935a5d7e3eed18d2e8a5d731246c4011243d2caa6	sha256
+viz.png	231574	8057a578d8e521eef82d33ed79a1c72d3eca19fc802c6e736b7d7912ca25449b	sha256

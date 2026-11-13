@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/LFM2-350M-GGUF
+main commit at snapshot: 7ed6733192873777637b34cf3c8ba0d8380d931e
+snapshot taken: 2026-11-13T13:18:31Z

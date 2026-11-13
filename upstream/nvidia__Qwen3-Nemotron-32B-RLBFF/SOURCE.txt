@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF
+main commit at snapshot: 9e794640bdb13ee1424f418b317fd10ac93683e4
+snapshot taken: 2026-11-13T13:58:16Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-Coder-REAP-363B-A35B-GGUF
+main commit at snapshot: b63426f7a76ab7d862d679b9463e7f6b174f98aa
+snapshot taken: 2026-11-13T13:27:58Z

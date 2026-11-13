@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Muse-Spark-Open-816B-A42B
+main commit at snapshot: 49cade7b0c6ed297f0434229ac67eea5f9ae1220
+snapshot taken: 2026-11-13T13:17:27Z

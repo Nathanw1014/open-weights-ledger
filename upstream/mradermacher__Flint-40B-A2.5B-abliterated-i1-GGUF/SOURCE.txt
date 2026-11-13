@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Flint-40B-A2.5B-abliterated-i1-GGUF
+main commit at snapshot: 0c7fe355ace5720988ff08a8e5197ca893836c1c
+snapshot taken: 2026-11-13T14:02:57Z

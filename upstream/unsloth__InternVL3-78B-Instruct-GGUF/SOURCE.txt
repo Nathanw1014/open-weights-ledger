@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/InternVL3-78B-Instruct-GGUF
+main commit at snapshot: 492a19cbeddfc431b754baf4243709029058de3a
+snapshot taken: 2026-11-13T13:16:47Z

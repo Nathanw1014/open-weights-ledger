@@ -1,0 +1,2 @@
+checked 2026-11-13T09:34:31Z
+unsloth/Qwen3.5-9B-GGUF                                                           148 GB   3 seeds  magnet:?xt=urn:btih:64ffac8beb05d6029fc9c6f8b7550bcaa1de9ecc&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2FQwen3.5-9B-GGUF%2F3885219b6810b007914f3a7950a8d1b469d598a5%2F

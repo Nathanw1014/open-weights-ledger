@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-9B-heretic-uncensored-GGUF
+main commit at snapshot: 6fa1707e4f5a664800cff1012e991dc258ccdc86
+snapshot taken: 2026-11-13T14:07:19Z

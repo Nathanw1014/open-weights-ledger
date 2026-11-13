@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/nemocurator-fineweb-nemotron-4-edu-classifier
+main commit at snapshot: 842316292abe5bc78521758f5498d6a05adc0f8b
+snapshot taken: 2026-11-13T13:56:50Z

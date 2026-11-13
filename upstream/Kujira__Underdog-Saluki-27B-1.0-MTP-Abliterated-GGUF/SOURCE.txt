@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF
+main commit at snapshot: c1d826d73831efcb819d9d64c625f0fab56ae8fc
+snapshot taken: 2026-11-13T14:00:29Z

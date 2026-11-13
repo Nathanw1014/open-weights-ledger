@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-4B-v1.1
+main commit at snapshot: d552708a9d575fa8d4a690b988fd870d65279f98
+snapshot taken: 2026-11-13T13:56:34Z

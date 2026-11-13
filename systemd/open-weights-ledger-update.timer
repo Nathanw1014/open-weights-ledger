@@ -1,0 +1,10 @@
+[Unit]
+Description=Open Weights Ledger: daily scrape
+
+[Timer]
+OnCalendar=*-*-* 18:30:00 UTC
+RandomizedDelaySec=20m
+Persistent=true
+
+[Install]
+WantedBy=timers.target

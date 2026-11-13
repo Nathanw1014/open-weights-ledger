@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-GenRM-Multilingual
+main commit at snapshot: 334fda42b57f89f4e3299ee044070b5a27817f0d
+snapshot taken: 2026-11-13T13:58:02Z

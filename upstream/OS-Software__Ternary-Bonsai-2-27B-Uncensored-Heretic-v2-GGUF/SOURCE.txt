@@ -1,0 +1,3 @@
+repo: https://huggingface.co/OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-v2-GGUF
+main commit at snapshot: 6db27547a8f25667cdb43a28d15cc5d33937b7dc
+snapshot taken: 2026-11-13T14:06:48Z

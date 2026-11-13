@@ -1,0 +1,164 @@
+[
+{
+"Path": "InternVL3-2B-BF16.gguf",
+"Sha256": "5ac10f6f0f7a79265615f27e9424cb7f67f565a580581b7854c1682ee72c1340",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-IQ4_NL.gguf",
+"Sha256": "9eb895a7476aaa25950b873fe03589d53525a5dc2fb78ba0fe3cbb8ff1edbfde",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-IQ4_XS.gguf",
+"Sha256": "d7a995dedda25dbb6b50eb0810a3d7bf975a54145646ff36a045ddc4227cf16f",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q2_K.gguf",
+"Sha256": "b17b9f0fad22b6b66c2f03eefaa85b9058c05d6291d23fa9c3633feb7ef0331a",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q2_K_L.gguf",
+"Sha256": "bc1e2afefc03b6213d4a6fab53835da9f16a725b54b3b2910f7f3b9b76d719d4",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q3_K_M.gguf",
+"Sha256": "b28fad0d23e85b505413ebe36636c3e0d07b20391ac50d8675165fa6cc4e7a6e",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q3_K_S.gguf",
+"Sha256": "091e27578f72b1e09a5505413a31a2d3bfebb329c3db516fbab41b1e61cacf78",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q4_1.gguf",
+"Sha256": "d5e6dcd9bbe71b28eb95925d5bf134cf307b8facb358e72216d8d73d5fbcc6f0",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q4_K_M.gguf",
+"Sha256": "fc52bcbf19efadcbc1d3e5fef9fd73c126d8e4708978fc553dbb185d2a7b5b83",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q4_K_S.gguf",
+"Sha256": "1de9805560d3380966f8751237207bc9da5e180a5fe623cb969520647386fdb1",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q5_K_M.gguf",
+"Sha256": "a1196d1b3c123ab2a2d987ca98bd48533cf2d750fba39e92d44ef498606bdf66",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q5_K_S.gguf",
+"Sha256": "740de94aa1b844a25630def86648b505e3eb0c453c476dda6c4a92ff511ee4a3",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-Q6_K.gguf",
+"Sha256": "2c4f28c7cbc79d26f7db237e996c6a91e8ec0f23794e9b55bb84750002b94128",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-IQ1_M.gguf",
+"Sha256": "e5a92c89ab777787594f0f21b6c4cc7a7e4604242994bbb9889d272d511ad466",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-IQ1_S.gguf",
+"Sha256": "36106b2fe740e9c4dd9727a9751732d311f322c42c9c600a99fc447c2c07eece",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-IQ2_M.gguf",
+"Sha256": "219e5ce3c0861c56ea28f52b4087d14dcd2713778cdca67b583a82f8989bc295",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-IQ2_XXS.gguf",
+"Sha256": "5787935c754966566a4f5cba6f33f2ea1fcd3e975ea385dc82a3b3a30ce007f7",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-IQ3_XXS.gguf",
+"Sha256": "65a2bf12f9602de853a121396e1de62025c1896f7d79c28a96449bc9cd8281ad",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-Q2_K_XL.gguf",
+"Sha256": "cb78c00ebb45e7bfeb642163ad8165c53a36624084dee173f2b2bcf64e0660ce",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-Q3_K_XL.gguf",
+"Sha256": "72e83459e3064b6fdc1844c49f7ea0523a82f727fe8a7b42ed546de9c45609bf",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-Q4_K_XL.gguf",
+"Sha256": "47554d005593eb1824421ee7231d0f85c85be04372b522e321f9ec1ad5828afd",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-Q5_K_XL.gguf",
+"Sha256": "957390e9abfd1fec7a3c5f019b9e6bebfb42550e4589d8363fbb21a435147d93",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-Q6_K_XL.gguf",
+"Sha256": "ffc8d05d1f349e4e72bbe965cad7d207e6a9fe3e833ff982f1e73852dc0aa038",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "InternVL3-2B-UD-Q8_K_XL.gguf",
+"Sha256": "ab787bdf313e71566946078d5dead89266b3bc2d88b6f4f0597956da78b21941",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "b9ac3b1759d5a7f7b40c11c36e7ecd236a18223ee63eea1e9dca943b685ef41b",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "fdbf1e20a2d3f9dbc60ea90d41f6fd7f2d23cdbaac533c09f22d7ac8d653df40",
+"IsLFS": true,
+"CommittedDate": 1747592304
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "a41c087c99dd4e3c32a70b6f5743ca89aa17e60da650a14ccabdff2ccfd32d21",
+"IsLFS": true,
+"CommittedDate": 1747592304
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-GGUF
+main commit at snapshot: f0ca85f1168b657ee38cc065649b67325c4f1a00
+snapshot taken: 2026-11-13T14:04:01Z

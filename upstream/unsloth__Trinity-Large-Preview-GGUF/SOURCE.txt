@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Trinity-Large-Preview-GGUF
+main commit at snapshot: c11bb8d23b76fe5c05199afac0f37010f76c7d5c
+snapshot taken: 2026-11-13T13:21:38Z

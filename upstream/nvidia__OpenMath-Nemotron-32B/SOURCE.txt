@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/OpenMath-Nemotron-32B
+main commit at snapshot: bc78382d1594995c5202c25d20630a10c10b9707
+snapshot taken: 2026-11-13T13:58:56Z

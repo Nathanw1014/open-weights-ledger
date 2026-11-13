@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-2B-Thinking-unsloth-bnb-4bit
+main commit at snapshot: 874458408fc9b49517770509ea4a8d053787b740
+snapshot taken: 2026-11-13T13:28:43Z

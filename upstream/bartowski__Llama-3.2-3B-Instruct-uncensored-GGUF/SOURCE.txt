@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-uncensored-GGUF
+main commit at snapshot: db993eb152fc89f32e061f3575d1b8111648900f
+snapshot taken: 2026-11-13T14:10:28Z

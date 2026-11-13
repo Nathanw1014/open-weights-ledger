@@ -1,0 +1,3 @@
+repo: https://huggingface.co/KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF
+main commit at snapshot: 240ef1d68f778115f8ff69965eca9ad6d3ccdcf1
+snapshot taken: 2026-11-13T14:09:52Z

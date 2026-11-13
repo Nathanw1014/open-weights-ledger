@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-cyber-RedTeam-Surgical-Abliterated-GGUF
+main commit at snapshot: 7d8e7064c099d8f5fde08bcd57bc27073c3988f4
+snapshot taken: 2026-11-13T14:04:19Z

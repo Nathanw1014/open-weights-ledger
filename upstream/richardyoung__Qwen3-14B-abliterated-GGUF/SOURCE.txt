@@ -1,0 +1,3 @@
+repo: https://huggingface.co/richardyoung/Qwen3-14B-abliterated-GGUF
+main commit at snapshot: 6ca7f3c8b53021e5a6b869e21ce4acc771639e0b
+snapshot taken: 2026-11-13T14:03:59Z

@@ -1,0 +1,164 @@
+[
+{
+"Path": "granite-4.0-h-1b-BF16.gguf",
+"Sha256": "3a213822758f5caad0e400b1b5d788bb03d296974ab18fb900dfcd39bfb19e87",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-IQ4_NL.gguf",
+"Sha256": "6e659938a6beeb4dd09958335bd208f350ca4deb0f6936eaa2b2691f88ce497c",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-IQ4_XS.gguf",
+"Sha256": "07f96c187f4e149603309672658dbcf5fa193e4f3cea2e44cd979f20456dc0ce",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q2_K.gguf",
+"Sha256": "6e7c25ec0c75d4f0d4dab56876c6a8e229529e80432f333b1c65b8ef4cb5fdad",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q2_K_L.gguf",
+"Sha256": "6e7c25ec0c75d4f0d4dab56876c6a8e229529e80432f333b1c65b8ef4cb5fdad",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q3_K_M.gguf",
+"Sha256": "0b9817b5965f7678d33ed6489adc6f8c9e51e3337dcacd5fb3ae54f5c7692118",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q3_K_S.gguf",
+"Sha256": "d3a7c3ce608d3c995e4cd0f24d991fe871a6c2508a84ecfabf48c4b037170138",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q4_0.gguf",
+"Sha256": "82c2e01e6030126d8920b5bcd59a938b82e8fe72d958c78b0311f520feefe266",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q4_1.gguf",
+"Sha256": "d25bf65b7da6247ed7e67d7ece46db451f6c191c8eeff20aea0fad569d1f4bb3",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q4_K_M.gguf",
+"Sha256": "fd3b85f09520df9d898e2bbcf5da22fc518dbf9d662bb52e214d946c72aafacc",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q4_K_S.gguf",
+"Sha256": "8388e61b366aa540248589242d4dc85308b53df60a12fb698fa6f13cc7e37785",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q5_K_M.gguf",
+"Sha256": "5c5d66ff9a3910fc66c19f860cb0f65ac4673053262c030a3061b9cfd385a4e5",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q5_K_S.gguf",
+"Sha256": "121cd158f42e0c9ce1672fa7d39421877faff69bb22ff62f50355e72796d26e8",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q6_K.gguf",
+"Sha256": "cb9cb21d380b5e3128ff402503950a389ea8f53e76c3c34e198a4b1d839047db",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-Q8_0.gguf",
+"Sha256": "5fbb22e0f066d94ffbd79b90b4b0d882c7eba09d80a8d3ba01abf8dd098e002c",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-IQ1_M.gguf",
+"Sha256": "f877dc6255e26da32c6d9798a6bece6f9c07cdc5acee291816180c75b0e6cdb7",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-IQ1_S.gguf",
+"Sha256": "446507fb3f6bb5af9bf6a7070cf0d0730fb40f8b1b596086971c61a3c4233d13",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-IQ2_M.gguf",
+"Sha256": "f2a4b07d6e83471d75372bd074b471f3775860c29a974e02dee374d6b30d7dc5",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-IQ2_XXS.gguf",
+"Sha256": "e112b16845182a0f338a589590821909c144498fb090b585adf734bcdfd3d25c",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-IQ3_XXS.gguf",
+"Sha256": "9fd4e1d8b5d3d2cb1bf95e52f294d29e23bdc4371502508dcfd65ee215ee15a1",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-Q2_K_XL.gguf",
+"Sha256": "e585867a64fe772c3861132fd1933bfa624028f4b850ae1b0e08ebdc34dc050d",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-Q3_K_XL.gguf",
+"Sha256": "4cb64b86c6d255dfc2cfdf9517ee64553ce5836f37faa7fd3b05abcaa8427a9a",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-Q4_K_XL.gguf",
+"Sha256": "b66caabd187723071cbbd623c56e221cd08e219c3e026f3d4058150486ce1d46",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-Q5_K_XL.gguf",
+"Sha256": "1608ad43819c655de919567fc27d5380f4ac13e208c1e7873646d22cadb226b6",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-Q6_K_XL.gguf",
+"Sha256": "71052b0110669da9f4ff72496068dd8b9449e441686ba25c5409d0bfae25cb97",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "granite-4.0-h-1b-UD-Q8_K_XL.gguf",
+"Sha256": "9ed6e46ca351f89264b8ff59551d6a5d58467bee59ee15eed4fefba5c55218c0",
+"IsLFS": true,
+"CommittedDate": 1761714686
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "c351de620047124726ffa684e9fd9be6fbf910926e68195087394071ef54587e",
+"IsLFS": true,
+"CommittedDate": 1761714686
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-OCR
+main commit at snapshot: 84cced885e9ae0de9f2307915a255ac04fd6e8ec
+snapshot taken: 2026-11-13T13:23:30Z

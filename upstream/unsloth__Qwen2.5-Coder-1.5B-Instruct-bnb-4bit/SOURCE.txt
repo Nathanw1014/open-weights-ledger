@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Coder-1.5B-Instruct-bnb-4bit
+main commit at snapshot: 992519aff1d7e99c87d9ebfa5eddb302e66cde3f
+snapshot taken: 2026-11-13T13:08:48Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Research-GooseReason-4B-Instruct
+main commit at snapshot: 82197937b873740604d04f3df7bab0decefe5ab5
+snapshot taken: 2026-11-13T13:57:31Z

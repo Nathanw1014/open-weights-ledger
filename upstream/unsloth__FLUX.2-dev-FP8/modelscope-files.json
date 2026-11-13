@@ -1,0 +1,80 @@
+[
+{
+"Path": "FLUX.2-dev-FP8.pt",
+"Sha256": "b413368f9bc6682781dea272db549bcfb3dfb04552dc6bbe49658a9301684b51",
+"IsLFS": true,
+"CommittedDate": 1785869542
+},
+{
+"Path": "FLUX.2-dev-FP8.safetensors",
+"Sha256": "a5cd1ff9c1385d0cbc3dcbc23e97ff269466057eff1c1d6c90d7ab2c394e49e3",
+"IsLFS": true,
+"CommittedDate": 1791212181
+},
+{
+"Path": "FLUX.2-dev-INT8.pt",
+"Sha256": "f1320b1ee0d886648d15b16b370ebe462f24380688255c7da2559b1a50261f74",
+"IsLFS": true,
+"CommittedDate": 1785869653
+},
+{
+"Path": "FLUX.2-dev-INT8.safetensors",
+"Sha256": "03286d3dc45c70fdfa9720e9b8803b74b47faa9e6448720e8ef5f28afd29a2b3",
+"IsLFS": true,
+"CommittedDate": 1791212181
+},
+{
+"Path": "FLUX.2-dev-text_encoder-FP8.pt",
+"Sha256": "e4e32d128c12bcc615dbaa3f24167ff9957e556f5106147fbfcbeed9de5ab712",
+"IsLFS": true,
+"CommittedDate": 1785869655
+},
+{
+"Path": "FLUX.2-dev-text_encoder-FP8.safetensors",
+"Sha256": "fe982e98ac80b59995f12310ac3d998b0cfdcf6051a9d2ff522d7ecc8512e417",
+"IsLFS": true,
+"CommittedDate": 1791212181
+},
+{
+"Path": "FLUX.2-dev-text_encoder-INT8-ConvRot.safetensors",
+"Sha256": "15d1a82f5d69393e6f4cbc23ae7f23319f19f15c0dd4c5077ce7701a5e6fe465",
+"IsLFS": true,
+"CommittedDate": 1792760991
+},
+{
+"Path": "samples/fp8_1.png",
+"Sha256": "c5f805bd8628566ac32eb81d84070d194604b26648ceacb8900decc0feedd457",
+"IsLFS": true,
+"CommittedDate": 1785869661
+},
+{
+"Path": "samples/fp8_2.png",
+"Sha256": "bf93caff9f6d814ca2eb3b407419ffd77d4a59abcafa7d2646ef56f7f0c7d615",
+"IsLFS": true,
+"CommittedDate": 1785869663
+},
+{
+"Path": "samples/fp8_3.png",
+"Sha256": "8e2a5242ea47a88ffdfd7e5f70997df9e630320aed726d0e10755a7c611eb3a7",
+"IsLFS": true,
+"CommittedDate": 1785869665
+},
+{
+"Path": "samples/int8_1.png",
+"Sha256": "7934a19c322a6050cc0dad067d02bde1a9664171bac7e9ef43d964eb4a97e0a4",
+"IsLFS": true,
+"CommittedDate": 1785869668
+},
+{
+"Path": "samples/int8_2.png",
+"Sha256": "8a31d11c878d3e82265e6f88e997059900121bb7c7eb93f7f1133d1b70aef52f",
+"IsLFS": true,
+"CommittedDate": 1785869670
+},
+{
+"Path": "samples/int8_3.png",
+"Sha256": "17ed5d40b3eb120467c579dc0a784c4279158637faf6ecbd29370ebdc4050cbd",
+"IsLFS": true,
+"CommittedDate": 1785869672
+}
+]

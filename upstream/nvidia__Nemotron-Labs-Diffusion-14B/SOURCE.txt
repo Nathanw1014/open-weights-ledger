@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B
+main commit at snapshot: f8c3e2c078e193599b8882d965b1001c456ba738
+snapshot taken: 2026-11-13T13:56:32Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Z-Image-Turbo-FP8
+main commit at snapshot: a8c25b2dd9bf175840a3875c1f466281a61d20f2
+snapshot taken: 2026-11-13T13:03:26Z

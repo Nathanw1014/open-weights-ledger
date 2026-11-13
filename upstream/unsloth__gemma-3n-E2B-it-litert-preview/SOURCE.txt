@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-3n-E2B-it-litert-preview
+main commit at snapshot: f6a6b8a50218613d18318768bce5b6c1985fbcae
+snapshot taken: 2026-11-13T13:35:17Z

@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.6-35B-A3B-uncensored-heretic-APEX-Balanced.gguf	25624956800	b1d1fd7e1b4fb519275ba8d9f441aa1c70055c4e733e8ad55013e1e0a1b5ae18	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-APEX-Compact.gguf	17293088640	9453e7896e69ae277d420d3056176e1f9978dd1cd05fb675fd94cb55b02d7788	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-APEX-I-Balanced.gguf	25624957088	7e4d28f5728cb0df835c4bd4cb1afe8157b1ba9faea14b125565fdee0ee7fda5	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-APEX-I-Compact.gguf	17293088928	aa80e8a52e7fa62fd9101eba8c412095a7abe0db1ef1105ddc3848e65a2cbe51	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-APEX-I-Mini.gguf	14316565664	956dd8cde3dc9d5af5467da037e2724677b9434c15ef93f66f52c26a0c271852	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-APEX-I-Quality.gguf	22819401888	667bd985a00bf5a47e5ba582f0bb573578e215c54b504525c13b8d4f573e5b59	sha256
+Qwen3.6-35B-A3B-uncensored-heretic-APEX-Quality.gguf	22819401600	07323bea0ad0ccdd716395f7fdb11c5c60745d687a20c45b2118ecbf985590ab	sha256
+mmproj.gguf	902822240	1c625f05cd52e90abc76a5f756226c3a5fe279593379c22f6c6846c970a0cd18	sha256

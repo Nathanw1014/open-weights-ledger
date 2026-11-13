@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ornith-ai/Ornith-1.0-35B-GGUF
+main commit at snapshot: 383064f72a1ef3087b779f268d3ca117eb989aac
+snapshot taken: 2026-11-13T13:53:44Z

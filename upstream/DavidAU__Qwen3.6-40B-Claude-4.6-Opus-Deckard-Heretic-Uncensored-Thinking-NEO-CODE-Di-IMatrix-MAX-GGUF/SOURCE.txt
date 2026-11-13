@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF
+main commit at snapshot: 55e8e0c9ac4376539f3ab91c16f53db4e3a6f2b4
+snapshot taken: 2026-11-13T14:06:42Z

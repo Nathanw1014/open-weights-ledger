@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GGUF
+main commit at snapshot: 9d3053fce650fe1cdbdb75998c2a87add9d178ef
+snapshot taken: 2026-11-13T13:45:56Z

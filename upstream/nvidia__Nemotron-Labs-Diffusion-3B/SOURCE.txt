@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B
+main commit at snapshot: 0d51902da1f8869f83413ce642fab402fa5641e0
+snapshot taken: 2026-11-13T13:55:30Z

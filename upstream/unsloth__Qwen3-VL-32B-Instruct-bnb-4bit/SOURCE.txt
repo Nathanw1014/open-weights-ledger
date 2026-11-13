@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-32B-Instruct-bnb-4bit
+main commit at snapshot: 48cfc6496841742a77892646c15a7f3e8da44348
+snapshot taken: 2026-11-13T13:16:02Z

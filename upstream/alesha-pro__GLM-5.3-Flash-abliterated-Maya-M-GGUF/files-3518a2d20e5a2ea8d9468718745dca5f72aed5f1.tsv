@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Maya-M/GLM-5.3-Flash-Maya-M-IQ2_S-00001-of-00003.gguf	47678327584	3ac0f066ec45af3432d59b33de49bdfb29156432b627240b35769c7d02cc6c02	sha256
+Maya-M/GLM-5.3-Flash-Maya-M-IQ2_S-00002-of-00003.gguf	47820244896	285951d2afa0cd98285b03d0dc4aa68d83daf1a6f4a2594fe40b0cdd27ade485	sha256
+Maya-M/GLM-5.3-Flash-Maya-M-IQ2_S-00003-of-00003.gguf	20504990688	ebf1ce713f71207747e10eeebed87597969d8b5e1d9dd817420d2c2f7ca51e0e	sha256
+vector/glm53-refusal-per-block-3dir.layers45.f32	2211840	b0debc326b06c956039fd75dc1cb759dd46c4aa5e868bbfef1a5b0607c3552b7	sha256
+vision/GLM-5.3-Flash-vocab.gguf	9426880	8f53cb1bd2e631c14ef413e3284735d9e53f3c508d07a6f609e705b487105912	sha256
+vision/mmproj-GLM-5.3-Flash-F16.gguf	1128046944	3627575df16bd152db0f3fd7e488d270b33f3a9e6c7fa3b1b8ac381faafde882	sha256

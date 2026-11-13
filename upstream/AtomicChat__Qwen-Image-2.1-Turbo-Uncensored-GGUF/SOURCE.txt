@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF
+main commit at snapshot: 881a778e306c44920e42536def3e52c3a3ecc7cd
+snapshot taken: 2026-11-13T14:09:01Z

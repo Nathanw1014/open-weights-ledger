@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-Flash-Next-Uncensored-GGUF
+main commit at snapshot: 3aa3ff434a0dc2b9dd6886fe12da134756229f74
+snapshot taken: 2026-11-13T14:09:11Z

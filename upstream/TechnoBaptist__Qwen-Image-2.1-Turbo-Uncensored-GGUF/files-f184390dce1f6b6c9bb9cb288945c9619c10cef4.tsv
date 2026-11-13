@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen-Image-2.1-Turbo-Abliterated-Uncensored-AD-Q2_K.gguf	3336289216	e42dac4f385fc49e5812721ff930e2417fbcc9fd148c01a78c8492ebbe54dd2a	sha256
+Qwen-Image-2.1-Turbo-Abliterated-Uncensored-AD-Q3_K.gguf	4184140736	e6bd367602ef37ac08f4b0e0915d716b734c8c8c8957864cc81a50314715a3df	sha256
+Qwen-Image-2.1-Turbo-Abliterated-Uncensored-AD-Q4_K.gguf	5287517120	8123f36d2b3e562deef164dffdae33bdb1d152797ad10bb630827eaa7bce795d	sha256
+Qwen-Image-2.1-Turbo-Abliterated-Uncensored-AD-Q5_K.gguf	6281292736	ea5473082841c6a0eda38d2d42d784ca5bc6f3a2e8cf648e305ea4da6373525b	sha256
+Qwen-Image-2.1-Turbo-Abliterated-Uncensored-AD-Q6_K.gguf	7490550720	f30f66b0fa833d3ce95c522271fc96182cc2c72a1e577d9b3444633b201b334d	sha256
+Qwen-Image-2.1-Turbo-Abliterated-Uncensored-BF16.gguf	16388045536	af8502723461ba196d3b486c93b198e4163ce20c39a64916cce52f14bf5cafe3	sha256
+Qwen-Image-2.1-Turbo-Abliterated-Uncensored-Q8_0.gguf	8709520096	f8f9f6276b726db5291f4a5343089612cb5fd08aa81e8f0791dc66d2c03d07ca	sha256
+mmproj-Qwen-Image-2.1-Turbo-Abliterated-Uncensored-BF16.gguf	1162568928	5cc50e36ab57d7467e7016113525cc699e4c34c3eff7cd7b98d2ecfdba8ab720	sha256
+mmproj-Qwen-Image-2.1-Turbo-Abliterated-Uncensored-F16.gguf	1159029984	d9870a1f168db3d814596216aaf35702154147b443572c7939acca1802621ac6	sha256

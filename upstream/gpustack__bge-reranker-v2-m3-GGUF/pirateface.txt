@@ -1,0 +1,2 @@
+checked 2026-11-13T09:32:24Z
+gpustack/bge-reranker-v2-m3-GGUF            4.9 GB   4 seeds  magnet:?xt=urn:btih:1f7398e3ab20df58b15b545159b3a63a3b9feedc&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fgpustack%2Fbge-reranker-v2-m3-GGUF%2F3093af03b1a635e67b084b1d8c03c5f5e020fd05%2F

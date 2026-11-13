@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Bahushruth/Qwen3.6-35B-A3B-abliterated-v4-GGUF
+main commit at snapshot: b8a9ab20c8bde880621a7bab65073c0078ef33f7
+snapshot taken: 2026-11-13T14:03:24Z

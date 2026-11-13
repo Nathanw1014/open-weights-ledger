@@ -1,0 +1,50 @@
+[
+{
+"Path": "Phi-4-mini-instruct-Q2_K.gguf",
+"Sha256": "70763e15ae749fdd746a3f7b74a9701d0c556b687f026bacaa028bebfcbfdc11",
+"IsLFS": true,
+"CommittedDate": 1740966759
+},
+{
+"Path": "Phi-4-mini-instruct-Q2_K_L.gguf",
+"Sha256": "70763e15ae749fdd746a3f7b74a9701d0c556b687f026bacaa028bebfcbfdc11",
+"IsLFS": true,
+"CommittedDate": 1740966759
+},
+{
+"Path": "Phi-4-mini-instruct-Q3_K_M.gguf",
+"Sha256": "8eb40b196ca664365bb0012eac556e9700345fcf68b41cfc35e8bf4a47687653",
+"IsLFS": true,
+"CommittedDate": 1740966759
+},
+{
+"Path": "Phi-4-mini-instruct-Q4_K_M.gguf",
+"Sha256": "88c00229914083cd112853aab84ed51b87bdf6b9ce42f532d8c85c7c63b1730a",
+"IsLFS": true,
+"CommittedDate": 1740966759
+},
+{
+"Path": "Phi-4-mini-instruct-Q5_K_M.gguf",
+"Sha256": "b5a981febb25f218762d52411f5a4af6aad8b3a203bb1004a576545350ad08e3",
+"IsLFS": true,
+"CommittedDate": 1740966759
+},
+{
+"Path": "Phi-4-mini-instruct-Q6_K.gguf",
+"Sha256": "72b8446a3db55617950bef48d296659050867cca41bd7a7be4622010c9589400",
+"IsLFS": true,
+"CommittedDate": 1740966759
+},
+{
+"Path": "Phi-4-mini-instruct.BF16.gguf",
+"Sha256": "1a179f22f1efe409c6517805400c4f07f93fe1f5783e47231d35f933565dff20",
+"IsLFS": true,
+"CommittedDate": 1740966759
+},
+{
+"Path": "Phi-4-mini-instruct.Q8_0.gguf",
+"Sha256": "26188c6050d525376a88b04514c236c5e28a36730f1e936f2a00314212b7ba42",
+"IsLFS": true,
+"CommittedDate": 1740966759
+}
+]

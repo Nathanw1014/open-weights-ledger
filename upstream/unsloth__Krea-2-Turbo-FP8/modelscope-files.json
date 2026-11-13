@@ -1,0 +1,44 @@
+[
+{
+"Path": "Krea-2-Turbo-FP8.pt",
+"Sha256": "4fdf5289c8b5b8561de83fc01fc9c6500201fcec6e5df8fb1704ba230d3b7ee8",
+"IsLFS": true,
+"CommittedDate": 1789398706
+},
+{
+"Path": "Krea-2-Turbo-FP8.safetensors",
+"Sha256": "55ade54671b540c62ad19ed4e6bc7c8456357bb3bf6e92d9db6ca629606da6fb",
+"IsLFS": true,
+"CommittedDate": 1791212907
+},
+{
+"Path": "Krea-2-Turbo-INT8.pt",
+"Sha256": "a1a7898b7428b3fb0c6f62712f9fd20bbee8835c9f33d17b0831b3b41d7507ba",
+"IsLFS": true,
+"CommittedDate": 1785868967
+},
+{
+"Path": "Krea-2-Turbo-INT8.safetensors",
+"Sha256": "c062232342af1c965955cdcfb7916bd9599c7a0b20a47247ef8f2427a38103a9",
+"IsLFS": true,
+"CommittedDate": 1791212907
+},
+{
+"Path": "Krea-2-Turbo-text_encoder-FP8.pt",
+"Sha256": "150edd4502cdd8dfb1508849017a9102aecb9344d621101a697575bd934ecb53",
+"IsLFS": true,
+"CommittedDate": 1785868969
+},
+{
+"Path": "Krea-2-Turbo-text_encoder-FP8.safetensors",
+"Sha256": "8e822a01e10b815ec9ae948bbf35c1d1829e7140b35aa4d041d42e096315d2b3",
+"IsLFS": true,
+"CommittedDate": 1791212907
+},
+{
+"Path": "Krea-2-Turbo-text_encoder-INT8-ConvRot.safetensors",
+"Sha256": "06da1dfad4a028b49c48b2331f13b569b443507a1fd3a66a82a78b26c6245baa",
+"IsLFS": true,
+"CommittedDate": 1792762935
+}
+]

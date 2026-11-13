@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/HiDream-I1-Full-FP8
+main commit at snapshot: 3b13bb2b354c3923db9432488c4298ae46104547
+snapshot taken: 2026-11-13T13:41:04Z

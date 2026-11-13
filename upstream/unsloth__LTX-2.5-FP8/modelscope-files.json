@@ -1,0 +1,140 @@
+[
+{
+"Path": "LTX-2.5-FP8.safetensors",
+"Sha256": "f1d4ab877c68d1b0c4fe64be7e3b7aa559df58fbc270424d441aac3a467933a7",
+"IsLFS": true,
+"CommittedDate": 1791871371
+},
+{
+"Path": "LTX-2.5-INT8-ConvRot.safetensors",
+"Sha256": "2352b652446fee8f8447729dee77f77b3600606f8a0c4cba5b2de8c06ace3892",
+"IsLFS": true,
+"CommittedDate": 1791871432
+},
+{
+"Path": "LTX-2.5-INT8.safetensors",
+"Sha256": "46b7bd9b39bf9b886bc8c2352d47925c0c759270ad0329270272342df1e422c3",
+"IsLFS": true,
+"CommittedDate": 1791871434
+},
+{
+"Path": "LTX-2.5-text_encoder-INT8-ConvRot.safetensors",
+"Sha256": "1abea0f539f937f6636afe93dc00888b45c4ec12af0391a7fca57818e76ce143",
+"IsLFS": true,
+"CommittedDate": 1794243371
+},
+{
+"Path": "audio_vae/diffusion_pytorch_model.safetensors",
+"Sha256": "45dcb1c3cffc8c8b7710a04dd19500e481daff31f5ea8e8529f2cf697c439d12",
+"IsLFS": true,
+"CommittedDate": 1792158841
+},
+{
+"Path": "connectors/diffusion_pytorch_model-00001-of-00002.safetensors",
+"Sha256": "c5bf0768831b67def0322423f3dae012ac3a4528268f6e7c12555e7e918904fa",
+"IsLFS": true,
+"CommittedDate": 1792158946
+},
+{
+"Path": "connectors/diffusion_pytorch_model-00002-of-00002.safetensors",
+"Sha256": "5971a625f1a29f09ac3bfa37fae912aaddbdc93688080528503a43d2d5ac3c3a",
+"IsLFS": true,
+"CommittedDate": 1792158946
+},
+{
+"Path": "latent_upsampler/diffusion_pytorch_model.safetensors",
+"Sha256": "e2753d6c35d1d8b9daec7529f07a8f6f0e318e091566bb1b2ef7dc2e1bdcb6a5",
+"IsLFS": true,
+"CommittedDate": 1792158995
+},
+{
+"Path": "samples/bf16_t2v.png",
+"Sha256": "017510562761b49e21eabc2c031c47dbcdb3f5cd59222800407efaf516bea2d6",
+"IsLFS": true,
+"CommittedDate": 1791871438
+},
+{
+"Path": "samples/fp8_t2v.png",
+"Sha256": "422e236d91ce85c3a3b7185a0c21c094d8c6d1857e11d17b6358d7aa4dee0474",
+"IsLFS": true,
+"CommittedDate": 1791871442
+},
+{
+"Path": "samples/int8_convrot_t2v.png",
+"Sha256": "046b6d217fbea52af30763b7d0828e0f5c97e9b5b9b1f2a4fdcec32523c47c6f",
+"IsLFS": true,
+"CommittedDate": 1791871447
+},
+{
+"Path": "text_encoder/model-00001-of-00005.safetensors",
+"Sha256": "8d296b3a429b9656177ea977b121fd5fdc75f0e1691d762313db15a82ab64381",
+"IsLFS": true,
+"CommittedDate": 1792159049
+},
+{
+"Path": "text_encoder/model-00002-of-00005.safetensors",
+"Sha256": "8b76326b2a1d477901aba51e22b86647955a2697be8ddf5f5f0c7a5ff70f44ba",
+"IsLFS": true,
+"CommittedDate": 1792159049
+},
+{
+"Path": "text_encoder/model-00003-of-00005.safetensors",
+"Sha256": "7fab265ccfac3d0b245d996346b4cf9995163417adb34f1e838f2b6df6793122",
+"IsLFS": true,
+"CommittedDate": 1792159056
+},
+{
+"Path": "text_encoder/model-00004-of-00005.safetensors",
+"Sha256": "cfb34499d755cb0fdd72179a320e3097f37887c94beb1257ba469bf59734b468",
+"IsLFS": true,
+"CommittedDate": 1792159056
+},
+{
+"Path": "text_encoder/model-00005-of-00005.safetensors",
+"Sha256": "cab56a1e843ecec4eb132706ad1ba9ec8cca9baa9adb34c0943b026c18b7bb59",
+"IsLFS": true,
+"CommittedDate": 1792159056
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "cc8d3a0ce36466ccc1278bf987df5f71db1719b9ca6b4118264f45cb627bfe0f",
+"IsLFS": true,
+"CommittedDate": 1792159060
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00001-of-00004.safetensors",
+"Sha256": "a2156e3b2320eab9a2d949dfba0a3f8f5a907a68a2bad9a40a8e4ec6ff04570c",
+"IsLFS": true,
+"CommittedDate": 1792159067
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00002-of-00004.safetensors",
+"Sha256": "314170928006c629c0e015ad062fb5c1090a0f90ca48111eb3534c15a3de2456",
+"IsLFS": true,
+"CommittedDate": 1792159073
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00003-of-00004.safetensors",
+"Sha256": "2afb34ed41945ff95fa7c33f90ac33cfc766ea6dcb0bb6bc04e228e2471c6f86",
+"IsLFS": true,
+"CommittedDate": 1792159073
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00004-of-00004.safetensors",
+"Sha256": "a6073fee2aceec165e826d7de162f4e05f19dc72ead8b6e7de9554855fce1d4e",
+"IsLFS": true,
+"CommittedDate": 1792159073
+},
+{
+"Path": "vae/diffusion_pytorch_model.safetensors",
+"Sha256": "425f0dfa227dee5d0ff3d9720563370810409a439c302ca74f0f944057ce55c5",
+"IsLFS": true,
+"CommittedDate": 1792159081
+},
+{
+"Path": "vocoder/diffusion_pytorch_model.safetensors",
+"Sha256": "c99dde145a982974bc4c39608b3b929f232f0126a55d8326a47ad54f486ae23c",
+"IsLFS": true,
+"CommittedDate": 1792159088
+}
+]

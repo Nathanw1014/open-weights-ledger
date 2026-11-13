@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/InternVL3-1B-Instruct
+main commit at snapshot: 5bbc3af69590cbc969c543e5bc47ea90ffc65559
+snapshot taken: 2026-11-13T13:35:56Z

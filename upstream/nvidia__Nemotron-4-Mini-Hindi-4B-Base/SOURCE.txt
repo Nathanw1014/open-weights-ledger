@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-4-Mini-Hindi-4B-Base
+main commit at snapshot: 05c6ef6d2ddaad06bce914990facaf08bc4c581e
+snapshot taken: 2026-11-13T13:58:32Z

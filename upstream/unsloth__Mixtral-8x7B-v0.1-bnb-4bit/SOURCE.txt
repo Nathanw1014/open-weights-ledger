@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Mixtral-8x7B-v0.1-bnb-4bit
+main commit at snapshot: 14fb7453b567586534a781201e1b2aa386e1f6cb
+snapshot taken: 2026-11-13T13:38:59Z

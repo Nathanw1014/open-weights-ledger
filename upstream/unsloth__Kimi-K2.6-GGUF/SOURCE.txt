@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Kimi-K2.6-GGUF
+main commit at snapshot: 47c7cab1e440dd9fcfc57c469e4737983408a6f2
+snapshot taken: 2026-11-13T13:13:48Z

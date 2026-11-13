@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B
+main commit at snapshot: 77b7e1a4de899769f22c1bc074db666601c28907
+snapshot taken: 2026-11-13T13:58:47Z

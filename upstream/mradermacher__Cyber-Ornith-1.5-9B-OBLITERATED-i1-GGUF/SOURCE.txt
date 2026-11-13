@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Cyber-Ornith-1.5-9B-OBLITERATED-i1-GGUF
+main commit at snapshot: 5936e88f1885b856b54520c372f2cd41e71819fd
+snapshot taken: 2026-11-13T14:04:38Z

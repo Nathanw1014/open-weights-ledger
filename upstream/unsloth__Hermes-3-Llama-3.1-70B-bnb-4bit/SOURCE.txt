@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Hermes-3-Llama-3.1-70B-bnb-4bit
+main commit at snapshot: a1f1afec6384f2302f6090ebac366c39b5a06c74
+snapshot taken: 2026-11-13T13:26:21Z

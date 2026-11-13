@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/FLUX-3-Image-Klein-TE-Uncensored-GGUF
+main commit at snapshot: 84746e03e397cb042bd264c0cb9e40db9398c001
+snapshot taken: 2026-11-13T14:10:43Z

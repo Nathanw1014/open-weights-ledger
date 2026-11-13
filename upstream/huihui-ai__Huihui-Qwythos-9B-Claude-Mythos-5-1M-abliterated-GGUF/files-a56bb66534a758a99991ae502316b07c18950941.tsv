@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-Q4_K.gguf	5780091040	11d81ce53c9f1003e9332652d7be00b7f343bbb4345aafeba450ec1beb2d6dd5	sha256
+Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-Q5_K.gguf	6642544800	199f0d2a57f6d214a76c8bc51d9afa9fc541c151ec040bb68827ba2ac5e0ffed	sha256
+Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-Q6_K.gguf	7558901920	3befaa91f595edd5436d43807152497f6ed45a3519f51d9dd6bab63b48cf166d	sha256
+Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-Q8_0.gguf	9786060960	7df697622c9e6fea398db2c42e1a543435521afbe638fa740cf352cc17b0dbfd	sha256
+Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-bf16.gguf	18407321760	330af9eca71fd2aa7f1a90db8b7b16fdab0b21ca5c7ca30be158d914ff4f9c9a	sha256
+mmproj-model-bf16.gguf	921705184	58a875ef97592d9a559b05a2b10612571064144c20a238c31af6188a443e2762	sha256

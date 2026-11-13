@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gpt-oss-120b-unsloth-bnb-4bit
+main commit at snapshot: 13234b7e8100cf5513ef743648c325d85facdd8c
+snapshot taken: 2026-11-13T13:13:24Z

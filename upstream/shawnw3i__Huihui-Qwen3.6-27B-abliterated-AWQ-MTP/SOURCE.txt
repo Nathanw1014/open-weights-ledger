@@ -1,0 +1,3 @@
+repo: https://huggingface.co/shawnw3i/Huihui-Qwen3.6-27B-abliterated-AWQ-MTP
+main commit at snapshot: ed099273cf30ad72a88116d759856f147b7bcbff
+snapshot taken: 2026-11-13T14:03:52Z

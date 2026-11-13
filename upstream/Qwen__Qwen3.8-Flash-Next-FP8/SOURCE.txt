@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8
+main commit at snapshot: 7fb48d708ca6cd8eeed8f4db0433be18af96984f
+snapshot taken: 2026-11-13T13:45:07Z

@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3VL-2B-Instruct-F16.gguf	3447350304	27b80f2e258f8372c9ee3a9b2293bd747cc08b18ed99709b57288cf457c42595	sha256
+Qwen3VL-2B-Instruct-Q4_K_M.gguf	1107409952	089d75c52f4b7ffc56ba998ffc50aae89fcafc755f9e7208aacca281dca6c2ae	sha256
+Qwen3VL-2B-Instruct-Q8_0.gguf	1834427424	1e8db19207c8ce0733ddd78c2eff8a9e22c27c82f4443df94c25792ed8fe04f2	sha256
+mmproj-Qwen3VL-2B-Instruct-F16.gguf	819394848	c3d5afbef5287953acd57b4043d2269456e5761a4eaccb3b71b062996970aea5	sha256
+mmproj-Qwen3VL-2B-Instruct-Q8_0.gguf	445053216	f9a68fabba69c3b81e153367b2c7521030b0fa8bb0de400c9599c8e6725f9c82	sha256

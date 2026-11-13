@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/granite-4.0-h-small-FP8-Dynamic
+main commit at snapshot: 176193f2a5918449c26f37f167fb856f84e45697
+snapshot taken: 2026-11-13T13:39:41Z

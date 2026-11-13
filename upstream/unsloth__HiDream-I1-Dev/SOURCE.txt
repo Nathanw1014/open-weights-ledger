@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/HiDream-I1-Dev
+main commit at snapshot: 3a9ff441565f4cf2abe804d0a99c2a1b4df0f227
+snapshot taken: 2026-11-13T13:24:14Z

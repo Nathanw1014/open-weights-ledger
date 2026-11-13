@@ -1,0 +1,26 @@
+[
+{
+"Path": "embeddinggemma-300M-BF16.gguf",
+"Sha256": "95a1f284251f78a1409a9c9e52dd4026c2180b13a90a5ede2a878bb8141fba08",
+"IsLFS": true,
+"CommittedDate": 1757009235
+},
+{
+"Path": "embeddinggemma-300M-F32.gguf",
+"Sha256": "a3125072128fc76d1c1d8d19f7b095c7e3bfbf00594dcf8a8bd3bcb334935d57",
+"IsLFS": true,
+"CommittedDate": 1757009235
+},
+{
+"Path": "embeddinggemma-300M-Q8_0.gguf",
+"Sha256": "a0f7b4e13c397a6e1b32c2de75b1f65a14c92ec524d5f674d94a4290a1c4969b",
+"IsLFS": true,
+"CommittedDate": 1757009235
+},
+{
+"Path": "embeddinggemma-300m-Q4_0.gguf",
+"Sha256": "edc6015cb15694c27be7d1d33f1bc015db9a358ff51ed524628c027504907ba9",
+"IsLFS": true,
+"CommittedDate": 1757009235
+}
+]

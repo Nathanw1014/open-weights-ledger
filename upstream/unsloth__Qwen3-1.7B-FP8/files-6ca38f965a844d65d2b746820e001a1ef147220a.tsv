@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+model.safetensors	2032095312	7e9b8e3b03fe9732a2c06524bbccf1c1f085cbc96e9b28ef0c29c008a16a541d	sha256
+tokenizer.json	11422654	aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4	sha256

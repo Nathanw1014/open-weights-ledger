@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-gemma-4-E2B-it-qat-q4_0-unquantized-abliterated-GGUF
+main commit at snapshot: e38a3cdcf55879424c971d0961ea70b82870b989
+snapshot taken: 2026-11-13T14:03:42Z

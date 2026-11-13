@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/nemotron-climb-proxy-models
+main commit at snapshot: 018958b76fa8573b840268d3c8071eccc6b8ffac
+snapshot taken: 2026-11-13T14:00:12Z

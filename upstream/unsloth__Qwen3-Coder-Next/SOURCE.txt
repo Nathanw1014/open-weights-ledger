@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-Coder-Next
+main commit at snapshot: da0829676292996fc9dbd0c85bcc84e54a348ce7
+snapshot taken: 2026-11-13T13:21:46Z

@@ -1,0 +1,11 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-BF16.gguf	69376637024	3450a1b051d72acb8d7664edbc012e4e3889ee115c1128ad3b2cab17a2d43a5f	sha256
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ2_M.gguf	11537338432	eb9dc9196536bde5de8a7dbddb53a422bc80505d7c7d36ebb9b84648e6b6a793	sha256
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ3_M.gguf	15440519232	200b48a51c6dd24c191f31d36a3e8b69f13091aaa01c605f291b603412f9c2fd	sha256
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ4_XS.gguf	18650134592	695526a96b4d848095f4eb6b75e02eb8041d3cbfbdcc37a49cd36d7733e4271d	sha256
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-Q3_K_M.gguf	16760832064	79f945c09eb140e58da88fc1722d311e3d5717cc930a2b64b03952657afbcae6	sha256
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf	21169117248	c117a47c5d8d1bb91d68031aaa77891f10118338e1174accc48c55ee3fff8717	sha256
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-Q5_K_M.gguf	24764782656	f015f2041f3a832cf0dff966a4aaecb6c8f4957f313012e6daa6ad3dea84d752	sha256
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-Q6_K.gguf	28514152512	9cb8602697b7b31826ca84caa8eb67b0aefde8d52698551bf902577cb1d11542	sha256
+Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-Q8_0.gguf	36903139392	f3235db7657cd068fd249e50bb3f1f50b0f8236786e4483462f50b1f3c64cb17	sha256
+mmproj-Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive-f16.gguf	899283040	04363e6439b318c83fca8527f361b8c4c285e9263104e6f48590e302b8a0fe9b	sha256

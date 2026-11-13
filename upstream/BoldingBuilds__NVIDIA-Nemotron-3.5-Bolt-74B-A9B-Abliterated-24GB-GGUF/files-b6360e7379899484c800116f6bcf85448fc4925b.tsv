@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+NVIDIA-Nemotron-3.5-Bolt-74B-A9B-Abliterated-24GB.gguf	22018326528	666250fc4f8c07bfbdde5e80785cc69fd1c208f12ccdf8d988d472e3ee24ddcc	sha256
+mmproj-NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB.gguf	1733692736	0ee891eadc7bf0cae6289b249c74eb1ef420534351f6ef8b64d49f0ca6a926b0	sha256

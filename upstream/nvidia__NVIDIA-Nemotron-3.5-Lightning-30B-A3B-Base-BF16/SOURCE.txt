@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-Base-BF16
+main commit at snapshot: 434456c9a6753f29d24e23c95d622aaf17111b3b
+snapshot taken: 2026-11-13T13:56:39Z

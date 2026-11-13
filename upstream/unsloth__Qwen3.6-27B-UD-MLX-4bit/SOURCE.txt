@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3.6-27B-UD-MLX-4bit
+main commit at snapshot: 7baaa18ea869b8f8bd229b82bffd0d00ce5042f3
+snapshot taken: 2026-11-13T13:19:54Z

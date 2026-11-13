@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Mistral-Small-24B-Instruct-2501-bnb-4bit
+main commit at snapshot: cb4e166b818799cd769592eed8f7142ceab779ca
+snapshot taken: 2026-11-13T13:12:33Z

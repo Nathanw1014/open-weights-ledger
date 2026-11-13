@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Ministral-3-8B-Base-2512-unsloth-bnb-4bit
+main commit at snapshot: 62fac8bc66e0a944cc5c17c52705484c85f7837b
+snapshot taken: 2026-11-13T13:24:00Z

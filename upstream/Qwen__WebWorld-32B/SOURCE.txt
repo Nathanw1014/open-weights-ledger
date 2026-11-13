@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/WebWorld-32B
+main commit at snapshot: e7fceedc8713450842f9bc9b122c1759c40bcc5b
+snapshot taken: 2026-11-13T13:48:34Z

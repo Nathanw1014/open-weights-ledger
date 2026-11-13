@@ -1,0 +1,4 @@
+repo: https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF
+main commit at snapshot: a74a4cc1ef47f61329313384b34dd1b8994b94d4
+lastModified: 2026-07-09T03:09:00.000Z
+snapshot taken: 2026-11-13T09:38:40Z

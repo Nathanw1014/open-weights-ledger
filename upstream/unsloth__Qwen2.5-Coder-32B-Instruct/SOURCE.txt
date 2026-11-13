@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Coder-32B-Instruct
+main commit at snapshot: ad5c730896c6be66ef14f8dd87b53acf5843bb61
+snapshot taken: 2026-11-13T13:21:50Z

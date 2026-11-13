@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Seed-Coder-8B-Instruct-unsloth-bnb-4bit
+main commit at snapshot: acf867b41cc6b7b72d95542bf3c13f3474899fb8
+snapshot taken: 2026-11-13T13:35:08Z

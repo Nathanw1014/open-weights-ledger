@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/aya-vision-8b-bnb-4bit
+main commit at snapshot: f6de33f7d968c6acf5c1042a12db7f8d47787ad6
+snapshot taken: 2026-11-13T13:34:38Z

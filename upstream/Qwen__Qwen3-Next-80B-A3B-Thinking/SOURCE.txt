@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking
+main commit at snapshot: e502dd4100cc68c0de57643fd4317ec93a128670
+snapshot taken: 2026-11-13T13:46:19Z

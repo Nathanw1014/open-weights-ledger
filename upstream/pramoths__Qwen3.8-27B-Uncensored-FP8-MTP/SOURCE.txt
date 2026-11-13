@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pramoths/Qwen3.8-27B-Uncensored-FP8-MTP
+main commit at snapshot: 9bd4b21aae72f260fb7a5a8b69c346d7331ed790
+snapshot taken: 2026-11-13T14:09:47Z

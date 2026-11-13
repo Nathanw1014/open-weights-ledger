@@ -1,0 +1,2 @@
+checked 2026-11-13T09:35:02Z
+unsloth/gemma-4-26B-A4B-it-GGUF                                            393 GB  10 seeds  magnet:?xt=urn:btih:c34c87b37c40b5db832603dab22f3dc926f76aa8&xt=urn:btmh:12206ae61b84ae13baa632124a75c2e3b9c513cd64781c19b779832853a5d58d7ed7&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2Fgemma-4-26B-A4B-it-GGUF%2Fc099eb48e663fd284577b04978a94ffccb261841%2F

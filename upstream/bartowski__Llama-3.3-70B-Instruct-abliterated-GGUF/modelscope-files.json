@@ -1,0 +1,182 @@
+[
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ1_M.gguf",
+"Sha256": "801c20ad67a9a9fce580527b5fabbe21fbc9d167a0802a3bf8e2ae996a525dd8",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ2_M.gguf",
+"Sha256": "4503cf9b75bc6956c97ab030b1e8d449331c9d182e17971066033fb416b79afb",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ2_S.gguf",
+"Sha256": "1d20973b00d1a4b1f388375cb3ed5a24c5ee64eaaeebdb548d45ec296179f938",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ2_XS.gguf",
+"Sha256": "5a3cef9f812e779233390e9aab2eb7eb2c0b1f353da3a6669b18c83249f6d3f1",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ2_XXS.gguf",
+"Sha256": "a56c420f22112f45c814da44c91f0bdb82e97f3b0aabc695f15afc4c92ec5bc6",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ3_M.gguf",
+"Sha256": "83053ebc954d44c237d97920b37441dca8f3ce423fd613d427fe387b8fcc2d40",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ3_XXS.gguf",
+"Sha256": "1b7714c7b7f3f35cab831deea49256fc5b35b275ac818c29f7b128d83492490d",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ4_NL.gguf",
+"Sha256": "96eca4938b98f5e282171eaa6913192715b86f4aed3e1b697b5fd567ab011dee",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-IQ4_XS.gguf",
+"Sha256": "9ee44e17b3471d97b81cdc67a5b31f4beda0e784a645474ed7c72ce141e9fbcc",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q2_K.gguf",
+"Sha256": "d9a1fc1ec3494dbdd0742f34327b7dc964e31c7c6d6d87a5a9fbe6299e25fc29",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q2_K_L.gguf",
+"Sha256": "bc86a9d616cf912588bd3016f9ea2f1ecd5ed718b4108e33e56e0c6807501c20",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q3_K_L.gguf",
+"Sha256": "d298c849ace963f57e0eb991c24094c56c9ef2ad2f621ac72ebd9107a49bec2f",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q3_K_M.gguf",
+"Sha256": "ed69c9692702b3c9bde1c5aca0996327e19a2420a6ced9f3bb0e03c58311cc33",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q3_K_S.gguf",
+"Sha256": "1ea761ee012418c96c40d5459382a19794bc9c5375d44615d3b23feabc248a8e",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q3_K_XL.gguf",
+"Sha256": "53e421064fd21a98235b6b014277be5af4e2774d7551306bc3b833c783cb60b2",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q4_0.gguf",
+"Sha256": "84d4ded4d906995dbb9720a873e040130b63a18b5f822d04b501a92125340e28",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q4_1.gguf",
+"Sha256": "f528a9729a52adb271c829cca23ee03965e43dc847db4d5d2175e823605da102",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q4_K_L.gguf",
+"Sha256": "0d6c02e1815f5522e5b1b6773976db010429da9dbad86cde0c95d1f59bdb4dda",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q4_K_M.gguf",
+"Sha256": "5804f6de5403d0a5e446a811dc15f992fb13b67bf28ccaf089f1d3ab3780e47b",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q4_K_S.gguf",
+"Sha256": "d5873b10cadc02c97b54fda5d02fe629ac041069363ccd0cacd832b3160c9c9a",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q5_K_L/Llama-3.3-70B-Instruct-abliterated-Q5_K_L-00001-of-00002.gguf",
+"Sha256": "32c1ad6acea068e2d664cef6dd509176b24af39f1acf0a05c726773936ca395d",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q5_K_L/Llama-3.3-70B-Instruct-abliterated-Q5_K_L-00002-of-00002.gguf",
+"Sha256": "c8cd7567689bde2c15eec8f5df942644f6d6c8fd10fc328e769640d20d3af235",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q5_K_M/Llama-3.3-70B-Instruct-abliterated-Q5_K_M-00001-of-00002.gguf",
+"Sha256": "3ce21d8cec4bdc67bff6abb8ea5b2d4ff70defd4b48a66864f1cc8b00b00f211",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q5_K_M/Llama-3.3-70B-Instruct-abliterated-Q5_K_M-00002-of-00002.gguf",
+"Sha256": "6accee032346568a0e70dbb0b3a6d4b6a2d537cac55945ec24f8b6c4d7c4a219",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q5_K_S.gguf",
+"Sha256": "b2f816f1ede7e263e90aae9221bce26a6b68a6ccdec52304f20dc66682f573ba",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q6_K/Llama-3.3-70B-Instruct-abliterated-Q6_K-00001-of-00002.gguf",
+"Sha256": "d87c585568215a5785fa8603e6166931db8950bc43e930d339917bcdb2626819",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q6_K/Llama-3.3-70B-Instruct-abliterated-Q6_K-00002-of-00002.gguf",
+"Sha256": "cdcdee29cc63cb72c5d2344cc78e915e96c2a51ed511caf052490fa5c88e6a78",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q8_0/Llama-3.3-70B-Instruct-abliterated-Q8_0-00001-of-00002.gguf",
+"Sha256": "67fbff2a3cd80f995e724e493b408aff7a66e9162eb4715e954dd42052cfd557",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated-Q8_0/Llama-3.3-70B-Instruct-abliterated-Q8_0-00002-of-00002.gguf",
+"Sha256": "7651f00860702af5f3c31578c2d529fa81d5b02e4deefcdfbd2acfd9ebe149d7",
+"IsLFS": true,
+"CommittedDate": 1735051110
+},
+{
+"Path": "Llama-3.3-70B-Instruct-abliterated.imatrix",
+"Sha256": "b44d6a85a4240d000495436c75a4341aa67c54216f7b6748651342e215417b3c",
+"IsLFS": true,
+"CommittedDate": 1735051110
+}
+]

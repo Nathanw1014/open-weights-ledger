@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+DeepSeek-V4.1-Flash-1017-Maya-XS-Abliterated.gguf	365713686528	f414995b3797f77009634fac995f50834e70393771f9423fca984c892503b42a	sha256
+DeepSeek-V4.1-Flash-Abliterated-Q1.gguf	365713686528	d302c2caf7f12766eba2c431fc852261ddd0bf4d30b2760697d6036dac0f3cbd	sha256
+DeepSeek-V4.1-Flash-Abliterated-Q2-imatrix.gguf	365713686528	bcd46f6ccd67de953ac5d6e99f027e2f6e6d93ccc3abb07313d560886c815d83	sha256
+DeepSeek-V4.1-Flash-Abliterated-Q2.gguf	365713686528	b6a41973ad82697b6f3c279a6443db8c49bf427ebffdbeb3f36a030170c43cc2	sha256

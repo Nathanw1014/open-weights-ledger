@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Qwen3.8-35B-A3B-Distill-MTP-APEX-I-MiniPlus-V2.1-Abliterated-GGUF
+main commit at snapshot: cc30332c425ece39188f457476902fa6ad1938a4
+snapshot taken: 2026-11-13T14:00:45Z

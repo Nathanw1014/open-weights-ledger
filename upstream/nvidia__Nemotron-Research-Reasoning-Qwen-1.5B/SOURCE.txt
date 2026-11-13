@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B
+main commit at snapshot: c62ac5e70bd578a9235aa9d8e11fff2f1f63d4a0
+snapshot taken: 2026-11-13T13:57:58Z

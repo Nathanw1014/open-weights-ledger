@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen-Image-2512-GGUF
+main commit at snapshot: 899597deea5b6e8593a021684b4571e06b59ebea
+snapshot taken: 2026-11-13T13:02:39Z

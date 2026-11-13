@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Hemmingway-1-Heretic-MTP-V3-Final-BF16.gguf	54657733792	31bc17bea9af68852468e7914b049e74010bf857702026e0f5f1332e059ad33b	sha256
+Hemmingway-1-Heretic-MTP-V3-Final-Q4_K_M.gguf	16810714272	35ff3f39afa384e5781ea60aad434a6c3c2a896e12125f18ea7e1fb316b5cd65	sha256
+Hemmingway-1-Heretic-MTP-V3-Final-Q5_K_M.gguf	19535701152	2b26033bf0677be95774226d745bd19e6ede14da327b35c4b664a368c84c4285	sha256
+Hemmingway-1-Heretic-MTP-V3-Final-Q6_K.gguf	22430999712	8dadbdcfd48e53493432441ab4ccb1b7ad4f2eafdae7655d1f915b76de9985f6	sha256
+Hemmingway-1-Heretic-MTP-V3-Final-Q8_0.gguf	29047084192	7fd7ddc50b09946696aea0e419fffcad466ef98a91e8f8498e529e71c6381765	sha256

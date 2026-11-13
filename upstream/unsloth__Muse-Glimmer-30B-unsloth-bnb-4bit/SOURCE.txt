@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Muse-Glimmer-30B-unsloth-bnb-4bit
+main commit at snapshot: ecedda395d4d099b477d135a9a573eedaa5a7aad
+snapshot taken: 2026-11-13T13:10:50Z

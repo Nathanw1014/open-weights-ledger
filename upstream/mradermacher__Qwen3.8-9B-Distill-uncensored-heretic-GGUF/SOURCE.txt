@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-9B-Distill-uncensored-heretic-GGUF
+main commit at snapshot: a5938404d09d736ce4cfcd8548f02f61209e30c4
+snapshot taken: 2026-11-13T14:06:45Z

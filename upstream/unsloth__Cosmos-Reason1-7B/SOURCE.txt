@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Cosmos-Reason1-7B
+main commit at snapshot: 41cfbcf7e60e9173d6fefc2a74f492b05fcad51b
+snapshot taken: 2026-11-13T13:36:47Z

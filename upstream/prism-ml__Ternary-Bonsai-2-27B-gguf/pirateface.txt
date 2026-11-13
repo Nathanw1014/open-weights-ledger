@@ -1,0 +1,2 @@
+checked 2026-11-13T09:33:20Z
+prism-ml/Ternary-Bonsai-2-27B-gguf                                 76 GB   7 seeds  magnet:?xt=urn:btih:34698bb6515e9da1ea28991637be6eae9c04dd68&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fprism-ml%2FTernary-Bonsai-2-27B-gguf%2F6ed5e12bf84b7a63069882c91dd9e9218647d17b%2F

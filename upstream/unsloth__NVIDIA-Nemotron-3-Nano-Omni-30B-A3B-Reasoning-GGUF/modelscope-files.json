@@ -1,0 +1,152 @@
+[
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-MXFP4_MOE.gguf",
+"Sha256": "7af910c52732f08232e27d5d946b589da60390d42ac163c1fd377cff7432c207",
+"IsLFS": true,
+"CommittedDate": 1777548894
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-Q8_0.gguf",
+"Sha256": "f56367045c588180ce6d54a0e23bde6c16cc6c4dc66dcadd1491f217cc176df9",
+"IsLFS": true,
+"CommittedDate": 1777549122
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-IQ2_M.gguf",
+"Sha256": "33c36ec33650e76d4a4b6a7bc2772cb316acc44e76fdd27c26b37ff3b5e0877c",
+"IsLFS": true,
+"CommittedDate": 1777549122
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-IQ2_XXS.gguf",
+"Sha256": "e22eb0a2c41668f2d0746858095d25e063c8bd41950869db36ca8d892a72778e",
+"IsLFS": true,
+"CommittedDate": 1777549134
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-IQ3_S.gguf",
+"Sha256": "ab7bcd1dd18ad1f701e98cffb281754783ba91a5f522c4a789a7c2e9d43e0087",
+"IsLFS": true,
+"CommittedDate": 1777549134
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-IQ3_XXS.gguf",
+"Sha256": "fe464d5ead6979007d2e0793fa6da3c6a3d291002bb71262165bcd187a50a724",
+"IsLFS": true,
+"CommittedDate": 1777549147
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-IQ4_NL.gguf",
+"Sha256": "00003d2c4c40b5be3ff73199ac67a7cd9a052a20a060bdecf950bc128de2cefd",
+"IsLFS": true,
+"CommittedDate": 1777549147
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-IQ4_NL_XL.gguf",
+"Sha256": "00003d2c4c40b5be3ff73199ac67a7cd9a052a20a060bdecf950bc128de2cefd",
+"IsLFS": true,
+"CommittedDate": 1777549168
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-IQ4_XS.gguf",
+"Sha256": "2ee8b281655d7644fa68dcb824b8d568a85a20b9a9945efd1a29615599103619",
+"IsLFS": true,
+"CommittedDate": 1777549168
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q2_K_XL.gguf",
+"Sha256": "0671906e4f384254967c96d506ee6699180239a45acc815c7db4942fe8599746",
+"IsLFS": true,
+"CommittedDate": 1777549179
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q3_K_M.gguf",
+"Sha256": "034892a16bc5ba59856767fb237b2ff6a2b27f76c4831df218032995ec4c1ab3",
+"IsLFS": true,
+"CommittedDate": 1777549179
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q3_K_XL.gguf",
+"Sha256": "034892a16bc5ba59856767fb237b2ff6a2b27f76c4831df218032995ec4c1ab3",
+"IsLFS": true,
+"CommittedDate": 1777549524
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q4_K_M.gguf",
+"Sha256": "46e71735339e86639b3786b57b6997c996e75a02f16c86dbe03e7c586a3e155f",
+"IsLFS": true,
+"CommittedDate": 1777549524
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q4_K_S.gguf",
+"Sha256": "500dfebbca314b2e70990a8a02871dd1a2d6783be5327af3a0f70a5efff9395c",
+"IsLFS": true,
+"CommittedDate": 1777549535
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q4_K_XL.gguf",
+"Sha256": "82eb2c0a47383fc0d59d06faf0b60ad0ff0d566b8d403047525e751824e077ea",
+"IsLFS": true,
+"CommittedDate": 1777549535
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q5_K_M.gguf",
+"Sha256": "42c7129831f5f1ec4a94d79b69ba4d59f852c6a2ed47cd213e2f07eefddd0c9c",
+"IsLFS": true,
+"CommittedDate": 1777549921
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q5_K_S.gguf",
+"Sha256": "3a955c72bedbc07eb5c15256eff84201ceb6b05d9c6666f9d8bb0a0498f2b1a7",
+"IsLFS": true,
+"CommittedDate": 1777549921
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q5_K_XL.gguf",
+"Sha256": "386e41442dd071e8ae5663164df6b257df9b5e6f745a2a5051fea57488b9a373",
+"IsLFS": true,
+"CommittedDate": 1777550226
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q6_K.gguf",
+"Sha256": "9b6f1172d7d1a7f6c8acc44ec17f763ac7d5d7aae511d73fb9ad72954cfe11c4",
+"IsLFS": true,
+"CommittedDate": 1777550226
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q6_K_XL.gguf",
+"Sha256": "9b6f1172d7d1a7f6c8acc44ec17f763ac7d5d7aae511d73fb9ad72954cfe11c4",
+"IsLFS": true,
+"CommittedDate": 1777550360
+},
+{
+"Path": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-UD-Q8_K_XL.gguf",
+"Sha256": "79c44ece569f31269174e1f3bb34e2484cb4bab356f2934b606471ade80bc664",
+"IsLFS": true,
+"CommittedDate": 1777550360
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "78ea6e6b408330878cb4425d086885e23d2e50b003b48bb040d30a07bb9a4c57",
+"IsLFS": true,
+"CommittedDate": 1777550383
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "649fd5abd406c34b90942ca8616f4930953d8061083ff9e48172839e1f75313c",
+"IsLFS": true,
+"CommittedDate": 1777550383
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "8e72b13d61ac5972793b94e130e69d93ebbc96bc8e281500c03e762282b1840f",
+"IsLFS": true,
+"CommittedDate": 1777550395
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "0932bd66815ab7a6ae3d83f677a082974324cb5d6b74ccd57e4a151df6edf11b",
+"IsLFS": true,
+"CommittedDate": 1777550395
+}
+]

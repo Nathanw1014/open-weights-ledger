@@ -1,0 +1,50 @@
+[
+{
+"Path": "DeepSeek-R1-Distill-Qwen-7B-F16.gguf",
+"Sha256": "11f474af14209679cb7d952ff7a3f689ca972cd31e9aa20db9bd29924bcb61c8",
+"IsLFS": true,
+"CommittedDate": 1737434766
+},
+{
+"Path": "DeepSeek-R1-Distill-Qwen-7B-Q2_K.gguf",
+"Sha256": "7680555ca635d38cd851095f0f21caed0632f021005037f7d689de77e8f64c35",
+"IsLFS": true,
+"CommittedDate": 1737434766
+},
+{
+"Path": "DeepSeek-R1-Distill-Qwen-7B-Q2_K_L.gguf",
+"Sha256": "fe07f7db29cd561542e7a8e55a36ec20429485e1db6d6564b7e879cc29166614",
+"IsLFS": true,
+"CommittedDate": 1737434766
+},
+{
+"Path": "DeepSeek-R1-Distill-Qwen-7B-Q3_K_M.gguf",
+"Sha256": "0931f946c6f439a3b5cc0226f39dce14c092c2ee4386be98f12ca6305cef7ec7",
+"IsLFS": true,
+"CommittedDate": 1737434766
+},
+{
+"Path": "DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
+"Sha256": "78272d8d32084548bd450394a560eb2d70de8232ab96a725769b1f9171235c1c",
+"IsLFS": true,
+"CommittedDate": 1737434766
+},
+{
+"Path": "DeepSeek-R1-Distill-Qwen-7B-Q5_K_M.gguf",
+"Sha256": "4a2787e10767be0f04ee282721f8250a9ee16c8330cb93a57e33727b02948c5a",
+"IsLFS": true,
+"CommittedDate": 1737434766
+},
+{
+"Path": "DeepSeek-R1-Distill-Qwen-7B-Q6_K.gguf",
+"Sha256": "b18730fc1e8aa76fb7f1362e3a64569d552bded540c256f11940ecfd5df6522c",
+"IsLFS": true,
+"CommittedDate": 1737434766
+},
+{
+"Path": "DeepSeek-R1-Distill-Qwen-7B-Q8_0.gguf",
+"Sha256": "7307bfbb539fd2e8ed636315440781fed23140dc7f911f64b33418f5b978281b",
+"IsLFS": true,
+"CommittedDate": 1737434766
+}
+]

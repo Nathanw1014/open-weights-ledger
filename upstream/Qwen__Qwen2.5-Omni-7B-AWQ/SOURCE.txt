@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Omni-7B-AWQ
+main commit at snapshot: 848615c28dfd87b0f624baea4be1f29bec0d1db1
+snapshot taken: 2026-11-13T13:47:55Z

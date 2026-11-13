@@ -1,0 +1,74 @@
+[
+{
+"Path": "model-00001-of-00010.safetensors",
+"Sha256": "43f7a78bb630fb3f5ad9e679ffac422cb4c8be9177a45f4233195790e20413b8",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00002-of-00010.safetensors",
+"Sha256": "c303664647345cdc0731ae01f42d62f810c5a77d5c1c5a0f22ada962838397ad",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00003-of-00010.safetensors",
+"Sha256": "7386182831c269ea5e0eccb57b26bef401009be7ad365507d57a5925b1b77151",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00004-of-00010.safetensors",
+"Sha256": "dfc0a79a4696991dc1d90d08fdcf9b2128ac16a1fa42adb7cef5f701b058289b",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00005-of-00010.safetensors",
+"Sha256": "aff0ed987386e65b93d2deee6e26c628df9a38a26710846ccdd30deafe5bb61a",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00006-of-00010.safetensors",
+"Sha256": "1f4f0b1e5989747bff575a070cba9867750b8680b45ac4819d95095a8084d3ec",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00007-of-00010.safetensors",
+"Sha256": "028b18d10e8ba4383606308370570119dabdeb1adab4dadf789cd1e082d6bc9f",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00008-of-00010.safetensors",
+"Sha256": "865a94910b075066ec83ea4ec920c1d2c0cabcfbca97604872edea253d460aea",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00009-of-00010.safetensors",
+"Sha256": "a44a52d009b2c19755707560cc64de2cbabfec7876a804cc2d13ae169ae8cd84",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "model-00010-of-00010.safetensors",
+"Sha256": "8437d281d1fb8c512d7f9b81069d3d4700fc0c1524a792308f16738538b043bc",
+"IsLFS": true,
+"CommittedDate": 1752174092
+},
+{
+"Path": "tekken.json",
+"Sha256": "839c48629ff570bd664586800aa3ee17ee628f56efc7fd8e145cc01467a1c188",
+"IsLFS": true,
+"CommittedDate": 1752174091
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "23ad081f384b2bdb3c97f6e5461dfce52c1174c7328854a55006988f0fef9da7",
+"IsLFS": true,
+"CommittedDate": 1752174091
+}
+]

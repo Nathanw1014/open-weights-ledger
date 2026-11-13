@@ -1,0 +1,152 @@
+[
+{
+"Path": "Ornith-1.0-9B-BF16.gguf",
+"Sha256": "bad8843952c8558a936e261f25a3201d01b1749a970d33ce2a9a73f8d12dc171",
+"IsLFS": true,
+"CommittedDate": 1784347167
+},
+{
+"Path": "Ornith-1.0-9B-IQ4_NL.gguf",
+"Sha256": "0d1a4dfdebf30461a32adb192a0189e1746ae77ba4e4d3a57c63384f6ea1613c",
+"IsLFS": true,
+"CommittedDate": 1784349596
+},
+{
+"Path": "Ornith-1.0-9B-IQ4_XS.gguf",
+"Sha256": "0032d73f235213134c656eb155dd5e1fe7d05ae2f2d96a526c3273fd3cc09aec",
+"IsLFS": true,
+"CommittedDate": 1784347188
+},
+{
+"Path": "Ornith-1.0-9B-Q3_K_M.gguf",
+"Sha256": "b7d61e407d39fc002d922d2282af180e0618d3ead8367a5d63a451c911a97659",
+"IsLFS": true,
+"CommittedDate": 1784349596
+},
+{
+"Path": "Ornith-1.0-9B-Q3_K_S.gguf",
+"Sha256": "afab777ee752cdaa05bf71b140fa9f9f68e5bdd162e9da4c64564d1cea661f92",
+"IsLFS": true,
+"CommittedDate": 1784349596
+},
+{
+"Path": "Ornith-1.0-9B-Q4_0.gguf",
+"Sha256": "5248daff54191bb4aae4a846e875595a538cc86177dd2f94a4a8682623591e53",
+"IsLFS": true,
+"CommittedDate": 1784347217
+},
+{
+"Path": "Ornith-1.0-9B-Q4_1.gguf",
+"Sha256": "32bc79604802a1e9cc1d73bd6b97effeeedc5b5bdc875ab89c1d01095c0b65fa",
+"IsLFS": true,
+"CommittedDate": 1784349596
+},
+{
+"Path": "Ornith-1.0-9B-Q4_K_M.gguf",
+"Sha256": "641675b356a4463677a02a0d703f7b571b39f0b747fbd270b379c848edc29e84",
+"IsLFS": true,
+"CommittedDate": 1784347243
+},
+{
+"Path": "Ornith-1.0-9B-Q4_K_S.gguf",
+"Sha256": "3c75301fca20807e088ab874010f09d46f8f909a5f943d9e60be18084b2c5154",
+"IsLFS": true,
+"CommittedDate": 1784347266
+},
+{
+"Path": "Ornith-1.0-9B-Q5_K_M.gguf",
+"Sha256": "edddf3898706262cebb5f84618ff0777e9159bfc0ba411b3116970524ea5d21e",
+"IsLFS": true,
+"CommittedDate": 1784360646
+},
+{
+"Path": "Ornith-1.0-9B-Q5_K_S.gguf",
+"Sha256": "a9571f11b8d42a6a0b0619a03504f5c404414919ef58c3beccfd2457f588df17",
+"IsLFS": true,
+"CommittedDate": 1784347290
+},
+{
+"Path": "Ornith-1.0-9B-Q6_K.gguf",
+"Sha256": "a455e9534495d1bf52fcf31a8c173025725a0f31760dfbf31e8bd44545591a11",
+"IsLFS": true,
+"CommittedDate": 1784349596
+},
+{
+"Path": "Ornith-1.0-9B-Q8_0.gguf",
+"Sha256": "4d469c15b1ef0e494c4a756acc8b2eec9eabcc6572986e9cb89efa87444c2d72",
+"IsLFS": true,
+"CommittedDate": 1784347320
+},
+{
+"Path": "Ornith-1.0-9B-UD-IQ2_M.gguf",
+"Sha256": "4e57a366e0b7bf2adae2de17b3253adf43892a2237db707fd582d84c2f416e96",
+"IsLFS": true,
+"CommittedDate": 1784349596
+},
+{
+"Path": "Ornith-1.0-9B-UD-IQ3_XXS.gguf",
+"Sha256": "8e8c5eaccbd450c79bb294efe67a6c5d8c77e74606069a2c09b57cb81389f590",
+"IsLFS": true,
+"CommittedDate": 1784347345
+},
+{
+"Path": "Ornith-1.0-9B-UD-Q2_K_XL.gguf",
+"Sha256": "b1f859ffc9dd88a6999450e6083730446347e5e9137eae8d319e108b8261942f",
+"IsLFS": true,
+"CommittedDate": 1784341840
+},
+{
+"Path": "Ornith-1.0-9B-UD-Q3_K_XL.gguf",
+"Sha256": "e6cb7341f87ed2229c31a33f8c2a6648aaaa66bd09f70f09937a6b324cdab3fb",
+"IsLFS": true,
+"CommittedDate": 1784347362
+},
+{
+"Path": "Ornith-1.0-9B-UD-Q4_K_XL.gguf",
+"Sha256": "3e865c778cf254af1b5d0fd3e9d4876718279df543c3ef801039c4ff7010edb0",
+"IsLFS": true,
+"CommittedDate": 1784341840
+},
+{
+"Path": "Ornith-1.0-9B-UD-Q5_K_XL.gguf",
+"Sha256": "5989ebf5da84cd5d970e04e8fc3b530497e606e9cd37298dcf46fc9fe3120356",
+"IsLFS": true,
+"CommittedDate": 1784347386
+},
+{
+"Path": "Ornith-1.0-9B-UD-Q6_K_XL.gguf",
+"Sha256": "65d8cfb3b9b0063432408bbd9acef3a43b408aaf58beb8e08181015442507737",
+"IsLFS": true,
+"CommittedDate": 1784349596
+},
+{
+"Path": "Ornith-1.0-9B-UD-Q8_K_XL.gguf",
+"Sha256": "132837bf0696fa00bdc31bd1544ed7ee7b2c8421014b154be32aa2be246c7511",
+"IsLFS": true,
+"CommittedDate": 1784347408
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "259a8cb5d3e5682c21b7697b5b376447353ce81f44d6fd11bae2bc8b7bd07010",
+"IsLFS": true,
+"CommittedDate": 1784323589
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "ab8cf32e92fd8f73c270605f9c67267a94e8806c9cee8fb7ed63f532e14f5c5c",
+"IsLFS": true,
+"CommittedDate": 1784347429
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "013638437d619467b92412e6efa281f706132f05ba6d0f4733e50f812c7e32fa",
+"IsLFS": true,
+"CommittedDate": 1784349596
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "3d9d3da16f48a0284e7b7b2ca9d4085a1943b1d36dffc65effd2ba7c248f2624",
+"IsLFS": true,
+"CommittedDate": 1784347444
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/reka-flash-3-GGUF
+main commit at snapshot: 3d2f2c32bcbc0393ed6d47f37b50ebd2a5f41f3e
+snapshot taken: 2026-11-13T13:26:23Z

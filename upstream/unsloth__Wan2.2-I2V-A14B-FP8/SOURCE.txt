@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Wan2.2-I2V-A14B-FP8
+main commit at snapshot: da17ecf0bfa1fc21a1f2ff615efa2c086f50e771
+snapshot taken: 2026-11-13T13:41:06Z

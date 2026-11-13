@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ornith-ai/Ornith-1.0-397B
+main commit at snapshot: 5e3e761811e804c295c1d3c0ce68b21da6154209
+snapshot taken: 2026-11-13T13:54:35Z

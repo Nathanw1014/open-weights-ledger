@@ -1,0 +1,2 @@
+checked 2026-11-13T09:34:38Z
+unsloth/Qwen3.6-35B-A3B-GGUF                                                                       550 GB  1 seeds  magnet:?xt=urn:btih:3ad7f6d36f11af8c98722d47dfb533b85c024bc8&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2FQwen3.6-35B-A3B-GGUF%2Fa483e9e6cbd595906af30beda3187c2663a1118c%2F

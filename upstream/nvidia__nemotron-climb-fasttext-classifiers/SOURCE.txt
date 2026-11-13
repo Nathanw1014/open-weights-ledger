@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/nemotron-climb-fasttext-classifiers
+main commit at snapshot: 5a8e0e082d0d64f34281b6f6ff2555a158c36496
+snapshot taken: 2026-11-13T14:00:08Z

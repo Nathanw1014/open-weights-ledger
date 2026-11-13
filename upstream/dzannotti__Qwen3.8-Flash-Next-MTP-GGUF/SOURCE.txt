@@ -1,0 +1,4 @@
+repo: https://huggingface.co/dzannotti/Qwen3.8-Flash-Next-MTP-GGUF
+main commit at snapshot: 0b2551d191548168d3254ddea4ab943a5ef4f809
+lastModified: 2026-08-27T10:05:07.000Z
+snapshot taken: 2026-11-13T09:37:46Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/KilltheSniper/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF
+main commit at snapshot: 42c3ea8fb145c624ffb53e12b0b80567ff464282
+snapshot taken: 2026-11-13T14:04:09Z

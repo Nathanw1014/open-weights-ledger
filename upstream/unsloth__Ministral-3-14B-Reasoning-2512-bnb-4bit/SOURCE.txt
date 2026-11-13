@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Ministral-3-14B-Reasoning-2512-bnb-4bit
+main commit at snapshot: 40781d5a4227ff21e3f31b0a4c830e48412bb73f
+snapshot taken: 2026-11-13T13:28:53Z

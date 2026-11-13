@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Reflection-Llama-3.1-70B-bnb-4bit
+main commit at snapshot: 31a087527bc1d387cb904fdf93d0836a7f308519
+snapshot taken: 2026-11-13T13:36:57Z

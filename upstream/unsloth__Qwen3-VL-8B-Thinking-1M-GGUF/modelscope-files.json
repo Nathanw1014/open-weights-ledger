@@ -1,0 +1,182 @@
+[
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-BF16.gguf",
+"Sha256": "01abfc9c7674e491be251d9e1e63cb9c4e7594cd684972fe5790217933c69f6a",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-IQ4_NL.gguf",
+"Sha256": "44bd5e2757cec85fcd3cb5c10d71e1813bc64b67cc820001526e08c1948f79a6",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-IQ4_XS.gguf",
+"Sha256": "70aca37bf1841abea6e2af0a683d4ee742ca478b5f627ae18416c10a28293b6a",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q2_K.gguf",
+"Sha256": "cec1c76b8bf3320a023b31e089e57e009e2dab858ebdb798764a81b2d493d565",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q2_K_L.gguf",
+"Sha256": "bfd1cb316051052c25a512a2ae223437f6589b90f66d1ad6f856e197376035c5",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q3_K_M.gguf",
+"Sha256": "282523d239b9dc785fde8a7f9e1939688ed1c49accdacae1a6494d1d61562a5c",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q3_K_S.gguf",
+"Sha256": "0b3ce9cdfb32fbc7cd9d9f6aafce7481fd741f7a9122e62ce43dde03e8a1a744",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q4_0.gguf",
+"Sha256": "2954c5e658551e0a9d3c8281ce29cd4cddb23032852a38953ecaba491923eb7b",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q4_1.gguf",
+"Sha256": "773b105d5e55c2c4a5392a999fd60a920c4d2574d1426db4aac0e108394e4093",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q4_K_M.gguf",
+"Sha256": "5ee4cba0e2474bc27972cfeeb611aedfa15f1e383f92f15f74c44608978311fb",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q4_K_S.gguf",
+"Sha256": "54170ec98dbb74786d6f526aa5a37083cfc24b8552840f00fc765ea2ed596b72",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q5_K_M.gguf",
+"Sha256": "a7c8948556d5be1d3818e9532bf8c32158e7124106e753b391093febdb463f4d",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q5_K_S.gguf",
+"Sha256": "cbb8bcfc3cd71567288043aa2eb2895afce90ab663192eefeb48cec524d64e73",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q6_K.gguf",
+"Sha256": "9a45b0271ec7cfbf775e0869050cb3124af94a2a9b70b4d7b5cb7d52a3ee1c91",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-Q8_0.gguf",
+"Sha256": "e368ff03c14f57ff2360efc4c86ea1e5882f1a8db8d1418697a04b4bb2e8d38c",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-IQ1_M.gguf",
+"Sha256": "20101fd22b963bb986b343e64c5eaca41ea3fda6b1abb104e09ffa07f75d1fa5",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-IQ1_S.gguf",
+"Sha256": "6659916eaa2fe86045209f5b020d137f5e7e2263d0520b2b000f5db6a9409beb",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-IQ2_M.gguf",
+"Sha256": "23fbeba885f0639f19daa8a82749dca7b5466df14adeecea64f9402d8ff2f479",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-IQ2_XXS.gguf",
+"Sha256": "fb191a98a2f406f8c62788b73c3f0c98476e740c29e2551199fd81bdf4b4533b",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-IQ3_XXS.gguf",
+"Sha256": "5000792c3b1b1dbea193536e4f0601ae6813d3457986274b301153f3d449d709",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-Q2_K_XL.gguf",
+"Sha256": "989e528aabbc77ad728eadbed90ec8f3e4a8787205760b85f0d4d6cd2744aa09",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-Q3_K_XL.gguf",
+"Sha256": "8dcec735639021e45dbf896f548088b1d70d26a0fed2177a91271ed543ae8dff",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-Q4_K_XL.gguf",
+"Sha256": "a5490f8eed6212ccfd693598afc50900d71766ed9e348dfcff4d445a88f8defe",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-Q5_K_XL.gguf",
+"Sha256": "df2f30e68d1a8441e7a8457d735d5c588e5bbb038b53a467a120b44ea73c4235",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-Q6_K_XL.gguf",
+"Sha256": "ee9c6f5b2194bc43039acedf566b4e6f5010bd02122fae33793fc2b8783a71fb",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "Qwen3-VL-8B-Thinking-1M-UD-Q8_K_XL.gguf",
+"Sha256": "b09ee59fc208f2819856df0ac1c817637edc8998e02a692c0475683411577148",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "4c55d4ce671c0409ae7534b86aba6dd0a8629875b1ab61f041f3280d16f68b18",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "15ea38c2e158682e7a2d1241fa512a373b2265b69b2ce71f1fe1353f55787341",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "2749b039eed112d162ca96d366ae70c3dfe8ca3f56eaec3448af75d224997d47",
+"IsLFS": true,
+"CommittedDate": 1762062865
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "9de3b112a64176fd45554a76a529f58cf83f8e9c46e1a999bf01ae04155c036d",
+"IsLFS": true,
+"CommittedDate": 1762062865
+}
+]

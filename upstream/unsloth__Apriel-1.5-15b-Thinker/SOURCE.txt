@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Apriel-1.5-15b-Thinker
+main commit at snapshot: 2926f3e19c098327774a47c4937655ce1b9f3273
+snapshot taken: 2026-11-13T13:38:53Z

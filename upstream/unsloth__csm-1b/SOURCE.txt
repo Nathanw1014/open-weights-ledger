@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/csm-1b
+main commit at snapshot: 39e8c756bec133ad7eb9ea1097c84a2bd891c949
+snapshot taken: 2026-11-13T13:11:14Z

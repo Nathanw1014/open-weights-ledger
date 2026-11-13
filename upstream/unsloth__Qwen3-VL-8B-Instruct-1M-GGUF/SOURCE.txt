@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-8B-Instruct-1M-GGUF
+main commit at snapshot: 73a8491e1f927c888d898814c05ea73fa0af057a
+snapshot taken: 2026-11-13T13:16:08Z

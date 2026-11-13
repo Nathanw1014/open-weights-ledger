@@ -1,0 +1,3 @@
+repo: https://huggingface.co/0bserverx/Muse-Glimmer-30B-Heretic-Uncensored-GGUF
+main commit at snapshot: eaf39674f48ffd90734bcb795f1b1beb19712e4e
+snapshot taken: 2026-11-13T14:08:03Z

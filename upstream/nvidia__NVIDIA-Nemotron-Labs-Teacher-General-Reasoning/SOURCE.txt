@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-General-Reasoning
+main commit at snapshot: 84b1afba11b60e848edfe9934dc38214398e982d
+snapshot taken: 2026-11-13T13:59:09Z

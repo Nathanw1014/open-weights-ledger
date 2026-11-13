@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-OuteTTS-1.0-1B
+main commit at snapshot: 52b901173c6cf817148fdaef981e52408332c3ca
+snapshot taken: 2026-11-13T13:13:08Z

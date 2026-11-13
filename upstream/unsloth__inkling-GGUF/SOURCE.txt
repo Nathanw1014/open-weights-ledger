@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/inkling-GGUF
+main commit at snapshot: d3e9ffca48751dbe8b59dab5cfa364621257c682
+snapshot taken: 2026-11-13T13:04:02Z

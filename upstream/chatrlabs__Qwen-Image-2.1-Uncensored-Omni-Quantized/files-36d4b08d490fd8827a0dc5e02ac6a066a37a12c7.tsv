@@ -1,0 +1,14 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+qwen-image-2.1-step90000-BF16.gguf	14230297376	027501fd6abb571a2415e9728c128e96acdf3271222ea4fbf69f9efad4f136d3	sha256
+qwen-image-2.1-step90000-BF16/diffusion_pytorch_model.safetensors	14230284680	97b3ad25796fc4b7d5e2572ffb3bd8560e3c343d79623e2711fabe9ebcf3cfe3	sha256
+qwen-image-2.1-step90000-FP8-comfy.safetensors	7116789419	ff341f9485d8f8e57ea4dbb4817eac5f8fddfd3c95299b20b66e691732cd698e	sha256
+qwen-image-2.1-step90000-FP8-torchao/diffusion_pytorch_model.safetensors	7121232808	719c1583dc6dc0502e02777fca2d86924788494142cf09f632dcbaa3bb7f427b	sha256
+qwen-image-2.1-step90000-INT8-ConvRot-comfy.safetensors	7256791144	90ad49ec21d9477f8ae4f976ba9a9a5d97b8c4248b813eae2cc214a2f50f490e	sha256
+qwen-image-2.1-step90000-INT8-bnb/diffusion_pytorch_model.safetensors	7121153192	d92f50e238269890397fd7bb3e5b657e191eb2ce22f84ab1775924a9025b766c	sha256
+qwen-image-2.1-step90000-NF4-bnb/diffusion_pytorch_model.safetensors	3670960573	98c62f7a44774a45e2538c9d8ca0ba55452b02edbd10a01c05ec73b71554daa1	sha256
+qwen-image-2.1-step90000-NVFP4-comfy.safetensors	4197574792	e6e2ff44754101ef769a345e525a9d4c4f491535093b2ee42cebd09d43b8eecd	sha256
+qwen-image-2.1-step90000-Q4_0.gguf	4197522208	8fa0b4e2c7117adc800961a2cdba05b6b3358fc7d7bbe76b1aa0a6555e18396b	sha256
+qwen-image-2.1-step90000-Q4_K_M.gguf	4474346272	05be65dea694885d0e81e783b172e68cf8d6a36a1143f778138df31f0cc81c3d	sha256
+qwen-image-2.1-step90000-Q5_K_M.gguf	5212543776	5f577a47d0c53f524e4bc379aa12dc7dc85c8746379e95e0b6b71bf18f09b62e	sha256
+qwen-image-2.1-step90000-Q6_K.gguf	5996878624	8502230f8b8d2a4cdb2946f7454778267c1f57827db875abade580b9b49bbc12	sha256
+qwen-image-2.1-step90000-Q8_0.gguf	7687183136	58ab4d7baaa58ad7bdda18e6aafc22eebce1f494932d08c34667b88ab4fee5ca	sha256

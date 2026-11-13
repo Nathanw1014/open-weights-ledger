@@ -1,0 +1,182 @@
+[
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-BF16.gguf",
+"Sha256": "6a86365cc26ec2e5ba1434aa85da15a7de28eb92015447623a780f1f86ab1d1b",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-IQ4_NL.gguf",
+"Sha256": "455cc22c4d85e93acbb1df2760e4df5626dc86ca37b0bee39e479e560f09508f",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-IQ4_XS.gguf",
+"Sha256": "6b8270a839e7a1263f34a799c18fb9eb0ca6f1d039cdbfa4a11f9ac9552a118a",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q2_K.gguf",
+"Sha256": "408a61e7dcc0eb7fda7d70979395f974fe17310b4f38f977c95d9b98095fe1aa",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q2_K_L.gguf",
+"Sha256": "e32066271c0bbd03ce8a7648ebabf8335fbf16cbf16023389e987d7fc70111f7",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q3_K_M.gguf",
+"Sha256": "53466aa3e486e6f0068c2593d12aeb15fb079c1dfe443ab922c468c39761bd16",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q3_K_S.gguf",
+"Sha256": "2647a4944f3783e6744ab94a85d9d604ac6ea0f1bcbb78b90afbf823543bb501",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q4_0.gguf",
+"Sha256": "af9a7e072a101d0ee2befef444de1b78cdb4dce7f4515bcba7751ce78eecded5",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q4_1.gguf",
+"Sha256": "0d075ca8b3614e9ef9597630c7d7b92816d31787f119ed81d306518d0e72d094",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q4_K_M.gguf",
+"Sha256": "d14ba9edee1bb4c4996a726deb81e49ae81800a3216f0774634238c380aee496",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q4_K_S.gguf",
+"Sha256": "3a23a8cdce2b76b5f1338e5090be2068b3a9a1b62b8ad5277975f3e345220901",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q5_K_M.gguf",
+"Sha256": "2da6ca6c4ae387aa7f3f2f4a67bb3e1ca570ce0c69c21e26b8695e75172443b0",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q5_K_S.gguf",
+"Sha256": "5acecb4247289f9b3d00307d94531936fe60a0664c8b841cf8f5b454c66ee757",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q6_K.gguf",
+"Sha256": "b04b3e19730d7a1e19530f40b947b69c028b090cb7c58c1515cf1fc2ece5f821",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-Q8_0.gguf",
+"Sha256": "0760502e9228234f6cfa843f8870b8fc91c46a13664cf766c639229cccc80866",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-IQ1_M.gguf",
+"Sha256": "e1a27d27597a32037e6796d3f94df7c17ff8454341d1661c1e99b7f6e54e0fba",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-IQ1_S.gguf",
+"Sha256": "a80ab11ca4af5af7fe42fd32c1a552e8eac4e4882be5646eac3273017a0e2a37",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-IQ2_M.gguf",
+"Sha256": "669920de0afd6b7b5cf97da7779e7c63f8b57c9930b7669e9f23b1c46c2304a6",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-IQ2_XXS.gguf",
+"Sha256": "40e93f2c700057860a4917552589d27119127070405cde3e7ed1c7f9ba4fc6db",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-IQ3_XXS.gguf",
+"Sha256": "6ab6264a46f5c530cee3a999a57e828ed4609770d01172e8124c1876e80e6415",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-Q2_K_XL.gguf",
+"Sha256": "d6e7b4d124338d00d698ce22432b43586941da5218d992952fb04bd8b8ae71f6",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-Q3_K_XL.gguf",
+"Sha256": "613c44b12179f8380eb14f413784ad0412ee527e86d762a8d8816ac7ce0d42ca",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-Q4_K_XL.gguf",
+"Sha256": "b44e34b78180fc3ab1abbe1edad9f1f3926fdca10eed3bfae168b065e683f6cd",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-Q5_K_XL.gguf",
+"Sha256": "1bfce0c4ead4a46178bf42bb5b82ca7f6fb3b3126271d9f4c223c69fbc2c3ffe",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-Q6_K_XL.gguf",
+"Sha256": "10fa6b4b4b19f4dfc3c436dd28c1098aede6598b56e04a00c46c2eac98c16804",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "Devstral-Small-2-24B-Instruct-2512-UD-Q8_K_XL.gguf",
+"Sha256": "4a50696a851571a53603b7496c444b30b6f5efa9b85c3d9d3e716db59985a06c",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "57a041eab0edf63c5e00b86df544e4c213300ac0828e27858e4eaa433ba7e5f1",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "7fbd63a14ed6642370f7a8c276fdb3c1061f3349468dc7bb3a0a9e803e70926b",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "236bb4f0500620164917f26749cd402485b7d749034ea817c6a2d65253b126b9",
+"IsLFS": true,
+"CommittedDate": 1765831555
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "f140d901ebc3d3e79dac0d6549592049d9cf411ef41e049e49afaaa72b5255ef",
+"IsLFS": true,
+"CommittedDate": 1765831555
+}
+]

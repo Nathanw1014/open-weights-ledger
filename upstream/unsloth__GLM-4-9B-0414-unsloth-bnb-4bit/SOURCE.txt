@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-4-9B-0414-unsloth-bnb-4bit
+main commit at snapshot: 1eba9534c1b88169ca97d90e3b3425331b836d09
+snapshot taken: 2026-11-13T13:32:07Z

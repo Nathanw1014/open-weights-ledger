@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/FLUX.2-dev
+main commit at snapshot: 351bbb0ebab35d4dfec0445f67bcec34b383ddf9
+snapshot taken: 2026-11-13T13:05:20Z

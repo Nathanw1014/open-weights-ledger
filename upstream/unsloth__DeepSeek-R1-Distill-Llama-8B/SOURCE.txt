@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B
+main commit at snapshot: 7355e03ea25f9b9282d5ac3ec3a512106004b718
+snapshot taken: 2026-11-13T13:18:37Z

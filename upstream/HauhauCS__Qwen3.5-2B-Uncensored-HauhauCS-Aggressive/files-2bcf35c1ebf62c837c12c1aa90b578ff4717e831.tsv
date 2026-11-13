@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.5-2B-Uncensored-HauhauCS-Aggressive-BF16.gguf	3775708640	d98cff5f907e2186ac8243ac5676a47dc24e1822cd6ed674c9c92c7503915a1b	sha256
+Qwen3.5-2B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf	1270808032	be3ccca13a9d1bc8b67165ea80bd103cd6151a37ad131183cc7ca388f78d9517	sha256
+Qwen3.5-2B-Uncensored-HauhauCS-Aggressive-Q6_K.gguf	1556390368	ce45f35db3cc4b9b81867b9f2359dbfe18ddee37e560a308efb0b9f3eace41f4	sha256
+Qwen3.5-2B-Uncensored-HauhauCS-Aggressive-Q8_0.gguf	2012012000	3d6ba5655ffb7be0108607b8764ba33920ad23335f08d683806bfa979d838793	sha256
+mmproj-Qwen3.5-2B-Uncensored-HauhauCS-Aggressive-f16.gguf	668226688	a86ac75fbd9a11d1883c688969d88a11d3d24a729cc7e181833fd2e1b3865c9d	sha256

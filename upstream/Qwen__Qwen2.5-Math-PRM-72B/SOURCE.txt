@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B
+main commit at snapshot: 9df429b02adb5f764cd6e30e76a0cca16d501ae1
+snapshot taken: 2026-11-13T13:53:24Z

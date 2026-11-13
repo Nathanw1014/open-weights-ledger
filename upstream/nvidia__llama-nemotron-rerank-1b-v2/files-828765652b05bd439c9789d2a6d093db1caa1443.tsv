@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+model.safetensors	2471649792	7d60ff24db62fe6a639c4c6f4aeac3a3b32ed20939ab72a0be4b019c2219e5e0	sha256
+pytorch_model.bin	2471653050	cbe7ebaf3499ad20d5f51753d57a30f229ff47edd5e5556732b3629a8a41c37b	sha256

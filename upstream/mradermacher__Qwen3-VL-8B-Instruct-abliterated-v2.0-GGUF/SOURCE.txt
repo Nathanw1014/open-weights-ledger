@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3-VL-8B-Instruct-abliterated-v2.0-GGUF
+main commit at snapshot: 94de1fa01defc173334ac7f103d5fa2e49c1da7a
+snapshot taken: 2026-11-13T14:02:14Z

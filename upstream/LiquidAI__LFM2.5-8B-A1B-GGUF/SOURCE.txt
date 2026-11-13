@@ -1,0 +1,4 @@
+repo: https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF
+main commit at snapshot: 49c14831707011e64d70b2ebd8462ba08d608434
+lastModified: 2026-08-24T19:41:51.000Z
+snapshot taken: 2026-11-13T09:38:56Z

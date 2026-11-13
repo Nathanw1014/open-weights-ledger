@@ -1,0 +1,2 @@
+checked 2026-11-13T09:33:09Z
+ornith-ai/Ornith-1.5-9B-GGUF                            49 GB   4 seeds  magnet:?xt=urn:btih:d70d31d53ad5f99a100a5da9308c2aa2cc15a33a&xt=urn:btmh:1220f17f0502d652c82d5a63c578ada12607e5dceea0eb8bdefc01636b054811b510&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fornith-ai%2FOrnith-1.5-9B-GGUF%2Fabdd624b12ebf020b767fff532ff44fe552b28c3%2F

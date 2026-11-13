@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+text_encoders/qwen3.5_9b_uncensored_bf16.safetensors	18819722392	a91e0b53488c7782b94130fb2ff46367020b00baff46ca979ebfa382bc60aefc	sha256
+text_encoders/qwen3.5_9b_uncensored_fp8_e4m3fn.safetensors	9413296263	fc2a2d1ed4b0007e3f76855afc89cf9ccf7514abdde16d54c911ad52d972e728	sha256
+text_encoders/qwen3.5_9b_uncensored_int8_convrot.safetensors	12346153211	c2306e9300f13e0081600d2fb5a7c1139b6fca9b3de911641a8a3a3fe90769d1	sha256

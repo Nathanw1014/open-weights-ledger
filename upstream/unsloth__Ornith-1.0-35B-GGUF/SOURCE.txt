@@ -1,0 +1,4 @@
+repo: https://huggingface.co/unsloth/Ornith-1.0-35B-GGUF
+main commit at snapshot: 78e1321ef86b69126dc991f481bb0cdc37614ed0
+lastModified: 2026-07-18T05:20:56.000Z
+snapshot taken: 2026-11-13T09:40:04Z

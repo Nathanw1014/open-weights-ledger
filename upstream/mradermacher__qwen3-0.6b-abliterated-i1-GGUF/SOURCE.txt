@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/qwen3-0.6b-abliterated-i1-GGUF
+main commit at snapshot: f1a9c3d8aaad4452ccca57d34c1cbb2c6ced13c6
+snapshot taken: 2026-11-13T14:01:38Z

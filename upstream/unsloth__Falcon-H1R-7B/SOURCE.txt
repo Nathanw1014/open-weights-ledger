@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Falcon-H1R-7B
+main commit at snapshot: 7c1879153e9afb78e230c543a4bf20cafbaca126
+snapshot taken: 2026-11-13T13:32:48Z

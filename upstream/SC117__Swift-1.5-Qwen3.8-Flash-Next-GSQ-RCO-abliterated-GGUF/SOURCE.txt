@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SC117/Swift-1.5-Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF
+main commit at snapshot: 3db919a964b1f0ae0d1000ba7be90b3e38b1f7a3
+snapshot taken: 2026-11-13T14:00:25Z

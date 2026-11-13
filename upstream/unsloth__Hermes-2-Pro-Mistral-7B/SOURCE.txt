@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Hermes-2-Pro-Mistral-7B
+main commit at snapshot: 69aa177971081db319c485212ec7f81dafcd6d8a
+snapshot taken: 2026-11-13T13:28:53Z

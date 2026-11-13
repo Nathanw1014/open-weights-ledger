@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-V4-Flash-Vision-Exp
+main commit at snapshot: 276b3b4584c436b8126c00b947c564634a39cf45
+snapshot taken: 2026-11-13T13:28:06Z

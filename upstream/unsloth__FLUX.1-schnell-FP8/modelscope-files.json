@@ -1,0 +1,62 @@
+[
+{
+"Path": "FLUX.1-schnell-FP8.pt",
+"Sha256": "f0cd39bc3f1c6a27baba539589bd1dffa90831ecd9a63d59b6f42e99025c3ec2",
+"IsLFS": true,
+"CommittedDate": 1789399372
+},
+{
+"Path": "FLUX.1-schnell-FP8.safetensors",
+"Sha256": "9004ee23291bf8efbfcdc0e94f9ec5829aa06fdae0ba368411d5d69ccc020d01",
+"IsLFS": true,
+"CommittedDate": 1791214216
+},
+{
+"Path": "FLUX.1-schnell-INT8.pt",
+"Sha256": "fb5d58507127e46e33f84b972258ebece92a61aab9650eae9b5ada4bf33e8930",
+"IsLFS": true,
+"CommittedDate": 1785869430
+},
+{
+"Path": "FLUX.1-schnell-INT8.safetensors",
+"Sha256": "9dc2289af41848430c77b90abf1b615cd7f156b24169320464acb5258e08a3ef",
+"IsLFS": true,
+"CommittedDate": 1791214216
+},
+{
+"Path": "FLUX.1-schnell-text_encoder_2-FP8.pt",
+"Sha256": "2830f91372bbf5303bb35cabe37e07a87a89be70409c123d7156bdfbd517e639",
+"IsLFS": true,
+"CommittedDate": 1785869432
+},
+{
+"Path": "FLUX.1-schnell-text_encoder_2-FP8.safetensors",
+"Sha256": "95cbd7c617c50a3d738a8aa0c16ec9ddbbb3207937ad34b48751f546491ca537",
+"IsLFS": true,
+"CommittedDate": 1791214216
+},
+{
+"Path": "samples/fp8_1.png",
+"Sha256": "90060bc8726218b48545d0e3c264fbf29ea45f9afab369abf8e730f54fcbb665",
+"IsLFS": true,
+"CommittedDate": 1785869440
+},
+{
+"Path": "samples/fp8_3.png",
+"Sha256": "76f338d708743b1c19753bc0f2ea60c357fbf12ba00fc8bcf9858fedd9201301",
+"IsLFS": true,
+"CommittedDate": 1785869445
+},
+{
+"Path": "samples/int8_1.png",
+"Sha256": "4b4464c3c748d3cb92d882b7b64110b55d59208b59dc65968dc5e2e19aab1bdc",
+"IsLFS": true,
+"CommittedDate": 1785869447
+},
+{
+"Path": "samples/int8_3.png",
+"Sha256": "4d19deb525f9bf925ee83b75bc4afe5fa084f962baa5038471bd7ad4b6206fab",
+"IsLFS": true,
+"CommittedDate": 1785869451
+}
+]

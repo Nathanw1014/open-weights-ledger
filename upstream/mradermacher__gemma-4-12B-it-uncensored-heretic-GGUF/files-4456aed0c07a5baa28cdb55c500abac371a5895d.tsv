@@ -1,0 +1,14 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+gemma-4-12B-it-uncensored-heretic.IQ4_XS.gguf	6690555008	d78eac4d44c26c57ac97c118d35f5fd5fee5c54d34691b9d4cd114aa9a867b6e	sha256
+gemma-4-12B-it-uncensored-heretic.Q2_K.gguf	4830151808	5fd00b461b98cfccaaa91e3386e2e9efbc74212f3e906a3506ad49944495e1ad	sha256
+gemma-4-12B-it-uncensored-heretic.Q3_K_L.gguf	6566323328	06395252398ec6e2739d6672ab462dbc82b8ed434bcb2399b54a7694d97bf45f	sha256
+gemma-4-12B-it-uncensored-heretic.Q3_K_M.gguf	6087091328	dcb5a418df2d3661afcd4c7755a103609961f68f4feff3fe0f9658d6e3e9306f	sha256
+gemma-4-12B-it-uncensored-heretic.Q3_K_S.gguf	5528233088	567830a0e851d10cf376f591130a9f962d35229c714d552b1dc96a2c77badc22	sha256
+gemma-4-12B-it-uncensored-heretic.Q4_K_M.gguf	7381386368	cbbb9f1feecc8a3d25db1bb4e85ead5500fb588e1d478a3739a6f63401a123e9	sha256
+gemma-4-12B-it-uncensored-heretic.Q4_K_S.gguf	7024051328	06675749747d9f6d66188ff68a9221436331782a96af16345c4321f56263a69a	sha256
+gemma-4-12B-it-uncensored-heretic.Q5_K_M.gguf	8547271808	7f3b8e4049caab9285b18699ac280d76353a57fd47d39de54051f1ead4656e74	sha256
+gemma-4-12B-it-uncensored-heretic.Q5_K_S.gguf	8338375808	6c22ea5bb601d471e165ac74808b47d3e9f9813db556000b505851b6f50c8699	sha256
+gemma-4-12B-it-uncensored-heretic.Q6_K.gguf	9786025088	946527db954e8b9f152d1bfa96072022b6a0da491288772c57de749d2a4e041b	sha256
+gemma-4-12B-it-uncensored-heretic.Q8_0.gguf	12669650048	125ae6b464196c61e573c97c6be6aeedd58aa63ad447e6381481b80c051318ce	sha256
+gemma-4-12B-it-uncensored-heretic.mmproj-Q8_0.gguf	158987840	14685de8e0bd7a33ea4626252431a49f086e5f7cdc4eecf81ff1d20728098b72	sha256
+gemma-4-12B-it-uncensored-heretic.mmproj-f16.gguf	122031680	0b4d40dceb934fed10a23f2273053346851a92aa94dad89bf77d2e8ba16e2e61	sha256

@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+gemma-4-12B-it-heretic-Q4_K_M.gguf	7381381760	4fd210357e88971a5d836f07974193f56c0d79114ca08b93ea986ca2c23cab5f	sha256
+gemma-4-12B-it-heretic-Q8_0.gguf	12669645440	b6893133e3e88bc4c5958ddcd3f9b630646f73d42ca7281594d1548413be237f	sha256

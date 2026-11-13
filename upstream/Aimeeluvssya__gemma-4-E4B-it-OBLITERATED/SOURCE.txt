@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Aimeeluvssya/gemma-4-E4B-it-OBLITERATED
+main commit at snapshot: 675881940063f8d34883431fcc6f96e593aab3d6
+snapshot taken: 2026-11-13T14:04:56Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Olmo-3-7B-Think-GGUF
+main commit at snapshot: 1dcda0d5e447e9da698330014e38a9080616f2df
+snapshot taken: 2026-11-13T13:13:13Z

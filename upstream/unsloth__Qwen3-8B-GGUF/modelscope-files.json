@@ -1,0 +1,152 @@
+[
+{
+"Path": "Qwen3-8B-BF16.gguf",
+"Sha256": "5e416a2020fe63e76ea13c8979be35fc6070aaf3578f7876400c55c2f5c3eb30",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-IQ4_NL.gguf",
+"Sha256": "07ffccc29bbbf5e11c608d82269bff77a2580ef3a6d60e84707a9f5af6b2e833",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-IQ4_XS.gguf",
+"Sha256": "30a433372c4c986754e30cfaa05848ab78896d38d34b6b275b24c409857801cb",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q2_K.gguf",
+"Sha256": "7226e0183d31dca14d81c6f799ada2944be62160b8b7549a70254fba4124a5cf",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q2_K_L.gguf",
+"Sha256": "1eae4d41378cc03410ada9c79fc434e772a81067e4c5f016fe5695fbb0646566",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q3_K_M.gguf",
+"Sha256": "4924cf38a3b3c4b27ead5ccb93e27027f9418738506ac50a24a70dfe8581a007",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q3_K_S.gguf",
+"Sha256": "d9ba948815c357eb7c2c6013ddc22085fb0b2d7802a4fab138ac155c14827f15",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q4_1.gguf",
+"Sha256": "26ed2f8ea60cdbcb99f2d1f3ef38fc5a62198a056e1bf2145ecb431a092aa5ee",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q4_K_M.gguf",
+"Sha256": "120307ba529eb2439d6c430d94104dabd578497bc7bfe7e322b5d9933b449bd4",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q4_K_S.gguf",
+"Sha256": "a0f19938dcdc036ac66a817a34a694fc64d1e2301653a2aaa0380f35df3dcb3c",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q5_K_M.gguf",
+"Sha256": "159c694b93271e4edc1dc2a305b10cf981032c8f3035a7da00973312f0331504",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q5_K_S.gguf",
+"Sha256": "fa08eab86c1d27dafcfb4357759de84b62eaade0a614fadcd644227e4ca0237a",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q6_K.gguf",
+"Sha256": "0eaec718fdeab0f429dfa0ec481c090388811f5e63785ddb582292f4ef3c3827",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-Q8_0.gguf",
+"Sha256": "0cfbf745760f07a76ddeb358dd025a27f2e11d1ca9c9a4169a373d52990fe86e",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-IQ1_M.gguf",
+"Sha256": "04d2d05a45283155fabfaa410731dcf20c90fd3c182b1fda5a1ad6abb034cbe6",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-IQ1_S.gguf",
+"Sha256": "210ada67841bb71977b869095daf9ca70e93592eec9857144f7821ce0fce6f5d",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-IQ2_M.gguf",
+"Sha256": "1dfd67f311a5a82f57ecc1763b54884066ccf1727c45cbe1a619f85ac96368b2",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-IQ2_XXS.gguf",
+"Sha256": "b22bc929d9d093bf7a4f3b4086873a02f7dc4731d135a215429c60d27ce27a89",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-IQ3_XXS.gguf",
+"Sha256": "495e28b50d2373d0f29a439be9c568074596a296e67eccb69330f27ffb4be28a",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-Q2_K_XL.gguf",
+"Sha256": "e1b3da4b0b69ece74bc46cbcc4e43177b16366508864230f49b226b800168b0c",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-Q3_K_XL.gguf",
+"Sha256": "2d8549afad63087f6a78af667aff4834e71fba597830c8806b4edbf5af463e79",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-Q4_K_XL.gguf",
+"Sha256": "34a514d08f7449cb4a694a707aaa2eedccb7bb68290121bf5e5a569b2abe71c3",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-Q5_K_XL.gguf",
+"Sha256": "4b8feb9b20477613883ad2b6aa0a2e8a697fb9576d3a62d909f4f7991275c22e",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-Q6_K_XL.gguf",
+"Sha256": "61201e42b1c1021ce15936f23682e56e873bb4af3e8e5aae7558bc1c53a1dd91",
+"IsLFS": true,
+"CommittedDate": 1747244021
+},
+{
+"Path": "Qwen3-8B-UD-Q8_K_XL.gguf",
+"Sha256": "67df3caf1ccc9c9aacff028410e4d5ad9a3a4870f19822a22aa3ac14dcab051b",
+"IsLFS": true,
+"CommittedDate": 1747244021
+}
+]

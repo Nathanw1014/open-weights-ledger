@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Kimi-K2.5
+main commit at snapshot: 519dd7118c5298c5d839410dcb46478f0b91eb59
+snapshot taken: 2026-11-13T13:35:20Z

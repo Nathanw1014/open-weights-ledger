@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-4B-SafeRL
+main commit at snapshot: 1b95ccb88cabaf284ffb6968719c40ae6cd4085b
+snapshot taken: 2026-11-13T13:48:32Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ornith-ai/Ornith-1.5-9B-DFlash
+main commit at snapshot: 21be3446a606afa67e20c33e68ca37396499248f
+snapshot taken: 2026-11-13T13:54:03Z

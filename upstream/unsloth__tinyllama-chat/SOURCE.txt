@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/tinyllama-chat
+main commit at snapshot: e25260eb1960e3670a1e029418cc4ea69ffea6d0
+snapshot taken: 2026-11-13T13:19:22Z

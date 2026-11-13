@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Ornith-1.5-9B-OBLITERATED-GGUF
+main commit at snapshot: 9219756830cd7fb6529c4bd679b57f3e1ad6b6d5
+snapshot taken: 2026-11-13T14:06:10Z

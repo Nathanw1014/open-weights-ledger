@@ -1,0 +1,62 @@
+[
+{
+"Path": "assets/overview.png",
+"Sha256": "0fb61aa9d739ef960ff62ad5f88b5071e2a9168fb0271dde0fde4c5d92667d44",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "assets/perception.png",
+"Sha256": "56eb16bc9c48da2acfede2605da27520be013bc8368a97d0290c3ca6a0ddae6d",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "assets/planning.png",
+"Sha256": "80aeeb5baaaaf01b787b72084d99e0d4b04b063cf95bf8b0162630d6041844de",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "merges.txt",
+"Sha256": "a9d356d7bdf1ef4949e3e748e95b8e10ad9d4e2e838eddc38a0a7b6b94d1db8d",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "model.safetensors",
+"Sha256": "b9de4bf448f57485fdaa45c60b1eea8e41a4b6ae82ec0cee8855a1e0301caccc",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "perception/model.safetensors",
+"Sha256": "e964ca945f028bbbfadfdf9c1e47d31cfc3fe502d205eca0bb5a3d2c5ab450ae",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "planner-rl/model.safetensors",
+"Sha256": "74478eb7ec5dea0d8144372ed7b60e6f508da7d9eb1522e567b391cad6dbaf29",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "planner-sft/model.safetensors",
+"Sha256": "dcf5989ed292799e77f539b21e5d8b701566676c1c5d13038135e97f96e2d7b4",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "9825446f866dd1d1f6ab843f10af4014c168334d50d977f0afbd3ee304c4856a",
+"IsLFS": true,
+"CommittedDate": 1787866336
+},
+{
+"Path": "vocab.json",
+"Sha256": "ce99b4cb2983d118806ce0a8b777a35b093e2000a503ebde25853284c9dfa003",
+"IsLFS": true,
+"CommittedDate": 1787866336
+}
+]

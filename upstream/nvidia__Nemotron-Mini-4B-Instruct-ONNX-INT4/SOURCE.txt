@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Mini-4B-Instruct-ONNX-INT4
+main commit at snapshot: 1c000cfd51b671f2c6e310d58117692e2f9734e2
+snapshot taken: 2026-11-13T14:00:05Z

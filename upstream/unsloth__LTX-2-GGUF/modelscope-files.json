@@ -1,0 +1,146 @@
+[
+{
+"Path": "ltx-2-19b-dev-BF16.gguf",
+"Sha256": "832e923e7a727a696e080b2de14c62268e47c79242d1197bf43a86ef65db2267",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-F16.gguf",
+"Sha256": "35115f370c86d1c0ea5d45e7bf082a02ae7e01216bf07e45df50422c4fecd857",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q2_K.gguf",
+"Sha256": "93958494c70d5f594abc7b775aeb46f6eef7c5e2d06558b8414491cb8ffb7d05",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q3_K_L.gguf",
+"Sha256": "42e10076cfe8a9ffad43d079f2be638e9e3b0ae8186e09c5a8c7545c2828d551",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q3_K_M.gguf",
+"Sha256": "a7d0975088816493ca97500739f66e272b151f04e33d13b469f0b272aa2c6cd4",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q3_K_S.gguf",
+"Sha256": "bf4c195101b53463d3c8cffb73cf5583dde12f3c71547264b0445625d4c1d53d",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q4_0.gguf",
+"Sha256": "21ee52f4c9644624e3324e63aa73aa343074000a04b7fa8ae7ce3210f126f4dc",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q4_1.gguf",
+"Sha256": "4f5189fb87f17fa197c522393f7b1ae206055224aec2b07518c81f37dc674ce4",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q4_K_M.gguf",
+"Sha256": "e3332ee9e6e1a84b7cb5a558a3ebd63891487a7ce285a284ee9d1c48d41463d7",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q4_K_S.gguf",
+"Sha256": "8028cfc03abf5dff618c1511b025f3e15ea73be03e315d971f8d20e50bee1e0f",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q5_0.gguf",
+"Sha256": "ed502267fc2695028f6a62620742691f5676a543121e431be9128918d4544b78",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q5_1.gguf",
+"Sha256": "bca7d475923fc91441ddb8463080f581bf0a2ca23fa93b9d5ed899da044c2560",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q5_K_M.gguf",
+"Sha256": "ce643ae23089dbaaa37ddeacd6b51cc975970fe875d2aea7a99da4565aab8892",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q5_K_S.gguf",
+"Sha256": "2502efd74a45517afda62379336246cf0bfa950ce9ac3d73bfe527bcf9ec8714",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q6_K.gguf",
+"Sha256": "2fe65f4a86f3a24537df06d5a0f180f5f848ba4764487c4488677cfec7c2bff8",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-Q8_0.gguf",
+"Sha256": "3e377af6930a0795e464e62e40daa0044427dda6c204d03e9c3a00351ef83dc1",
+"IsLFS": true,
+"CommittedDate": 1768031485
+},
+{
+"Path": "ltx-2-19b-dev-UD-Q2_K_L.gguf",
+"Sha256": "9f3ac92c55b588a340e1ea9a238b1e2f0aa106e19fa5a10be4192234c38a964a",
+"IsLFS": true,
+"CommittedDate": 1768945365
+},
+{
+"Path": "ltx-2-19b-dev-UD-Q2_K_XL.gguf",
+"Sha256": "974a72090680a4f25d5249baea777e09497ddbb6a60fdf53a5508b4dbf337e79",
+"IsLFS": true,
+"CommittedDate": 1768945365
+},
+{
+"Path": "ltx-2-19b-dev-UD-Q3_K_M.gguf",
+"Sha256": "9f3ac92c55b588a340e1ea9a238b1e2f0aa106e19fa5a10be4192234c38a964a",
+"IsLFS": true,
+"CommittedDate": 1769181626
+},
+{
+"Path": "ltx-2-19b-dev-UD-Q4_K_S.gguf",
+"Sha256": "974a72090680a4f25d5249baea777e09497ddbb6a60fdf53a5508b4dbf337e79",
+"IsLFS": true,
+"CommittedDate": 1769181626
+},
+{
+"Path": "text_encoders/ltx-2-19b-dev_embeddings_connectors.safetensors",
+"Sha256": "50a1bd5e4cbbe35e1c87867b6dc693eb784ccd8e7c8fdb8d054a238a90bf8af1",
+"IsLFS": true,
+"CommittedDate": 1768945365
+},
+{
+"Path": "unsloth_best.mp4",
+"Sha256": "e21a1e9b341a973004e1e85bb4ddb5cc81be8aaaa44d3087e27caf6633991dc9",
+"IsLFS": true,
+"CommittedDate": 1768945365
+},
+{
+"Path": "vae/ltx-2-19b-dev_audio_vae.safetensors",
+"Sha256": "8f1ea5f78d3927988a9fbb319461ae8f8762c133630f498afce23626365553ec",
+"IsLFS": true,
+"CommittedDate": 1768945365
+},
+{
+"Path": "vae/ltx-2-19b-dev_video_vae.safetensors",
+"Sha256": "54cb4c1dd7e74c3ea940617bcdc738779b0372f0a30acd1b3054149e741c2b7a",
+"IsLFS": true,
+"CommittedDate": 1768945365
+}
+]

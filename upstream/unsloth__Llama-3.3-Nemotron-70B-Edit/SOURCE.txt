@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.3-Nemotron-70B-Edit
+main commit at snapshot: e44d8b99580feebc4cf786d96db96ed62b161820
+snapshot taken: 2026-11-13T13:39:35Z

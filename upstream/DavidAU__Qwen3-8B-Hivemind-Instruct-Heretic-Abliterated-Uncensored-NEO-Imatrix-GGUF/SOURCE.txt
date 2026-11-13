@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/Qwen3-8B-Hivemind-Instruct-Heretic-Abliterated-Uncensored-NEO-Imatrix-GGUF
+main commit at snapshot: 97773734e46b47752fa87dbdc222c2d6213c96c6
+snapshot taken: 2026-11-13T14:02:42Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/OpenReasoning-Nemotron-32B-GGUF
+main commit at snapshot: 6584ca5c003218998246b11b02b7918fc446e175
+snapshot taken: 2026-11-13T13:27:21Z

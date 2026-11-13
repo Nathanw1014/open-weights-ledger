@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF
+main commit at snapshot: a06e946bb6b655725eafa393f4a9745d460374c9
+snapshot taken: 2026-11-13T13:01:58Z

@@ -1,0 +1,50 @@
+[
+{
+"Path": "qwen1_5-4b-chat-q2_k.gguf",
+"Sha256": "b13e88d44aa72fb70bcf42ea6d75632f8762f1d3db1fb41da98e8e0ef921187c",
+"IsLFS": true,
+"CommittedDate": 1708145841
+},
+{
+"Path": "qwen1_5-4b-chat-q3_k_m.gguf",
+"Sha256": "68fe2247b42aeb3b8b0b2d513aa8017b5824ab70db748ae26732e89b37e1158d",
+"IsLFS": true,
+"CommittedDate": 1708145841
+},
+{
+"Path": "qwen1_5-4b-chat-q4_0.gguf",
+"Sha256": "5085ba5f79beb2dcbf57af22c31c5f84239371857cce60df335dd0f74629a7f1",
+"IsLFS": true,
+"CommittedDate": 1708145841
+},
+{
+"Path": "qwen1_5-4b-chat-q4_k_m.gguf",
+"Sha256": "426143ccd3241b9547c2b70c622b4f4ef3436ee07e44991bd69ad84b36cd9b9b",
+"IsLFS": true,
+"CommittedDate": 1708145841
+},
+{
+"Path": "qwen1_5-4b-chat-q5_0.gguf",
+"Sha256": "5a352e6b52cefa92821692ba6dc21926401e30bf19c276e784171bde0a1294a6",
+"IsLFS": true,
+"CommittedDate": 1708145841
+},
+{
+"Path": "qwen1_5-4b-chat-q5_k_m.gguf",
+"Sha256": "0ec65d29e2ecca847efee640b49e9eeb21c35ae8999dfd4d7b2a3036c5947f05",
+"IsLFS": true,
+"CommittedDate": 1708145841
+},
+{
+"Path": "qwen1_5-4b-chat-q6_k.gguf",
+"Sha256": "97b90c87b544d28f1e01d7e757ada336d3733ec453ea6ab9ba3ed0719dd6264d",
+"IsLFS": true,
+"CommittedDate": 1708145841
+},
+{
+"Path": "qwen1_5-4b-chat-q8_0.gguf",
+"Sha256": "efbacf6b114ff14c102bd2e16395668fedb8522beee8f43167b28b524de1418b",
+"IsLFS": true,
+"CommittedDate": 1708145841
+}
+]

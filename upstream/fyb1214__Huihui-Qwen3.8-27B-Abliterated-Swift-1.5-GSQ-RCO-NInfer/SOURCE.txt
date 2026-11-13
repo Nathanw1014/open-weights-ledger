@@ -1,0 +1,3 @@
+repo: https://huggingface.co/fyb1214/Huihui-Qwen3.8-27B-Abliterated-Swift-1.5-GSQ-RCO-NInfer
+main commit at snapshot: d63cfae481cc6cae344e60f3f7a0ca301dfcbfd1
+snapshot taken: 2026-11-13T14:01:10Z

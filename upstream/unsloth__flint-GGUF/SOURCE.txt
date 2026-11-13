@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/flint-GGUF
+main commit at snapshot: 20468edfc38ab43d6914cc88b08cbecb05d0fc62
+snapshot taken: 2026-11-13T13:02:58Z

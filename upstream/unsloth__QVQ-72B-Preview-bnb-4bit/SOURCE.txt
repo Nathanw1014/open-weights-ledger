@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/QVQ-72B-Preview-bnb-4bit
+main commit at snapshot: a1c321c2a84563cfa03a180fa16a30c448d88a1c
+snapshot taken: 2026-11-13T13:34:57Z

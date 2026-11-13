@@ -1,0 +1,152 @@
+[
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-BF16.gguf",
+"Sha256": "26661484a2582a99d4f3666c950fac169f15c96f052294ef3afae28b3c14ea61",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-IQ4_NL.gguf",
+"Sha256": "727d264a9745d200c7239d134296d732ec9fd8a1d551052512958a953494f06b",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-IQ4_XS.gguf",
+"Sha256": "0dcaab22e05313ba4ff234a0e46e3b88e904bde525a2f5ddedb46c9fab995297",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q2_K.gguf",
+"Sha256": "129aa9532c077d4ac0a22a85b0b4b3e403431f7bbf97dde03988ec8ee37e756f",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q2_K_L.gguf",
+"Sha256": "ba9de8c121f247d96e05c722e6feda6fae0d631e28ce25b7545a66fedd9efb36",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q3_K_M.gguf",
+"Sha256": "3400040976f83d8878e2d91076ab55d06dcfaa3dcca9f8f665f8cc1f0c6c33eb",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q3_K_S.gguf",
+"Sha256": "c0c3169347b01289fb11cf4dfa02c22c01133dce7e12b1d2ad1137b81dc19828",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q4_0.gguf",
+"Sha256": "2f75288053d6197cf2c2fc9cf7016401d9ec6238298f54d1122dd5ecf063ab22",
+"IsLFS": true,
+"CommittedDate": 1746987928
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q4_1.gguf",
+"Sha256": "9ffac1aea248e96fa3d59c1d3a950b1aefb69f6346454fe370d033860d823d63",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q4_K_M.gguf",
+"Sha256": "3fc180a9b0310146a86d1a0ac79e0fa7b932fbe5ad697b0aaf73f931f38eac3c",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q4_K_S.gguf",
+"Sha256": "ef0e01019af682f7c74bb4708a941f4fccb196280d20b1052d3928a72f3dbba1",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q5_K_M.gguf",
+"Sha256": "f2cd04bf20bbc7be496e2162bded7f2266999fe1f7ca25694b665ce81423a848",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q5_K_S.gguf",
+"Sha256": "44433a2b74ae610f5e0c4817acdb90dc65ad27fedeebc89644a42edd99c96a2a",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-Q6_K.gguf",
+"Sha256": "e27602071240fc6eaaa34a381936a3bcb1e91a38cc0006051baadd934d721da7",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-IQ1_M.gguf",
+"Sha256": "d57c5b85601059a1701c6b1cc784ff349e478fdd46d188335544400fbeddb317",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-IQ1_S.gguf",
+"Sha256": "d00bbcaae67af32a221a2a173402e9411f13dc098e11fbeca6ba554af984c58e",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-IQ2_M.gguf",
+"Sha256": "810cc78295cf3ced33b3b24b48281b0caf005c0384b8194c16d7d6b1daf7ece2",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-IQ2_XXS.gguf",
+"Sha256": "561f6bd19d703d7c24464dd506efcf4c185d0f0a1e129030055265ba579f508a",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-IQ3_XXS.gguf",
+"Sha256": "639fef392ca0791b2c5c76ef176409e2883db81ff10b3d486b2f8ef2f9940521",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-Q2_K_XL.gguf",
+"Sha256": "366adf3f9dddeb82256b730cc1fd8ec7558990d876b9e182296b822bf9cabcb6",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-Q3_K_XL.gguf",
+"Sha256": "10ee118ebe4293541b546a93cb772d482be7c6cac94e27ec17aa295bc06d0b67",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-Q4_K_XL.gguf",
+"Sha256": "c62e39d9170993d5eab0260b0935429f11af85100689f6dd40a4743bd5ac1476",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-Q5_K_XL.gguf",
+"Sha256": "bfcb0f81d1fa19274914c027ed9007881f81a5f1ec81217ab4f0c89bad3f709d",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-Q6_K_XL.gguf",
+"Sha256": "5c3899238121a61620d164221454e67760b445e161775af44db7c433632ae5f9",
+"IsLFS": true,
+"CommittedDate": 1747943601
+},
+{
+"Path": "Llama-3.1-Nemotron-Nano-8B-v1-UD-Q8_K_XL.gguf",
+"Sha256": "f2916cd13bd2d9f54d093734f3a5011eeae7fd4dfc445e4be9b9e10a972333ab",
+"IsLFS": true,
+"CommittedDate": 1747943601
+}
+]

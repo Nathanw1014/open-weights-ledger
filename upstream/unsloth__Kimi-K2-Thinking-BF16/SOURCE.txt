@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Kimi-K2-Thinking-BF16
+main commit at snapshot: f40833b9a610ba9aa6864dfbbd6e4410e14759a4
+snapshot taken: 2026-11-13T13:39:23Z

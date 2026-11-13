@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Swift-1.5-Qwen3.8-27B-heretic-GSQ-RCO-IQ2_S-mtp.gguf	9607980640	7f3e481d8ca31d67cc97f4dc3b8c3b469a9d4ee6cfca7f1d099682d11f691fd5	sha256
+Swift-1.5-Qwen3.8-27B-heretic-GSQ-RCO-IQ3_S-mtp.gguf	12120016480	00f5763c0bc549478cfe27e76bd939c6008ac8179b256580e647e5c5d9998838	sha256
+Swift-1.5-Qwen3.8-27B-heretic-GSQ-RCO-IQ3_XXS-mtp.gguf	10442827360	a9d571cd9a072b58eec2f6651df2cbdd68f3736fafadc623af7bdd8521fee4bd	sha256
+Swift-1.5-Qwen3.8-27B-heretic-mmproj-F16.gguf	927606816	b409acbc885f5c852a8f9149b9bb808014b3aef5ecf91ae72e59599ee8fbce23	sha256

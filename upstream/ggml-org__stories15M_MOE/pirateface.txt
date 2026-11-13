@@ -1,0 +1,2 @@
+checked 2026-11-13T09:31:59Z
+ggml-org/stories15M_MOE      466 MB  6 seeds  magnet:?xt=urn:btih:9bd8c35f0c455105817d3210db1164730f1587c0&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fggml-org%2Fstories15M_MOE%2Fb6dd737497465570b5f5e962dbc9d9454ed1e0eb%2F

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-4.6-REAP-268B-A32B-GGUF
+main commit at snapshot: a78d1b26b0dfc26bb046761417f0f64d2b78c789
+snapshot taken: 2026-11-13T13:22:19Z

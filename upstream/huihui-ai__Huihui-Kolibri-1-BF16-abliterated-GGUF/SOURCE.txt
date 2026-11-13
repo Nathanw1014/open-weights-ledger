@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF
+main commit at snapshot: d160d1da4559a91762999bd0124f85387c880344
+snapshot taken: 2026-11-13T14:01:13Z

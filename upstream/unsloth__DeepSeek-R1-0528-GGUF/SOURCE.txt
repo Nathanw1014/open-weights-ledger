@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-R1-0528-GGUF
+main commit at snapshot: 72f5d5bd7f0821bc0be039b094cc1501bdbf232a
+snapshot taken: 2026-11-13T13:10:38Z

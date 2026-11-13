@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-AWQ
+main commit at snapshot: 5d2659311fbbae1ec6ccc83e0fae9778bb469494
+snapshot taken: 2026-11-13T13:45:32Z

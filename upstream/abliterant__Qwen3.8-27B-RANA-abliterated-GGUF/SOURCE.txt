@@ -1,0 +1,3 @@
+repo: https://huggingface.co/abliterant/Qwen3.8-27B-RANA-abliterated-GGUF
+main commit at snapshot: 054d0ce9fc471ab08538e71d2de85581c71c3414
+snapshot taken: 2026-11-13T14:01:24Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Olmo-3-7B-Instruct-unsloth-bnb-4bit
+main commit at snapshot: 5d19c438a3f72bd74a2b1e1f7aa90e24d359c690
+snapshot taken: 2026-11-13T13:16:58Z

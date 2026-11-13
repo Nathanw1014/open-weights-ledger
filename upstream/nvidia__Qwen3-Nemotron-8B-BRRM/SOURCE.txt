@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Qwen3-Nemotron-8B-BRRM
+main commit at snapshot: 00ddfb6911af0effda047a72202054acade78133
+snapshot taken: 2026-11-13T13:58:15Z

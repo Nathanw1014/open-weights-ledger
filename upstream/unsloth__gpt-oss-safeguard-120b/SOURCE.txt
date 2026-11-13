@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gpt-oss-safeguard-120b
+main commit at snapshot: 516d811ffa1cfb9ee1bce7471ab6ed80fd39f603
+snapshot taken: 2026-11-13T13:39:12Z

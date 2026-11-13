@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mudler/gemma-4-26B-A4B-it-heretic-APEX-GGUF
+main commit at snapshot: 8e3506b8b11a8ac2d666e0df473fa7ba4ec21497
+snapshot taken: 2026-11-13T14:08:10Z

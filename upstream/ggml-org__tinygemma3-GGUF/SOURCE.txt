@@ -1,0 +1,4 @@
+repo: https://huggingface.co/ggml-org/tinygemma3-GGUF
+main commit at snapshot: c287502cd9e278dac8eed805c112cce5d0081e0b
+lastModified: 2025-05-06T21:17:58.000Z
+snapshot taken: 2026-11-13T09:38:11Z

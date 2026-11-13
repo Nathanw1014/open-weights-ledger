@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-H-8B-Reasoning-128K-FP8
+main commit at snapshot: a100ba4191a9563be3bb614fcda87925a20fd125
+snapshot taken: 2026-11-13T13:59:28Z

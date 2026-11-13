@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1-FP8
+main commit at snapshot: 069d35811ba17b27c5e7a9def076ed4788679819
+snapshot taken: 2026-11-13T13:58:59Z

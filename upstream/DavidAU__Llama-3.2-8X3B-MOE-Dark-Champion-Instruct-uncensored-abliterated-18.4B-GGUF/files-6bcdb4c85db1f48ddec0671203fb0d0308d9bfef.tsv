@@ -1,0 +1,14 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-IQ4_XS.gguf	10131598368	e23d7110917012fa4350ffab71b5da00ec634971ca90adf6ceb1d4398443c37a	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q2_k.gguf	7040908320	dd3669f8ea348778627b5b5f1e8e416084ea986c81386625cba9d7fc95e9e2e1	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q3_k_m.gguf	9026655264	c198943b8d089123dc81bc8c5c993ea8066aa659e7f2185213428f537d595fda	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q3_k_s.gguf	8252806176	ad294a7cacbc0829954fa67d16a76b814a700df3a6e6d2d8c38b10047bc41bf7	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q4_0_4_4.gguf	10553248800	26123ff149ff6c2035065b0a7630605f7ea3546b0efb409094c03d7a3a7d7a53	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q4_0_4_8.gguf	10553248800	78f0002ddcb6206f1e93f71dbc93e662e18d4c6c963deca2f5ed115c7239398e	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q4_0_8_8.gguf	10553248800	513baf81f862e1e2ecd37c1a405373eeebae614807b844044e698fa380e3d8cb	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q4_k_m.gguf	11312942112	d98bc0df90da13e2e8325d0ed0b0d3b0189f36a5cb8a2036c4555f068bc46326	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q4_k_s.gguf	10661776416	85e6881a63a70354ace145458a81f5f5104bd14712194a6729a77fad249ea90f	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q5_k_s.gguf	12782488608	873bc98bc507607c782ea1672dcc8f4b3934e6271db9bed6331faadcb600a69e	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q6_k.gguf	15151055904	d825274ff343be275386dbfccc092b28ef6f38156bc02066e4d2ef05b9923fc5	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-Q8_0.gguf	19565630496	fba179eb8d42209df19bee9e1c97f3e0e0f99e0a87de0edb9a70f16d68518fda	sha256
+L3.2-8X3B-MOE-Dark-Champion-Inst-18.4B-uncen-ablit_D_AU-q5_k_m.gguf	13156830240	2f925622778f0d90ef7318e2f4978e922a129883006b42b4d83020ce9728a165	sha256

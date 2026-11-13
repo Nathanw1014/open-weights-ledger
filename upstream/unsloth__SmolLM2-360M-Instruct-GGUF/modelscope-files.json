@@ -1,0 +1,44 @@
+[
+{
+"Path": "SmolLM2-360M-Instruct-F16.gguf",
+"Sha256": "a41984d8bebc26ee81daf68d15077ad86aac2894ee5e9d3453b6895060df213e",
+"IsLFS": true,
+"CommittedDate": 1731511913
+},
+{
+"Path": "SmolLM2-360M-Instruct-Q2_K.gguf",
+"Sha256": "bace2bc62750a676cb30e0d29fea1b3466d6089eee3e8094d5bab6916d427862",
+"IsLFS": true,
+"CommittedDate": 1731511913
+},
+{
+"Path": "SmolLM2-360M-Instruct-Q3_K_M.gguf",
+"Sha256": "eb31394ff392eaca725fd9582eade3352adce2143704273846f0d194123fccf3",
+"IsLFS": true,
+"CommittedDate": 1731511913
+},
+{
+"Path": "SmolLM2-360M-Instruct-Q4_K_M.gguf",
+"Sha256": "16c7f1667fea34bacad196a57b548effcb37614db4ab5677a20c8c7b823b9e63",
+"IsLFS": true,
+"CommittedDate": 1731511913
+},
+{
+"Path": "SmolLM2-360M-Instruct-Q5_K_M.gguf",
+"Sha256": "0d3040f47b83cd279fc653877059829cbd6e17f972f82a03f686f7d5f3834440",
+"IsLFS": true,
+"CommittedDate": 1731511913
+},
+{
+"Path": "SmolLM2-360M-Instruct-Q6_K.gguf",
+"Sha256": "228455ecf8de8093ec793c5f458b995e68d90d1a6b4864441f026719312d08ed",
+"IsLFS": true,
+"CommittedDate": 1731511913
+},
+{
+"Path": "SmolLM2-360M-Instruct-Q8_0.gguf",
+"Sha256": "fcb111da119fa42ab856d491088a844b290579e9810bd0792252297d8c6cd7a8",
+"IsLFS": true,
+"CommittedDate": 1731511913
+}
+]

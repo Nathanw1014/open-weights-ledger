@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/ERNIE-Image-GGUF
+main commit at snapshot: 7b6dfaae7389b463d7fb4669e33c560d36ad108c
+snapshot taken: 2026-11-13T13:14:50Z

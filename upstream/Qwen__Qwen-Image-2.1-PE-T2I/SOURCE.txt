@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I
+main commit at snapshot: f3ed7985c788ad75b3ab7223e0c4c51e2a43545b
+snapshot taken: 2026-11-13T13:48:28Z

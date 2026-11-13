@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+NVIDIA-Nemotron-Labs-Dory1.0-4B-Q5_K_M.gguf	3673288864	96080be49ffd67b916018b7bdef8c484762576fb52780e10ab98ac4978a660e0	sha256
+dory_arch.png	175249	995a62c6db7d55af185ed8c2bc509f88f03e72128ff5a5fb30ae41f393ac9554	sha256
+dory_logo1.jpeg	1339848	e498f041a398c27fcf49cf0a7a2f461f8ebde5b28bc2f6609c470bd206b568cc	sha256

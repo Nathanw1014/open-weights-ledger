@@ -1,0 +1,158 @@
+[
+{
+"Path": "BF16/Kimi-Dev-72B-BF16-00001-of-00003.gguf",
+"Sha256": "461142f12ba0688804bb4c0e894328b563ba528e56aaf58633d668909c9e9e0b",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "BF16/Kimi-Dev-72B-BF16-00002-of-00003.gguf",
+"Sha256": "8e8314090382ae03cc4024c3ed4c52ee1980049029d8adcec0f63bc48e8bbc3e",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "BF16/Kimi-Dev-72B-BF16-00003-of-00003.gguf",
+"Sha256": "e56d10a62358993ae90611a591a786fda90f9d92455ff3a29a007261123cd48b",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-IQ4_NL.gguf",
+"Sha256": "5da08305fa16168aab1745fbdc81cf191d8ac2de55408a9c75dea11a903ac505",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-IQ4_XS.gguf",
+"Sha256": "36b3b5988c5afa6d0ed853deec815b18967312b4e10cdf3c1415d3799eb6ca6b",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-Q3_K_M.gguf",
+"Sha256": "5f9926b411d010e9183389b824f3c21cd6d56e24be1bffa41dd8d0cb5dc2d1ab",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-Q3_K_S.gguf",
+"Sha256": "6833a482e4266cf11341dbd031e1784f1ea36c09c392065aa3f8557590476200",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-Q4_0.gguf",
+"Sha256": "fe4575aff036b5a94aa5feaf098b1585fbdf7361f24515739b2bc645ec42dbb9",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-Q4_1.gguf",
+"Sha256": "ad12b13cfb6bc91edab70fc1579b320891c7ffd8a63bf4d1efac8d80e06e8b66",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-UD-IQ1_M.gguf",
+"Sha256": "db97c14b27c91956b7466c9873df2e65b140d1793e6601a828cbd43c4be62c1a",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-UD-IQ1_S.gguf",
+"Sha256": "f32644d7d6f70f014deb62393cb2c65d3f0bff991553b0f06546c4eaa2a0c296",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-UD-IQ2_M.gguf",
+"Sha256": "09ca656a2184ccae310900b869e577d00235b0fcac9ab53ecba0a3da1fcb3a93",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-UD-IQ2_XXS.gguf",
+"Sha256": "3c7e77e096ac0ad53304749a90e14fcc254d6f53ae837651e30ca1b3455b721e",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-UD-IQ3_XXS.gguf",
+"Sha256": "abc32cf1bf46cad58738c66c1dfbaf93ca2b413ea3f57707d12df6d4bfd01d56",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-UD-Q2_K_XL.gguf",
+"Sha256": "fb210bce19e8aae941d984d4ee947462f1d027f24377968486e18adfea8346c2",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Kimi-Dev-72B-UD-Q3_K_XL.gguf",
+"Sha256": "53f63e7a15d1253480b6c6daad113c9b11122e69f58cf0b36ae06a6474779be3",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Q6_K/Kimi-Dev-72B-Q6_K-00001-of-00002.gguf",
+"Sha256": "09ab4ae9ecf79cd1a3f0e419fe57b8f667dcfe1eaae49001f4940c6f3fd4925d",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Q6_K/Kimi-Dev-72B-Q6_K-00002-of-00002.gguf",
+"Sha256": "679bf3558cf085ca41a1d3b5cf6233b86ec029e9045f16c96e19d8fa2193fb13",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Q8_0/Kimi-Dev-72B-Q8_0-00001-of-00002.gguf",
+"Sha256": "090ed95a70366eba3b028cf5944068ce2a26c18e78c33db3b108493227a40a09",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "Q8_0/Kimi-Dev-72B-Q8_0-00002-of-00002.gguf",
+"Sha256": "4997454cd726b88a4261ae14c1a8a64c3627a5932f8a46c4b6b60e24ac349d26",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-Dev-72B-UD-Q5_K_XL-00001-of-00002.gguf",
+"Sha256": "2823f45ecb6c600b63c777cb8e450db6995bab587182a46beb84a36a4eb6a8a9",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-Dev-72B-UD-Q5_K_XL-00002-of-00002.gguf",
+"Sha256": "9a506633e802c8a271c31449073fe1e8de3896c8c9b2655359f78587bad3cfa4",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-Dev-72B-UD-Q6_K_XL-00001-of-00002.gguf",
+"Sha256": "84ce891676adf3153d90298cda203315139cee84e82f5164c813d127f902be40",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-Dev-72B-UD-Q6_K_XL-00002-of-00002.gguf",
+"Sha256": "473d6e665124e2a4bd59a74a4d7c144388d3c19b911ff3923e2b71a1d8f46b70",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-Dev-72B-UD-Q8_K_XL-00001-of-00002.gguf",
+"Sha256": "69347ab0c6dc1dfaab46e2ea6c9020118bdbe101fe8cb32648d0fc695c64751e",
+"IsLFS": true,
+"CommittedDate": 1750150635
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-Dev-72B-UD-Q8_K_XL-00002-of-00002.gguf",
+"Sha256": "bae906b1a9a87688d97c839cea25d142f63696a00d68d704307b832b74833467",
+"IsLFS": true,
+"CommittedDate": 1750150635
+}
+]

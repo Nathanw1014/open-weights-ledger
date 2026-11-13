@@ -1,0 +1,3 @@
+repo: https://huggingface.co/NidAll/Qwen3VL-8B-Abliterated-INT8-ConvRot
+main commit at snapshot: 1e554d2e4b2efec4d256db80b7b6879b8a8d79a3
+snapshot taken: 2026-11-13T14:01:54Z

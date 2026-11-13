@@ -1,0 +1,50 @@
+[
+{
+"Path": "FLUX.1-Krea-dev-FP8.pt",
+"Sha256": "01e34ff4a107c0bdf5f827c50b882c25e3fbddf24dc7a78a98024084edecd65d",
+"IsLFS": true,
+"CommittedDate": 1785869654
+},
+{
+"Path": "FLUX.1-Krea-dev-FP8.safetensors",
+"Sha256": "6480c67fcb5879d63a31314ca2ac8352e275a695415c5faaf7bac9aeea2c69a9",
+"IsLFS": true,
+"CommittedDate": 1791221795
+},
+{
+"Path": "FLUX.1-Krea-dev-INT8.pt",
+"Sha256": "039ef1581264b17e2169ad45bf65cf5d9089f6612b18a18a72d985d27421d3f8",
+"IsLFS": true,
+"CommittedDate": 1785869770
+},
+{
+"Path": "FLUX.1-Krea-dev-INT8.safetensors",
+"Sha256": "1f1bd6c2f52ed439291f86e596223592c9f07c349027a30e7afd92417acaa635",
+"IsLFS": true,
+"CommittedDate": 1791221795
+},
+{
+"Path": "samples/fp8_1.png",
+"Sha256": "cce7d1506ece8126b5885a3c758bf5811445f56fce9cb970d0f0e3427b85dffe",
+"IsLFS": true,
+"CommittedDate": 1785869813
+},
+{
+"Path": "samples/fp8_3.png",
+"Sha256": "f6b963032d416d39436557e2236cf4e2b345a860f783d9eb87edf4c6c611b85e",
+"IsLFS": true,
+"CommittedDate": 1785869787
+},
+{
+"Path": "samples/int8_1.png",
+"Sha256": "7192de3b095995aec80f0f64f15c166c47a7fad67df95952efc695ce0da8dfd8",
+"IsLFS": true,
+"CommittedDate": 1785869794
+},
+{
+"Path": "samples/int8_3.png",
+"Sha256": "035f38ffdbb6de06bfec670039ed216885f88a9b93f232ecebb48a8c9d5a80ed",
+"IsLFS": true,
+"CommittedDate": 1785869806
+}
+]

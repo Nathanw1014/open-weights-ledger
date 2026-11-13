@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/G4-MeroMero-26B-A4B-it-uncensored-heretic-i1-GGUF
+main commit at snapshot: e888232a751f87bf95483435bd75176c87f17c36
+snapshot taken: 2026-11-13T14:07:40Z

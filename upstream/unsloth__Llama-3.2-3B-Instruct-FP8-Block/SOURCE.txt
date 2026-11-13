@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-FP8-Block
+main commit at snapshot: 08cf804398b23fab4a1df02fbe8d4d5a11a800cc
+snapshot taken: 2026-11-13T13:34:38Z

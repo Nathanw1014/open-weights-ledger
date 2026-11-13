@@ -1,0 +1,44 @@
+[
+{
+"Path": "Ornith-1.5-122B-BF16.gguf",
+"Sha256": "160244966db882d25f87f12d021c581785a18079e46ee5d477d3f28672164a82",
+"IsLFS": true,
+"CommittedDate": 1792533255
+},
+{
+"Path": "Ornith-1.5-122B-Q4_K_M.gguf",
+"Sha256": "729fe18c2491aaa446074a923e12f184f9f2239ffd5ce3dae47b0ce9cf8df40c",
+"IsLFS": true,
+"CommittedDate": 1792533257
+},
+{
+"Path": "Ornith-1.5-122B-Q5_K_M.gguf",
+"Sha256": "fc47386f1da5855df6e391e3c154aad4363f2d4f34cdb9c26b067d85cb54f428",
+"IsLFS": true,
+"CommittedDate": 1792533259
+},
+{
+"Path": "Ornith-1.5-122B-Q6_K.gguf",
+"Sha256": "93335cdb8ddf658ad1891a41b13e7b0d91c4590e1a9a3d5b8d4f2fce1eff1f5c",
+"IsLFS": true,
+"CommittedDate": 1792533260
+},
+{
+"Path": "Ornith-1.5-122B-Q8_0.gguf",
+"Sha256": "48b49bf23d618c08480fd3d9c1b2ce8124dd1973090aa29fb54fbd8b6b9e7fb8",
+"IsLFS": true,
+"CommittedDate": 1792533262
+},
+{
+"Path": "assets/ornith_122b_eval.png",
+"Sha256": "c0313d896feb43565d7162733ec6ec308fd4917b3e17b6e9b8fcaf193ea689db",
+"IsLFS": true,
+"CommittedDate": 1792533265
+},
+{
+"Path": "mmproj-Ornith-1.5-122B-BF16.gguf",
+"Sha256": "dba9e757964f42ed362e94bede671d9dd4639e832913dd83588527ba281734a7",
+"IsLFS": true,
+"CommittedDate": 1792533269
+}
+]

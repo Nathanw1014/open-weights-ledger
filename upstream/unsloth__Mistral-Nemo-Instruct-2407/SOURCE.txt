@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Mistral-Nemo-Instruct-2407
+main commit at snapshot: e9976040f42d8a5590ed58cefe973061b3f973b5
+snapshot taken: 2026-11-13T13:18:31Z

@@ -1,0 +1,164 @@
+[
+{
+"Path": "InternVL3-1B-Instruct-BF16.gguf",
+"Sha256": "ceb554ed8ce9fb3d374ade6d3ea2d341450aa68a1d19622d66399b43f0aade2c",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-IQ4_NL.gguf",
+"Sha256": "13500034e474160365940c984c4f176521cb82d533e96b8da1d9539dd4d21bc3",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-IQ4_XS.gguf",
+"Sha256": "153d187e0d77bcf92bad3bbe762901d60e167ac2563c7af4b8aa52534861e232",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q2_K.gguf",
+"Sha256": "c3079c46e1501964ced702dabe98e7aa01a5c0188e5b054c7e9b104549e0692b",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q2_K_L.gguf",
+"Sha256": "c3079c46e1501964ced702dabe98e7aa01a5c0188e5b054c7e9b104549e0692b",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q3_K_M.gguf",
+"Sha256": "af63285f17d0c8aaa81751b7ed2429fe3e5c6858688cf129645c3c584a37b176",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q3_K_S.gguf",
+"Sha256": "3fa8aca26dd3d3375b6c73e4c8e96e7eef66dfb5e8683acbf71d252fbb3d4101",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q4_1.gguf",
+"Sha256": "3710065277f4b2830d5a3d90d5f22aa053474ed9a71b6d876b3c740887680148",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q4_K_M.gguf",
+"Sha256": "a15f746840dfc544d7258059ec2bd6dbb9d0d5552217905a82745a150e25b25a",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q4_K_S.gguf",
+"Sha256": "586f01707068bd2fb3017719ea4bd09072e029a8eed6fa00c8a42bbae93aa995",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q5_K_M.gguf",
+"Sha256": "7402d09a1642101aaf423cf92925e743220cc234376a2ab56c2c5505cb856d0e",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q5_K_S.gguf",
+"Sha256": "d51927c3732a830a01e8f435bd2f62618c44c61ebcece46944991af1186fed46",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-Q6_K.gguf",
+"Sha256": "68a89681c577a1165074c200e21214883f27112c2cba54e85476e9a35e12d4e5",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-IQ1_M.gguf",
+"Sha256": "04bb835c0ecc4d0a896f987d2bfae892aa08ba5545b328031dea57cb984b1eec",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-IQ1_S.gguf",
+"Sha256": "af8ccc152426740c88817d616cdc8f5f5f9ff3e4a7a30bb77108d95558d87b66",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-IQ2_M.gguf",
+"Sha256": "cc541b99c2281ef6aacbf786823ac990c835563187672f8a6da708fb573750c4",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-IQ2_XXS.gguf",
+"Sha256": "fa066cf5c61750e26548a6e47e6e080440c1ee1caa4909879849f591c32ab0b5",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-IQ3_XXS.gguf",
+"Sha256": "e370ed37d3698ef923cec31bdbcc37f209ea892d023ac8af499cf92a67428411",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-Q2_K_XL.gguf",
+"Sha256": "2f307e00a734faaac188a9ce003d56b50d5119c08d993b1772f73449b005dbf2",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-Q3_K_XL.gguf",
+"Sha256": "c18c5a2ca525851e08e5c14761537696f87807fc0a756afa4a534f2820a40b76",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-Q4_K_XL.gguf",
+"Sha256": "be80526b4591cf24701920817357b7509bbc678ea175a66e3b6874ca97e73778",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-Q5_K_XL.gguf",
+"Sha256": "066a9b3932821c8efa3ace5dce3c96e0c7886409195e8f496ece129580afc299",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-Q6_K_XL.gguf",
+"Sha256": "4ac29ce8f449c3e46bbae4e463493c3968d70d6192dc614dfee549c8dc862e8e",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "InternVL3-1B-Instruct-UD-Q8_K_XL.gguf",
+"Sha256": "418a2a904bc39677aa7bbf1c58470cab4af1fc4cd44ee251f08fcb5eaeb988e0",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "bd7aa44c0dc20a35d8d59c59b88138a7e04ae466df11ab084f3b0a4d59b35a48",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "a55ee7cb791d3e14cdaad28d2ebca965836fc5c29d96f1a28f9aa0602ba459e6",
+"IsLFS": true,
+"CommittedDate": 1747634627
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "fc0b8cfc8c90fa8a82927aea45f631347cb3231bb1bc9c428ae5df6e2cd76ac2",
+"IsLFS": true,
+"CommittedDate": 1747634627
+}
+]

@@ -1,0 +1,8 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Sakura-MiniMax-H3-TextEncoder-Uncensored-Q4_K_M-14.05GiB.gguf	15084123104	6e75ecb2dd872e7d459553c7991b8e1ac11ee7149a07b6beac777209f6adfe01	sha256
+Sakura-MiniMax-H3-TextEncoder-Uncensored-Q5_K_M-17.00GiB.gguf	18251265184	643cad10205b02c6ed860efc88dbc040204238f90914f646959403304cd17ee1	sha256
+Sakura-MiniMax-H3-TextEncoder-Uncensored-Q6_K-20.13GiB.gguf	21616356128	959e6cd50ac46f718341a39f2cd347f0714151ddf3b5e4f24004a6f80b19919d	sha256
+Sakura-MiniMax-H3-TextEncoder-Uncensored-Q8_0-25.60GiB.gguf	27492749824	01cb313d0384272ac697d507edee5ea216182677112666f2be1a7380f896675f	sha256
+examples/Sakura-MiniMax-H3-TextEncoder-Uncensored-Q4_K_M-with-denoiser-Q4_K_M.gif	1837135	f0a124f2a80fe4fa0936ecf9da1194198431e0fc5c3fffc18dd3babe8116ac23	sha256
+examples/Sakura-MiniMax-H3-encoder-vs-unmodified-Q5-contact-sheet.png	927813	a448ccb76314bd831681d9b77a9524bcd2f63131b62c0dae3cbee7699540d4f3	sha256
+examples/Sakura-MiniMax-H3-encoder-vs-unmodified-contact-sheet.png	2057127	df28a645af02246422ec9af5c27830775f06af4866b7a2e9b1c9b0a1b122032d	sha256

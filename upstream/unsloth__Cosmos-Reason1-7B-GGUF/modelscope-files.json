@@ -1,0 +1,182 @@
+[
+{
+"Path": "Cosmos-Reason1-7B-BF16.gguf",
+"Sha256": "c5469695125ee36df666f5a56d7080f8d3fca39252d40939ce42c7556c60d2da",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-IQ4_NL.gguf",
+"Sha256": "f758534cfda045703665205b1bd4df5f8685be367f9e19761fc944b7aa31f633",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-IQ4_XS.gguf",
+"Sha256": "bd65cbe330672517a43b8496e2c945de65734f88004f391f50a4415c4e696d04",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q2_K.gguf",
+"Sha256": "5a9520133c703219ed3d389882b2569bdcda63fdbbfefd0dca75cae18bff83f0",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q2_K_L.gguf",
+"Sha256": "975c284c2f81572384673207695725edb173541a5d1ace1b02ef619e7f509570",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q3_K_M.gguf",
+"Sha256": "bb6d66ff3acb43fb17243d65ada427f8ff8dd2994cb93982bf9782e88abd2a3a",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q3_K_S.gguf",
+"Sha256": "a80bd0451f058790325fe0814bf888b311744ffce6445568802b588a27c0d16f",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q4_0.gguf",
+"Sha256": "33da9bc59c3b98841fef345ede91213b98012d017ac460ddf610367205cdff05",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q4_1.gguf",
+"Sha256": "d861fbbed87f91f18d34699ff9f995af888f1df560d427612ce571d1c6992bbb",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q4_K_M.gguf",
+"Sha256": "f8698cb1bfd7293beda9d34643c02e40bfb34f909063ebb89b749e5a6a958de3",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q4_K_S.gguf",
+"Sha256": "5007afe8a5aa252d5e872e2160452e5a53edc556e0825ce05de6f12c0f7f1d43",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q5_K_M.gguf",
+"Sha256": "cbfd694c3dbeb7e24a60448d8e155e96cdd1b7da7ef14648ea9a7ccc89e90ca7",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q5_K_S.gguf",
+"Sha256": "74805e04209872378b0f82566f09afd1a524b9fe0e3af7d00053335bafd6d36f",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q6_K.gguf",
+"Sha256": "8b086e9dd487ca6262f04c8184a2f5d7b273ef9be7a0954f8fe3139cc8dffd96",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-Q8_0.gguf",
+"Sha256": "74b3ef44b114cb8ccd249d0eeb0cdd3939ffb7e57cb08e7a6f7678325a6a4095",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-IQ1_M.gguf",
+"Sha256": "8b1e250ce0c17d04bee6db3505cad9366da13939354751658c979b74cf449931",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-IQ1_S.gguf",
+"Sha256": "f919a7ca8af619a23ef9784d6ecffdab16c0356ede3639e6c63da082b1947f0b",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-IQ2_M.gguf",
+"Sha256": "5875b51bed4325eb9f495d96aa040cbf9b51264217b454fd777e95f7bdfbfcec",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-IQ2_XXS.gguf",
+"Sha256": "0143b2b796875f114704dbc3970fbba44811c7f77754e74dcad9fd518e327482",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-IQ3_XXS.gguf",
+"Sha256": "aa2296bc157745626e78d9d826f65d5a64024c5b9330707e574a0b5c327c4586",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-Q2_K_XL.gguf",
+"Sha256": "8fa62479d7d7c1e72641def30bc9cde9fa0f7b2135b496c1c1c2d38ae51c8c7f",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-Q3_K_XL.gguf",
+"Sha256": "def0b002e2170d4fa8e948f40f591c5a99cf858e51a6237e9a1da0e2388c6521",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-Q4_K_XL.gguf",
+"Sha256": "cecf81c7e70952735d3eb62037091cedca379eb06eb5caf8ff918af145be363e",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-Q5_K_XL.gguf",
+"Sha256": "d969e862a1948a330a89a6800d8d32e558c9c2a6b8d37214c24fdea501c1a243",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-Q6_K_XL.gguf",
+"Sha256": "d5062a4f789da05d5c14184993c64cad6a7900f6faf25c798698df30e43474bf",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "Cosmos-Reason1-7B-UD-Q8_K_XL.gguf",
+"Sha256": "5d95df6980a030d8a60ba27eb9878d29f4940ed52a7096260f679f992c558a87",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "e07e23d3a1382b6b7374c586ccc4719c17920affb7159269da83fd08b9be5d8d",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "db54ca7e2831c7f92831c9e96c14474f89449f7e86871b158fb86ec7ee809100",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "41959bb6faea338e1f81439472367aa49fc7598b771f10f86d0843f2c47965d3",
+"IsLFS": true,
+"CommittedDate": 1762890718
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "c12f343bc0fabd16602d0d5936f8731eff304985bc06bc74a8706cbb3eaba52d",
+"IsLFS": true,
+"CommittedDate": 1762890718
+}
+]

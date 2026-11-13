@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.2-90B-Vision-bnb-4bit
+main commit at snapshot: a6008ca73611d8b047a6e2af99684f9916e0c892
+snapshot taken: 2026-11-13T13:34:55Z

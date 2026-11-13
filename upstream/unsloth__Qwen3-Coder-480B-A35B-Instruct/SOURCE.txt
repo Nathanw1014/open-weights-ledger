@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct
+main commit at snapshot: 8fe134be398a805b65ffd2de4310d0c716e90a68
+snapshot taken: 2026-11-13T13:39:03Z

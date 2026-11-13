@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-32B-MLX-6bit
+main commit at snapshot: 864389199428709a0af1119f9647823926864b58
+snapshot taken: 2026-11-13T13:52:31Z

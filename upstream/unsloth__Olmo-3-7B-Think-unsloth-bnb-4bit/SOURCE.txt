@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Olmo-3-7B-Think-unsloth-bnb-4bit
+main commit at snapshot: 352caf6d169c9487d6016fe98a15e25027f40ed0
+snapshot taken: 2026-11-13T13:31:03Z

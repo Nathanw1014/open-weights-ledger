@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MiniMax-H3-GGUF
+main commit at snapshot: babc040eff0084465460ead58fdb8ec44296f8dd
+snapshot taken: 2026-11-13T13:01:44Z

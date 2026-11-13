@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/SmolLM2-1.7B-Instruct-bnb-4bit
+main commit at snapshot: 33d517dd832a002d7843212335ec5256d2609509
+snapshot taken: 2026-11-13T13:26:25Z

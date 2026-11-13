@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-4-E2B-it
+main commit at snapshot: d36bdd3855c82a6a1a23f7c459b749f5724ae75d
+snapshot taken: 2026-11-13T13:05:23Z

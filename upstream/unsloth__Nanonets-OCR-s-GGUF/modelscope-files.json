@@ -1,0 +1,176 @@
+[
+{
+"Path": "Nanonets-OCR-s-BF16.gguf",
+"Sha256": "cca5b338e5483170a6b65966b0d9a0a9e2a502c794fa073140cff96797082599",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-IQ4_NL.gguf",
+"Sha256": "f58a857a09b81cf9cae6e36b6c9ab0d5ba200213bacf04f0334ac3fcda6841a6",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-IQ4_XS.gguf",
+"Sha256": "08e90c02f0ea69e2b5ab9f8e97b1296a59f8025d769dfdbf7c2ef2060c14d955",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q2_K.gguf",
+"Sha256": "afcbddcc6214e2591283125d7fbe6fc76fcc1baecb1107be4e63628e9a7265e9",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q2_K_L.gguf",
+"Sha256": "afcbddcc6214e2591283125d7fbe6fc76fcc1baecb1107be4e63628e9a7265e9",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q3_K_M.gguf",
+"Sha256": "b0c01b49b484307c406ebf4630c8d472bb0387d09ed8386fc9454f8b3ae44a7d",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q3_K_S.gguf",
+"Sha256": "80c0215dceaf0c348083e506f0af516f657c91391b138fd0617b4f32a49853e7",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q4_0.gguf",
+"Sha256": "90bf8185933d68b88c9c120fba810c7cfda9d68c15655f4e8c6adcd6cda15425",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q4_1.gguf",
+"Sha256": "fd0d1fdb46bf266188b48d6d025d92816707eb0037bee57079050e842d32792a",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q4_K_M.gguf",
+"Sha256": "d90c1c2edf08bff41904c658e443edaebce36c728a4125ad5ed37fa7fd608aa2",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q4_K_S.gguf",
+"Sha256": "1a0d27f57eaa3e1fd48d572764c458430ef4efb74fdf542cf81e318f47a16a2b",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q5_K_M.gguf",
+"Sha256": "d4170f305432ecadff8d244e98d462ca8cf02af1c133f93479147f009947c266",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q5_K_S.gguf",
+"Sha256": "e8adfd889390e01f21c836ae7496495c6eaa61f48e88139728ca433e11b30c16",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q6_K.gguf",
+"Sha256": "ac92cabef76edb52d25aa16cce46cd01d661af2c508880832da48895cf1f20c1",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-Q8_0.gguf",
+"Sha256": "460c23c262584271c7eea0ce43cc1b6c23da96996d9a58439c4921dac908c31f",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-IQ1_M.gguf",
+"Sha256": "8ce5cf4141bc2ccd9ab7b93df71c3a0c1d6a98f8be1aca8c6736b2924b08dd8c",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-IQ1_S.gguf",
+"Sha256": "3de34f2e6ce26c2562dc840bf5211b8c936a0a5ce167daf818903e226d4fbe7d",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-IQ2_M.gguf",
+"Sha256": "957a260963ed684d6d5474d20993a74b4187c4fb3b721fbac28167b43dc17437",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-IQ2_XXS.gguf",
+"Sha256": "dad28469172928cc57a7d5ab3985362bd339ee5d2b9fd2be5be30031cb2b19b6",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-IQ3_XXS.gguf",
+"Sha256": "b8022f2c732fadce217c1109aeceb9de312d8613ad4305fb8103a913c0a4ccc3",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-Q2_K_XL.gguf",
+"Sha256": "a9426a967530dcb58a319222b31c9b973db24207d656883c86b9a2d88e2d4ecb",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-Q3_K_XL.gguf",
+"Sha256": "d14ae9fbd192f7cbe9eddd75ae839eb50b80c5e2e28521bb2e5f4cf9f6981d8f",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-Q4_K_XL.gguf",
+"Sha256": "dd88bc1d18dff4c4bac26e5657aa8d9a1238238afadf80422e1f5d39d9c99a9c",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-Q5_K_XL.gguf",
+"Sha256": "04849b0f9c458f2b4d51ba7831140b849f32ff919f6fbfbbd0a881d77dcef221",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-Q6_K_XL.gguf",
+"Sha256": "b4e109d27ede9daf6278e3368a48759c78f090162ebd4ceefa135c51ea131dee",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "Nanonets-OCR-s-UD-Q8_K_XL.gguf",
+"Sha256": "c6d25ab59f3e6c7cb55c9ceb59628bfce60562528bd793d642c93f2d1e5034c1",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "a40d5e7802d7478e9c7e298c6097d8c205191d84521ec3c26d40dd2f069bbc24",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "7755decbf0d29fa73c48945d942e1bc7b148c0d9dd68c22799739024d4956d12",
+"IsLFS": true,
+"CommittedDate": 1751571295
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "b9cea8a5ddaceda0946aa03c17347536e95e74d078f52824fe34ddf1bd4ab285",
+"IsLFS": true,
+"CommittedDate": 1751571295
+}
+]

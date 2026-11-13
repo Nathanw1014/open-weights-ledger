@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dima6312/Flint-40B-A2.5B-abliterated-GGUF
+main commit at snapshot: 1be756925ce786f5d7eb10725195764a46d596fc
+snapshot taken: 2026-11-13T14:02:12Z

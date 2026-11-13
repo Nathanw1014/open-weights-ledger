@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Omni-7B
+main commit at snapshot: 6009f9ff48bf57d13323038eae2faf71b2b15b4a
+snapshot taken: 2026-11-13T13:31:54Z

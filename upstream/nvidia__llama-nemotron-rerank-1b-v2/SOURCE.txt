@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/llama-nemotron-rerank-1b-v2
+main commit at snapshot: 828765652b05bd439c9789d2a6d093db1caa1443
+snapshot taken: 2026-11-13T13:55:06Z

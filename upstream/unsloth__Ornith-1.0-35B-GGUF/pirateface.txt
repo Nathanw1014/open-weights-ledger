@@ -1,0 +1,2 @@
+checked 2026-11-13T09:34:06Z
+unsloth/Ornith-1.0-35B-GGUF                     529 GB  0 seeds  magnet:?xt=urn:btih:15b4fe775770eff999441321db4327d96c35ec21&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2FOrnith-1.0-35B-GGUF%2F78e1321ef86b69126dc991f481bb0cdc37614ed0%2F

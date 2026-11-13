@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/codellama-7b-bnb-4bit
+main commit at snapshot: ee00fa423f9db655a3da737f1e9cfc27e20134a7
+snapshot taken: 2026-11-13T13:22:00Z

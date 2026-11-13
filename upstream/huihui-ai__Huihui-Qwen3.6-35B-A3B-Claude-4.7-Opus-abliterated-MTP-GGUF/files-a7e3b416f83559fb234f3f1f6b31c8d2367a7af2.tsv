@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-ggml-model-Q2_K.gguf	13246129568	87f0ff4beae8cba4e5efae96024b9d1a9d3dbda5a54e0da5bc63329a3634591b	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-ggml-model-Q3_K.gguf	17165606304	e87e9c68efb45e7298a92f5f644e743dacda57644864f988797208e73430f889	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-ggml-model-Q4_K.gguf	21712410016	a20002fdac5d529946ef2ab3a4ad5da953e77ca7e30dcc6ca9b6b738e0c7ff4d	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-ggml-model-Q5_K.gguf	25346479520	b583a8925681c86b22f7eaa03e27464e640f2503b4b953e3da76c84a592716e3	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-ggml-model-Q6_K.gguf	29207678368	cbbd82e6072ee3410097f71261bb24b1a7711ec6bde7aa14aa754f4dbd1d4f41	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-ggml-model-Q8_0.gguf	37801096608	40a6af1867dad47ca06bc5b1d0979dcbf918937ebd1d34e6e856f90dec4bcbb1	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-ggml-model-f16.gguf	71065941728	6bc31ddbc6b4a7fe1c04245cbc099b66bd30c39e97a754810bf95865e95e67e2	sha256
+mmproj-model-f16.gguf	899283072	1d65ff96185b02195740d488b85c3b3e8dadfe950ce175ec0f7bfc744aae9f37	sha256

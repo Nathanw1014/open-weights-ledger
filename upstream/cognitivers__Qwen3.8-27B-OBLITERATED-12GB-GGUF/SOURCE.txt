@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cognitivers/Qwen3.8-27B-OBLITERATED-12GB-GGUF
+main commit at snapshot: 1b7f95ec8a072969bc27f46326ef77188fb1f72d
+snapshot taken: 2026-11-13T14:05:32Z

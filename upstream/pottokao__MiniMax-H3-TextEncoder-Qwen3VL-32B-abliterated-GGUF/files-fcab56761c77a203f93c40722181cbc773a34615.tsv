@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+MiniMax-H3-TextEncoder-Qwen3VL-32B-abliterated-Q3_K_S.gguf	11455997344	354ebe8cc2ff05a42848fe446f92f0274ec9f487c1e203ec41f446ab8e16022b	sha256
+MiniMax-H3-TextEncoder-Qwen3VL-32B-abliterated-Q3_K_S_vis.gguf	12646554528	74b04cd89568fe4e74f371ebec3c52bbe16ffe25a9f3ba0c50687db556e6151d	sha256

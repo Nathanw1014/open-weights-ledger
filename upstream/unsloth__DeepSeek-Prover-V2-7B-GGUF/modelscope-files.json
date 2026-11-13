@@ -1,0 +1,158 @@
+[
+{
+"Path": "DeepSeek-Prover-V2-7B-BF16.gguf",
+"Sha256": "6b9c5a9cb8e728df642bb8c5120790b7a0db4ce11468280c7159e33fafc89d66",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-IQ4_NL.gguf",
+"Sha256": "1e5f5a4cd48025b8eea07ce7c6a91cf2bdc0c91da0719ede9d9a590325d6919b",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-IQ4_XS.gguf",
+"Sha256": "d60e6fd00bb5125decd87693a0b2de820224df780cbd749e884919f2d1d99831",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q2_K.gguf",
+"Sha256": "a80fe8013d6181c0d6704dd74aab6eeef9dffe8575a56fd1b668ead563981c49",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q2_K_L.gguf",
+"Sha256": "a14e5d652caa927cb6e28a8270718598ff5c79c910e8df567c372deb4adf67bd",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q3_K_M.gguf",
+"Sha256": "49733c054611440a056cf9e291bdb8568ae28221139e805186e93f728d875fd8",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q3_K_S.gguf",
+"Sha256": "111d81d8d1cffbf606ee27f6489d5cbb4361290093828e5c8d701d11e0d61820",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q4_0.gguf",
+"Sha256": "8063da1b1dc298e78fb74d859bfb315c1ce580f242ed7a9ab2bb4a82529a36b7",
+"IsLFS": true,
+"CommittedDate": 1746901621
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q4_1.gguf",
+"Sha256": "ed0d00d6312b42566dfc24b4ddda189ad9b4c1c5084eb47fb159ff53b7461dfe",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q4_K_M.gguf",
+"Sha256": "1f6039c37ea4197436b3f4fa707afbb83a285c9173a60583e5df063ba432b2d9",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q4_K_S.gguf",
+"Sha256": "81ec540911829beb501fd98c0af4f23e74be89a756c00c0ac46bb8199d782d51",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q5_K_M.gguf",
+"Sha256": "c343f2021a3edb27b04426cdf577057bd4ee7049af8d908e3b91eb836517191b",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q5_K_S.gguf",
+"Sha256": "f2ff5c715e6a72e76190e968c4f2dee74a5a76f12337f1b1f9bad88856d14afb",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q6_K.gguf",
+"Sha256": "201d0c7e72d6f57130ce62b08362946a80e40e86a9d4bfe96275457e47906435",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-Q8_0.gguf",
+"Sha256": "ca590b42a4e55ae58af480d3d06ae02766b5708ac3587f860a096ce58e438e91",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-IQ1_M.gguf",
+"Sha256": "b5077f9d6fd4564a8330d78700fef6e90d3445880b7bfbb02a4626ed2ea9e40d",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-IQ1_S.gguf",
+"Sha256": "e8a5c0742cbe66c12e20828e8b9050331a2f18612aadf45abc758d66f3f1c3f9",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-IQ2_M.gguf",
+"Sha256": "1ad1b7204eb7b0de60d30b97032a4cdc0b1b9b8afd837873fb1918d8bcb03c42",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-IQ2_XXS.gguf",
+"Sha256": "d69fd75cdeb5f37def318f559d88970e1ef649915689514f25beab8feb0b7cfd",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-IQ3_XXS.gguf",
+"Sha256": "f5dfe8fa40bdbbc682fe1ee44139f7b49a6189ccc53ffde7000ee6aa782d2c7c",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-Q2_K_XL.gguf",
+"Sha256": "7d304e44a6ace9593a3fc9ca7e93460e5b74083228f3d47c774b2414c30a93e8",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-Q3_K_XL.gguf",
+"Sha256": "690726fbf274103feb4f34df13d15f690f4a64c6bc4191e2e3d7bf8b711bdc58",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-Q4_K_XL.gguf",
+"Sha256": "15789a118482618b624986406de212db1811d392f5d8f789baed803524b46bd3",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-Q5_K_XL.gguf",
+"Sha256": "fde60d5263c76f095c1c194470367e6d2f54aca5ad4407ee02a65b0028cc8b8d",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-Q6_K_XL.gguf",
+"Sha256": "db614efc83dc9ad075696770297ff082285679079ab54b8c983a50bc60717d37",
+"IsLFS": true,
+"CommittedDate": 1748217011
+},
+{
+"Path": "DeepSeek-Prover-V2-7B-UD-Q8_K_XL.gguf",
+"Sha256": "f0bf4b23aa0b169189217aa949c3337d2869136592b7ebc88385811b1be9e6a3",
+"IsLFS": true,
+"CommittedDate": 1748217011
+}
+]

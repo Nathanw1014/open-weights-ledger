@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/ERNIE-4.5-21B-A3B-Thinking-GGUF
+main commit at snapshot: b1fa62d9e5864da596c78a0fb5cc02e5ffba336c
+snapshot taken: 2026-11-13T13:11:58Z

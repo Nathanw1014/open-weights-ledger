@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/INTELLECT-2-GGUF
+main commit at snapshot: 0d04eb0d096660384b14dae6181bd0f0404ad0f0
+snapshot taken: 2026-11-13T13:21:55Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/functiongemma-270m-it
+main commit at snapshot: 79eaaa84125b897f5a0ad6638362b864fec813ad
+snapshot taken: 2026-11-13T13:12:51Z

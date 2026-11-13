@@ -1,0 +1,74 @@
+[
+{
+"Path": "HiDream-I1-Full-FP8.pt",
+"Sha256": "4188c0883bd355bb46b8931609dcb94af77f8f41e5c2fe71098bfaad62ed7e5a",
+"IsLFS": true,
+"CommittedDate": 1785869929
+},
+{
+"Path": "HiDream-I1-Full-FP8.safetensors",
+"Sha256": "6f21feae0b281f54c64cd7421e0d08cd9a4c77fc4c80e30ae247a835c8bb8744",
+"IsLFS": true,
+"CommittedDate": 1791213458
+},
+{
+"Path": "HiDream-I1-Full-INT8.pt",
+"Sha256": "acbc8c76f7fcf1feb684413624f4b0746534dd37abb3ab005775b913e0ef9588",
+"IsLFS": true,
+"CommittedDate": 1785869933
+},
+{
+"Path": "HiDream-I1-Full-INT8.safetensors",
+"Sha256": "d35fd3eb11aac896646b6f1f627b43267933e70eb54ad7f2276cd47284b25c71",
+"IsLFS": true,
+"CommittedDate": 1791213458
+},
+{
+"Path": "HiDream-I1-Full-text_encoder_4-FP8.pt",
+"Sha256": "029245131f9d909d69b28aad2a55331af46723d6f4bafb4ce7469368b57c14c6",
+"IsLFS": true,
+"CommittedDate": 1785869936
+},
+{
+"Path": "HiDream-I1-Full-text_encoder_4-FP8.safetensors",
+"Sha256": "ba14874ecbdadf0c9e8ed1ec5adc8ee8fbe48a13fa7a7402ac3df78043682d4e",
+"IsLFS": true,
+"CommittedDate": 1791213458
+},
+{
+"Path": "samples/fp8_1.png",
+"Sha256": "23e80a4ba7263ccb697751181ff0f96533cf590f5288810075f1908a1fe2b146",
+"IsLFS": true,
+"CommittedDate": 1785869950
+},
+{
+"Path": "samples/fp8_2.png",
+"Sha256": "b03de122f9f04b70c953071af38dcb92132c96e6f35199df3fc174bf0fba171e",
+"IsLFS": true,
+"CommittedDate": 1785869957
+},
+{
+"Path": "samples/fp8_3.png",
+"Sha256": "cbb15f914b130d2b6345b2d29335027eecd5d39e724f8d2cf7d4097cc43ad28e",
+"IsLFS": true,
+"CommittedDate": 1785869963
+},
+{
+"Path": "samples/int8_1.png",
+"Sha256": "8c627c2ef542f04577784166a81cb956acab2e0f96c24615b0f5002b0b921b57",
+"IsLFS": true,
+"CommittedDate": 1785869969
+},
+{
+"Path": "samples/int8_2.png",
+"Sha256": "a638ea4d913a98ecc9b9b417d020417cdcdbdddf7e92b7e4c5dc88c673ae5e9a",
+"IsLFS": true,
+"CommittedDate": 1785869972
+},
+{
+"Path": "samples/int8_3.png",
+"Sha256": "3909973fe9d6643be8921510b5ffccfb366f48b8db28c87876b0d3be7fed625f",
+"IsLFS": true,
+"CommittedDate": 1785869975
+}
+]

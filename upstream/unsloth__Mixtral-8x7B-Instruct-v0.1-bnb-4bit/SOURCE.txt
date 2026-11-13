@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Mixtral-8x7B-Instruct-v0.1-bnb-4bit
+main commit at snapshot: 56f9c06fe9ba4a69a6ff8e0de37dd9d221a34079
+snapshot taken: 2026-11-13T13:38:44Z

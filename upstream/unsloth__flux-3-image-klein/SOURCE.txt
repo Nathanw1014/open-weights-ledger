@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/flux-3-image-klein
+main commit at snapshot: 67662613c10c92a1364cb3da8c6f7447977c7ce9
+snapshot taken: 2026-11-13T13:11:28Z

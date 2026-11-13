@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/KernelLLM-bnb-4bit
+main commit at snapshot: e31883dd69314a4c0b6f47965cb90284d5288106
+snapshot taken: 2026-11-13T13:38:03Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Olmo-3.1-32B-Think-GGUF
+main commit at snapshot: ab0479715aec8599e0feb19db58ed1c31255a6b0
+snapshot taken: 2026-11-13T13:20:08Z

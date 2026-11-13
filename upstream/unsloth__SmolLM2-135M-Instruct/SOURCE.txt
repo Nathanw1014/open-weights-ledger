@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/SmolLM2-135M-Instruct
+main commit at snapshot: f6494698cb1ce8e2638541a77e157b4abdb369d8
+snapshot taken: 2026-11-13T13:11:08Z

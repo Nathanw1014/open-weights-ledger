@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat-GPTQ-Int4
+main commit at snapshot: 82d2991897ac4b6e872f1ea940f6a82acbdcae99
+snapshot taken: 2026-11-13T13:51:45Z

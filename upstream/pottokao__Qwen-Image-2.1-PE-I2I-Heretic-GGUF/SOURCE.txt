@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pottokao/Qwen-Image-2.1-PE-I2I-Heretic-GGUF
+main commit at snapshot: 564f783ebea6c244c7dae8460ece65eb174479a6
+snapshot taken: 2026-11-13T14:07:35Z

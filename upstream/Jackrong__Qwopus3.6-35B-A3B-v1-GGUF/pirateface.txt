@@ -1,0 +1,2 @@
+checked 2026-11-13T09:30:55Z
+Jackrong/Qwopus3.6-35B-A3B-v1-GGUF  112 GB  0 seeds  magnet:?xt=urn:btih:8045d1f8a7ae4c4b584efe9958c0fdaac1ab33e1&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2FJackrong%2FQwopus3.6-35B-A3B-v1-GGUF%2Fa74a4cc1ef47f61329313384b34dd1b8994b94d4%2F

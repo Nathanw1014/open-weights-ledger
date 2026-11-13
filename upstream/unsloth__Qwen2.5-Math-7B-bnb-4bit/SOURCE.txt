@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Math-7B-bnb-4bit
+main commit at snapshot: afa67706c6d646b65308f460067c252726b77ab3
+snapshot taken: 2026-11-13T13:19:44Z

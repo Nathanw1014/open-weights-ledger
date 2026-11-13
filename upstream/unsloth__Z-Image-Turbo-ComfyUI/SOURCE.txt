@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Z-Image-Turbo-ComfyUI
+main commit at snapshot: f47a639426eebd9d9802d787f76b3adc1f674e10
+snapshot taken: 2026-11-13T13:05:57Z

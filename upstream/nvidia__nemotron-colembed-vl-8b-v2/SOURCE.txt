@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/nemotron-colembed-vl-8b-v2
+main commit at snapshot: 34b640612f311ed05a6c7c62c6564847ed555f5f
+snapshot taken: 2026-11-13T13:58:32Z

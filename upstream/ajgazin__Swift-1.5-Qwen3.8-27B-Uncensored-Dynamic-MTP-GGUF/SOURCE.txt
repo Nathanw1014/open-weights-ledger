@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-Dynamic-MTP-GGUF
+main commit at snapshot: 540448475b2a84843fa2a54fcfd9c888de8a99ca
+snapshot taken: 2026-11-13T14:10:03Z

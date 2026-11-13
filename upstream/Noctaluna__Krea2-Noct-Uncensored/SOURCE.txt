@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Noctaluna/Krea2-Noct-Uncensored
+main commit at snapshot: d93fbcb45e6f6995f2ecdd4edfdb1ef12db6e6e4
+snapshot taken: 2026-11-13T14:10:01Z

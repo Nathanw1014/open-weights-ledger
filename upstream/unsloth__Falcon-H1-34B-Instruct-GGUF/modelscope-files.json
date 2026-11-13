@@ -1,0 +1,170 @@
+[
+{
+"Path": "BF16/Falcon-H1-34B-Instruct-BF16-00001-of-00002.gguf",
+"Sha256": "83ffc168000661ed2653db591f9e748f7ea4129c8795dc2fa0e96c0728b4bb43",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "BF16/Falcon-H1-34B-Instruct-BF16-00002-of-00002.gguf",
+"Sha256": "9c4a9e96b244433f3054434ff7339cc4706cb2ddd4305b34ba42c069c42bf098",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-IQ4_NL.gguf",
+"Sha256": "59816e5a44fcace5bde651b015c90bec9a13ce72af2f3742cf3a0c21ec357922",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-IQ4_XS.gguf",
+"Sha256": "6f43bcae02fe0199af2e054bf94197445fc9d11ad13df7f995866af8d02b8c6f",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q2_K.gguf",
+"Sha256": "2f8d8a41f436ac7fbc832d228e788372652c02eeaff916a01098c4ed3d1dd2db",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q2_K_L.gguf",
+"Sha256": "e4ed6c3ef6478ff4ee34c0cdefc53bbbb3634e41b3b104e6954a5d8d48ac173d",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q3_K_M.gguf",
+"Sha256": "37cafb07c95495a174a72da0b50990513f746b9ca3ea93361d40203393ef6c60",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q3_K_S.gguf",
+"Sha256": "e5dc95a3902cb573dd7d1a41262d16c71991a5934e924c82c2a2a2a00589fb61",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q4_0.gguf",
+"Sha256": "5092496feea5e47c7c3fa301b479fc4952e59b75ed9b75b9b871da7865075a88",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q4_1.gguf",
+"Sha256": "4ecd0d7720d6df530947ca8207e011b002a26b72f95f0d94d98c6249d4599e46",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q4_K_M.gguf",
+"Sha256": "a868d0969e4be0ec6c1bb1b89cd7999e08fa66a07a8927cd0d3baee1c1cd3561",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q4_K_S.gguf",
+"Sha256": "b956f5f17024ea39bc808023143ac5a7414cf802e59cb4d8a1555536e78fcc69",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q5_K_M.gguf",
+"Sha256": "02ada51ba3123221df74cf62ec426b18e9be509aab508d0d79a9501d1adf5848",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q5_K_S.gguf",
+"Sha256": "0deae8664c7e72bbb8a6ea9dca3909b2f491be1eb3146976f13beda92da70b1c",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q6_K.gguf",
+"Sha256": "f29fc80207677415d805e1794ae5dc75e2d014f1f07f3a734e1c9d2ccd67351e",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-Q8_0.gguf",
+"Sha256": "f57d810dd21709bdcf36fc54842258fae11884b7e5a4a3a2d31652c451fa2f5b",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-IQ1_M.gguf",
+"Sha256": "80a1551fe98a4e7ca29712f26b8020d98614e95138aa52442bf4c3addf2facca",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-IQ1_S.gguf",
+"Sha256": "1c5cc18af8f133cdbb0ae071a79bbe74808d11dd51b9ca3332f5dbae04735ed8",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-IQ2_M.gguf",
+"Sha256": "9801f09ff780856224d14af3b72a2f9420e037bd5754b446b9c4e150bff2fe98",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-IQ2_XXS.gguf",
+"Sha256": "b8c851f6e74e63612eefa23c2279a065656b21b116d6622ba34aa22bb90d870a",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-IQ3_XXS.gguf",
+"Sha256": "958a01645e2a71234bd5066092bab30345bb34f15c1ca8a358bb76122c36a80d",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-Q2_K_XL.gguf",
+"Sha256": "a1f87fb3e5292422b8acdca8ae1228646d2b0306d7f81952912038a32a41965a",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-Q3_K_XL.gguf",
+"Sha256": "04c2221dbb467b9a59c04a989d439c77cebbd30826904bebada1eeb7d9af545b",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-Q4_K_XL.gguf",
+"Sha256": "d8d287e180263ace198c48fd3601ecd954b04936cd9d86a81e89b40cc3fd4a73",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-Q5_K_XL.gguf",
+"Sha256": "75a5c38345bbad441cd7335eac76904241b8627f2e719fb20df1a6c872e151d7",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-Q6_K_XL.gguf",
+"Sha256": "ccf9e07be8848f09448266a1ecaa867451b30e7e95c5aa1c8dddb23e00629693",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "Falcon-H1-34B-Instruct-UD-Q8_K_XL.gguf",
+"Sha256": "02de609a225055f9568c1f24cd182052bd847328e26cfc6d01c56062eba9db6e",
+"IsLFS": true,
+"CommittedDate": 1752175733
+},
+{
+"Path": "imatrix_unsloth.dat",
+"Sha256": "7dd16e795184fdbf78928214dcf942057b932829da8a783cb52f4247f6f3bbcc",
+"IsLFS": true,
+"CommittedDate": 1752175732
+}
+]

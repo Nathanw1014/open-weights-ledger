@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-NVFP4-FP8
+main commit at snapshot: 69c97d2b02ead484ccb1529d4dcdd9a6bcd14759
+snapshot taken: 2026-11-13T14:03:44Z

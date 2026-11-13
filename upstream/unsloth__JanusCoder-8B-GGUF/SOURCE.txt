@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/JanusCoder-8B-GGUF
+main commit at snapshot: eb30b9274471c1d38a636c93a7a4aef42c727952
+snapshot taken: 2026-11-13T13:18:47Z

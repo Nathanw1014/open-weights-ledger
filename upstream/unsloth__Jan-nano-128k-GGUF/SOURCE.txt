@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Jan-nano-128k-GGUF
+main commit at snapshot: f9b6ebb8dfec211cc06789c2718c1623fd82eaab
+snapshot taken: 2026-11-13T13:12:20Z

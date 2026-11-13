@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen1.5-4B
+main commit at snapshot: a66363a0c24e2155c561e4b53c658b1d3965474e
+snapshot taken: 2026-11-13T13:47:45Z

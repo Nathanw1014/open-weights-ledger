@@ -1,0 +1,3 @@
+repo: https://huggingface.co/alesha-pro/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Coder-Strata-GGUF
+main commit at snapshot: b8186202470558c2a7901327b135dd3482d2186b
+snapshot taken: 2026-11-13T14:02:51Z

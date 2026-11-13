@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Cascade-8B-Intermediate-ckpts
+main commit at snapshot: 9b379bd8f8ecb1feb19825efefe319bd30d8a223
+snapshot taken: 2026-11-13T14:00:08Z

@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-Heretic-Ara-iq4_xs-2.0.gguf	13704806976	dbefdea40e486a8deada18aaa69f2dfd4e76c22014a3b9d0d72cd12d981b4227	sha256
+Qwen3.8-27B-Heretic-Ara-iq4_xs-3.0-mtp.gguf	14333453824	e8bd42941e3b15337cb72a34a2820beadc557e6f38e0c8c09983e223380c02e4	sha256
+Qwen3.8-27B-Heretic-Ara-iq4_xs-3.0.gguf	13986622016	82535d541783b5a0a82cccd79ee25f3cac648732772e604ada556c1e0cd09b9f	sha256

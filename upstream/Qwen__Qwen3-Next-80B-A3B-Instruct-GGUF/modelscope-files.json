@@ -1,0 +1,56 @@
+[
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-00001-of-00004.gguf",
+"Sha256": "bd054ba82be0140c47ea451d09cd8b3e0d41cca4285a358e6ebe10117c172c0e",
+"IsLFS": true,
+"CommittedDate": 1764690057
+},
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-00002-of-00004.gguf",
+"Sha256": "e312212162d280332972129f894c3502f848c14dafd34999524581d0321c962d",
+"IsLFS": true,
+"CommittedDate": 1764690057
+},
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-00003-of-00004.gguf",
+"Sha256": "55e161f31787c528ddc92c0311743ef53156086555ac54568b365d3d0943fe47",
+"IsLFS": true,
+"CommittedDate": 1764690057
+},
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-00004-of-00004.gguf",
+"Sha256": "858bbf438a397141badea9d321075b069b9ee6e225c6b577449d3388df239d4f",
+"IsLFS": true,
+"CommittedDate": 1764690057
+},
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-Q4_K_M.gguf",
+"Sha256": "d103b2733ec1012a52d01edda66b7e5c24ae50508c9f99f5297ea459ef3c061a",
+"IsLFS": true,
+"CommittedDate": 1764664492
+},
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-Q5_0.gguf",
+"Sha256": "8fe73526441c5f6383afbbb1790d6556d08fa74039780743da9eb3c3f8fd81be",
+"IsLFS": true,
+"CommittedDate": 1764664492
+},
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-Q5_K_M.gguf",
+"Sha256": "bcf5de5fbdb172c1447522435aaebfaf84f09eff8c0eab002beaa896dde2792e",
+"IsLFS": true,
+"CommittedDate": 1764664492
+},
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-Q6_K.gguf",
+"Sha256": "0af36d48bf63bcc34103f1792625e90698ef4b95f322694e3544fb27d812f6fe",
+"IsLFS": true,
+"CommittedDate": 1764664492
+},
+{
+"Path": "Qwen3-Next-80B-A3B-Instruct-Q8_0.gguf",
+"Sha256": "15ef4c10c2e8c3cb56329975df072cda5a3d613fbd206beea42aff0f78c0a5b5",
+"IsLFS": true,
+"CommittedDate": 1764664492
+}
+]

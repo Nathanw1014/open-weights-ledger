@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2-Math-1.5B-Instruct
+main commit at snapshot: 19bd485b6474f7263545b4d5a1c29d78bcbf3a4f
+snapshot taken: 2026-11-13T13:50:29Z

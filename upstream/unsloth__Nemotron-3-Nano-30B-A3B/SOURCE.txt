@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Nemotron-3-Nano-30B-A3B
+main commit at snapshot: 2cea3c74d09568ab80edcffec2dc2383f661a610
+snapshot taken: 2026-11-13T13:28:56Z

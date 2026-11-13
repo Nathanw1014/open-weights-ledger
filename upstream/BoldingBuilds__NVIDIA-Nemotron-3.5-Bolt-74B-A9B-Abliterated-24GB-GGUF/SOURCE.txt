@@ -1,0 +1,3 @@
+repo: https://huggingface.co/BoldingBuilds/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-Abliterated-24GB-GGUF
+main commit at snapshot: b6360e7379899484c800116f6bcf85448fc4925b
+snapshot taken: 2026-11-13T14:03:32Z

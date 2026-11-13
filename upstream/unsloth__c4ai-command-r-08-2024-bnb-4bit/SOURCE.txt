@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/c4ai-command-r-08-2024-bnb-4bit
+main commit at snapshot: cad1dc87bd86ac7e3c53826b000cb70c4dcf20ec
+snapshot taken: 2026-11-13T13:31:14Z

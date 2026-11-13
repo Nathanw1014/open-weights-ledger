@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/QwQ-32B-unsloth-bnb-4bit
+main commit at snapshot: 0743e79825912026ac90d362c6e27587c8675ed5
+snapshot taken: 2026-11-13T13:31:25Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/azminawwar/Huihui-Qwen3.5-0.8B-abliterated-claude_mythos_distilled_25k
+main commit at snapshot: c4722585644ba56db53d426854f187202fbbd09c
+snapshot taken: 2026-11-13T14:04:14Z

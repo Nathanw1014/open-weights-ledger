@@ -1,0 +1,2 @@
+checked 2026-11-13T09:32:17Z
+ggml-org/tinygemma3-GGUF  49 MB  1 seeds  magnet:?xt=urn:btih:92e549edffb677090156d19c58633bb4348ebcdd&xt=urn:btmh:1220067fe25194f4c4e1bb1a870591bc0c90f78d11315bc1cb42a7afd6b73f74f23e&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fggml-org%2Ftinygemma3-GGUF%2Fc287502cd9e278dac8eed805c112cce5d0081e0b%2F

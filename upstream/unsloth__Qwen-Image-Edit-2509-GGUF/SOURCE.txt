@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen-Image-Edit-2509-GGUF
+main commit at snapshot: 3decb31546939b71d83fa74f92c3903797e63eae
+snapshot taken: 2026-11-13T13:07:48Z

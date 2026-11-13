@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MiMo-V2.5-Pro-GGUF
+main commit at snapshot: 21b4976b4d93da48e4d026db23adf26d7e606101
+snapshot taken: 2026-11-13T13:14:31Z

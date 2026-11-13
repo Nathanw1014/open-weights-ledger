@@ -1,0 +1,8 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+meta-llama-3.1-8b-instruct-abliterated.Q2_K.gguf	3179131968	3b127302c4265b3d93623f8e85475d2c5cf2d99f397e822b1ea0dbd9877f4b81	sha256
+meta-llama-3.1-8b-instruct-abliterated.Q3_K_M.gguf	4018918464	c65acbce6dc86ba859472d9594fa54c00252e954dc7d8bdd74cd712a0cecac18	sha256
+meta-llama-3.1-8b-instruct-abliterated.Q4_K_M.gguf	4920734784	c4735f9efaba8eb2c30113291652e3ffe13bf940b675ed61f6be749608b4f266	sha256
+meta-llama-3.1-8b-instruct-abliterated.Q5_K_M.gguf	5732987968	7afb333a43c3cd660e0a9720828ae963336796377dbf189c6a33a403527c6785	sha256
+meta-llama-3.1-8b-instruct-abliterated.Q6_K.gguf	6596006976	9c6b83fa28b38eadbf28293dcf6ea755ee4312385465413e6ed81c146bedb084	sha256
+meta-llama-3.1-8b-instruct-abliterated.Q8_0.gguf	8540771392	7b4601d271b2988c5150ba081dfd9263197b5b7f2d39b25e8bad601380019031	sha256
+meta-llama-3.1-8b-instruct-abliterated.bf16.gguf	16068891712	ab319a0cbfc9ef0f29a81af2bf8db7a7c92ff746aeef06e4963914dec88d254b	sha256

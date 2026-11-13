@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-gemma-4-E2B-it-qat-q4_0-unquantized-abliterated-Q4_K.gguf	3416118240	6bc1f421ba870b01a2efbb6904a28bda0ae3ccde57b18eb5e9203c3db05effe9	sha256
+Huihui-gemma-4-E2B-it-qat-q4_0-unquantized-abliterated-bf16.gguf	9273526240	f499753f71b876b729fd58e2dfc4c9e176eb88c6eef90b53770c9f2c8e148ffa	sha256
+mmproj-model-bf16.gguf	986833408	d77ea8edb2f703d0bfd2a805d8471b1c99b11340c9ae7749fed4b5f2c9de0c48	sha256
+mtp-ggml-model-bf16.gguf	170211808	390b21c811bb43665183f0eb8dd5d101ff2b2078b294de785ce8c550623b0452	sha256

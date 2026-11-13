@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-TTS-Tokenizer-12Hz
+main commit at snapshot: 7dd38ad4e9bad454aae9cd937d0cd577604fe229
+snapshot taken: 2026-11-13T13:46:01Z

@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Irwan-LightOnOCR-3-0.8B-abliterated-Q8_0.gguf	811844032	41fcf5e258c20bfd2ed613cc03762dd803aed003b786d39de75d7563ab4e0cb2	sha256
+Irwan-LightOnOCR-3-0.8B-abliterated-mmproj-f16.gguf	207346752	bf05ad00f74a49277e5787cd1ac3e3c98972a8e01f74af4de815196143f1b471	sha256
+model.safetensors	1706030528	43901b29a2d260da2e2eb7137bde49a140c92769da8aac89d70e5709dceae71f	sha256
+tokenizer.json	19989325	06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523	sha256

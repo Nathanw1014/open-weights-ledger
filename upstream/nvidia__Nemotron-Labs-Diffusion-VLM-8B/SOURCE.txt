@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-VLM-8B
+main commit at snapshot: adca93d16471c1e07d594ae444d23e1876f6b365
+snapshot taken: 2026-11-13T13:58:40Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int8
+main commit at snapshot: bcd6406cc59774942c7af2be22da9aa458717947
+snapshot taken: 2026-11-13T13:50:34Z

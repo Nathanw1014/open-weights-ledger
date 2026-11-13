@@ -1,0 +1,3 @@
+repo: https://huggingface.co/BoldingBuilds/orcarouter_GLM-5.3-Flash-Uncensored-GGUF
+main commit at snapshot: 8a31ca66485373f9d5c002f5400b2aecaff84dfe
+snapshot taken: 2026-11-13T14:10:25Z

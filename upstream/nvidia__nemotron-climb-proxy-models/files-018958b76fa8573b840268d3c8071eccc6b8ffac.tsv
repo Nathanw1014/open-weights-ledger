@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+nemotron_climb_proxy_model_350m/iter_2384053/mp_rank_00/model_optim_rng.pt	4835590996	8ae388edeb91ca6ea65f6229cff9eda1e72857bae02a48f829b046bf8e86846c	sha256
+nemotron_climb_proxy_model_62m/iter_2499000/mp_rank_00/model_optim_rng.pt	877639888	0e7069acd5c934f3ec57abc5c9f239390a9b701f5e0a29f83cde4c8a802e8bf2	sha256

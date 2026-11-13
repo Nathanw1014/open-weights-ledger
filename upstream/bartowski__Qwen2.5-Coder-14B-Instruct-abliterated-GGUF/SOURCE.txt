@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF
+main commit at snapshot: 91e7d17796389c79de80776bbd947afa81c1e34d
+snapshot taken: 2026-11-13T14:01:04Z

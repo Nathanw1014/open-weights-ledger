@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-Q4_K_M.gguf	18687062176	71667f9e601a4b914a98425c59150b731f6e15d260d661dbd1f1ee07469fc7db	sha256
+mmproj-Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-BF16.gguf	1200726016	7bef0d0fb3e85fc2941ec5f1c375febf3742645f158132a43ced557093aea841	sha256
+mtp-gemma-4-31B-it.gguf	279954368	b5c4e583fc5982439080114bbc1b7edaec361f9d4c9193d6bed606a3de401b62	sha256

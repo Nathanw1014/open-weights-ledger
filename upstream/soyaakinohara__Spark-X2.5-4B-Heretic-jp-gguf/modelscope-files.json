@@ -1,0 +1,32 @@
+[
+{
+"Path": "Spark-X2.5-4B-Heretic-jp-BF16.gguf",
+"Sha256": "f57e307b75b7c44aedf49021a9eddb32f6c6e87f1180a8a8d8c48e29070ae593",
+"IsLFS": true,
+"CommittedDate": 1788500673
+},
+{
+"Path": "Spark-X2.5-4B-Heretic-jp-Q4_K_M.gguf",
+"Sha256": "8700b9cb4be2ddf1a6b4a9230f7b9d030aeb923d0528301bc546bb5a74f21cd7",
+"IsLFS": true,
+"CommittedDate": 1788500673
+},
+{
+"Path": "Spark-X2.5-4B-Heretic-jp-Q5_K_M.gguf",
+"Sha256": "71706b91899c4784c21af154fd1df06f6f9dcccf6d1840e29a82a286dea1a8b9",
+"IsLFS": true,
+"CommittedDate": 1788500673
+},
+{
+"Path": "Spark-X2.5-4B-Heretic-jp-Q6_K.gguf",
+"Sha256": "bc2254632634a6c32463eaad779d1ef234981777c2def5548f7bb45d2e2a7130",
+"IsLFS": true,
+"CommittedDate": 1788500673
+},
+{
+"Path": "Spark-X2.5-4B-Heretic-jp-Q8_0.gguf",
+"Sha256": "ad25031816957ee29ff1b4c7f735f7ba785c345cd6d3f404a581110c228eb81a",
+"IsLFS": true,
+"CommittedDate": 1788500673
+}
+]

@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+nemotron-4-mini-hindi-4b-base.nemo	8391639040	fea313260a1b376e1fbe58133e8fcdb650904f46c09b4f96ab78939b8c4cbfea	sha256
+pytorch_model.bin	8381129342	be973523572cf7106a41d4676e632d8fa29f78d1f34c7b039d3723feeba47c53	sha256
+tokenizer.json	18143149	83d0648daa0467fb02ddef7ff25460321dab2fbb20c280ae0bc1ea8052f7df90	sha256
+tokenizer.model	4545602	6dfd8b970f437002fc445214304969fe59e64d4f48500bd0b77ba55340f2d811	sha256

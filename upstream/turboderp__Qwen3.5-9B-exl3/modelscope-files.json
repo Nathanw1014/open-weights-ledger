@@ -1,0 +1,44 @@
+[
+ {
+  "CommitMessage": "System init .gitattributes",
+  "CommittedDate": 1772515172,
+  "CommitterName": "systemd",
+  "InCheck": false,
+  "IsLFS": false,
+  "Mode": "33188",
+  "Name": ".gitattributes",
+  "Path": ".gitattributes",
+  "Revision": "f56c7656be4f0649022329b6da281651d5bab18f",
+  "Sha256": "247a3cfc672484dd40bdf07af0f83ee7a4457e9a995dadb47eedc36c630103b6",
+  "Size": 2075,
+  "Type": "blob"
+ },
+ {
+  "CommitMessage": "Upload folder using ModelScope SDK (batch 1/1)",
+  "CommittedDate": 1772515206,
+  "CommitterName": "systemd",
+  "InCheck": false,
+  "IsLFS": false,
+  "Mode": "33188",
+  "Name": "README.md",
+  "Path": "README.md",
+  "Revision": "e20097fadf97d4753d6d8d77ad519dc7a269bcd6",
+  "Sha256": "6eb62f5ae42b295ec6a305b346a9b41769f6f8804915199cca87419402f65836",
+  "Size": 1013,
+  "Type": "blob"
+ },
+ {
+  "CommitMessage": "Upload folder using ModelScope SDK (batch 1/1)",
+  "CommittedDate": 1772515206,
+  "CommitterName": "systemd",
+  "InCheck": false,
+  "IsLFS": false,
+  "Mode": "33188",
+  "Name": "configuration.json",
+  "Path": "configuration.json",
+  "Revision": "e20097fadf97d4753d6d8d77ad519dc7a269bcd6",
+  "Sha256": "625c81a3527ce4f7a739854b431f380a987dc4af5e07e099b568e50e2e3b248c",
+  "Size": 64,
+  "Type": "blob"
+ }
+]

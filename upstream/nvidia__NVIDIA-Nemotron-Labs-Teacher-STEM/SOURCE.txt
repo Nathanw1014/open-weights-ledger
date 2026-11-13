@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-STEM
+main commit at snapshot: cf8545f0a9b53190d3538ae86bc43e3478428f73
+snapshot taken: 2026-11-13T13:59:18Z

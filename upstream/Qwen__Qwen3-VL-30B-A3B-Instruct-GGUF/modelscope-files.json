@@ -1,0 +1,38 @@
+[
+{
+"Path": "Qwen3VL-30B-A3B-Instruct-F16-split-00001-of-00002.gguf",
+"Sha256": "a005075144e9b568893fd6d999be35b98d3d5639ee6b427a03f7af1eb8ad4781",
+"IsLFS": true,
+"CommittedDate": 1761823821
+},
+{
+"Path": "Qwen3VL-30B-A3B-Instruct-F16-split-00002-of-00002.gguf",
+"Sha256": "5b4bff95c173cb015f1ce884f5cfe45ef9ce83be9f0f5d51d0cf6be9ec2c5d8e",
+"IsLFS": true,
+"CommittedDate": 1761823821
+},
+{
+"Path": "Qwen3VL-30B-A3B-Instruct-Q4_K_M.gguf",
+"Sha256": "87bb374d849f80ebdfabb304189fac9e0bd35a0f74506e6a59c51b206cbe863b",
+"IsLFS": true,
+"CommittedDate": 1761823821
+},
+{
+"Path": "Qwen3VL-30B-A3B-Instruct-Q8_0.gguf",
+"Sha256": "b9d01be012619d717c8a1e1cd5284c753ea66d56c24089461a58295fb17c1e64",
+"IsLFS": true,
+"CommittedDate": 1761823821
+},
+{
+"Path": "mmproj-Qwen3VL-30B-A3B-Instruct-F16.gguf",
+"Sha256": "cae72cf123cc9e08d553cd5a5055d6d3cf0f82652aa41c3e4aa424cda9a26f7f",
+"IsLFS": true,
+"CommittedDate": 1761823821
+},
+{
+"Path": "mmproj-Qwen3VL-30B-A3B-Instruct-Q8_0.gguf",
+"Sha256": "82a9966edfdbc1b18a27fd90af96d50cbf111a51484f6290e946dccf461c8150",
+"IsLFS": true,
+"CommittedDate": 1761823821
+}
+]

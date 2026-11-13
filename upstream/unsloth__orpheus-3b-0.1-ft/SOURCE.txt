@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/orpheus-3b-0.1-ft
+main commit at snapshot: eae2b6e5e429c81b95ac42a883ac64f126583d43
+snapshot taken: 2026-11-13T13:06:14Z

@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-DeepSeek-V4-Flash-Vision-Exp-abliterated-Q3_K.gguf	135319020672	36e0a86b912ab99ae1435ac0711f41662d486c64d420100ae6272b077c6586d2	sha256
+Huihui-DeepSeek-V4-Flash-Vision-Exp-abliterated-Q4_K.gguf	151542871456	2e4e772da104ecb54a84c31a38c2acfc4cf91c4d363ea5a1dc2844d56591333d	sha256
+Huihui-DeepSeek-V4-Flash-Vision-Exp-abliterated-bf16.gguf	156378392928	00ef3634e9c4f27a87bb5d727e8482f6594085d34e795f45e2b99afb37de7953	sha256
+mmproj-model-bf16.gguf	934455456	9034f55cadd0568479331ba063a1b06537ed0000ffde890fb79724376309e9da	sha256

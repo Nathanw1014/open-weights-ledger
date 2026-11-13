@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-3-270m-it-torchao-FP8
+main commit at snapshot: 7f2647b24a1cc0ee43d7c8696615704fe930cb3e
+snapshot taken: 2026-11-13T13:39:55Z

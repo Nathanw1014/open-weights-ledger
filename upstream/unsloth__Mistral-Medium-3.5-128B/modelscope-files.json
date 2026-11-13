@@ -1,0 +1,32 @@
+[
+{
+"Path": "model-00001-of-00003.safetensors",
+"Sha256": "52c43048ffa28eb13bfa5fdacab541ac88b7f796cded4ec9cc167bf404fd8b3f",
+"IsLFS": true,
+"CommittedDate": 1777495958
+},
+{
+"Path": "model-00002-of-00003.safetensors",
+"Sha256": "a81f2df626606d579dd23b51e767b91a2ebeb71ca7c79b432269bd52da4bcae9",
+"IsLFS": true,
+"CommittedDate": 1777495972
+},
+{
+"Path": "model-00003-of-00003.safetensors",
+"Sha256": "bc663287e71f2ab9ded8b88819a11f962730c03441ca22f1f02c443fe841756e",
+"IsLFS": true,
+"CommittedDate": 1777495985
+},
+{
+"Path": "tekken.json",
+"Sha256": "b1272b956bd6edd2d2c674c76896c7661308c9e723997b0afb55ecb429cb5dc7",
+"IsLFS": true,
+"CommittedDate": 1777496034
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "2ba5b3330fd84d5376fcca797cfb3b42eee6241ce23e3271e6fb2a115a8751bd",
+"IsLFS": true,
+"CommittedDate": 1777496046
+}
+]

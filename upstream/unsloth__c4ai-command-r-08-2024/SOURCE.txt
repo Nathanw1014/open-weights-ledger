@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/c4ai-command-r-08-2024
+main commit at snapshot: b67ed911c4bb801e596c5127b60474edc4395b89
+snapshot taken: 2026-11-13T13:27:21Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat-GGUF
+main commit at snapshot: c6414b00c3ed52df27201a5386a971869a72496a
+snapshot taken: 2026-11-13T13:49:10Z

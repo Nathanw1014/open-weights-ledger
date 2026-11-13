@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF
+main commit at snapshot: 38eaddc2791eb42fafd4fd54205653c6cde70c86
+snapshot taken: 2026-11-13T14:08:36Z

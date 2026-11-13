@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Devstral-Small-2507-bnb-4bit
+main commit at snapshot: 7ac1bbb7b6b26ce8187b0a8f2ab8452e6383ab32
+snapshot taken: 2026-11-13T13:36:43Z

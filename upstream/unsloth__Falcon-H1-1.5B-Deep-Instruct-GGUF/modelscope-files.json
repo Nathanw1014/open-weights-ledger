@@ -1,0 +1,158 @@
+[
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-BF16.gguf",
+"Sha256": "7463067e7b8704dcf38638b8506b2306db590938b9e3b2db9c7faca600927d61",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-IQ4_NL.gguf",
+"Sha256": "b55624e2f95210eff1dfabd7db118012fdfb065e665de82eb5461d430914d0b0",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-IQ4_XS.gguf",
+"Sha256": "cd06b9d1341e820eef3f3819cb4ea937740d7bb35313d0daf8b9fc6a5e6747a4",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q2_K.gguf",
+"Sha256": "0b6b7ceea85e413c87d0c5369f9e1a8547d793415df3a7516e715bbb6a845d26",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q2_K_L.gguf",
+"Sha256": "528ce12092bd6a7019e489ef36875ee2799ba828248e17abe2446c8970f4a360",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q3_K_M.gguf",
+"Sha256": "947d336a61df34917bade9724cb96cce187182fa199c3b69525329f84a3089f1",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q3_K_S.gguf",
+"Sha256": "1e73d5ef057ee2d043e65e9a08f346ac53dd71ce301844988fa984fa7bb2adb6",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q4_0.gguf",
+"Sha256": "38d283df6414a4ac0a60c02866d7341ca0b6520e350ddc48fb09cc6ec9bf5e62",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q4_1.gguf",
+"Sha256": "7890b1cf728ba8dff28e25469087fb0b3ed286658a7d3c121aeefdf7967480d0",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q4_K_M.gguf",
+"Sha256": "21de106930a920682d972fdd924d9f1254891768ebd3771465c19c380925c567",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q4_K_S.gguf",
+"Sha256": "04ff01622b70fbbdb752509067281aed9ffce0e9eeb4004e049a185bbbd42b0b",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q5_K_M.gguf",
+"Sha256": "5638dce20c6815e9fb2eeb28cbc76e54d0d309d71a263451cd28b893fd521734",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q5_K_S.gguf",
+"Sha256": "c3d32674e2b8907db56b7d2ced71e47684786a4f2e602d2a6a090df9fc1a4b93",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q6_K.gguf",
+"Sha256": "25bb15f6986ab27a0b56eaa30ce2a9116f49643ce0314693e23d23eb74b7a62b",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-Q8_0.gguf",
+"Sha256": "b23a80de0c571814d92c97fcac4157e2ed1922421d4079e8ad9d60813da11c4d",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-IQ1_M.gguf",
+"Sha256": "253c313d2abb96bd3697109564d6cb38b3dd3726760a3fc3c15c1c1746e832f4",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-IQ1_S.gguf",
+"Sha256": "3652d2048dcd84099a5f648476e87c52cfd76f7b27b590e43060ebb5daa8b37b",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-IQ2_M.gguf",
+"Sha256": "00cad430e4c64a7d523ca1be5e0f04608ab72b47c2814e20b17baea17c6a282e",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-IQ2_XXS.gguf",
+"Sha256": "421d934adbed8463d3a55207771f9d1c42b84e69842c71bb577eda6a79ba021a",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-IQ3_XXS.gguf",
+"Sha256": "65517a5030f38fc553614c261ed0263b15055956e3ea0976f647382bf6fa366f",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-Q2_K_XL.gguf",
+"Sha256": "33e49a52cb4a73f5fb5d513bdecd29a60cc861bc3cb2d00f11178cbb55555409",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-Q3_K_XL.gguf",
+"Sha256": "39a01780e50fbd9bbd5befecfdc1697e814cb69fe48424197eccdd81444a295b",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-Q4_K_XL.gguf",
+"Sha256": "dc9f77a729ad30d378860fcb019bc89ee7a6a1fd513ee5ae1e6f05ad88f28df9",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-Q5_K_XL.gguf",
+"Sha256": "d1c6b031ec80efe29663e2ed6d8edb7ddcf02703f440cc76ad5959390874683e",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-Q6_K_XL.gguf",
+"Sha256": "5ee78571480d10eef43f14924a2e06bb21cbd5549c6800c5d5bb442dfb469d5d",
+"IsLFS": true,
+"CommittedDate": 1752173343
+},
+{
+"Path": "Falcon-H1-1.5B-Deep-Instruct-UD-Q8_K_XL.gguf",
+"Sha256": "a1a241195d582a59a9c0e81b33623f7a7b240881acb18fa10d835bdf94d29c16",
+"IsLFS": true,
+"CommittedDate": 1752173343
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MiMo-V2-Flash
+main commit at snapshot: 99902940d3a7ee99c24d5d26085378cffaaa17f8
+snapshot taken: 2026-11-13T13:40:40Z

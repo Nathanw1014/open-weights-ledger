@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pyrodog/DeepSeek-V4.1-Flash-UNCENSORED-DwarfStar-Q2
+main commit at snapshot: 9464e2973a092e1acb50dc0bb17ee9b67ca594a4
+snapshot taken: 2026-11-13T14:09:42Z

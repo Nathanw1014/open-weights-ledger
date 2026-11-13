@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+figures/unified_asr_comparison.png	403946	25c02cab699d0f178db0e5bdce4d61538efb08ada714fc56c1d6976e492d065b	sha256
+figures/unified_cascaded_ast.png	279533	a1d90bab63d97c5e2af9d7da83183b59b042e0a60c1d119a6d040921eac33a5b	sha256
+figures/unified_scheme.png	345323	50df7d47d16c2fa211cea98e066d7e8b6ccbaadad0eb6d6d5989f6d2a31c2d10	sha256
+nemotron-labs-unified-asr-0.6b.nemo	2507735040	1718cc1b44fb8597b2356328d706a8d89f31c389ca6f2256c2e3f743c0246936	sha256

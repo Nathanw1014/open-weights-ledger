@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/codegemma-2b-bnb-4bit
+main commit at snapshot: 67c75c5e448986a98bceeb6eff863f4b2f6fd500
+snapshot taken: 2026-11-13T13:23:20Z

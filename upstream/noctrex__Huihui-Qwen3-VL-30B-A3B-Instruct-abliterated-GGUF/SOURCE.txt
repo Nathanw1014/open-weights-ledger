@@ -1,0 +1,3 @@
+repo: https://huggingface.co/noctrex/Huihui-Qwen3-VL-30B-A3B-Instruct-abliterated-GGUF
+main commit at snapshot: 6f9740ab52d5cefac63d89b65de95c12b48d49a6
+snapshot taken: 2026-11-13T14:03:48Z

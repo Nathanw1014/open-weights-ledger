@@ -1,0 +1,4 @@
+repo: https://huggingface.co/z-lab/Qwen3.8-27B-DFlash2-GGUF
+main commit at snapshot: 2d9571f8ce46e151f61c6499c99dee6079e1d610
+lastModified: 2026-08-24T23:07:28.000Z
+snapshot taken: 2026-11-13T09:41:08Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Falcon-H1-0.5B-Instruct
+main commit at snapshot: 643e458fac7737885c07cfa639cf785b8100cb81
+snapshot taken: 2026-11-13T13:32:24Z

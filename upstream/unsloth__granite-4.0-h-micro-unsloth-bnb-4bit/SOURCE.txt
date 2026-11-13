@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/granite-4.0-h-micro-unsloth-bnb-4bit
+main commit at snapshot: b92291637482b3582ca8c19a5d08f15af9608740
+snapshot taken: 2026-11-13T13:31:31Z

@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+PP-DocLayoutV2/inference.pdiparams	212170944	45404a84c9fdf91d7bbc94bd47ac4c03649bda84167de04c62bff4726657869a	sha256
+PP-DocLayoutV2/inference.pdmodel	1515181	fddd4b4359b95e6f1dd86c86f05e9516517bead9089287681838cdcbf003563b	sha256
+model.safetensors	1917255968	3085f1042e184f68f8a412aa0f64f2c4b8562989598bbfba326aaa11fc685de8	sha256
+tokenizer.json	11187679	f90f04fd8e5eb6dfa380f37d10c87392de8438dccb6768a2486b5a96ee76dba6	sha256
+tokenizer.model	1614363	34ef7db83df785924fb83d7b887b6e822a031c56e15cff40aaf9b982988180df	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/vmlinux/Qwen3.8-Flash-Next-Uncensored-Gufo-Q4Mix-GGUF
+main commit at snapshot: 0a0843cce72b4d8c377096960b3f0f9c0f4d197f
+snapshot taken: 2026-11-13T14:10:19Z

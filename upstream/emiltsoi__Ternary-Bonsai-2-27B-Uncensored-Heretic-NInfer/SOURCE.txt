@@ -1,0 +1,3 @@
+repo: https://huggingface.co/emiltsoi/Ternary-Bonsai-2-27B-Uncensored-Heretic-NInfer
+main commit at snapshot: 998c7cd4e62ac7570afdd0e2792fad787cfc4c75
+snapshot taken: 2026-11-13T14:07:46Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/aya-vision-8b
+main commit at snapshot: 1904accecafa6a9d5c5c9a475d92a40c0b4694cc
+snapshot taken: 2026-11-13T13:27:24Z

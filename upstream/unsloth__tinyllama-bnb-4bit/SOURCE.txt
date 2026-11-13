@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/tinyllama-bnb-4bit
+main commit at snapshot: c6cc31241054c2fe9b4c804f398faffe1254728f
+snapshot taken: 2026-11-13T13:15:44Z

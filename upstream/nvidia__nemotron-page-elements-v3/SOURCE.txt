@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/nemotron-page-elements-v3
+main commit at snapshot: df62dbb631502575ac4d43b44d700b1674ab1d56
+snapshot taken: 2026-11-13T14:00:02Z

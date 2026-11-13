@@ -1,0 +1,182 @@
+[
+{
+"Path": "Ministral-3-3B-Reasoning-2512-BF16.gguf",
+"Sha256": "412e91715b81fa8ab77a7e30e698102c244c6d8ca949495829bdbe8e6bfbdfa1",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-IQ4_NL.gguf",
+"Sha256": "89ba3f42544cd09abae349ed934636dca2edee5430316470998f05fc543fd1a9",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-IQ4_XS.gguf",
+"Sha256": "7ae5c0b06886ad5421070083602c73257809e9343fc7d3d03e4bf03de4083b2e",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q2_K.gguf",
+"Sha256": "385ca408979d9b1e1b3024eaa29ff127f3dc25ff74bf651b8834155a59f86f57",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q2_K_L.gguf",
+"Sha256": "385ca408979d9b1e1b3024eaa29ff127f3dc25ff74bf651b8834155a59f86f57",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q3_K_M.gguf",
+"Sha256": "23284537196464cb55ba36bb2c835b10cef4133c0259c4b56c4e4f898f494327",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q3_K_S.gguf",
+"Sha256": "629ad7e22e9fb09bb0f7363b3d380727e2bbeaa426dc792bbbd0ca2e19768608",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q4_0.gguf",
+"Sha256": "2814b15aa72dcbc3159c13816c1ff62c63f8595bd9d9a39e4aa23692507735d6",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q4_1.gguf",
+"Sha256": "a89eac3d34d9d1089620b08bad13b14ca65e461b13bda09ac6c9e37cf4ebe342",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q4_K_M.gguf",
+"Sha256": "a2648395d533b6d1408667d00e0b778f3823f3f3179ba371f89355f2e957e42e",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q4_K_S.gguf",
+"Sha256": "80df743a8767b15b145f08d00cedc88b97e5f8ed00057cc69b32e9e852aaada8",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q5_K_M.gguf",
+"Sha256": "970ad512eb1f73b0e7a1bb449ad7ec05a30e3006a9a85221101441aa0615d3a8",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q5_K_S.gguf",
+"Sha256": "fa1bbba018b5fc75e9217a9ce374d884c29f45a5d4f22c1fde3faf13a5566b4b",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q6_K.gguf",
+"Sha256": "36a1a1a147c6d8d3e9560a6f6dbc675211758437faa2214137bac9a8ff59eb9e",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-Q8_0.gguf",
+"Sha256": "f5110a0e379adbb77bb4297d23bd9749c159318b2744cfcdbef602b255ec1bbb",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-IQ1_M.gguf",
+"Sha256": "47b2f3f721fcfa2a1a8036a4be825777e80f3da3b419da468553ff2bb314b50d",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-IQ1_S.gguf",
+"Sha256": "34e70327ea438d718ac0d8ba4ace3c2050b88f33b42004bdcd75d13ad21eec1a",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-IQ2_M.gguf",
+"Sha256": "d3b3c6f5e1e38a6e43b5cc87eb9a6dc257702e38723976e7353dccbe07e7a22d",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-IQ2_XXS.gguf",
+"Sha256": "2a6212fb69b5e145d9ba651be953abbf75982a88d6c5fe403558222aec77752c",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-IQ3_XXS.gguf",
+"Sha256": "08f464752619542b945f9ba62c270db316b407f9dc7bf795d76bfcb1dff2a472",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-Q2_K_XL.gguf",
+"Sha256": "4b6141d1ef187951984263e18b443a99707179dc418508a7495aff95c360784c",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-Q3_K_XL.gguf",
+"Sha256": "936cfa5ff449059c5e618cb3e5c037ceb2d8856c304ad750779e0742d2c46210",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-Q4_K_XL.gguf",
+"Sha256": "94830cae0da4911121f6389790b9e5e74041e04e6c657e0bbe5a7ea1e3f44270",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-Q5_K_XL.gguf",
+"Sha256": "420b4dd1f6b89da95e2a903137197d5b6423f43b5e942545fdcfa225f38f981d",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-Q6_K_XL.gguf",
+"Sha256": "65aaeccd786201f7ef8682a42b6f80629bbe20c0a550372c1ef26e3dce84e1af",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "Ministral-3-3B-Reasoning-2512-UD-Q8_K_XL.gguf",
+"Sha256": "d2ef5f976718f85787fd7ba42c22e24887ac51032121fc7aa3fd980f3174489f",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "2d97b8d311347b29a1ff07ad55613169c9dc59668e78f12e5384eba3aa094d60",
+"IsLFS": true,
+"CommittedDate": 1764705436
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "4582a23edc6c47d396eb20e453ae736a230753e8966fc51edc4ce92e85a8ae45",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "5fd8c31b78596ebad62db4482192d45eb6083db413c06b20a721fe42601e1c2e",
+"IsLFS": true,
+"CommittedDate": 1764798376
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "8035a6a10dfc6250f50c62764fae3ac2ef6d693fc9252307c7093198aabba812",
+"IsLFS": true,
+"CommittedDate": 1764798376
+}
+]

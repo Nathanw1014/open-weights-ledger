@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Hy-MT2-1.8B-GGUF
+main commit at snapshot: 0378cc2780f462f0fd397d0cdd244d2f769de40e
+snapshot taken: 2026-11-13T13:12:41Z

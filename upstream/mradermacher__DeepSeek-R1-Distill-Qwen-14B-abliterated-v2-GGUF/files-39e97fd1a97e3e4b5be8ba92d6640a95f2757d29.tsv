@@ -1,0 +1,12 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.IQ4_XS.gguf	8186196032	8e139e60e59524f28f43d208539e921ba62ebb53da05f088040b7c66cf9c9d10	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q2_K.gguf	5770498112	34c566fc4d2bdc8629b6092576a5bbc1f8b6b25e2fedfecef1355082faeeae7e	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q3_K_L.gguf	7924768832	031cff944d97d2a0596c90abc96636b8f4636341679a7d182dcdf0013324920d	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q3_K_M.gguf	7339204672	cdc4c6d6e0a1898c02482b2a11990b171311f9473e71b207955fbba7d8625a55	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q3_K_S.gguf	6659596352	1ef6cf8e9a9a2a82a55c071408ae199e84fdbe573fc23478753b5908a8e17175	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q4_K_M.gguf	8988110912	5bc6f9ce7fbc305c4eeb06253c251e69d9920a5fbac352d73654b63ea8d17e70	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q4_K_S.gguf	8573431872	7445e5a78af581443bb446016da6c1a76660748f5efb2dbca447086eaf242bb6	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q5_K_M.gguf	10508873792	41d0b8ae8547fe2e2d11aa833a13c254d3af671f87a92686b2a3615d3cf57d45	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q5_K_S.gguf	10266554432	09d9141ed6cd02dd3a17d3ceab465e3016cb60f14b104598563f79321c662d12	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q6_K.gguf	12124684352	be665fb253a4d5557c7b6343fb8809224e2cc796e89dfcb5d4691ccf534f8fea	sha256
+DeepSeek-R1-Distill-Qwen-14B-abliterated-v2.Q8_0.gguf	15701598272	f426dbf86f934bfc5f8cf7bce48a774509d7fece228f18a44d4631311215cfec	sha256

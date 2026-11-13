@@ -1,0 +1,68 @@
+[
+{
+"Path": "BF16/LFM2.5-24B-A2B-BF16.gguf",
+"Sha256": "ed16dcf949d6e6dc4edf8690bdfa511f7d012344bfc11c97cc59b57004bdb06c",
+"IsLFS": true,
+"CommittedDate": 1791957648
+},
+{
+"Path": "LFM2.5-24B-A2B-Q8_0.gguf",
+"Sha256": "97cd912b01124793a69ddebc309abbbad7ebb38ac2fb9c2bc55dfc1ad9d1809e",
+"IsLFS": true,
+"CommittedDate": 1791957650
+},
+{
+"Path": "LFM2.5-24B-A2B-UD-IQ2_M.gguf",
+"Sha256": "54d861a1245d460389e971112e07f9313d75778ba96e12880594f2352a83a992",
+"IsLFS": true,
+"CommittedDate": 1791957652
+},
+{
+"Path": "LFM2.5-24B-A2B-UD-IQ2_XXS.gguf",
+"Sha256": "09c8d1d9527e683d5244a1d4dc1a4ffdb9695b0f512206d44fd4dadbbe4ee525",
+"IsLFS": true,
+"CommittedDate": 1791957654
+},
+{
+"Path": "LFM2.5-24B-A2B-UD-IQ3_XXS.gguf",
+"Sha256": "e06694b1f0bb322ecfde6bf9af260d2f2047ed1b30bbfdd04d97bf55472bfeec",
+"IsLFS": true,
+"CommittedDate": 1791957655
+},
+{
+"Path": "LFM2.5-24B-A2B-UD-Q2_K_XL.gguf",
+"Sha256": "bc1b210bdeec1592e3dc374cc9154fd29654a9004d01a6a9eae4809de69f58dc",
+"IsLFS": true,
+"CommittedDate": 1791957657
+},
+{
+"Path": "LFM2.5-24B-A2B-UD-Q3_K_XL.gguf",
+"Sha256": "d54834c785c7e265f1cb7375e47aa6f55a0b7cfab75816254c4d2e0c82fd5efc",
+"IsLFS": true,
+"CommittedDate": 1791957659
+},
+{
+"Path": "LFM2.5-24B-A2B-UD-Q4_K_XL.gguf",
+"Sha256": "a235d23638cc5549cb1ff61da7522c8a7e97f056f27093462a1e56f35aba91d8",
+"IsLFS": true,
+"CommittedDate": 1791957660
+},
+{
+"Path": "LFM2.5-24B-A2B-UD-Q5_K_XL.gguf",
+"Sha256": "d5a53342a2f5bec4ebee06652a437ee3b9fbc5e6b9b693f6f2343d96e699f38a",
+"IsLFS": true,
+"CommittedDate": 1791957662
+},
+{
+"Path": "LFM2.5-24B-A2B-UD-Q6_K_XL.gguf",
+"Sha256": "abcb7e21e006eb4c826a2b75fb91c0804db7b20f908a61beeebdbdd07c88f41d",
+"IsLFS": true,
+"CommittedDate": 1791957668
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "4145e8ec5addfa73ceb9223f02aa4fd9a75a5b675e7fdc7a82699335c1c48f48",
+"IsLFS": true,
+"CommittedDate": 1792505899
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct-GPTQ-Int4
+main commit at snapshot: dec510a35a3e9b6481b6427c7a08984df2402535
+snapshot taken: 2026-11-13T13:50:12Z

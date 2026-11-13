@@ -1,0 +1,32 @@
+[
+{
+"Path": "model-00001-of-00002.safetensors",
+"Sha256": "a2bc3d02bcb8683017365f4671d7444ec53ee2739cacb36de96237e8ec87a953",
+"IsLFS": true,
+"CommittedDate": 1750050442
+},
+{
+"Path": "model-00002-of-00002.safetensors",
+"Sha256": "811f0ed71ac62d1f7e4361a67b702f45ab7543b8f14b57367828581fc4c531e1",
+"IsLFS": true,
+"CommittedDate": 1750050442
+},
+{
+"Path": "replay.gif",
+"Sha256": "ec0e0df1e6f3f96e5f02df181b5eea6dc6f34675a507cabfdddef47eedb0f43c",
+"IsLFS": true,
+"CommittedDate": 1750050441
+},
+{
+"Path": "replay.mp4",
+"Sha256": "43588ba67463437872071bd69d92657e616daa430c77270b3cfaaeb06781f211",
+"IsLFS": true,
+"CommittedDate": 1750050441
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "67cc0080ffd7555f723f423c27cfef314e1ad9d335c8b79f465c5faba1ed478b",
+"IsLFS": true,
+"CommittedDate": 1750050441
+}
+]

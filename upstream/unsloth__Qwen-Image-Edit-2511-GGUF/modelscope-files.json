@@ -1,0 +1,98 @@
+[
+{
+"Path": "qwen-image-edit-2511-BF16.gguf",
+"Sha256": "5c8f2fbd5819cd6a23fb54e1517e42956a0844e3eb6aed23d2dd0a55d3072783",
+"IsLFS": true,
+"CommittedDate": 1766861312
+},
+{
+"Path": "qwen-image-edit-2511-F16.gguf",
+"Sha256": "8c9ee5250455a3e9efc11dbce6aa89695fc72cdcd8af3783ac4cc22f4866e2b0",
+"IsLFS": true,
+"CommittedDate": 1766861312
+},
+{
+"Path": "qwen-image-edit-2511-Q2_K.gguf",
+"Sha256": "088f48caa6a6a6049f30949579f0fe0a9ec98a95170c3bb5d5c0cd04e6610999",
+"IsLFS": true,
+"CommittedDate": 1793797598
+},
+{
+"Path": "qwen-image-edit-2511-Q3_K_L.gguf",
+"Sha256": "b11f4df3ce1d11e8462f1c15b669c4d3c60f6a4f014fcab9234706cd2cb78a19",
+"IsLFS": true,
+"CommittedDate": 1793797639
+},
+{
+"Path": "qwen-image-edit-2511-Q3_K_M.gguf",
+"Sha256": "5631fd3a407880e1fb541dc47696628633c898565136c128d5a2741d4b84e9e9",
+"IsLFS": true,
+"CommittedDate": 1767979107
+},
+{
+"Path": "qwen-image-edit-2511-Q3_K_S.gguf",
+"Sha256": "09c10b8bc3fb24dbcd0b30a058f2d1bbbb4fda28241160552ad8f71101b182d7",
+"IsLFS": true,
+"CommittedDate": 1793797642
+},
+{
+"Path": "qwen-image-edit-2511-Q4_0.gguf",
+"Sha256": "6ee1da2e39fd3acdf7b0d86a160273548346d45e4f8592def8d96f7514bef60e",
+"IsLFS": true,
+"CommittedDate": 1793797667
+},
+{
+"Path": "qwen-image-edit-2511-Q4_1.gguf",
+"Sha256": "cd4cae9046085e1cea98f4a84fcdeb11debeca21775cf6f86d3976e703265c09",
+"IsLFS": true,
+"CommittedDate": 1793797671
+},
+{
+"Path": "qwen-image-edit-2511-Q4_K_M.gguf",
+"Sha256": "07951f61941a81e236cbd4a9b6f250d49626b3ba518f260135bf2e01a87cf1c8",
+"IsLFS": true,
+"CommittedDate": 1793797673
+},
+{
+"Path": "qwen-image-edit-2511-Q4_K_S.gguf",
+"Sha256": "0eb6f323ab2bcbfee5cca60d2aad59071401a767895ea585c7cf2c72568dda24",
+"IsLFS": true,
+"CommittedDate": 1793797677
+},
+{
+"Path": "qwen-image-edit-2511-Q5_0.gguf",
+"Sha256": "31e20aca40efe1f028e1ad94ba8cf72c048bb5b5a86dd0d71301598eda2b17dc",
+"IsLFS": true,
+"CommittedDate": 1793797680
+},
+{
+"Path": "qwen-image-edit-2511-Q5_1.gguf",
+"Sha256": "fafa6e7e5c86f5d8d54c977c089b641d63cb9c346f3634d4c21910f75dd5284a",
+"IsLFS": true,
+"CommittedDate": 1766861312
+},
+{
+"Path": "qwen-image-edit-2511-Q5_K_M.gguf",
+"Sha256": "7e5bf7f00b5e219a855641e7a10d5a8b2668423409718e92dfddd6542828f9b6",
+"IsLFS": true,
+"CommittedDate": 1793797995
+},
+{
+"Path": "qwen-image-edit-2511-Q5_K_S.gguf",
+"Sha256": "53c43079396f1e7a3aeb78d5373f3f00ce0e380838331b434809e22758279d8e",
+"IsLFS": true,
+"CommittedDate": 1793797997
+},
+{
+"Path": "qwen-image-edit-2511-Q6_K.gguf",
+"Sha256": "5107c54a85d8e3ac76615612dee244268b53270d2091b525e325fc05cc84d8fd",
+"IsLFS": true,
+"CommittedDate": 1793798000
+},
+{
+"Path": "qwen-image-edit-2511-Q8_0.gguf",
+"Sha256": "0bf71797bf27dac40e3d8c1dc344309cb53f2a08beed6a96120dd77164b3806f",
+"IsLFS": true,
+"CommittedDate": 1793798002
+}
+]

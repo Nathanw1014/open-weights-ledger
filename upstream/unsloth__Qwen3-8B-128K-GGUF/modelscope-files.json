@@ -1,0 +1,158 @@
+[
+{
+"Path": "Qwen3-8B-128K-BF16.gguf",
+"Sha256": "8c816d1d32b5a66a76b417ef740e3809b3971ba4f300c3d39d3d4ecc8ebcf270",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-IQ4_NL.gguf",
+"Sha256": "366d9c0b450be962bb31540bd3c41ee6a993aa653f7f12ec2b01f862865342c2",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-IQ4_XS.gguf",
+"Sha256": "4e39d2e00db506a87ec10cdef561e114cbc464d2bbe82de2ae4329c374975b8f",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q2_K.gguf",
+"Sha256": "c5c50a8d351260b0f5ba1f029cefe32d34c8897a4bf8ed0f606e4171ada055b3",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q2_K_L.gguf",
+"Sha256": "ac0177ab323baf135ddfbf0044411961e61fe1d06203440948f0723382552e93",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q3_K_M.gguf",
+"Sha256": "929b4bb314860068a5378ff0b2b872208b646bdd611c85bb395323edd4e3eaa8",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q3_K_S.gguf",
+"Sha256": "8b5ebad9356921f2357ae39f39d5f63aa036af50bb4cdc019dcd5c6380823d17",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q4_0.gguf",
+"Sha256": "7cc9cf0b6a0a343ede7404505ec56d1052c957d061641635a7d52067976b9c24",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q4_1.gguf",
+"Sha256": "474ee54af7ab9162e8894e530cc09f3fd9d8c39703d2bbc027e6b2c3608c0067",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q4_K_M.gguf",
+"Sha256": "625dea4ba963ea92eac397cc6b0b89616e43e8b565d9c4c1891273d719cd8b5b",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q4_K_S.gguf",
+"Sha256": "9c7fbdaf0ac8f77e6721a64b9e1655e2c4fda19be5a3723e69329ca858973524",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q5_K_M.gguf",
+"Sha256": "be7deb54ce6dd31365a7ee25a594bf0a377ef07b992d3d4511c9908eb0d74a3c",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q5_K_S.gguf",
+"Sha256": "3ab42a5c5b857baefc9c904b1a71480eaf450b03bd08519f91d86cd1648dfd93",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q6_K.gguf",
+"Sha256": "f9b79e29247da777db46e42db4a7ccd427a80006f373a20607deac6c783a736f",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-Q8_0.gguf",
+"Sha256": "abbf8d7937e614dec2562a24322a2fdf40b51ac3e527b381d145c89f11675a3d",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-IQ1_M.gguf",
+"Sha256": "b4aa3c36aaf610eb502900bb06666ccf3e5b889a41011631dbf3e0888feb9694",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-IQ1_S.gguf",
+"Sha256": "5673043034e2a14840373a8d25f40396e74217c67a2fae5d0aae5650c98a3a0d",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-IQ2_M.gguf",
+"Sha256": "226e0e47e194cffa73dbbf8a638763f71f3d9f27ec2bebdfbe8d8e08fc721b5f",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-IQ2_XXS.gguf",
+"Sha256": "ace33b2a2c6a03713629ab5f88278324b331d3b57785732b2bbd13e9be34131a",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-IQ3_XXS.gguf",
+"Sha256": "3131da1d7ab301992f4a8bc462d5376baca2fbcadb7e0f4e7c170fcb829fe73e",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-Q2_K_XL.gguf",
+"Sha256": "a2e9a309bc2ae8b37a267964fcbe92b0d2d143844b0e3f0ffbc5976d0305b8ca",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-Q3_K_XL.gguf",
+"Sha256": "f97f15a482437e4013bfcdb53d1b419e2c04daa2a928a1922a68d4705aa3ad34",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-Q4_K_XL.gguf",
+"Sha256": "c1b14f15202a0f01ab67f6f504d1412ff29ff0ad1eb3f0faccac4fd8615a45e6",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-Q5_K_XL.gguf",
+"Sha256": "4bf1ede47bc2da4e0e73fe93a57d5ab9b6e0d04494967a74825e34ca409391e3",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-Q6_K_XL.gguf",
+"Sha256": "eeefa277c9a940b11e649562bab20c6b768120ad264bcd6d9fe8bf877c0c61b8",
+"IsLFS": true,
+"CommittedDate": 1747257223
+},
+{
+"Path": "Qwen3-8B-128K-UD-Q8_K_XL.gguf",
+"Sha256": "5d1a3c32866649f3fd82b6a6de602b5c64e4911855bbe32eb36747d063aad1da",
+"IsLFS": true,
+"CommittedDate": 1747257223
+}
+]

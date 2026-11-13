@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking-GGUF
+main commit at snapshot: a612b3102374e69a892162730ad904b69961f806
+snapshot taken: 2026-11-13T13:48:23Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/llava-1.5-7b-hf
+main commit at snapshot: b34271dd19f43ed5f03ac2fa29cfbe50c798bd29
+snapshot taken: 2026-11-13T13:31:14Z

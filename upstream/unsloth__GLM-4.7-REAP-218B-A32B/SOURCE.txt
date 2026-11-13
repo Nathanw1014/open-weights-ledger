@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-4.7-REAP-218B-A32B
+main commit at snapshot: 5c25ef3ac448672871559de312b98baee63e405c
+snapshot taken: 2026-11-13T13:39:52Z

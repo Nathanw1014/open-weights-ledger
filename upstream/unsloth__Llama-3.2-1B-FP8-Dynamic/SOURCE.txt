@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.2-1B-FP8-Dynamic
+main commit at snapshot: c22bcecaaf6ceedb83c7a3853aa191f889b28271
+snapshot taken: 2026-11-13T13:33:10Z

@@ -1,0 +1,170 @@
+[
+{
+"Path": "BF16/Olmo-3-32B-Think-BF16-00001-of-00002.gguf",
+"Sha256": "de392b7d7ae3c93248ba6f7da8319fd2c4b2c86ef553d8dee48c7668524f7528",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "BF16/Olmo-3-32B-Think-BF16-00002-of-00002.gguf",
+"Sha256": "fde5c1dc7e047086cf5b101e84b31360a8ec0d04fd39cd634837f3e1ea6c709a",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-IQ4_NL.gguf",
+"Sha256": "c77204baa66d7636b8c40de4df5622d0088dc7d803f8fe541be82dc11f7d325e",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-IQ4_XS.gguf",
+"Sha256": "640f409af9b9873e16943a96853f9e65ece2523676e6eb03fb6b0aa9df6f0634",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q2_K.gguf",
+"Sha256": "53755ed71e1984565dc0daed5331e2f4f21b43194601e0ca8af39026b8423f61",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q2_K_L.gguf",
+"Sha256": "33307ad51ff1437903bf7acedbd0e52c9c76d2eebe1121b26a09ae54c47bb53b",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q3_K_M.gguf",
+"Sha256": "8bf684239c5b1284cca3567ded41811045633db7bcfeb5903401a1e01bdb4a5b",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q3_K_S.gguf",
+"Sha256": "8656215750b3e3a34cbe5b6a23d0e5030faf44e4449c6512535aace5d9cb856b",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q4_0.gguf",
+"Sha256": "62cb51bf1deb433d647c08e6350fda52fe15677e4e8995ba886f61c9546a8d21",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q4_1.gguf",
+"Sha256": "0ba46e4a11433c2d4c2ba69a07c7ef96d4b50d30f599e4a863cf34bafe046df8",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q4_K_M.gguf",
+"Sha256": "d70cd49d1ee3195334fc9ce359cbf2e39773169b8a4f873d72ba885d0007be04",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q4_K_S.gguf",
+"Sha256": "93e87d3c496753eee4c628488a007b918ce25aa568611a47b5b789027d935294",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q5_K_M.gguf",
+"Sha256": "407c8d3d06e5d327e208c7e002e3c31b465f819e4629e83313b60a6e866e8467",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q5_K_S.gguf",
+"Sha256": "59b971c9fd21ee998e78b2591938ed7e1087de72871b01bb05688d9c83cb7eab",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q6_K.gguf",
+"Sha256": "b56b3e98f8d7590ab505858e5fc1e9bec4e825f775852d9a3f789e8789a0444f",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-Q8_0.gguf",
+"Sha256": "05402365d53563ea7508defd5f0f29320ec418c9af49742581e943ddb4fdc9d1",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-IQ1_M.gguf",
+"Sha256": "e9b6b7675293b6dc4c5e398b6fd5c9c99ed288f5770ab9fcdae8613fd721b560",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-IQ1_S.gguf",
+"Sha256": "5700da1701aa0b9a584b977ca77ded0650b194e7955b6aca8b6b02d4b195633e",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-IQ2_M.gguf",
+"Sha256": "4b98cd0b8ae2c3de2d6ce520b1bb419baf9f91779283f3fdf59673fc00b13ed8",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-IQ2_XXS.gguf",
+"Sha256": "690e17650dcefd5647d7a05a72cb9b943e54456a032999bd47602cb11452063f",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-IQ3_XXS.gguf",
+"Sha256": "1453f94ded9c1666ce8ae6a1d41d07393a6a7ffe2802e808997c80fdc2c3b44a",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-Q2_K_XL.gguf",
+"Sha256": "3c9105f4c2e33ae4ba92aeeb55aa58c0a30cfc7fd3e0e768815bc3ef668b5e4e",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-Q3_K_XL.gguf",
+"Sha256": "1049d206188997543afbe0d3f5e9b79724b68025f14c3eeaccaeb2fc1311bf6f",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-Q4_K_XL.gguf",
+"Sha256": "a1d9a65b7823fcde86b7f86fc40837839a22d93e3162f2a83058e5dfb52f67d5",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-Q5_K_XL.gguf",
+"Sha256": "a623620111feb6a56bc180ccb24f6c942b3f88465f6a94f6029314a10efc93c9",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-Q6_K_XL.gguf",
+"Sha256": "f0f5e359b80149e7aea207fa2eadf672abe1b1b2e5eebed4b5e9580f50310ae1",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "Olmo-3-32B-Think-UD-Q8_K_XL.gguf",
+"Sha256": "32e2f36b3eb43156e5961d93c514b573e2308307b6780d50ed8dbeb7d60b365f",
+"IsLFS": true,
+"CommittedDate": 1763706921
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "378fcd214a0dd0a6f9ecd0600ff732f3cb5140e2c201de422cf4b66ad1babcde",
+"IsLFS": true,
+"CommittedDate": 1763706921
+}
+]

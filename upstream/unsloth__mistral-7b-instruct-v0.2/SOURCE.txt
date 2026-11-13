@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/mistral-7b-instruct-v0.2
+main commit at snapshot: 5d88c8e8dbf7446e665a3633b2f047689f4e6547
+snapshot taken: 2026-11-13T13:20:39Z

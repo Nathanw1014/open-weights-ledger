@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-NVFP4
+main commit at snapshot: a8b6f7c6dba58fe7171b1b2176db05c3f69436da
+snapshot taken: 2026-11-13T13:59:24Z

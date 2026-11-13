@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/llama-nemotron-colembed-vl-3b-v2
+main commit at snapshot: 9907f8fdf1eae6802c5b9ee4287ef9009acfdae9
+snapshot taken: 2026-11-13T13:56:33Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Coder-14B
+main commit at snapshot: 2918ea29941f20821b1ec4087d774ac0e5fa83e2
+snapshot taken: 2026-11-13T13:29:35Z

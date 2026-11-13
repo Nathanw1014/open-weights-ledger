@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MOSS-Image-SFT-FP8
+main commit at snapshot: 8fb0d8c3a126cfd1406acaf96698dbfe9d99b680
+snapshot taken: 2026-11-13T13:08:15Z

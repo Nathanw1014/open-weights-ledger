@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Omni-3B-GGUF
+main commit at snapshot: 9eb5b23b5222c0ec3b81ce932e35a7f21a9b75d3
+snapshot taken: 2026-11-13T13:13:00Z

@@ -1,0 +1,254 @@
+[
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_L/DeepSeek-R1-Zero-Q2_K_L-00001-of-00005.gguf",
+"Sha256": "9994ed9f30404c2a6e6dd4d8e885858613ac5281d16d03a06fa01d9299ec3ae7",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_L/DeepSeek-R1-Zero-Q2_K_L-00002-of-00005.gguf",
+"Sha256": "59a7c7cfee723527761d93dd94489510301cbd0dc3e3cbf3965066a12d1a98b4",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_L/DeepSeek-R1-Zero-Q2_K_L-00003-of-00005.gguf",
+"Sha256": "43630b9aa8ca4eb5fa2f4e98fa3569ff5577f24b0375a20d2f67798f6934be6c",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_L/DeepSeek-R1-Zero-Q2_K_L-00004-of-00005.gguf",
+"Sha256": "0599d2e6ea7ef558c3c65d98ad48b3aed64aea97aafbc97c6c22352cf901504c",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_L/DeepSeek-R1-Zero-Q2_K_L-00005-of-00005.gguf",
+"Sha256": "b78652530285cc682db3008c8ca96524b5e0f13ac7d0c80a09141895dd479fa1",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_XS/DeepSeek-R1-Zero-Q2_K_XS-00001-of-00005.gguf",
+"Sha256": "c90741ec7de93f589e54d5839d3b969d86f3c46fb76a04c9e022bb8b4b097873",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_XS/DeepSeek-R1-Zero-Q2_K_XS-00002-of-00005.gguf",
+"Sha256": "3747f2d17b29f26ace6223086376c88f77ff43a0eb3c7fc7cc4ad252b6920c14",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_XS/DeepSeek-R1-Zero-Q2_K_XS-00003-of-00005.gguf",
+"Sha256": "36e678ae0c9d2785ba3ccc2a9a134ada417e91f8a7fbc4da097c99d46ea94091",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_XS/DeepSeek-R1-Zero-Q2_K_XS-00004-of-00005.gguf",
+"Sha256": "2d927f7c44f84051c3729e401daeca1e259ce6a9db1087c5e9984f3ffe19bec8",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q2_K_XS/DeepSeek-R1-Zero-Q2_K_XS-00005-of-00005.gguf",
+"Sha256": "8b491d4c700d5adbf48ba92cdb911d4f120a5a474c1b6f4d147bfee48a0b1fd8",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q3_K_M/DeepSeek-R1-Zero-Q3_K_M-00001-of-00007.gguf",
+"Sha256": "2088129b4467eb8874606c647b498e0220ceed1961957177824fa4d6bc347fa0",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q3_K_M/DeepSeek-R1-Zero-Q3_K_M-00002-of-00007.gguf",
+"Sha256": "f39123a6093649a24cee324ed2fdb0e693da184dddd584846d554113ccb5715a",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q3_K_M/DeepSeek-R1-Zero-Q3_K_M-00003-of-00007.gguf",
+"Sha256": "1446cbcdaa2c9e9ca1e4c16ee80da7bf97f2527ea9b59929ccf9ed3ddf09c77d",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q3_K_M/DeepSeek-R1-Zero-Q3_K_M-00004-of-00007.gguf",
+"Sha256": "02141beb817658092e72d1508238d06bdedef4cf06aa7246297db0ebfbcb9167",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q3_K_M/DeepSeek-R1-Zero-Q3_K_M-00005-of-00007.gguf",
+"Sha256": "7fb6fa0f6ddae3c2b7475000e2c210f635d3e91a0411e5fa2bdd34a09a294b1a",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q3_K_M/DeepSeek-R1-Zero-Q3_K_M-00006-of-00007.gguf",
+"Sha256": "56e77362892acf8a029e399c4014353ad33d905b640aab56f830624b9f91e7fd",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q3_K_M/DeepSeek-R1-Zero-Q3_K_M-00007-of-00007.gguf",
+"Sha256": "ab391809871fb001d01e1b81bf1788d4cb1a212808e4917d6d8f9bf6924e3417",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00001-of-00009.gguf",
+"Sha256": "f1f4231681d19d576991f93462d1491c9e39b0c4501eb4c31e0ab63abdabe3b6",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00002-of-00009.gguf",
+"Sha256": "6ca36a3d3860bd4403cb217fbb830ddd5b831a916275dc70332527da6e616751",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00003-of-00009.gguf",
+"Sha256": "9a95939beb140341825180d546e6be59bf18934856962e0bf0f0800d0881513c",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00004-of-00009.gguf",
+"Sha256": "3e9ca44d1a0acc0d5ff813a51f4d6f60ff59533ebf17e1278efa284b7d5d7554",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00005-of-00009.gguf",
+"Sha256": "b2661cbde2a3bb0e22b91f6970c84070609b542221447eeeaae37f0e0eecd17f",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00006-of-00009.gguf",
+"Sha256": "5f2d81fc863d2a570825c361c2ba02021af7f94ad78a5b73f95168a95b34748e",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00007-of-00009.gguf",
+"Sha256": "277cea3344f7dc72de54dd8d368636fb9bd1c0f4b8c460816b13611e16658c61",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00008-of-00009.gguf",
+"Sha256": "cd76f36728750f809e63b1cd489e8e292a0840d3621dbd91c89fa98ab7b08aa1",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q4_K_M/DeepSeek-R1-Zero-Q4_K_M-00009-of-00009.gguf",
+"Sha256": "f8ede082e0bdbbe371296d97f306d1eb03e65f3a631b6aca97be5bfb5a8e85c4",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00001-of-00016.gguf",
+"Sha256": "fb54f5f27fcada823745e6b1d032f54f3773027b2dcf3ba3e4e95ca15969fa41",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00002-of-00016.gguf",
+"Sha256": "e3cd445bb35c87913ba330b19c41e887e587c3bf6e6acd9d2c3aeee3b56f832a",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00003-of-00016.gguf",
+"Sha256": "3f636ac277801dbff63cf8818c16d5e936b19a24e6057393482cfcb5a6d779b0",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00004-of-00016.gguf",
+"Sha256": "512b98553679eddaea8e825ea30e145adcd277175b2d75766c615a2ea5d48a78",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00005-of-00016.gguf",
+"Sha256": "42b56a497d34457348dda54dbfb8c0a7188b4ca4e30567bf9938b66e9df7fffa",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00006-of-00016.gguf",
+"Sha256": "bb472b735bddcbdf46268461f81aad405bbb46b53a3e4b7f57de3acca5d1abe2",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00007-of-00016.gguf",
+"Sha256": "06c0122da25af666081c387e922e8d5c436d2f1aba1bfd8bd96c49b0957eba7d",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00008-of-00016.gguf",
+"Sha256": "185f3250f298c82c50e5ae983a24ed17edac28f4d6ef729de68924ddb22d1c1d",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00009-of-00016.gguf",
+"Sha256": "ebf27be470ed2455ad1e6588a006ad080fee672e501487d2276e782b16daa476",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00010-of-00016.gguf",
+"Sha256": "beb5e5b8bfaa9c669c8d4c0474dce204529010614a1c73f46f98f25fbfbb314e",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00011-of-00016.gguf",
+"Sha256": "e6413bdbe6c3a778238f54b1da9b2fc9690969b21add76a66e5ca3e15418bba1",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00012-of-00016.gguf",
+"Sha256": "8c8c3102e5367ae08653397d6623907d3aae4c49885cdb7ee9e4d3513f6e2c40",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00013-of-00016.gguf",
+"Sha256": "fa175d39bc3c9fa62246675cd6fe86bea9ff14d534545186d9900cd609759040",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00014-of-00016.gguf",
+"Sha256": "e31f8afd687d6001a946ca5b1bfdbc410ff23793af28bce6e40da7d999ceefdd",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00015-of-00016.gguf",
+"Sha256": "056714539203aa2e76b3b59254591c934050826f037d7ee3d39114f755c11c1e",
+"IsLFS": true,
+"CommittedDate": 1737511521
+},
+{
+"Path": "DeepSeek-R1-Zero-Q8_0/DeepSeek-R1-Zero-BF16-256x20B-Q8_0-00016-of-00016.gguf",
+"Sha256": "a97efa9bd7f4cfbdf9a40e38a1d3ea172deb00c829b61fd719c7446f0e160870",
+"IsLFS": true,
+"CommittedDate": 1737511521
+}
+]

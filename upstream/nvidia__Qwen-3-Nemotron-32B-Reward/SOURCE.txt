@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Qwen-3-Nemotron-32B-Reward
+main commit at snapshot: 3828047da88f6440e49978efa22b8a4d4e19b27e
+snapshot taken: 2026-11-13T13:59:29Z

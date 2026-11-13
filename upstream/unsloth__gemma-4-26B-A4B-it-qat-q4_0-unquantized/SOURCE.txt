@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-q4_0-unquantized
+main commit at snapshot: 577832b0122ae145528c2762ac2b888388269503
+snapshot taken: 2026-11-13T13:20:13Z

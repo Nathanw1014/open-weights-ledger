@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/MiniMax-M2.7-abliterated-BF16-i1-GGUF
+main commit at snapshot: 2aebfbbb74d26c613b0ea98888f1802144493db4
+snapshot taken: 2026-11-13T14:03:04Z

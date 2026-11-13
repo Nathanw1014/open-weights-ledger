@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-Ornith-1.0-9B-abliterated-MTP-GGUF
+main commit at snapshot: 8796bfc7a8071a1b3cb99384dbf4b2eb85d4bdb3
+snapshot taken: 2026-11-13T14:03:39Z

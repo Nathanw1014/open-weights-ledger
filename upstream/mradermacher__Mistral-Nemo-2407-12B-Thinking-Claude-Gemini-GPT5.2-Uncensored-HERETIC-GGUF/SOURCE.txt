@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Mistral-Nemo-2407-12B-Thinking-Claude-Gemini-GPT5.2-Uncensored-HERETIC-GGUF
+main commit at snapshot: c5aadc368629f57cd5542f560ae736cc7909dd3c
+snapshot taken: 2026-11-13T14:08:26Z

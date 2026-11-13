@@ -1,0 +1,3 @@
+repo: https://huggingface.co/OBLITERATUS/Ornith-1.5-9B-OBLITERATED
+main commit at snapshot: 82df4702cc5e716cf7573a8942fee28ae8f65088
+snapshot taken: 2026-11-13T14:04:44Z

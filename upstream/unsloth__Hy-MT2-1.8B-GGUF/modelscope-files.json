@@ -1,0 +1,134 @@
+[
+{
+"Path": "Hy-MT2-1.8B-BF16.gguf",
+"Sha256": "3782e25037d6e85aff19505a412de061084aaa1d012fc2088e215a1029f7677d",
+"IsLFS": true,
+"CommittedDate": 1780078661
+},
+{
+"Path": "Hy-MT2-1.8B-IQ4_NL.gguf",
+"Sha256": "c43d6cc41250cae3ae8f96709fe24e3d7835f648598bfae75f06b3cd876ce769",
+"IsLFS": true,
+"CommittedDate": 1780078673
+},
+{
+"Path": "Hy-MT2-1.8B-IQ4_XS.gguf",
+"Sha256": "55ef9f9b1136249682aaff424d45fbe1db4982208ebfc576275a2b4271e3db2f",
+"IsLFS": true,
+"CommittedDate": 1780078673
+},
+{
+"Path": "Hy-MT2-1.8B-Q3_K_M.gguf",
+"Sha256": "d843f052e1adb61197156f534099cf9fb58353af7cc30999a2f1f717819936b8",
+"IsLFS": true,
+"CommittedDate": 1780078684
+},
+{
+"Path": "Hy-MT2-1.8B-Q3_K_S.gguf",
+"Sha256": "a8cb4c9b826c3f29da49a3b8657bcf9a18b50e437ec7a2d63bfeac2c4d3d6ebe",
+"IsLFS": true,
+"CommittedDate": 1780078684
+},
+{
+"Path": "Hy-MT2-1.8B-Q4_0.gguf",
+"Sha256": "5458acf22435287fb9aa7a5bf6cc041806df15d54cea020cbad25ac95e2d8a21",
+"IsLFS": true,
+"CommittedDate": 1780078696
+},
+{
+"Path": "Hy-MT2-1.8B-Q4_1.gguf",
+"Sha256": "e183632d141ccdc634e011a6eccabc59897adc6260077eacece10ef7a22a75ec",
+"IsLFS": true,
+"CommittedDate": 1780078696
+},
+{
+"Path": "Hy-MT2-1.8B-Q4_K_M.gguf",
+"Sha256": "bbabf6dfe43b018525180f693400d3fa467a3d36fc35b08b9b33c8195435fe8d",
+"IsLFS": true,
+"CommittedDate": 1780078708
+},
+{
+"Path": "Hy-MT2-1.8B-Q4_K_S.gguf",
+"Sha256": "0c687e6d655fc33cf993c7469e57375ae640644eb6d7a53d2b3d5456423437d4",
+"IsLFS": true,
+"CommittedDate": 1780078708
+},
+{
+"Path": "Hy-MT2-1.8B-Q5_K_M.gguf",
+"Sha256": "fed671df49936c64d0f655a73954447c877b1ec282863f50a6fff41836849aa4",
+"IsLFS": true,
+"CommittedDate": 1780078720
+},
+{
+"Path": "Hy-MT2-1.8B-Q5_K_S.gguf",
+"Sha256": "c32c3a6d91404cd495d63a2f804a639a00557fd46fc5eca571b75aa9cc216dcb",
+"IsLFS": true,
+"CommittedDate": 1780078720
+},
+{
+"Path": "Hy-MT2-1.8B-Q6_K.gguf",
+"Sha256": "31d752d8e36087672cfd1cdff1a51e10b11e109da1bcdabb232837d5a4defcb2",
+"IsLFS": true,
+"CommittedDate": 1780078732
+},
+{
+"Path": "Hy-MT2-1.8B-Q8_0.gguf",
+"Sha256": "b07198532b038797361939a11cc029dc383ac38e1a2c14ee17023e6f6191849e",
+"IsLFS": true,
+"CommittedDate": 1780078732
+},
+{
+"Path": "Hy-MT2-1.8B-UD-IQ2_M.gguf",
+"Sha256": "9936b5ba66523f100f18604232d88acb4b44f3c9e26eab3f0f9113d44514d0f0",
+"IsLFS": true,
+"CommittedDate": 1780078743
+},
+{
+"Path": "Hy-MT2-1.8B-UD-IQ3_XXS.gguf",
+"Sha256": "a02daa9c4957342a6ef507ec38f0ebd666df77a3793e2b05d01689bdb49ceaac",
+"IsLFS": true,
+"CommittedDate": 1780078743
+},
+{
+"Path": "Hy-MT2-1.8B-UD-Q2_K_XL.gguf",
+"Sha256": "52ba7fc5fcd1243df6181d74ebad6e45849b28494822e4ca169169044e5479c3",
+"IsLFS": true,
+"CommittedDate": 1780078755
+},
+{
+"Path": "Hy-MT2-1.8B-UD-Q3_K_XL.gguf",
+"Sha256": "bf575b6238c6ae3c35db73af36bc0a749aedf8de17426c1b506e2d332dd9c9ca",
+"IsLFS": true,
+"CommittedDate": 1780078755
+},
+{
+"Path": "Hy-MT2-1.8B-UD-Q4_K_XL.gguf",
+"Sha256": "95eb5378451187e05bc4bf15f62b0c68cd91fd6abf8ce4c79fe357d42c4ee2a2",
+"IsLFS": true,
+"CommittedDate": 1780078766
+},
+{
+"Path": "Hy-MT2-1.8B-UD-Q5_K_XL.gguf",
+"Sha256": "22a9e77b29fd486ceaab023b47d32102fc3fef25120225e833541eb59e6deba0",
+"IsLFS": true,
+"CommittedDate": 1780078766
+},
+{
+"Path": "Hy-MT2-1.8B-UD-Q6_K_XL.gguf",
+"Sha256": "7f38d2a226be8108dd7b51f1cea968e828a03eb0a537dd6c3436476368af29a2",
+"IsLFS": true,
+"CommittedDate": 1780078778
+},
+{
+"Path": "Hy-MT2-1.8B-UD-Q8_K_XL.gguf",
+"Sha256": "9ca3411f206abdf16f2df66ecaf3194b4cedada6dbf8daaa82ce15d3d609fa7c",
+"IsLFS": true,
+"CommittedDate": 1780078778
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "9fd7c67e8ed2ee8810db69077b232b372599329246c38f5a62cc7d3a85f760ce",
+"IsLFS": true,
+"CommittedDate": 1780078808
+}
+]

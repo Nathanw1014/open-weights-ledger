@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/LFM2.5-1.2B-Instruct-GGUF
+main commit at snapshot: b01cc872e5918b0fdec170003cd854851e3ed854
+snapshot taken: 2026-11-13T13:06:45Z

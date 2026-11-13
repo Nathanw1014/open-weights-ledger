@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/FLUX.1-Kontext-dev
+main commit at snapshot: ed585f929575da3142d1cdd7a49ef25db6f12161
+snapshot taken: 2026-11-13T13:10:41Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-4B-Thinking-2507-bnb-4bit
+main commit at snapshot: a1b773dfdced457ae4d443b3d0124ae2b203e10f
+snapshot taken: 2026-11-13T13:20:20Z

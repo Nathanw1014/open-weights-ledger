@@ -1,0 +1,3 @@
+repo: https://huggingface.co/deadbydawn101/RavenXAiLabs-Chaos-Agent-Qwen3.8-27B-Frontier-Intelligence-Injected-OBLITERATED-MLX
+main commit at snapshot: 20303f01410ecf92ae492061773362ef3c266c6e
+snapshot taken: 2026-11-13T14:06:02Z

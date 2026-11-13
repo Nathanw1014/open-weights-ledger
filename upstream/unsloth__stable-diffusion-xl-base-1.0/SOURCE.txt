@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/stable-diffusion-xl-base-1.0
+main commit at snapshot: c0ff9a216a2530af6db503fc767ad9ff35d86a66
+snapshot taken: 2026-11-13T13:10:10Z

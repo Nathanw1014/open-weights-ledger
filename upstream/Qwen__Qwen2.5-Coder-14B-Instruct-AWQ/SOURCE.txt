@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-AWQ
+main commit at snapshot: eb3172f06a6d6b3a15f08947b0668d782e4d2d2c
+snapshot taken: 2026-11-13T13:44:38Z

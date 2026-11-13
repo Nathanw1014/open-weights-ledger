@@ -1,0 +1,152 @@
+[
+{
+"Path": "Seed-Coder-8B-Instruct-BF16.gguf",
+"Sha256": "e96e30d0ce7aae86997b9a93f603d2c0adc694c5a03e37ca6543a504a5aaf176",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-IQ4_NL.gguf",
+"Sha256": "b8365f73e4d38121adbf937ca12a83e1e515b3d4c2efd426ee01ce50bda52117",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-IQ4_XS.gguf",
+"Sha256": "8dc160627aebe7a0c8676a3c82bb3ac27a99fbce8e2584c639527fb02ef82476",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q2_K.gguf",
+"Sha256": "0649aead6df5091d87b76a0e377177a1ae30657f31fa1a43cb02e743c439082e",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q2_K_L.gguf",
+"Sha256": "208bc2eff9890e651c45f7080ed7b7c0dc0828d659e429015a0f9ddb3dafd9bf",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q3_K_M.gguf",
+"Sha256": "16e48efa9827f09491358334f14c1e5f312e24fc863edd158d20c1c01e89f6be",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q3_K_S.gguf",
+"Sha256": "fea52a7f68ce2102348449bf3daeac1a50280e47f9da61ab46453aab1d194ab8",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q4_1.gguf",
+"Sha256": "e19af7a2d5e16954a83cd2f2c6979bb48ed59f683604c5ae7575be79fe7f3fd9",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q4_K_M.gguf",
+"Sha256": "cb85a42e65b1efda94d0b341331f647db2dc46539f262d996136d65fc7c4d1fa",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q4_K_S.gguf",
+"Sha256": "41c1051902a32ed189f99737d8de4a1b27cc56f86e90fa10c506c2ab404f8932",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q5_K_M.gguf",
+"Sha256": "a0764f2f674d3bc7340abfb276818dbfb608cf216eaa22c08fccb015bc539a93",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q5_K_S.gguf",
+"Sha256": "d39b1f65264e8121c59fee58b5299b064a0cad8631928f5916295cf008efb4b1",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q6_K.gguf",
+"Sha256": "84a1342d0f9a8a47b7fdddfbed6717ab7e01bb4f8983049576dd802921e430bd",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-Q8_0.gguf",
+"Sha256": "01c1155f633d885e1cfd0f9bce4cea25ee024667af3e0a4d65fa6c432a87621d",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-IQ1_M.gguf",
+"Sha256": "55088558c3d94b4470dcb77e7d10ed3561f90627b684d47854b707364fed90c9",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-IQ1_S.gguf",
+"Sha256": "aefa304d0c9b0cbc0cdda22ed07e16cf9c5ec07a8b3bce040d85fbc17d77c9fd",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-IQ2_M.gguf",
+"Sha256": "97b76c143967e363e1f8367b904999ad4da130d7bb98be29bbfc4f57fd54da69",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-IQ2_XXS.gguf",
+"Sha256": "11ce116990853f112af97c073d7e2f0a55b75d62cddc6078faa9d2e116d37ed6",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-IQ3_XXS.gguf",
+"Sha256": "ee97b91825370eab67ef1addeb3af6048fa8534ddd3e74125feb7e0da190c40d",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-Q2_K_XL.gguf",
+"Sha256": "0080f761029af2fc30d929ed3e7474dace18e48db7d1ca9c5e1a22a166760eee",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-Q3_K_XL.gguf",
+"Sha256": "e17be66596fe67963aa4d370cbcaa5d73696d9062f0cfffe38f42bd268727fe3",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-Q4_K_XL.gguf",
+"Sha256": "9c27187956ab4412d902f3c2b8a6c23626b2fcf44fe6fe650b0bc285d6b2de13",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-Q5_K_XL.gguf",
+"Sha256": "c2d1fc51b67a5d317f0f5753f350c5fac68f23d332a530ee486d7497d875b609",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-Q6_K_XL.gguf",
+"Sha256": "e6a415633f603faddf0b6b94559104268eb09fffa8e9fd73c21f9f6f95ca2242",
+"IsLFS": true,
+"CommittedDate": 1747592571
+},
+{
+"Path": "Seed-Coder-8B-Instruct-UD-Q8_K_XL.gguf",
+"Sha256": "63436f1adf83f2d8a6719dc5920986f88115d733a611549a7ec4f0352b37f1bc",
+"IsLFS": true,
+"CommittedDate": 1747592571
+}
+]

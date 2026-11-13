@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Kimi-K3
+main commit at snapshot: 6095bb6b51abc90e7e8f8804ad4f65be4a441262
+snapshot taken: 2026-11-13T13:23:56Z

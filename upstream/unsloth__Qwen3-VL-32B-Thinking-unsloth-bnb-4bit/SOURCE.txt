@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-32B-Thinking-unsloth-bnb-4bit
+main commit at snapshot: 0cd7182814592eba09790e6ba11b3f4aedd6a3ed
+snapshot taken: 2026-11-13T13:31:21Z

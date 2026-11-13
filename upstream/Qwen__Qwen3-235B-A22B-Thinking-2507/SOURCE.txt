@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507
+main commit at snapshot: 6cbffae6d8e28b986a6b17bd36f42f9fa0f1f0a5
+snapshot taken: 2026-11-13T13:48:06Z

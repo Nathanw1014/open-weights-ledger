@@ -1,0 +1,3 @@
+repo: https://huggingface.co/prithivMLmods/Qwen3.5-9B-Uncensored-ComfyUI
+main commit at snapshot: 63fd25142847beb87204a15a7da795fb27c13c0b
+snapshot taken: 2026-11-13T14:10:22Z

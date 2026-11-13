@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/gemma-4-26B-A4B-it-heretic-ara-GGUF
+main commit at snapshot: 574aefe5e3a820e54304c06aef63f0190c5ec597
+snapshot taken: 2026-11-13T14:07:38Z

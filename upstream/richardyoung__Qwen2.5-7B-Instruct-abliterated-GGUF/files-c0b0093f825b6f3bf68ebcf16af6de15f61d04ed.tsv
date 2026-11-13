@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen2.5-7B-Instruct-abliterated-Q4_K_M.gguf	4683073568	160887bb0e5be0dddd8d306e42f440f955b78f6f4c8ebd357d65e4d00d789051	sha256
+Qwen2.5-7B-Instruct-abliterated-Q5_K_M.gguf	5444831264	849b62caf51668d3bfdb02156a87115cae2d65ebafc3192fd24f9dcea90024cd	sha256
+Qwen2.5-7B-Instruct-abliterated-Q8_0.gguf	8098525216	19c69321a5d52d90ffbb6d783811c45ea6bca1cec7b98f14569afa929982addb	sha256

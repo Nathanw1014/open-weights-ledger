@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF
+main commit at snapshot: f86cb2c1fa58255f8052cc32aeede1b7482d4361
+snapshot taken: 2026-11-13T13:44:54Z

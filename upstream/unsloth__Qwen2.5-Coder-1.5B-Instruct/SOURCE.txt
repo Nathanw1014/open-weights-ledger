@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Coder-1.5B-Instruct
+main commit at snapshot: b9f2b422413d50e652bf90364af0efe50b48f92e
+snapshot taken: 2026-11-13T13:13:16Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-14B-bnb-4bit
+main commit at snapshot: c73c785bf86971fa5bfd0912ca383a714e925210
+snapshot taken: 2026-11-13T13:16:55Z

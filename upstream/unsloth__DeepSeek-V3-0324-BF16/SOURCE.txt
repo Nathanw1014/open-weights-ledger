@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-V3-0324-BF16
+main commit at snapshot: 814ea69b14b23e252f4367b114e73b39b8b05049
+snapshot taken: 2026-11-13T13:37:05Z

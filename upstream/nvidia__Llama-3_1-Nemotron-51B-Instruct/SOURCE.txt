@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3_1-Nemotron-51B-Instruct
+main commit at snapshot: f4d9431910e03eaffbe351ede20cdbb25d9765c2
+snapshot taken: 2026-11-13T13:58:26Z

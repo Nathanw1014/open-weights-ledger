@@ -1,0 +1,152 @@
+[
+{
+"Path": "gemma-3-270m-it-qat-F16.gguf",
+"Sha256": "72bad9b8025d8f5e8402a3a6001aa32fc45c33f908c441206d230e136961f44d",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-IQ4_NL.gguf",
+"Sha256": "da3331f018fe4a6b2177e10b0adf7efeeb0489830df8c21f0481ac00aea08755",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-IQ4_XS.gguf",
+"Sha256": "05fd529db12b362cc6cc70923b2e86b803ab5b03b580652dca44e4865a5ff4cd",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q2_K.gguf",
+"Sha256": "39bcf5a3ef7aedb82d6e51427c33e6af1157b59e27c97ec116d8c36da6b267e4",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q2_K_L.gguf",
+"Sha256": "39bcf5a3ef7aedb82d6e51427c33e6af1157b59e27c97ec116d8c36da6b267e4",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q3_K_M.gguf",
+"Sha256": "49534e094e17f8577ce70b1e1c43fa4063f147ba03800fd78a7028ac220e6afe",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q3_K_S.gguf",
+"Sha256": "fdff3b5e927cc68663b076ba6ad5d389d7ccc4bb82cb9cf3dd3d4c180ad8c1df",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q4_0.gguf",
+"Sha256": "6a60c188b8b2299110904595b6b89a3ff1495f4813f0f0cfc860d2a91d484f28",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q4_1.gguf",
+"Sha256": "d1b71a909777bd5ad1afb6c4a6fd3a595348be66c52d16f0e55d17de05e18b96",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q4_K_M.gguf",
+"Sha256": "2a909280f7414e99c25a9a49bc4a326993c61f775b6efa751f904d06e007bd4f",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q4_K_S.gguf",
+"Sha256": "6b82a892de5773dcacf3ab8474346e2500f3245e02678e811b75b372239fbbde",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q5_K_M.gguf",
+"Sha256": "012ac1e2318006e3ddd3bc6f4443c80e766cbead5029bd0a47eae193ec107086",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q5_K_S.gguf",
+"Sha256": "daf7dce2d4fbf5c712d43c72acbb7f1a5e21d1a85e0653fa6c5bfa61c4ca193d",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q6_K.gguf",
+"Sha256": "a75f58f67bfc5b46f854393f084da58317209a564ac782f344eec79ac540e44b",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-Q8_0.gguf",
+"Sha256": "95595ab89c7261c241545f55ec4d05e99bbe5c2d86b531e99bf8818a6661834f",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-IQ2_M.gguf",
+"Sha256": "9a7ce977a9f617ad164655adcdc57f0703c419bc01c8099a4f1b0f0762580ee1",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-IQ2_XXS.gguf",
+"Sha256": "593b31007a702bae75bb71d59de41ad3a4bbf7236df327870c24540d860a2fa4",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-IQ3_XXS.gguf",
+"Sha256": "6e27702216951e83da3b93a795f2ba5bb15b7dda0adb40980b7218a788a360ee",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-Q2_K_XL.gguf",
+"Sha256": "0dc6f3e1ced8b6babfff86228e1880e1d693ebab9db0bb77ef2e8e01d66a265f",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-Q3_K_XL.gguf",
+"Sha256": "5e20ceac8c4a47d9050930342e612a26df12c7428f2fe1acba8ce9b670e3c32a",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-Q4_K_XL.gguf",
+"Sha256": "4e13f08b2aed074f31ef26d017fc68d461eb57d826e56248fee17c1393281f8a",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-Q5_K_XL.gguf",
+"Sha256": "b2025d03d552c5fd3830920d0a39be8011cd8b65c87be83887c6af36526cee34",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-Q6_K_XL.gguf",
+"Sha256": "07f500451f63afb806c41bcfbdd98bea3c92b4c180381754706777d01296a1e4",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "gemma-3-270m-it-qat-UD-Q8_K_XL.gguf",
+"Sha256": "8709a72f3762923f04748d73bab63a13ce4bb73af8aad9378a762eb3357bf0bb",
+"IsLFS": true,
+"CommittedDate": 1755195033
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "4a6046aef2984535dce25c8ba688808bf655d4a9884c2c5e37543b5e9d3dd294",
+"IsLFS": true,
+"CommittedDate": 1755195032
+}
+]

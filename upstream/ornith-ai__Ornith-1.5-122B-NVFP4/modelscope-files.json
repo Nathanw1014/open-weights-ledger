@@ -1,0 +1,80 @@
+[
+{
+"Path": "assets/ornith_122b_eval.png",
+"Sha256": "c0313d896feb43565d7162733ec6ec308fd4917b3e17b6e9b8fcaf193ea689db",
+"IsLFS": true,
+"CommittedDate": 1792522486
+},
+{
+"Path": "merges.txt",
+"Sha256": "a9d356d7bdf1ef4949e3e748e95b8e10ad9d4e2e838eddc38a0a7b6b94d1db8d",
+"IsLFS": true,
+"CommittedDate": 1792522545
+},
+{
+"Path": "model-00001-of-00008.safetensors",
+"Sha256": "dc83ffdb9ff04655d62df7d5a2d7110c6526a78bdece346e20700bc27841a30b",
+"IsLFS": true,
+"CommittedDate": 1792522545
+},
+{
+"Path": "model-00002-of-00008.safetensors",
+"Sha256": "7f07fba5ddda77649a3d866bdc9e0c0dc6a9d6cf68234f44970d924929440ee2",
+"IsLFS": true,
+"CommittedDate": 1792522552
+},
+{
+"Path": "model-00003-of-00008.safetensors",
+"Sha256": "14fa4a76de39db2ee4125e5d21de3a6db19b469a6f9bede57f5812745502fed3",
+"IsLFS": true,
+"CommittedDate": 1792522552
+},
+{
+"Path": "model-00004-of-00008.safetensors",
+"Sha256": "04ca5c5c7daba493f799d1be0ea1925a114a9b1b575a88638f62a78949324125",
+"IsLFS": true,
+"CommittedDate": 1792522555
+},
+{
+"Path": "model-00005-of-00008.safetensors",
+"Sha256": "719d5e82253274cf07acc4184089ec20fbf8823a07c99b1d602b413977397dbe",
+"IsLFS": true,
+"CommittedDate": 1792522555
+},
+{
+"Path": "model-00006-of-00008.safetensors",
+"Sha256": "e14f0d0707c77f79afead3b8545c5bd02be259e9f3e04e0e8eb199ab64555a82",
+"IsLFS": true,
+"CommittedDate": 1792522556
+},
+{
+"Path": "model-00007-of-00008.safetensors",
+"Sha256": "1930bb3bd5285e323838ab8a4aba6754ba428b9943eb7e3588e027f7727b714d",
+"IsLFS": true,
+"CommittedDate": 1792522556
+},
+{
+"Path": "model-00008-of-00008.safetensors",
+"Sha256": "36630e0e3abaac61539cc320a34f2fc0d37eef916a97f4280548570b12e0e677",
+"IsLFS": true,
+"CommittedDate": 1792522558
+},
+{
+"Path": "model.safetensors.index.json",
+"Sha256": "3e6cfac953b8b618f2d614885c31673edd251ed3c962c5e22140255a28dbd79e",
+"IsLFS": true,
+"CommittedDate": 1792522558
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "5f9e4d4901a92b997e463c1f46055088b6cca5ca61a6522d1b9f64c4bb81cb42",
+"IsLFS": true,
+"CommittedDate": 1792522562
+},
+{
+"Path": "vocab.json",
+"Sha256": "ce99b4cb2983d118806ce0a8b777a35b093e2000a503ebde25853284c9dfa003",
+"IsLFS": true,
+"CommittedDate": 1792522566
+}
+]

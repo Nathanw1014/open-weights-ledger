@@ -1,0 +1,3 @@
+repo: https://huggingface.co/failspy/Meta-Llama-3-8B-Instruct-abliterated-v3
+main commit at snapshot: 85a25be002841fe738a5267b6806473f36f86715
+snapshot taken: 2026-11-13T14:00:27Z

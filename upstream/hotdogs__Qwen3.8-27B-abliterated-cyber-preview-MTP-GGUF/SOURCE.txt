@@ -1,0 +1,3 @@
+repo: https://huggingface.co/hotdogs/Qwen3.8-27B-abliterated-cyber-preview-MTP-GGUF
+main commit at snapshot: 1f021d59cafaa7f251ed2769906b5652f710ea5a
+snapshot taken: 2026-11-13T14:02:43Z

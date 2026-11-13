@@ -1,0 +1,164 @@
+[
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ1_M.gguf",
+"Sha256": "8977bd67f5c14a6fc2a5c31c27f384b04af96c783d944b0ff13541ef924f3034",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ2_M.gguf",
+"Sha256": "71326ef154cf1624189f0a4342742031f7e1708da6f361029640c810be58a3d9",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ2_S.gguf",
+"Sha256": "3e7c4300dcfad1869a4ad61ebc12274d663da380dff7b994cae54504bd9a487d",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ2_XS.gguf",
+"Sha256": "3f492282688570caaf9152d4e963595c5639504caeb465fd3a248e40c47f8247",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ2_XXS.gguf",
+"Sha256": "d3bf6123b111db3fc614398740638f3740d187dc79c6f0f52d805bd1fb3304b5",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ3_M.gguf",
+"Sha256": "69a1f84c6849bb59cd63bbb4997f5349da4fe33933ada8bbad3fa63351519de8",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ3_XXS.gguf",
+"Sha256": "99be7462a88dc1d7cdc3a37dd57187540b058a39db0035ac6957b2971ed3e0c6",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ4_NL.gguf",
+"Sha256": "0a389b67973b09bbc796b1eb4aaad5cea3b8b87f5fdc670d436b2f73ade2bc06",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-IQ4_XS.gguf",
+"Sha256": "ade33e2a26dfc33ffe4ddfdf0ef68327f3430413187cb761c41a43fe176e8cb9",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q2_K.gguf",
+"Sha256": "74c0b3292962cae010b436c77dfaa7b94e18f306e02e92d98d9e712d250b0ab5",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q2_K_L.gguf",
+"Sha256": "d50365f7142badfc715052b792c0645e46862d010da7ab61d55dd964cc0290d3",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q3_K_L.gguf",
+"Sha256": "c6fdab5dc604d66593ff01ed8e114bcf7b89f7ce105dd2845e2ad0571e7ab1ca",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q3_K_M.gguf",
+"Sha256": "d8fa95067557eb8e909a821924979f82462e67bc630b8700d0fe200a72274cd9",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q3_K_S.gguf",
+"Sha256": "eaf6f53eeb8e81bd2867d7a3f525f3d6235c1ba04884912d6f58033c91b1035c",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q3_K_XL.gguf",
+"Sha256": "dab0b2089b2957897aaaf99ffcecc7401d4d958a878e9bdf3bdf3b338ffe3511",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q4_0.gguf",
+"Sha256": "fdec14902948b458844a3eae29d5aef4bfe7d77a6e6b03aacde14b68d22c454b",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q4_1.gguf",
+"Sha256": "da88d01d71743e7ae2bf4b34fe2ab7725a1e184ab963703445dc86c54ec5078b",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q4_K_M.gguf",
+"Sha256": "2ed91d01c4b7a0f33f578c6389d0dd6a64d071b3f7963c40b4e1e71235dc74d6",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q4_K_S.gguf",
+"Sha256": "548eb562beb42adb69110bed777619198f489c0e4a94563919f2e1e6a559f017",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q5_K_M/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q5_K_M-00001-of-00002.gguf",
+"Sha256": "4a9427a3b85530d05e0c185f23df51cb9db4e00380755f26826b4077e00e735a",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q5_K_M/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q5_K_M-00002-of-00002.gguf",
+"Sha256": "b223efff387451ff66b9ef86ef330f49b5594221d3872428b277812dfa659a91",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q5_K_S.gguf",
+"Sha256": "035dd21fff4b2768f9c36d9c7ba6a39b163bf25b52aec0fec63d649fd3172f08",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q6_K/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q6_K-00001-of-00002.gguf",
+"Sha256": "75836ec125eb4ecd9fb7836a639dbbb299a77eb4fbbec0a8c88bf704a323ef18",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q6_K/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q6_K-00002-of-00002.gguf",
+"Sha256": "dd5985744397f4b38eabdfe0bc66c851e03747f0ce03dcd778c6035194a3c92d",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q8_0/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q8_0-00001-of-00002.gguf",
+"Sha256": "351755549fb3413d2eca67bd44c6e12c2c993914a503b3ff11d72db8ce4b7bdd",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q8_0/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-Q8_0-00002-of-00002.gguf",
+"Sha256": "00713e8bcecf20fbccfaa0bf9aaf2286d38e3c15f3c4de131fdd762268429bf6",
+"IsLFS": true,
+"CommittedDate": 1740671838
+},
+{
+"Path": "huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated.imatrix",
+"Sha256": "1e53f7442aacfd4897597b38722c5ca24af1d7f72cef9674fe4ee715fd804c07",
+"IsLFS": true,
+"CommittedDate": 1740671836
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/whisper-large-v3-turbo
+main commit at snapshot: d01a3178cc804b807fed7b3e17531769c47e9665
+snapshot taken: 2026-11-13T13:15:48Z

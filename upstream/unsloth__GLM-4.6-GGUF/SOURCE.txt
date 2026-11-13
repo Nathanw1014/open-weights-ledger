@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-4.6-GGUF
+main commit at snapshot: c4c3a96aa300f9c363994c1613aa590912fa0f77
+snapshot taken: 2026-11-13T13:10:06Z

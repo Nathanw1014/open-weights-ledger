@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-4-340B-Base
+main commit at snapshot: 5d954800b3e45c8234a9c40f4a1479240149eda8
+snapshot taken: 2026-11-13T13:58:41Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/mistral-7b-instruct-v0.1-bnb-4bit
+main commit at snapshot: ce41ab8056bfc8c399ae1429276920914c3c295e
+snapshot taken: 2026-11-13T13:27:55Z

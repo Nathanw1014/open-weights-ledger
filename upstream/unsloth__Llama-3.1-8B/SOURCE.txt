@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.1-8B
+main commit at snapshot: 3f0d51f8e5640f98f1a96ea9044a0e55c0a83814
+snapshot taken: 2026-11-13T13:09:09Z

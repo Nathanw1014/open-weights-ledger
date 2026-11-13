@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Ministral-3-8B-Instruct-2512-GGUF
+main commit at snapshot: 3731507ec3e867db16d620f73e14d689125758f4
+snapshot taken: 2026-11-13T13:08:06Z

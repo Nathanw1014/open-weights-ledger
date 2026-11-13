@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-5.1-GGUF
+main commit at snapshot: 3238253553497e969f3144fda297dac98b99dbbe
+snapshot taken: 2026-11-13T13:16:11Z

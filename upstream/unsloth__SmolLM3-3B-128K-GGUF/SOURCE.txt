@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/SmolLM3-3B-128K-GGUF
+main commit at snapshot: 3d9d3591996644952b74d2efb7b433450fd3da82
+snapshot taken: 2026-11-13T13:13:01Z

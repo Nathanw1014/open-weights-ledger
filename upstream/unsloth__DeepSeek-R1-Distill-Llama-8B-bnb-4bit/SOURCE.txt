@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-bnb-4bit
+main commit at snapshot: 80630da672d7df44498d6d58b2da22f3fb00d98b
+snapshot taken: 2026-11-13T13:16:25Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-Audio-Chat
+main commit at snapshot: 8b1c0dc720d34da5498f93535f416e3590bf3a71
+snapshot taken: 2026-11-13T13:49:46Z

@@ -1,0 +1,2 @@
+checked 2026-11-13T09:31:40Z
+bartowski/Qwen2.5-7B-Instruct-GGUF                    121 GB  2 seeds  magnet:?xt=urn:btih:274f114d59ca3bae570b4ea24c0ba056e81681d3&xt=urn:btmh:1220fbd18618e8995a0abc4723615e30270ec4642dbfcfe716f947fd4c0d4d49884d&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fbartowski%2FQwen2.5-7B-Instruct-GGUF%2F8911e8a47f92bac19d6f5c64a2e2095bd2f7d031%2F

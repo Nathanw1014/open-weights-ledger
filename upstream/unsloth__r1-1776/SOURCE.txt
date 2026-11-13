@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/r1-1776
+main commit at snapshot: ec87419327b1992adb8828c0508e7dd3c9da0abb
+snapshot taken: 2026-11-13T13:39:27Z

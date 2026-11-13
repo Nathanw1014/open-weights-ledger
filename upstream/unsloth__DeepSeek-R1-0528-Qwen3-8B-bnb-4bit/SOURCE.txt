@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-R1-0528-Qwen3-8B-bnb-4bit
+main commit at snapshot: 6115346c3f9243e44d9fcf2737ff78ec59d535b2
+snapshot taken: 2026-11-13T13:26:05Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Krish0.1-27B-OBLITERATED-i1-GGUF
+main commit at snapshot: 0c64882bec84fd14bbf5166502cde83ee5adabef
+snapshot taken: 2026-11-13T14:05:41Z

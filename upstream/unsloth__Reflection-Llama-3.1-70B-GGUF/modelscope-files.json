@@ -1,0 +1,26 @@
+[
+{
+"Path": "Reflection-Llama-3.1-70B.Q2_K.gguf",
+"Sha256": "99d78f449efa12203ca6a81eb5a6ec1c0efffc76bb3c9e436d1c8dea95560226",
+"IsLFS": true,
+"CommittedDate": 1731528984
+},
+{
+"Path": "Reflection-Llama-3.1-70B.Q3_K_L.gguf",
+"Sha256": "3d5a5128d5be7fd829f5a059f82138913e46773591e664944c4c8f555ecac748",
+"IsLFS": true,
+"CommittedDate": 1731528984
+},
+{
+"Path": "Reflection-Llama-3.1-70B.Q4_K_M.gguf",
+"Sha256": "e7ba299fc8dec665e1d125be92632d074c034c29994ba0e4627a66961585899b",
+"IsLFS": true,
+"CommittedDate": 1731528984
+},
+{
+"Path": "Reflection-Llama-3.1-70B.Q5_K_M.gguf",
+"Sha256": "c63e9d8854eb01acb702f58b5ba0b38656fea2a76b0f14bcde0fed0a6da56f5c",
+"IsLFS": true,
+"CommittedDate": 1731528984
+}
+]

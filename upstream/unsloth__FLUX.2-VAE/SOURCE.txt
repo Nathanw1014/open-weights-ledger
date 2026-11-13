@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/FLUX.2-VAE
+main commit at snapshot: bda21a63a9d498e7e718221c75f0a7fed443369f
+snapshot taken: 2026-11-13T13:09:54Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/phi-4
+main commit at snapshot: c6220bde10fff762dbd72c3331894aa4cade249d
+snapshot taken: 2026-11-13T13:16:39Z

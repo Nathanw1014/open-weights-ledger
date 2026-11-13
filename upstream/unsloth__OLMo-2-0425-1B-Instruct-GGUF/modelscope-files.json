@@ -1,0 +1,146 @@
+[
+{
+"Path": "OLMo-2-0425-1B-Instruct-BF16.gguf",
+"Sha256": "0f959a2bbf86eaae11ebc0376b3f5e8a5fda2b67a89010ce7fd1d5ae210b268d",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-IQ4_NL.gguf",
+"Sha256": "b7e531451ab91004c655a41e157f7d0c3b82f497987a706b41dfc0cad686247e",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-IQ4_XS.gguf",
+"Sha256": "a7b28a2e471d7a9d44d2b0bc848292facd19a0e0a7408ceb3b775d6ac116827f",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q2_K.gguf",
+"Sha256": "6534fb78967e33285d5bb0b317c8481edbb6df81114279ed2112c6d990c9947d",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q2_K_L.gguf",
+"Sha256": "7627a89cd20e94fde24e54b81a3ef459fda9de9a21663b9ac12782212558dfc5",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q3_K_M.gguf",
+"Sha256": "0476aa2f9783d4e66e660b3161a33a8309d52ef458f8c33a37c3baa856444c9e",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q3_K_S.gguf",
+"Sha256": "c0ab87b77efae69ea03541d7d103a4b79a672139ab782013483b8c744d45b721",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q4_0.gguf",
+"Sha256": "5aa3c76929d6e10c36596468af41f57c2a4b42db8e75ed030fbf9addac7be463",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q4_1.gguf",
+"Sha256": "0dfab68e7256d13ba8f87733d7785757cec4d5c0185a382d26a470734450ad44",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q4_K_M.gguf",
+"Sha256": "54b26d5388274d038608b42fdf1afb7544d2e51a0fac4d1abf4a8c54a813fbbc",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q5_K_M.gguf",
+"Sha256": "83e7842cf3ebff4e9afcf8da3dcb075b29d5d35d903d5c139cae0078a6118a9a",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q6_K.gguf",
+"Sha256": "27e82b7d557db47f38d90a08e69638ec252ccd9cd178ff6b55de9308b958faa9",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-Q8_0.gguf",
+"Sha256": "00bcc207f9a12df065d2df7ace8042a07cc6463324533251d1bc36f7ff93ac5a",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-IQ1_M.gguf",
+"Sha256": "340cf2523701a967c8236723c27c4342257d7420f193d289619bb4cfc46777d7",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-IQ1_S.gguf",
+"Sha256": "5da3c8405462219ef0ec7eab83cb1250fb05ad3e15036b09a4308d62616fcb3b",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-IQ2_M.gguf",
+"Sha256": "b26c8bba8fcee57ad9343efb9cbee5e1a85d5573797a74a70f2880f834629b32",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-IQ2_XXS.gguf",
+"Sha256": "c103cb3ecf2afce075fd8c33a6f91c2775e10ce17586f0b03bfe56b90ae6f27e",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-IQ3_XXS.gguf",
+"Sha256": "3e1e0688ca856813820e4ef5cd4c494828d5048d5d43a6c24897848e943ea6a7",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-Q2_K_XL.gguf",
+"Sha256": "78be651ee5268a3a9044b3ea1ec8db5efa738ccd92f02a41ea2439cf52b3dd48",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-Q3_K_XL.gguf",
+"Sha256": "152262f25b7d45bdc6df9a7ba0aa006783b06b8b59c060d333552beec679de33",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-Q4_K_XL.gguf",
+"Sha256": "17fa14fdf1b4952d92a959c5d1549d4dc38dd45a82c71dbd854ce289f0d418fa",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-Q5_K_XL.gguf",
+"Sha256": "53e7e9fca05102d5e7456681f840e88eeedb2e413321748a272d44312f1f6a93",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-Q6_K_XL.gguf",
+"Sha256": "a3c540944389bdf66a9bae9b331768b9718ebec8a796f98f19c97f1daef25478",
+"IsLFS": true,
+"CommittedDate": 1746124887
+},
+{
+"Path": "OLMo-2-0425-1B-Instruct-UD-Q8_K_XL.gguf",
+"Sha256": "95bfa6968928e1fe3c2f3281bf2c389ce9f7156283e91fbc71c8044286b93e7c",
+"IsLFS": true,
+"CommittedDate": 1746124887
+}
+]

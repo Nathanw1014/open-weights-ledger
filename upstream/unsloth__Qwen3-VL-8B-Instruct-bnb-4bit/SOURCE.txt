@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-8B-Instruct-bnb-4bit
+main commit at snapshot: 10d842936325905934ea24e64325d774693f166e
+snapshot taken: 2026-11-13T13:15:52Z

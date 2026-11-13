@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-Coder-3B
+main commit at snapshot: 5860becf0623c7cd81f5467a88de66b668a46d6c
+snapshot taken: 2026-11-13T13:23:42Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-V4-Flash-Base
+main commit at snapshot: e469ec2f24acfa5e8cb069ee38e880f93fa23687
+snapshot taken: 2026-11-13T13:40:06Z

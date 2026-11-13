@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo
+main commit at snapshot: fc13ba1986fcb905854dc8de2f52eee395f49b5b
+snapshot taken: 2026-11-13T13:46:32Z

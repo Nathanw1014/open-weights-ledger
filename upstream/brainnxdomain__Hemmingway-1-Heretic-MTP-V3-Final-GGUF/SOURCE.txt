@@ -1,0 +1,3 @@
+repo: https://huggingface.co/brainnxdomain/Hemmingway-1-Heretic-MTP-V3-Final-GGUF
+main commit at snapshot: b34efe64c33ae2081b76ca1fc9dc0b45e3013829
+snapshot taken: 2026-11-13T14:08:28Z

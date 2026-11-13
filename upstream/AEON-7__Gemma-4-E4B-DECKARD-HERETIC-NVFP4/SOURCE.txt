@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Gemma-4-E4B-DECKARD-HERETIC-NVFP4
+main commit at snapshot: 5e71408c2b0a33079fc853049c190cabb4273b19
+snapshot taken: 2026-11-13T14:08:49Z

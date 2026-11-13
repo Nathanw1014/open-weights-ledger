@@ -1,0 +1,86 @@
+[
+{
+"Path": "MiniMax-H3-FP8.pt",
+"Sha256": "67afaf41a71257f14f39dddb7297f90ed8b7913767728ef3a2c77cfe858d9ef9",
+"IsLFS": true,
+"CommittedDate": 1786300536
+},
+{
+"Path": "MiniMax-H3-FP8.safetensors",
+"Sha256": "eaf85d1290bbe38df9d24583228113b76b2f8d9999ecf07cb221d663729b7887",
+"IsLFS": true,
+"CommittedDate": 1791210162
+},
+{
+"Path": "MiniMax-H3-INT8-ConvRot.pt",
+"Sha256": "60d9f152ca812d5e4fb700da977d696bb98cc2d1aebf3eef4994d6ceab488eeb",
+"IsLFS": true,
+"CommittedDate": 1786378158
+},
+{
+"Path": "MiniMax-H3-INT8-ConvRot.safetensors",
+"Sha256": "0e88590120dc8145b876dae6c4ea24e35f9e2f15477eb55494c6cff191f9535e",
+"IsLFS": true,
+"CommittedDate": 1791210162
+},
+{
+"Path": "MiniMax-H3-INT8.pt",
+"Sha256": "2651401a9f7d91c2ef9c2f9ecd94d47bfa80794d32da89ad12303e7b52a02ec8",
+"IsLFS": true,
+"CommittedDate": 1786300542
+},
+{
+"Path": "MiniMax-H3-INT8.safetensors",
+"Sha256": "d8df4188da3aa251b4bbd81e6f5703f511d5eecf82b6fd84e89f63791082fb0d",
+"IsLFS": true,
+"CommittedDate": 1791210162
+},
+{
+"Path": "MiniMax-H3-Ref2VA-FP8.pt",
+"Sha256": "5f49ff7dcc9310c3aeb5470db1151616697acf19c11627793d04bba662d50636",
+"IsLFS": true,
+"CommittedDate": 1786378158
+},
+{
+"Path": "MiniMax-H3-Ref2VA-FP8.safetensors",
+"Sha256": "61fba3503bd65e465928b7020a63ad93cba74149a6cc0d2dcf268c49c918c643",
+"IsLFS": true,
+"CommittedDate": 1791210162
+},
+{
+"Path": "MiniMax-H3-Ref2VA-INT8-ConvRot.pt",
+"Sha256": "c10bbada4743cec6918caee3ad972f2a920cf8d22c6d55ff0c8f3867def297dd",
+"IsLFS": true,
+"CommittedDate": 1786378158
+},
+{
+"Path": "MiniMax-H3-Ref2VA-INT8-ConvRot.safetensors",
+"Sha256": "a0d30b3245c62cf2cefb8265364c599c3ccc0957b209ed6e8f350667dc7a34a6",
+"IsLFS": true,
+"CommittedDate": 1791210162
+},
+{
+"Path": "assets/h3_fp8.gif",
+"Sha256": "b5e70b1497f466084e836f643b39313aff39cb0e9f26c2532d9b67cff2c9f1a5",
+"IsLFS": true,
+"CommittedDate": 1786300549
+},
+{
+"Path": "assets/h3_int8.gif",
+"Sha256": "3f560da572f14f52f06085d362833c41e9dd0d0dda1ea293157108ed2c33a007",
+"IsLFS": true,
+"CommittedDate": 1786300554
+},
+{
+"Path": "text_encoders/official/qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+"Sha256": "bc2ced0fbea64757fa9acddccfc0b3f4819d1dcf1da6c124d690d368be283923",
+"IsLFS": true,
+"CommittedDate": 1792162050
+},
+{
+"Path": "text_encoders/qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+"Sha256": "bc2ced0fbea64757fa9acddccfc0b3f4819d1dcf1da6c124d690d368be283923",
+"IsLFS": true,
+"CommittedDate": 1786803171
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Kimi-Dev-72B
+main commit at snapshot: 747c54a647d24b4bfd1f045fd2a60fd2279380e5
+snapshot taken: 2026-11-13T13:39:47Z

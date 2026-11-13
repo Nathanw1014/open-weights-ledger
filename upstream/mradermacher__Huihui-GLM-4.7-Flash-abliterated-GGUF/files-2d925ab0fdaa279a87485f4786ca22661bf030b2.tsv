@@ -1,0 +1,12 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-GLM-4.7-Flash-abliterated.IQ4_XS.gguf	16164360576	f2a67a1b5805e3a5e472b1ef00c90a30b327d7170a8b0970b52af77fd8da2c72	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q2_K.gguf	11042965888	6f52fe96c8f6e4a2aed58821d1b9225570a5c59129dd37f3a7cc53bb00ed7daf	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q3_K_L.gguf	15591779712	8584e926dd6e6759998f5fc426d098e9d3cbccc9b2cd7c77e62c633bb38bd444	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q3_K_M.gguf	14380019072	660c7be10a6a8648132a7084b842ba5b39459d28617db105676862058644ba09	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q3_K_S.gguf	13034401152	371443679d00f38ac4c70e902847f9d303bc7abe706afd3cbaa190de76662cc8	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q4_K_M.gguf	18132722048	ca247d439725435ad5addc43926d311d0b0cd97cb65a32eb7d5b3ac479bf434d	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q4_K_S.gguf	17072431488	9ef1554d9756855c3661741b83e3a3d6356a528e8c9d80a7402ace4524301df3	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q5_K_M.gguf	21264515456	62719185283df376707a0fcc885a330aff05691409e067be2ecdcc63f462b368	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q5_K_S.gguf	20664287616	ddf7a09775c331822ab85de680b074afe508b784f845cccfedb3a597853bb8a6	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q6_K.gguf	24614786432	2ee3ba055f503ec60256c0fa5c77d010f150827e9a5b84788baaa783a60ffe31	sha256
+Huihui-GLM-4.7-Flash-abliterated.Q8_0.gguf	31842800000	46d025eeff4363dc9c2f9af8224ddcd5b7f6fa40803cb2e0266ae58f8a19229f	sha256

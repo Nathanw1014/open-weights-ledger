@@ -1,0 +1,50 @@
+[
+{
+"Path": "assets/hfagent_chat_1.png",
+"Sha256": "356ea19c2c4a656cae9d55e2d727d1651d1955ec67385615c6582b394478e889",
+"IsLFS": true,
+"CommittedDate": 1710417733
+},
+{
+"Path": "assets/hfagent_chat_2.png",
+"Sha256": "7db53a1a77dfc19072ce418db6df56fd89f9e7cb2e30430ac8320f10fc8a8bc0",
+"IsLFS": true,
+"CommittedDate": 1710417733
+},
+{
+"Path": "assets/hfagent_run.png",
+"Sha256": "fbf4c1232c86e334b5425aacdcc9e7a878100f80d6d70725060cb312bae7d701",
+"IsLFS": true,
+"CommittedDate": 1710417733
+},
+{
+"Path": "model-00001-of-00005.safetensors",
+"Sha256": "0d7f87e0f586c2ae7c5a22851a6d972492595bdd294938342411f2ce400f1aed",
+"IsLFS": true,
+"CommittedDate": 1695620990
+},
+{
+"Path": "model-00002-of-00005.safetensors",
+"Sha256": "4961663d52c95507af779cd6a5bb91c175477ef823d950c49c8688507454daed",
+"IsLFS": true,
+"CommittedDate": 1695620990
+},
+{
+"Path": "model-00003-of-00005.safetensors",
+"Sha256": "117fcd5a2ab112f2899380994498bc290b95639a67f132ddd2e409c20bbb03ff",
+"IsLFS": true,
+"CommittedDate": 1695620990
+},
+{
+"Path": "model-00004-of-00005.safetensors",
+"Sha256": "1b1c3cf6a5be7d1c43e9ced7c385658a588ae3c8eb5dea2390380875acb496f1",
+"IsLFS": true,
+"CommittedDate": 1695620990
+},
+{
+"Path": "model-00005-of-00005.safetensors",
+"Sha256": "86f46b278cb1bd33b7559bd7d3a33a29201234368dfb22462461657fbe20f421",
+"IsLFS": true,
+"CommittedDate": 1695620990
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Reflection-Llama-3.1-70B
+main commit at snapshot: 438c1d856fbe557f62340af09f70fcd6cab495ed
+snapshot taken: 2026-11-13T13:37:29Z

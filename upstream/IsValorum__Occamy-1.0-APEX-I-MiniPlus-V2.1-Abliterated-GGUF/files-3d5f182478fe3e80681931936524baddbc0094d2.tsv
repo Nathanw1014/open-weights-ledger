@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Occamy-1.0.APEX-I-MiniPlus-V2.1-Abliterated.gguf	14751300576	ba40cdc039c6c6d449becd81c7f03721fcdcd3dc01306fc35e8476314d5d3c55	sha256
+mmproj-Q8_0.gguf	614194528	17c9213e22ccf9b1b68c64eb7a4abd4ef5166d6164b7d9720d34e06c309fcd82	sha256
+occamy-1.0-mtp-Q4_K_M.gguf	1260897824	f8b0e6174daa6a2ed82d05f6136870ac86e6762bcd42a00dfffdd3397d9be863	sha256
+occamy-1.0-mtp-Q8_0.gguf	1990649376	ec86c2b80cdd02a5e10de6d201925bb50834433ce12c49e920d2a09a0264bf19	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SC117/occamy-1.0-abliterated-FIT-GGUF
+main commit at snapshot: 3601d771885f8985aaabaeeedf7b64790fbf9b9c
+snapshot taken: 2026-11-13T14:01:42Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-MTP-GGUF
+main commit at snapshot: 5fee44808148828299dec576603a58b74e41a393
+snapshot taken: 2026-11-13T14:09:13Z

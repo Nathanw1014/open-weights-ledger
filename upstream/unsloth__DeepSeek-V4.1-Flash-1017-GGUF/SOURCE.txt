@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF
+main commit at snapshot: 2688c0c3c2c3b052ec4f6d10a8417b0ef7ee4eba
+snapshot taken: 2026-11-13T13:01:52Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen-Image-ComfyUI
+main commit at snapshot: 02996b5342e6b5b91bf53b890d4239b8e07ef0fa
+snapshot taken: 2026-11-13T13:15:24Z

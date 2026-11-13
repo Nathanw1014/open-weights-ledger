@@ -1,0 +1,188 @@
+[
+{
+"Path": "BF16/Ornith-1.5-122B-BF16-00001-of-00007.gguf",
+"Sha256": "17947a2c2ae365cd9bc644c73f5c7a4450f7ee4906dfb2a2e8c0b8aa088f5708",
+"IsLFS": true,
+"CommittedDate": 1792528306
+},
+{
+"Path": "BF16/Ornith-1.5-122B-BF16-00002-of-00007.gguf",
+"Sha256": "99c36b008b0a0038c83dd5fd24454617b94dd3fdc761abed46188f83832abd7b",
+"IsLFS": true,
+"CommittedDate": 1792528306
+},
+{
+"Path": "BF16/Ornith-1.5-122B-BF16-00003-of-00007.gguf",
+"Sha256": "7b45959f9e06df8c54ae7033035dd1c04b9dc6d44c79c7fc0349f408494786d7",
+"IsLFS": true,
+"CommittedDate": 1792528312
+},
+{
+"Path": "BF16/Ornith-1.5-122B-BF16-00004-of-00007.gguf",
+"Sha256": "729c89c1f2011e0c965b6a898b534b0c7707a5ff628777811cc8b9666c8226d3",
+"IsLFS": true,
+"CommittedDate": 1792528312
+},
+{
+"Path": "BF16/Ornith-1.5-122B-BF16-00005-of-00007.gguf",
+"Sha256": "2930d2ee5c2385b820640e3037c9d65836305c3391bd7716a862e2847d9e22ea",
+"IsLFS": true,
+"CommittedDate": 1792528312
+},
+{
+"Path": "BF16/Ornith-1.5-122B-BF16-00006-of-00007.gguf",
+"Sha256": "b27d6631a6a2ac162475d938518c1c2d1b2bb0bbce3714a13e410d4448c5b71c",
+"IsLFS": true,
+"CommittedDate": 1792528314
+},
+{
+"Path": "BF16/Ornith-1.5-122B-BF16-00007-of-00007.gguf",
+"Sha256": "1921823fba149da186dc3d1e504d1650c8d7cb9fb872dbd0e2f94ef64928b2df",
+"IsLFS": true,
+"CommittedDate": 1792528314
+},
+{
+"Path": "Ornith-1.5-122B-UD-IQ1_M.gguf",
+"Sha256": "4715a8d5b5030a9c80ba53792a905f2d356bfcaaec67127ca995932f48c3fd00",
+"IsLFS": true,
+"CommittedDate": 1792528314
+},
+{
+"Path": "Ornith-1.5-122B-UD-IQ2_XXS.gguf",
+"Sha256": "0497778d4f7f5008dec2d4b102183a699faf8433d0102dd143e86f9db13a3adc",
+"IsLFS": true,
+"CommittedDate": 1792529582
+},
+{
+"Path": "Ornith-1.5-122B-UD-IQ3_XXS.gguf",
+"Sha256": "027a9a480e8bcc6079fcf834e368467a169953561fb4b98dc9528d6185c8a438",
+"IsLFS": true,
+"CommittedDate": 1792529582
+},
+{
+"Path": "Ornith-1.5-122B-UD-Q2_K_XL.gguf",
+"Sha256": "93fb32cfb1c31b34df426b4a41d961bdaffcddbbd217d850262136cf3689ba66",
+"IsLFS": true,
+"CommittedDate": 1792529582
+},
+{
+"Path": "Q8_0/Ornith-1.5-122B-Q8_0-00001-of-00004.gguf",
+"Sha256": "e9dbc5401757506c6bbb04dba3bf65decc6435aaf0733f1e95cc58a9332166fc",
+"IsLFS": true,
+"CommittedDate": 1792529883
+},
+{
+"Path": "Q8_0/Ornith-1.5-122B-Q8_0-00002-of-00004.gguf",
+"Sha256": "c1ea340f63c932895417f7c2e7c4967b4b56f3e5a3f981242d0482c662aae2b8",
+"IsLFS": true,
+"CommittedDate": 1792529883
+},
+{
+"Path": "Q8_0/Ornith-1.5-122B-Q8_0-00003-of-00004.gguf",
+"Sha256": "644c26a3d8cab405186ef545e4071b433a23c2a359e45434c822d9c48884eb4c",
+"IsLFS": true,
+"CommittedDate": 1792529883
+},
+{
+"Path": "Q8_0/Ornith-1.5-122B-Q8_0-00004-of-00004.gguf",
+"Sha256": "43bdc1b0cb764b5531d320816fb6004245256a414bfd55f1fdb69e3db42eaa57",
+"IsLFS": true,
+"CommittedDate": 1792529884
+},
+{
+"Path": "UD-Q3_K_XL/Ornith-1.5-122B-UD-Q3_K_XL-00001-of-00003.gguf",
+"Sha256": "d8a23c487741fdac7026e10013fa8e320502cf01048a2333b2db8ba2a9f74fe5",
+"IsLFS": true,
+"CommittedDate": 1792529884
+},
+{
+"Path": "UD-Q3_K_XL/Ornith-1.5-122B-UD-Q3_K_XL-00002-of-00003.gguf",
+"Sha256": "95f76e67ffc49e2b0b4a4dfe5c42269b4b275ecf9e3696f599f3eeac92180323",
+"IsLFS": true,
+"CommittedDate": 1792529946
+},
+{
+"Path": "UD-Q3_K_XL/Ornith-1.5-122B-UD-Q3_K_XL-00003-of-00003.gguf",
+"Sha256": "1c4b52bbb1d45a21b5b7927429a5c80f264c688f2d14ed50ba0b6da0260d4028",
+"IsLFS": true,
+"CommittedDate": 1792529946
+},
+{
+"Path": "UD-Q4_K_XL/Ornith-1.5-122B-UD-Q4_K_XL-00001-of-00003.gguf",
+"Sha256": "7159d31a6a6ce5528500b490880383844c3c9b21fcdaad94e66c9e65233ff359",
+"IsLFS": true,
+"CommittedDate": 1792529946
+},
+{
+"Path": "UD-Q4_K_XL/Ornith-1.5-122B-UD-Q4_K_XL-00002-of-00003.gguf",
+"Sha256": "e66952128394bb4c75554c7e10a12a8b63dd1c7f049d876a02885a946e30c1c3",
+"IsLFS": true,
+"CommittedDate": 1792529948
+},
+{
+"Path": "UD-Q4_K_XL/Ornith-1.5-122B-UD-Q4_K_XL-00003-of-00003.gguf",
+"Sha256": "21325ec18a9e3210eeffada0fc327a25a79171918f1d04f8f0a06b61866ac9ba",
+"IsLFS": true,
+"CommittedDate": 1792529948
+},
+{
+"Path": "UD-Q5_K_XL/Ornith-1.5-122B-UD-Q5_K_XL-00001-of-00003.gguf",
+"Sha256": "8ef82af5830f24e93f1e18b58ec8281f77e6c35542f0965c4de1aa674419a06f",
+"IsLFS": true,
+"CommittedDate": 1792529948
+},
+{
+"Path": "UD-Q5_K_XL/Ornith-1.5-122B-UD-Q5_K_XL-00002-of-00003.gguf",
+"Sha256": "7c8cd3439a301802d9888fe61b4c5206f7ff71d322e8060274b8d8e2839152d1",
+"IsLFS": true,
+"CommittedDate": 1792530337
+},
+{
+"Path": "UD-Q5_K_XL/Ornith-1.5-122B-UD-Q5_K_XL-00003-of-00003.gguf",
+"Sha256": "4399a9fce998b7f3d57cea70eb0dfbc475e2776d73973b8b7dfd985fa421ba1e",
+"IsLFS": true,
+"CommittedDate": 1792530337
+},
+{
+"Path": "UD-Q6_K_XL/Ornith-1.5-122B-UD-Q6_K_XL-00001-of-00004.gguf",
+"Sha256": "45195675714ff99b0b0044e23c0bb2a7b6ab8f3e027baf48b5c995be2e5928c5",
+"IsLFS": true,
+"CommittedDate": 1792530337
+},
+{
+"Path": "UD-Q6_K_XL/Ornith-1.5-122B-UD-Q6_K_XL-00002-of-00004.gguf",
+"Sha256": "5a967c2810f1ed1d8ebe6b4803d99b4e31b700a38253b78726b57551df4d5886",
+"IsLFS": true,
+"CommittedDate": 1792530840
+},
+{
+"Path": "UD-Q6_K_XL/Ornith-1.5-122B-UD-Q6_K_XL-00003-of-00004.gguf",
+"Sha256": "d178535a1f0bb49fe15570a9768152df1e7ada5f851ca71a3f8845cda89d9f44",
+"IsLFS": true,
+"CommittedDate": 1792530840
+},
+{
+"Path": "UD-Q6_K_XL/Ornith-1.5-122B-UD-Q6_K_XL-00004-of-00004.gguf",
+"Sha256": "4c11e6227b6554352c82dbaa31a5c7f12dfabe58d232eadfacea40653c9b2bf2",
+"IsLFS": true,
+"CommittedDate": 1792530840
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "6e5ada71fe8dc6b458d1087e1a753fa3e3b639c7ab207b644e8d11a14dc103ab",
+"IsLFS": true,
+"CommittedDate": 1792530855
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "a5ff159216cd31b8f0c034cae37fb875b6480bd96c62433b6a4109f6ed273904",
+"IsLFS": true,
+"CommittedDate": 1792530855
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "39db176176a904b101f5173a4f03e785990f9279f94ab373c4fd629ae7011817",
+"IsLFS": true,
+"CommittedDate": 1792530860
+}
+]

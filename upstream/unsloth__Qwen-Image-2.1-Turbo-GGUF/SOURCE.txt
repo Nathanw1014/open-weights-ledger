@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen-Image-2.1-Turbo-GGUF
+main commit at snapshot: bd53e520a64472adaff780da0b2f2d7eb1605e30
+snapshot taken: 2026-11-13T13:01:51Z

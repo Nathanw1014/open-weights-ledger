@@ -1,0 +1,164 @@
+[
+{
+"Path": "Llama-3.2-3B-Instruct-BF16.gguf",
+"Sha256": "9b8dce13b6cbcd8b20037bd6383ee8e747b5034ca32f40b5b8ee2efa9ebf56b8",
+"IsLFS": true,
+"CommittedDate": 1745558241
+},
+{
+"Path": "Llama-3.2-3B-Instruct-F16.gguf",
+"Sha256": "db0ebda07c65c6cc6d15fb1c28f0f401fe64003aa88cfbf701be58a1c4122d54",
+"IsLFS": true,
+"CommittedDate": 1731521258
+},
+{
+"Path": "Llama-3.2-3B-Instruct-IQ4_NL.gguf",
+"Sha256": "c559cd2958092a48c7abc7175c9059ef5cdc28336ae737816a0bca8a89a4760b",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-IQ4_XS.gguf",
+"Sha256": "6fca4bfe9ebadd5a4971c8e42b9aae3ec23d7750c95647b797b8803182eab494",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q2_K.gguf",
+"Sha256": "162411ff9b531cb41d1204c5b81c9a52f6d2cf061c77ea645c3750cc59e9016a",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q2_K_L.gguf",
+"Sha256": "162411ff9b531cb41d1204c5b81c9a52f6d2cf061c77ea645c3750cc59e9016a",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q3_K_M.gguf",
+"Sha256": "aa48f1dfafebc0bd0631ffff625804e3641f5e61e8c91c465a556195fbd80376",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q3_K_S.gguf",
+"Sha256": "81bd392ed38532d17f8be3942ec3237747ccc9d91365e6cc31e060be3f0edac8",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q4_0.gguf",
+"Sha256": "18eafaccbd0a63d9f2f5bd9d76e718ff57d8fc6e147d1f753f3975ac4a8938f0",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q4_1.gguf",
+"Sha256": "cbe13240e7f30b7c332e194efeda636c34c8afd424a27e81bda8fc848599807b",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q4_K_M.gguf",
+"Sha256": "6c99cc00ae910f6a532a80022cb4bc1939094527a089c29294b841c0bd87f74d",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q4_K_S.gguf",
+"Sha256": "0fbba6b2d3fb9d319e546e91f7f04c44ce8278f1c2a133ca6db1e76619256be1",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q5_K_M.gguf",
+"Sha256": "8d422c0d21ed241ed701e2a5d4a1d2b580b0d406ba8b3e09605ffe980f2836ed",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q5_K_S.gguf",
+"Sha256": "02b062bbd9c92226e48f4984117b6a543ad1311c183fb99641f6c51b35c08007",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q6_K.gguf",
+"Sha256": "a48f9d72a278835e0b0c00c6c115a3edd1703f5f15713b5f3194bc8b392ea631",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-Q8_0.gguf",
+"Sha256": "f34112a11b7dad74ab517dedf6dcf00d624c9adac2dc0c72c719ca0478554ef2",
+"IsLFS": true,
+"CommittedDate": 1731521258
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-IQ1_M.gguf",
+"Sha256": "bb3c75974b5d7f65669b6294be99e681502845a5f92140f36df60efc0e801ae0",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-IQ1_S.gguf",
+"Sha256": "79820fc5753290039ddcc2740e8780fdaa05335bfac7db44302613af1823e96e",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-IQ2_M.gguf",
+"Sha256": "f0d68bad53dc788c33905e7abeb2930a3a60a4db1c970487ee7bf89c1305376b",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-IQ2_XXS.gguf",
+"Sha256": "71aae376aa27117203ae4311aba8733408a7caf437a7367da8067017f1e8a25d",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-IQ3_XXS.gguf",
+"Sha256": "33d2b042a1bc0ab57b046328a89f27616a973c98fea7ed9163b295bd7afc2073",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-Q2_K_XL.gguf",
+"Sha256": "8b667d186ac6e3f75487dfbe8460b7d6f13554803bb5742324ab5344a014bc6f",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-Q3_K_XL.gguf",
+"Sha256": "2bd5961e61bdfb08cb5dfd150e12c19711934bda2c5a903ceca510f338830942",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-Q4_K_XL.gguf",
+"Sha256": "2ca38452bd9f4348251abbc3f8234ecf0ddf9b96bfcbe639d4375b2721175d0b",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-Q5_K_XL.gguf",
+"Sha256": "d5e8087d72679f1e7fb08ed0185dcfef4acc169eb4c99d9d1860a6bb1bee6db8",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-Q6_K_XL.gguf",
+"Sha256": "8a03b72d9f457e95a2d0d302b4a24bbae04c106be8e2d0c0d4ecf318b528c29f",
+"IsLFS": true,
+"CommittedDate": 1746856222
+},
+{
+"Path": "Llama-3.2-3B-Instruct-UD-Q8_K_XL.gguf",
+"Sha256": "dfc145994336e6c985d51cab1cf706e3995b0807efb0ad29656b9b4ca817025e",
+"IsLFS": true,
+"CommittedDate": 1746856222
+}
+]

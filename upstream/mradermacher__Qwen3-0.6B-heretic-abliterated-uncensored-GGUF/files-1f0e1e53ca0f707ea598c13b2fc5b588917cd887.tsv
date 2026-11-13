@@ -1,0 +1,13 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3-0.6B-heretic-abliterated-uncensored.IQ4_XS.gguf	369278496	25152113b83488e5f20533d5571dc5039b0d34f40bbfaa21486155b0583f95fa	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q2_K.gguf	296238624	71570bdce10d2fff37ed8c7e54d5229165b307b02316a87ea72af6e6cb55bf4b	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q3_K_L.gguf	368492064	a1fa6f0a8be40a8bd2908b68d1da5f5beb181cb4b73f8e81c4a403c64fd4bf1c	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q3_K_M.gguf	347127328	c608cf0df3ccf9512d903e3903066a817337b82e713e23db759b829435e669b4	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q3_K_S.gguf	323075616	728ebc277b08398e21643164dd4779c3d2dc4b2cc6be0f77614651d78cad569d	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q4_K_M.gguf	396705312	5fa566b49cb72d5c9b42029f908dbc37164530b720242d927dc614136125302c	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q4_K_S.gguf	383270432	8ec069dda9953d46ce6b05b3d5513c5bb75b9b43cf20663b0892a3745bd58b4a	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q5_K_M.gguf	444415520	aaec1b1262e88ca3a14e9fcdcbca266517fdaa1bead486c3c24485f797f7fe3a	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q5_K_S.gguf	436616736	60c2c1eb3926a1c51dbe19d1ce32f6f230b932302d671b587446cdb2809389c8	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q6_K.gguf	495107616	9607bf48cf44af84f095d6234bb312d8c5e4576031b89965282417e596cbe234	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.Q8_0.gguf	639447584	a7d6bd3e00bbc2ab41f99bd436dc53b02e613b34855b4750d56370cbb1e8e558	sha256
+Qwen3-0.6B-heretic-abliterated-uncensored.f16.gguf	1198182944	656907147ad4a515d78e8b64d4ff7b80be7bdfbc8690bcb307a364f3d9f6c4d6	sha256

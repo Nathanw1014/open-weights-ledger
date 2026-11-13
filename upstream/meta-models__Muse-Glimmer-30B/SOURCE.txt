@@ -1,0 +1,3 @@
+repo: https://huggingface.co/meta-models/Muse-Glimmer-30B
+main commit at snapshot: cec94fcfd6512f2cfe708138c32533b346ea4f69
+snapshot taken: 2026-11-13T13:54:49Z

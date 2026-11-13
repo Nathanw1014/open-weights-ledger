@@ -1,0 +1,10 @@
+[Unit]
+Description=Open Weights Ledger: scrape Hugging Face hashes and commit
+
+[Service]
+Type=oneshot
+Nice=15
+IOSchedulingClass=idle
+ExecStart=%h/open-weights-ledger/tools/update.sh
+StandardOutput=append:%h/.local/state/open-weights-ledger-update.log
+StandardError=inherit

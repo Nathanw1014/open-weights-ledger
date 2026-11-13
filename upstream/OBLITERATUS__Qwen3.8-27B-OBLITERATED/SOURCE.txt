@@ -1,0 +1,3 @@
+repo: https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: a58c3b53b3ce71551eafde2ed5ec8df48e0f4ff8
+snapshot taken: 2026-11-13T14:04:43Z

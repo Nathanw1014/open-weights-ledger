@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gte-modernbert-base
+main commit at snapshot: a56ccd75fc0d64db16102c2c1c739a67e70e3dce
+snapshot taken: 2026-11-13T13:23:41Z

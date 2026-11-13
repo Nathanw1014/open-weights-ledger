@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-Guard-4-12B
+main commit at snapshot: 07ebbb7bdc44fb45bf710a9a69a82c088085f0c8
+snapshot taken: 2026-11-13T13:15:46Z

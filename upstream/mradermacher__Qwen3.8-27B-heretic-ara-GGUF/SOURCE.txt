@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-27B-heretic-ara-GGUF
+main commit at snapshot: f69c978f262c983cb312395d18bbce340260e89f
+snapshot taken: 2026-11-13T14:07:10Z

@@ -1,0 +1,38 @@
+[
+{
+"Path": "model-00001-of-00005.safetensors",
+"Sha256": "017df76fec88fdb52b1f74c25b4deb5ace0858ef7dac2c1a6b5f55f62352468a",
+"IsLFS": true,
+"CommittedDate": 1733367668
+},
+{
+"Path": "model-00002-of-00005.safetensors",
+"Sha256": "ec6022f551d0b35b8e9e720e5bd767417a93b3831998e1d4bb65ef0aecb51d49",
+"IsLFS": true,
+"CommittedDate": 1733367668
+},
+{
+"Path": "model-00003-of-00005.safetensors",
+"Sha256": "e469da8418e53b091612f299c74b2f86ebeaa46c1bc7fb2ed595bd9d5315af19",
+"IsLFS": true,
+"CommittedDate": 1733367668
+},
+{
+"Path": "model-00004-of-00005.safetensors",
+"Sha256": "5752710c7e9e198e4c0d4933a778aaa78a042ff7f01f268ba4552ec50dc7ff2a",
+"IsLFS": true,
+"CommittedDate": 1733367668
+},
+{
+"Path": "model-00005-of-00005.safetensors",
+"Sha256": "0499f7b6052622856e466db518fead9d0b59679421e311d755a5e1999442da67",
+"IsLFS": true,
+"CommittedDate": 1733367668
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "9c5ae00e602b8860cbd784ba82a8aa14e8feecec692e7076590d014d7b7fdafa",
+"IsLFS": true,
+"CommittedDate": 1732948390
+}
+]

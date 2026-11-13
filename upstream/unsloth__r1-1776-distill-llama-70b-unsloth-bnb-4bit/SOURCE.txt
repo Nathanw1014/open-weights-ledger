@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/r1-1776-distill-llama-70b-unsloth-bnb-4bit
+main commit at snapshot: 3a7b57373649fb451a19cbf4d35904dcfd945496
+snapshot taken: 2026-11-13T13:39:42Z

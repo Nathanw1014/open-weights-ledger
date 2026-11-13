@@ -1,0 +1,3 @@
+repo: https://huggingface.co/soyaakinohara/qwen3.8-27b-abliterated-3.69bpw-12GB-MTP.gguf
+main commit at snapshot: 8cf3088b8c1fdf1121fed4d52fbc46b71e3f7874
+snapshot taken: 2026-11-13T14:01:11Z

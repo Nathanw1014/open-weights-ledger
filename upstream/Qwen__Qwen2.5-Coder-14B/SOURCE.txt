@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Coder-14B
+main commit at snapshot: f2ad5164aade432d6d56c24bb71589184d5d613d
+snapshot taken: 2026-11-13T13:48:36Z

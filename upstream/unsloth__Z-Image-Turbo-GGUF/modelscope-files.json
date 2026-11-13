@@ -1,0 +1,158 @@
+[
+{
+"Path": "assets/Z-Image-Gallery.pdf",
+"Sha256": "6f9895b3246d2547bac74bbe0be975da500eaae93f2cad4248ad3281786b1ac6",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/leaderboard.png",
+"Sha256": "e9fd4aa185bb7bff2b5515f2001b4d80df330595e78d6a098142e5a232bb4e4e",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/reasoning.png",
+"Sha256": "96c16b2c8d8dc67bb92ecc22d54b9955ab55136977f515bb76f4b2eb42eb3cdb",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/showcase.jpg",
+"Sha256": "f6ee74e066e00596e429f5a08140aebae1678e5935ce1e11ca6c1c6cd72432ee",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/showcase_editing.png",
+"Sha256": "7d720c3157fd0b0c1f07ac826c6d380b4bcb1b6933c64eb11bfe804ccf7c26f4",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/showcase_realistic.png",
+"Sha256": "697e6f6857f619314173508df72a14314cbb43e67475de7494123bb8b4f4eb2c",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/showcase_rendering.png",
+"Sha256": "3556dd66be2200d53f957424e12ecf914ddf3eded151cde86c7353f8b231284f",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/sloth_gogh.png",
+"Sha256": "db85b8fbb9b281e406fe59093d17f0976d23a03095e92c40bd016f4aa3899b4c",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/sloth_mall.png",
+"Sha256": "b89f85c9bfae69bbf345aed2de964eb9c2b3fcac5892444e2b6862a85ed76678",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/sloth_sign.png",
+"Sha256": "8564ceb7d329c70b03738b63816a13ca8d35a361d0ba8b0134beebcb8d79d7f3",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "assets/sloth_wes.png",
+"Sha256": "193b98511009a3d100c3ba917ec437639b1092fe4d01cae96ca6e811951624c9",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "z-image-turbo-BF16.gguf",
+"Sha256": "9ccc4fb8b84519b8aa201abcffd900d19ee146b409ae9897625d235b104ef9c5",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "z-image-turbo-F16.gguf",
+"Sha256": "996ed5b13fc124053edec41d3ad8fef3fe1dca0ef3f7aa24b4123d84367d3666",
+"IsLFS": true,
+"CommittedDate": 1766380936
+},
+{
+"Path": "z-image-turbo-Q2_K.gguf",
+"Sha256": "84e9fc7512a783b07b86fa7f096ed0a27d33b1649e3da352bf5303775e6571b3",
+"IsLFS": true,
+"CommittedDate": 1793809662
+},
+{
+"Path": "z-image-turbo-Q3_K_M.gguf",
+"Sha256": "398853e879a1323759ccdf277790d7892680975f929f43f6d2fc852d3d8ab2ab",
+"IsLFS": true,
+"CommittedDate": 1793809671
+},
+{
+"Path": "z-image-turbo-Q3_K_S.gguf",
+"Sha256": "4f875f50f7e7cb7b82ddf4c92906705292702ec9e6d7d8c1fd9d0c9d8ca287b6",
+"IsLFS": true,
+"CommittedDate": 1793809716
+},
+{
+"Path": "z-image-turbo-Q4_0.gguf",
+"Sha256": "3da2a7650cbe4d18857c41ec3c6742c6dfd690c55d47a8b7ab0f01293740eb66",
+"IsLFS": true,
+"CommittedDate": 1793809814
+},
+{
+"Path": "z-image-turbo-Q4_1.gguf",
+"Sha256": "54c1466254bc3e3b346f1bf18b2e5e04b92c7bb46d17a6c9a020697990e530d3",
+"IsLFS": true,
+"CommittedDate": 1793809820
+},
+{
+"Path": "z-image-turbo-Q4_K_M.gguf",
+"Sha256": "4ab6bceb1f0b82c9e725f123848018eac662a6fc1d467c019e13e701afb7b55c",
+"IsLFS": true,
+"CommittedDate": 1793809823
+},
+{
+"Path": "z-image-turbo-Q4_K_S.gguf",
+"Sha256": "e4a5193337b86ebd8e26bacf3d90dbdd4edeafe869a6561f6b78efd493d214aa",
+"IsLFS": true,
+"CommittedDate": 1793809827
+},
+{
+"Path": "z-image-turbo-Q5_0.gguf",
+"Sha256": "902402f967801d43b2b6770541e1ebc808f35f8aa655ac16266ac7947338084b",
+"IsLFS": true,
+"CommittedDate": 1793809830
+},
+{
+"Path": "z-image-turbo-Q5_1.gguf",
+"Sha256": "27ac9e1a858fb21810cb58afaabdf9affe55cbc351eee70fc815bcca49b7920f",
+"IsLFS": true,
+"CommittedDate": 1793809833
+},
+{
+"Path": "z-image-turbo-Q5_K_M.gguf",
+"Sha256": "53b6f401c922192403e362e342d84e80b39703a4debd93a45191b4dcee9a1bff",
+"IsLFS": true,
+"CommittedDate": 1793809837
+},
+{
+"Path": "z-image-turbo-Q5_K_S.gguf",
+"Sha256": "6e6c70d6c441d75e9d9934fb3152c834f5ace37025dd10e1a92702612eaef9e4",
+"IsLFS": true,
+"CommittedDate": 1793809841
+},
+{
+"Path": "z-image-turbo-Q6_K.gguf",
+"Sha256": "6c52dea7308232c378d0d78c8970c0f72d258a4ccee3b81bbab4eb4508d01048",
+"IsLFS": true,
+"CommittedDate": 1793809844
+},
+{
+"Path": "z-image-turbo-Q8_0.gguf",
+"Sha256": "f163d60b0eb427469510b8226243d196574a18139a2e40c017409cfbda95ecfe",
+"IsLFS": true,
+"CommittedDate": 1766380936
+}
+]

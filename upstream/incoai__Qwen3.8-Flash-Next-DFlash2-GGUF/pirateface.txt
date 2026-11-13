@@ -1,0 +1,2 @@
+checked 2026-11-13T09:32:43Z
+incoai/Qwen3.8-Flash-Next-DFlash2-GGUF        3.2 GB  2 seeds  magnet:?xt=urn:btih:2d50f23ec8323e9846469f09e106b8b61fe0457a&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fincoai%2FQwen3.8-Flash-Next-DFlash2-GGUF%2F4f5a39be8f0a9e9a573ac9824251830a8f4096d9%2F

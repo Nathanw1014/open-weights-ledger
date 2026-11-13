@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Adolphsson/DeepSeek-V4.1-Flash-UNCENSORED-GGUF
+main commit at snapshot: 5855a6c8509e8956ed0e7fdfb84e2f50ae13107b
+snapshot taken: 2026-11-13T14:10:38Z

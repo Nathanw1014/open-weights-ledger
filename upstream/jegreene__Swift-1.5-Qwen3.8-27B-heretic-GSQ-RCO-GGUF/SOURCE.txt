@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jegreene/Swift-1.5-Qwen3.8-27B-heretic-GSQ-RCO-GGUF
+main commit at snapshot: 34252ecfc8a553ec89b29cf98193f158e97af2ab
+snapshot taken: 2026-11-13T14:06:21Z

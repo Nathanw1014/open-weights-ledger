@@ -1,0 +1,134 @@
+[
+{
+"Path": "flux2-dev-BF16.gguf",
+"Sha256": "98cdfcb10d6ed5a860f7169fb234138560cda4af158a70848d155d203f0acac4",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-F16.gguf",
+"Sha256": "355b3b0810839c9ad8ffcbb9c6a9ac8493c050e6b4d0c89460cb40829a53ced4",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q2_K.gguf",
+"Sha256": "fcbae186d445c80b216387bb596179813f5c9d480e22c820750b6a04be1fb20d",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q3_K_L.gguf",
+"Sha256": "57cedab6e2b3a2ea1288ba5276d258fb7590ab2088ba839ced9dcf50e16cce89",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q3_K_M.gguf",
+"Sha256": "f7bff7c167402f917cdb77c0c619a833415233f2739c67501abc01003e44f57a",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q3_K_S.gguf",
+"Sha256": "6a626549d7c5a099260c5699e6e385ea959c039cf09531cb1caece0af000f77b",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q4_0.gguf",
+"Sha256": "b750825b6fab2fd491e911d5f99f11e8f3efc9cbf8a2b1225293d26af9c0090a",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q4_1.gguf",
+"Sha256": "6cec0f4f131e23c013f1d749e6688005babeee5acf37493bfaaf6c06b73ef9d5",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q4_K_M.gguf",
+"Sha256": "5f7ac6649e2f5e21a49a6f83931a67530bd887e2d34379c3da1d0f0406501de1",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q4_K_S.gguf",
+"Sha256": "99f19dd46961dcbb185c72d962d34ea8c00488a9b6da0ee5e21dbf1899d863e7",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q5_0.gguf",
+"Sha256": "9d0e70190be3b8d0ee6dd8103694653823f7a25454044ca872913343b11bdd49",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q5_1.gguf",
+"Sha256": "6bf0606386ca72720b453396f198a7150cf1a57a7ac408373ebeca65c2e02600",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q5_K_M.gguf",
+"Sha256": "da8438ae213aa141cec9803551af576abb678715a2d92c9a14712c8692f9908d",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q5_K_S.gguf",
+"Sha256": "a0b01a8577ce4376b65970282238b08af24c0c77327edecc86b26886691bf5db",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q6_K.gguf",
+"Sha256": "0a662e0303d65b7da4741c7bc54bbccd4d7fc17b23e71ced36d177467f4a0ef1",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "flux2-dev-Q8_0.gguf",
+"Sha256": "09d005300dd8dcbbd489bb75ada6254145c84c2c9c3d7cc1829e3c5dedcb42ce",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "jungle_sloth.png",
+"Sha256": "34509e7f6b737e3a51df1ecce976b9b23613ab907030b060b2664ed69229e394",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "pen_sloth.png",
+"Sha256": "58e9aa5ff534d6d0f782647479de1d0c613880eb2385614a714dd14a1457a1da",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "roy_sloth.png",
+"Sha256": "cf1f8ba8ce72d10a716c6d40f4ffd575fc4f89852cd05b738a99c0af939fd9b0",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "teaser_editing.png",
+"Sha256": "c6c1aa92b4b4a3b61f43c42e3d7aa0a6c29d1a6ce150b0a17282a40ec119acdc",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "teaser_generation.png",
+"Sha256": "4df742c27729c240828ca676401f9bbee20ce1baa1b8868b7e50ead7f837d61a",
+"IsLFS": true,
+"CommittedDate": 1765393387
+},
+{
+"Path": "vector_sloth.png",
+"Sha256": "76769c07b541bb1cbcaabfac4572c6838bc4aa0572b587dd9a5354f475bb5ac0",
+"IsLFS": true,
+"CommittedDate": 1765393387
+}
+]

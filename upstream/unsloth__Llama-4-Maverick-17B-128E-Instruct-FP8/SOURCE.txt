@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-FP8
+main commit at snapshot: 11f08874d96b79fa0fd2e23b6771ca0db3d0095f
+snapshot taken: 2026-11-13T13:31:07Z

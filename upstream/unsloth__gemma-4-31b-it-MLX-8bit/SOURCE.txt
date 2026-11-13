@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-4-31b-it-MLX-8bit
+main commit at snapshot: 916f07ca865a29feef20d96a31de3cac830748b1
+snapshot taken: 2026-11-13T13:20:03Z

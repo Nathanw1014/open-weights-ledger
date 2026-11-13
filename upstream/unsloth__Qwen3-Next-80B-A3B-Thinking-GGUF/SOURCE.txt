@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Thinking-GGUF
+main commit at snapshot: 6e6e89e27c5a838dba47ba7b14501183b3d76e10
+snapshot taken: 2026-11-13T13:07:03Z

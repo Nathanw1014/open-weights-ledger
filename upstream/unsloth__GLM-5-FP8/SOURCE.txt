@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-5-FP8
+main commit at snapshot: 56846d2a69f810b9f8108b4979be578dd4bbc96c
+snapshot taken: 2026-11-13T13:33:48Z

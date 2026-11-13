@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Math-7B
+main commit at snapshot: b101308fe89651ea5ce025f25317fea6fc07e96e
+snapshot taken: 2026-11-13T13:46:54Z

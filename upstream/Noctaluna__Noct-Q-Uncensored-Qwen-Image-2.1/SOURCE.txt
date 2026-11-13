@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Noctaluna/Noct-Q-Uncensored-Qwen-Image-2.1
+main commit at snapshot: a81b9af51120a78e285e57906f2250a2a02080e9
+snapshot taken: 2026-11-13T14:09:20Z

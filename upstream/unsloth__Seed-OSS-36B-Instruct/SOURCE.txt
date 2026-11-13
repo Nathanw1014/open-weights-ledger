@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Seed-OSS-36B-Instruct
+main commit at snapshot: fe9987948c1930f87b6955fcc2bab9109bed76ac
+snapshot taken: 2026-11-13T13:39:49Z

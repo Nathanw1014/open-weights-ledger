@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3.3-Nemotron-70B-Reward-Principle
+main commit at snapshot: ac3e237fedc68b1e142b138902a1050dc05bb8df
+snapshot taken: 2026-11-13T13:58:07Z

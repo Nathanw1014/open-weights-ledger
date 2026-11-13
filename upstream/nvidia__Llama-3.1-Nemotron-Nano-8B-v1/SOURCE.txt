@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-8B-v1
+main commit at snapshot: 54641c1611fcff44fa4865626462445e0a153fc7
+snapshot taken: 2026-11-13T13:56:21Z

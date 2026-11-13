@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-4.7-Flash-REAP-23B-A3B-GGUF
+main commit at snapshot: 983a65c63bc7bd37353e5246abc8005b3f72d5ec
+snapshot taken: 2026-11-13T13:07:32Z

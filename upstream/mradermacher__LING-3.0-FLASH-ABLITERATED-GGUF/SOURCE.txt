@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/LING-3.0-FLASH-ABLITERATED-GGUF
+main commit at snapshot: fc9fa98fb64ca192f13640d71ec81939d114c95a
+snapshot taken: 2026-11-13T14:01:07Z

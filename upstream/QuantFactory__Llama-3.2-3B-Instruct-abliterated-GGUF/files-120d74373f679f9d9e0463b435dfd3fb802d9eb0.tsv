@@ -1,0 +1,15 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Llama-3.2-3B-Instruct-abliterated.Q2_K.gguf	1363935552	99b8f47b8cc0e6fac2edef7b14a159ae08e8a25c29402b91ca9421bb115ff368	sha256
+Llama-3.2-3B-Instruct-abliterated.Q3_K_L.gguf	1815347520	4b986e989199bade91c32d6151ec580aa0bd2343278ef5c14ffe934fc63200ee	sha256
+Llama-3.2-3B-Instruct-abliterated.Q3_K_M.gguf	1687159104	c07529c6263ace00e8457da702ea6686a526c22d28048d2aba4d52895f8f0bcc	sha256
+Llama-3.2-3B-Instruct-abliterated.Q3_K_S.gguf	1542848832	01e9ed9ac9161516ea8820fdbca3cd7824abae5aeea141a4dbc64a57019c9cc7	sha256
+Llama-3.2-3B-Instruct-abliterated.Q4_0.gguf	1917190464	06912eff2a9a2505d4f0d2342d80d5c0e4e985a64b4fc9af0ef27a219c484284	sha256
+Llama-3.2-3B-Instruct-abliterated.Q4_1.gguf	2093351232	168f017733e1e14185499b28d60c1cb6462b584bcb38249778db94eb34cf1862	sha256
+Llama-3.2-3B-Instruct-abliterated.Q4_K_M.gguf	2019377472	e1f2b428e316d8bd1cb5ca13e9649329e299d951fbcee6b3cd0e9f1d646c9fa7	sha256
+Llama-3.2-3B-Instruct-abliterated.Q4_K_S.gguf	1928200512	4d89193f8a8ecf593bf3ed0af59b6980d48a7aa77fd55712469256ca3bf83a11	sha256
+Llama-3.2-3B-Instruct-abliterated.Q5_0.gguf	2269512000	90d3726cacbdd3f3c9837fbc755ba97432215837af67ee935201d1e2c0d0b510	sha256
+Llama-3.2-3B-Instruct-abliterated.Q5_1.gguf	2445672768	db2c18fcd36ef9f8af61d3af755ca96cdcbf1be702655a9d6258fac587dd3521	sha256
+Llama-3.2-3B-Instruct-abliterated.Q5_K_M.gguf	2322153792	679509e374244c8796802fa528a912754190f466f462524b416f86d317bcd829	sha256
+Llama-3.2-3B-Instruct-abliterated.Q5_K_S.gguf	2269512000	baeca9e786c0e28917d612320cd4c642afdb041af55aeec3c17e5d4b2300af30	sha256
+Llama-3.2-3B-Instruct-abliterated.Q6_K.gguf	2643853632	e25a296ca0e3f13ecb822dda46dbb486cdc1f5dcd0017c49722486ee78dc697c	sha256
+Llama-3.2-3B-Instruct-abliterated.Q8_0.gguf	3421899072	0de529057e98ad8dc2e6bc85f6a3b57521aaa16a1133233c4fe2477aad8697fd	sha256

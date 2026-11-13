@@ -1,0 +1,32 @@
+[
+{
+"Path": "model-00001-of-00005.safetensors",
+"Sha256": "c394a9e892bdfe4db985cb2d1c7e8b8de39fae759e688d8e2ef9f00b9a0acc5f",
+"IsLFS": true,
+"CommittedDate": 1725542831
+},
+{
+"Path": "model-00002-of-00005.safetensors",
+"Sha256": "97e5e1936d3e10b5df084747affee66d33e96366b0f4c3b1070253a78327a5c2",
+"IsLFS": true,
+"CommittedDate": 1725542831
+},
+{
+"Path": "model-00003-of-00005.safetensors",
+"Sha256": "8afe21acf5543aa6a1183b75b0917e93e544592879ad8fe1982fcecffb06b6af",
+"IsLFS": true,
+"CommittedDate": 1725542831
+},
+{
+"Path": "model-00004-of-00005.safetensors",
+"Sha256": "8a4fc235c354f5e787b9193842e062ca7895752a36b27b65a6fe52a73cf62e2b",
+"IsLFS": true,
+"CommittedDate": 1725542831
+},
+{
+"Path": "model-00005-of-00005.safetensors",
+"Sha256": "e2a028deb2a48c434a3fdb1a54fe491fc41a2b19d5dba0c310bb963816d7d0de",
+"IsLFS": true,
+"CommittedDate": 1725542831
+}
+]

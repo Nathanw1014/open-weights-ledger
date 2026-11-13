@@ -1,0 +1,2 @@
+checked 2026-11-13T09:34:17Z
+unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF                             506 GB  2 seeds  magnet:?xt=urn:btih:50f350639b704a4c566f9d17b6c812c27e75dccc&xt=urn:btmh:1220aa0e4a15f78b7233b8aef5acb11766cab14b5b47e282d3c08bcb100fcf8993c4&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2FQwen3-Coder-30B-A3B-Instruct-GGUF%2Fb17cb02dd882d5b6ab62fc777ad2995f19668350%2F

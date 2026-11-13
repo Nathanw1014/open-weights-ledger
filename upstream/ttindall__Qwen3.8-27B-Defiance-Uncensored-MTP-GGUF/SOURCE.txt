@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF
+main commit at snapshot: 1e664931451831589ce16389a55e0d5605dd4bc5
+snapshot taken: 2026-11-13T14:09:00Z

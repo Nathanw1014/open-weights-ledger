@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/gemma-4-12B-it-abliterated-uncensored-GGUF
+main commit at snapshot: 54b56352d242bd0284f908d801f8a101497f152e
+snapshot taken: 2026-11-13T14:02:28Z

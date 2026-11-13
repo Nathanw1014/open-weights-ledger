@@ -1,0 +1,164 @@
+[
+{
+"Path": "Magistral-Small-2506-BF16.gguf",
+"Sha256": "cb5de1474a7d067f62fe0e5d081cb2d483a73365d3169bdc61d47faf03d8195b",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-IQ4_NL.gguf",
+"Sha256": "fc39587f741779355c899cc30cb5c467ae3bc7cdf00aa0f49c1abc8b25b86b53",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-IQ4_XS.gguf",
+"Sha256": "d511e448d128c7b7dc30ba769eb12d08f89e6a20cbc398f698a6bf8813f1579e",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q2_K.gguf",
+"Sha256": "8a141705d392398b8bfa7a4ba17a56401c44c1a0dd8215bfd1fdfe4b557bd147",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q2_K_L.gguf",
+"Sha256": "236dc189cdc68dad4eb5d796466ef03584c4b5a28b476512990f54c37a89cda9",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q3_K_M.gguf",
+"Sha256": "36ffd0aec10367b15491c4dfe8b5277929efe4a5c265f83ba7e22dc5fcfd42e7",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q3_K_S.gguf",
+"Sha256": "aebb8c69a2fb416448965f6c55d4963dcd68c4951b66b9096705f169c604d731",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q4_0.gguf",
+"Sha256": "8a6231fe0c7c0b8594e823713142c9f87a0ced13f85ba2d68aa1c3090fa107b1",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q4_1.gguf",
+"Sha256": "a9fd52af3101cdcbb4e4dba0cad27a41233dfd74ca6ff78d51b27c8e21eb1b44",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q4_K_M.gguf",
+"Sha256": "3756a84b693e778bcbe206467866882cbf97b57429be184756be69055b04a7de",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q4_K_S.gguf",
+"Sha256": "29ee9ac489869c5b33bfee82fc4513f0757f53d15a16b460f1cf65a46794e714",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q5_K_M.gguf",
+"Sha256": "0051647188c10caadaedfc96e081049b02c4af0d4e541dea5e0018bc6b9e8da6",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q5_K_S.gguf",
+"Sha256": "aebedf60e53fe67add5d589a34864a921fc9f0218990393a0ed5575d3a5ee13c",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q6_K.gguf",
+"Sha256": "f9d421f6db5c447b11eaa09aa4c8b82cbd5e425c6e5146a38f7ea5eba431d6f7",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-Q8_0.gguf",
+"Sha256": "35f5f08215bd7d770f1a1a83b8f454be33132ef73b8f2c507f79a15c2fb58284",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-IQ2_M.gguf",
+"Sha256": "fb73516bcf5360b741a2b251b003e64b7f9573f6bfecf6f8ae945b83294f238d",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-IQ2_XXS.gguf",
+"Sha256": "fbb284dcaed65e005f0166871e5dcf44596c788db5b61c034d0c97cb12dc8f13",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-IQ3_XXS.gguf",
+"Sha256": "f5c7107b7cd5e9eb608968771e45b19b402808e27f217df4d0c6c79f9e27cb8e",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-Q2_K_XL.gguf",
+"Sha256": "0a092d698caeb607e953a113865c0b4400766cd61aa6d9c39120d195456a9b3d",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-Q3_K_XL.gguf",
+"Sha256": "fcacb681b99b02b58829e6578ff617a65e71887a0616e5a8ff7a9628acdb8bf9",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-Q4_K_XL.gguf",
+"Sha256": "aa4e8240378e31dd312bea0f404d3e584f0421fb09bb0f6f5ba55f59f94c7a14",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-Q5_K_XL.gguf",
+"Sha256": "fc76a7a34b69ff385f3a90621a859104e9b6970b8bbc28d913856a57fd0c8eb3",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-Q6_K_XL.gguf",
+"Sha256": "51bef1421d83ea4adc17ba9b12ff73ccec0864da8afbf583d7d931961710fdee",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "Magistral-Small-2506-UD-Q8_K_XL.gguf",
+"Sha256": "65c1ceb51be384d909a08da46ac2e8d1bcd5c2a45c18468d0b4ec608dc24c601",
+"IsLFS": true,
+"CommittedDate": 1749582624
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "26c877400a69146fdaf8b9da566a7d8a283e335c9e17c74360b2af30ff15a40a",
+"IsLFS": true,
+"CommittedDate": 1750031655
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "402640c0a0e4e00cdb1e94349adf7c2289acab05fee2b20ee635725ef588f994",
+"IsLFS": true,
+"CommittedDate": 1750031655
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "fe008d4fa9f135369cdfab450e2267212989fc76d533ef67242d1ccbde449efc",
+"IsLFS": true,
+"CommittedDate": 1750031655
+}
+]

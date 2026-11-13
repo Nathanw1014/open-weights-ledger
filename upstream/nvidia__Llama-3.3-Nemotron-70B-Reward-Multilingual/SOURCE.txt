@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3.3-Nemotron-70B-Reward-Multilingual
+main commit at snapshot: 9be3521d8a8a45ff93c6b7373cb826a445fa0cc0
+snapshot taken: 2026-11-13T13:59:55Z

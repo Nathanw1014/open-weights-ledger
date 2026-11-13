@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Ministral-3-3B-Base-2512
+main commit at snapshot: 509ef8bbe4d607ca9136ddef09fc0547b7b68d9b
+snapshot taken: 2026-11-13T13:32:18Z

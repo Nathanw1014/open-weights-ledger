@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Spark-X2.6-4B-abliterated-BF16-imatrix.gguf	7151840	5faaf027f3bbe499920ce8c08f872b719b3dcd8f1dff3a145376940cf097af47	sha256
+Spark-X2.6-4B-abliterated-BF16.gguf	8229922048	9c2abf3d50e80352516c6478733942d935615dc3ae7362b7e0a6fb14899a7192	sha256
+Spark-X2.6-4B-abliterated-FIT-BALANCED-3G-Q4_K_M.gguf	2695724544	6fc01953c2c13b111fb5efabf2b7c94e916a42c8ad8f28f005378035b6fc28c3	sha256
+Spark-X2.6-4B-abliterated-FIT-COMPACT-2G-IQ4_XS.gguf	2376047104	c40d657f4b96f45ba7d0172cf3cee130109945744e2d153cbacf9ff812accb53	sha256
+Spark-X2.6-4B-abliterated-FIT-MINI-2G-Q3_K_M.gguf	2337421824	0b07e6521b6e6431d1e3832709e66ab51e0df781c4f7903f02b888a3e3de9e89	sha256
+Spark-X2.6-4B-abliterated-FIT-QUALITY-3G-Q5_K_M.gguf	3001768704	321bb2e71f9bbba224fdf0e4d3d7cc89293535cee4feea2fdc0963db909ce4be	sha256
+Spark-X2.6-4B-abliterated-FIT-REFERENCE-3G-Q6_K.gguf	3379174144	15bbbebeada06c5d41cc1768f7fb28b6b23eb4aa513bb31410d1ff7c51274581	sha256
+results/fit-vs-native-en.png	241291	998c17cde55041049682af8b7340037bf3be253ac31ad30b5af5845996e10c1d	sha256
+results/fit-vs-native-zh.png	251783	38a7686f2503565697a98b6aa6ecb73c0a9a35e4764d0e55f3af3e806c936dd4	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Meta-Llama-3.1-70B
+main commit at snapshot: 1b7306651142d0cc65d993076a250a6a82cf046c
+snapshot taken: 2026-11-13T13:19:30Z

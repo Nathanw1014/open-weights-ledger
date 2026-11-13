@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-H-47B-Reasoning-128K
+main commit at snapshot: 18c2a0e52e2d028dd96c3b4252af2a4f8fa54a43
+snapshot taken: 2026-11-13T13:59:02Z

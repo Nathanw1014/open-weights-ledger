@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF
+main commit at snapshot: 3ad712542eb9de349dbd28f2739b69c925cdec7d
+snapshot taken: 2026-11-13T14:09:31Z

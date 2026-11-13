@@ -1,0 +1,50 @@
+[
+{
+"Path": "gemma-4-26B-A4B-heretic-APEX-Balanced.gguf",
+"Sha256": "2e35eb0503d41cf7b1d8cbe01f81aca9fa66c4ff0cebe7fd3dce541751a872c6",
+"IsLFS": true,
+"CommittedDate": 1775374969
+},
+{
+"Path": "gemma-4-26B-A4B-heretic-APEX-Compact.gguf",
+"Sha256": "9e9ecf43792797fb4f8fbf614612f1cd0fa91358c0887054d969e53358568783",
+"IsLFS": true,
+"CommittedDate": 1775374969
+},
+{
+"Path": "gemma-4-26B-A4B-heretic-APEX-I-Balanced.gguf",
+"Sha256": "964d8ce13421263198c06eff327e09c2533213605b298e8404f084a7103cc40b",
+"IsLFS": true,
+"CommittedDate": 1775374969
+},
+{
+"Path": "gemma-4-26B-A4B-heretic-APEX-I-Compact.gguf",
+"Sha256": "ff2e7a1f7949e80ec011dd60b32a0659272fbe7571090754e87f6ca042293c67",
+"IsLFS": true,
+"CommittedDate": 1775374969
+},
+{
+"Path": "gemma-4-26B-A4B-heretic-APEX-I-Mini.gguf",
+"Sha256": "1dee90dc11557a249fd5799886c69a583fbcfd440ac6391dae569f94fd499f1c",
+"IsLFS": true,
+"CommittedDate": 1775374969
+},
+{
+"Path": "gemma-4-26B-A4B-heretic-APEX-I-Quality.gguf",
+"Sha256": "2def9529490558630809bdb1c9f3b82c6b8567409c850bbf4a3eeb5c35986de6",
+"IsLFS": true,
+"CommittedDate": 1775374969
+},
+{
+"Path": "gemma-4-26B-A4B-heretic-APEX-Quality.gguf",
+"Sha256": "d7f4fb465a30704efa9d5ecee19e727404eb466690fa22beec53c98e4e3f2694",
+"IsLFS": true,
+"CommittedDate": 1775374969
+},
+{
+"Path": "mmproj.gguf",
+"Sha256": "fc2ebf4c44528daa2cea7b39891712847ca5e4f87dcf578054a06c46bfe6da27",
+"IsLFS": true,
+"CommittedDate": 1775374969
+}
+]

@@ -1,0 +1,2204 @@
+[
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00001-of-00046.gguf",
+"Sha256": "77600c803d0346093aca2f7118f29011a564bce5335dfc358f037e6d1f942106",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00002-of-00046.gguf",
+"Sha256": "5a0c29f2bfee4096b998e44799207ff79996290a4bf2d3d62fe708781dd6fdd7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00003-of-00046.gguf",
+"Sha256": "0eeccab0598c2652163c021eac3df393a245435a385d9bfb76c6aa2e6d82283f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00004-of-00046.gguf",
+"Sha256": "2efa5c6057951d688407b6c46acde1fdadfd1ebbdf7f33ff0b0f67466cba9850",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00005-of-00046.gguf",
+"Sha256": "72947eefb175501e7933d1cfbc87cd9bab8d27ed03d3dd5c6dbec923ea05a30d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00006-of-00046.gguf",
+"Sha256": "f323c7deb6fa55bbacac223c555a21ddf9804396ab24e1ec5a1d5f13e0a7d76a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00007-of-00046.gguf",
+"Sha256": "a0174b043c83ad11c412ca23070ee5615f58642c3d423c08f2c49a798de3352b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00008-of-00046.gguf",
+"Sha256": "1114b4a1884651e7264c0bf8d9c58ab9379dc1765b4d9b0d94ad57ee47332af5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00009-of-00046.gguf",
+"Sha256": "835ca909a840cd8c61e2dbae15d396d947c70249f4cbce090d9977685bf09f05",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00010-of-00046.gguf",
+"Sha256": "0a7f302639994a160dee0eed4436c259058d7c025b8ed158f6de306ece95b1ae",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00011-of-00046.gguf",
+"Sha256": "4e60106de0f83bd2a7f6cc309ef8842d94d0f2102e63b3467c2944de11c4be8a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00012-of-00046.gguf",
+"Sha256": "c89eed7f3d4aa1b6497bb412bc69a32d787df56938fd9840f00928e7ff5651ab",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00013-of-00046.gguf",
+"Sha256": "5cefeda0d263b48d74e26392b949a83ef928d01306b2408b1b71aa997f0fa7b1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00014-of-00046.gguf",
+"Sha256": "6871d748852554759e6b76c06e5864086079da7b54d2c608038a7eb31e738715",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00015-of-00046.gguf",
+"Sha256": "866902e5ae33740f171cdfaa5af023a23a3fcc8ba769fe174adceaffc39c8eca",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00016-of-00046.gguf",
+"Sha256": "c03ae13ac98b1dfeadd7f422f7a68cf91c2f5ea808a302145062565e4335f169",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00017-of-00046.gguf",
+"Sha256": "1911d57c60bdc47db24aa1f6019374c5d60ebc5d1fa31dbdb5c8f74c8d0446d6",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00018-of-00046.gguf",
+"Sha256": "8292e833e1eef1c571fbf7233b32f416fa384476e0edf47d1eb883488eb412f2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00019-of-00046.gguf",
+"Sha256": "7c294ce246800d34ab9b079da20fe4ac38732a0f29fdf740d54c217dced1ef64",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00020-of-00046.gguf",
+"Sha256": "d9e70292cc3030c06b19fa616f1f658835c9e96ef085fa5190c29365f9bb5e3f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00021-of-00046.gguf",
+"Sha256": "7319f63a84828c77833a91ab8a793d630459d662df7ae88f642c0721e52f4548",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00022-of-00046.gguf",
+"Sha256": "0ab0323636ed49baa8f061d50a1e5e8b70a242bf956730b7926c37bb8bca6271",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00023-of-00046.gguf",
+"Sha256": "8ebd4f3a31844c90e507985001f3629fb2574865f4b4f303e92e5f8c623789d4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00024-of-00046.gguf",
+"Sha256": "99fd5782c87ee2f36a3cf771bf0f7f310419fcddad9b89e2932f3b640e6b6a89",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00025-of-00046.gguf",
+"Sha256": "210bdf482c67c09a366afa96844f44e32fa2a94e45a08cc33fc4d5e87aa9ba5a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00026-of-00046.gguf",
+"Sha256": "96b4c48d19985a98cd6ece99684d4eb5d03ae6b42d2341c6c6691bf33110eb67",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00027-of-00046.gguf",
+"Sha256": "8155c244dbf49d6a8860b439ffe496ad92670119dc1e607c4a9c0fc9a37e80e8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00028-of-00046.gguf",
+"Sha256": "de6210951ddefce88aa5f43a6bf65d57ecdaadda468ae424859c6a97ca3bed29",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00029-of-00046.gguf",
+"Sha256": "09852e9d53d78ffe6e27e53e9625703a9b095024c5ff6b7f9d431c66ccfa7b24",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00030-of-00046.gguf",
+"Sha256": "1b6784173aa9a2f428559154cb390d6c6114663a535be358a38a86de1be57bfc",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00031-of-00046.gguf",
+"Sha256": "b2f182f4e8402eb216ed54f50d709bc10c76805bb8fefec0b1271445baaaf13b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00032-of-00046.gguf",
+"Sha256": "03232f7ae2ab224924b7b3cafd06c2cd760138c7a67105e7f93a9de4c47fa7a9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00033-of-00046.gguf",
+"Sha256": "8f5794072e19952059cdb7b36b5bcc807765298cf81160e1b5614d1cf7731600",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00034-of-00046.gguf",
+"Sha256": "2fffa7c1665cdd85394fbe5661162c5275278ef754f5121a33901360f8143c7b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00035-of-00046.gguf",
+"Sha256": "a033ba5adb339c8c36cb3550533432eb70c7052690beaa3869aab2058b6186a7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00036-of-00046.gguf",
+"Sha256": "d0b4b2e012ab83d0720f43cb69d52e6b892fa8f1a9f7e71b4ea899597d5f4741",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00037-of-00046.gguf",
+"Sha256": "2990f42503f905b8bb1673d63138f87a2c76beb843ab132f384e1720eaef931c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00038-of-00046.gguf",
+"Sha256": "70d6b07ea760333e56f4a4dc198cbd8838d3349334441d8564edcee290b071b1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00039-of-00046.gguf",
+"Sha256": "45d9e636391c0076f3ad6a333f267cead84194e1c6aab4bae642b8ca7ea86aca",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00040-of-00046.gguf",
+"Sha256": "960f9904b23e5752bc6e2cdddc192380aed8d95a3dda99df6ce3de8ef07a0bac",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00041-of-00046.gguf",
+"Sha256": "49d051ecad15b668e758a12219afc5c6a2d2751dc25d92b7931f4a9b243d17ee",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00042-of-00046.gguf",
+"Sha256": "70bc6c568363742d581ed7cf0d1471dea59a32681b034bde85138f4aab9281c4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00043-of-00046.gguf",
+"Sha256": "49ab89f99ec75465025e543debfc71c12ff8a5ab7686915a88d57deeb493f40b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00044-of-00046.gguf",
+"Sha256": "8c6c2d095c6bee89b2a32f6e6ca20a5db2dc99b1ccc2f1cc6de0ee5dfb5de1d7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00045-of-00046.gguf",
+"Sha256": "ffa469d6bc18654dc4b787288f514955bef99e29bd5681a7f22fdfac5e986fa8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "BF16/Kimi-K2-Thinking-BF16-00046-of-00046.gguf",
+"Sha256": "bec4872de83f0b52dfb6010a737026768b286215fdc79c35473eb1904a2d6162",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00001-of-00012.gguf",
+"Sha256": "d5ba66a8a5f90acbcbebaf67b9e7768cd37701d871a096123746db8e39eccb3a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00002-of-00012.gguf",
+"Sha256": "b552381a7d4a9515cf63c589eca076c763506051113a7037e8d0289ee6a5f969",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00003-of-00012.gguf",
+"Sha256": "8c00d21af56f0f7799664c72c4f66acbbc1f165df2ebd9f9dab92d487a1030db",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00004-of-00012.gguf",
+"Sha256": "8f53bef0aed9b833561594fb2d192a475dae6cd4531824fb8e11a2b038feeb33",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00005-of-00012.gguf",
+"Sha256": "a49e4d718969c3afce9b95b986d88f22016051b69262f69e5fe9862ae45c3683",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00006-of-00012.gguf",
+"Sha256": "a189c762a619726c85b2969d5adeda4625989d4f631864c09c4caae59bb1ebd4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00007-of-00012.gguf",
+"Sha256": "f6c74bc5ef3aad13d96241712c93e9be1ebabfe36bec24a8a1334af484fb68a1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00008-of-00012.gguf",
+"Sha256": "3c209c18f05aba56b4e99bdbd1ac05f3e6c202376816d754f0963d6961c07eb8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00009-of-00012.gguf",
+"Sha256": "147f25459a06f4976f030285dfd45640814082d7d29c5c00e0fc73f84da6af37",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00010-of-00012.gguf",
+"Sha256": "cd52ae81dcbb42059e20b550847ef7a5dd15a27255250151f24613fa4642cab3",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00011-of-00012.gguf",
+"Sha256": "26eb17c5eb0c3ba4156a1b45778e2f8cff895f9a7f4f954619a29fb99d7227d4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_NL/Kimi-K2-Thinking-IQ4_NL-00012-of-00012.gguf",
+"Sha256": "4e3f230b90df38b4b165925bd9abb8e53227d82de45be60a2edc2ce3607a5e9c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00001-of-00012.gguf",
+"Sha256": "ac0dd14adfc4faba46ea070bbd86e6057ae8a96799988b86dce0229d692ca82a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00002-of-00012.gguf",
+"Sha256": "840b98b8265b0573f1b574f035b1f780a80526e7e4c25868762e32360e72a8e5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00003-of-00012.gguf",
+"Sha256": "d125ce22d5b39ad896a727da1d1f4e61cb0e6720cbb09ae1ab6ef67d0a64b7db",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00004-of-00012.gguf",
+"Sha256": "31fd3c482bb644238805efa92e1b742804860672ffb278ad053a52f46a26b157",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00005-of-00012.gguf",
+"Sha256": "33837218511fc134ec383f1766677a52e94ae8686c6988802622ba95fb65d097",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00006-of-00012.gguf",
+"Sha256": "1f59a6e805a6e183c071dd62a03a3cf438a7a821cfaed8a3095e4cd8c1d3006b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00007-of-00012.gguf",
+"Sha256": "91f0d0efebbff33cd5265a6fb5df6748dfdbef3f2e7fc7cd88ea2b7f6cd3c088",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00008-of-00012.gguf",
+"Sha256": "81ef5fa309a0f1a182fb15ccccac584e66714480a787378425b98aec233a2d74",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00009-of-00012.gguf",
+"Sha256": "83a3f57183e4791f17850653471e6e752ac4032ad52e740893ee72256ce15d84",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00010-of-00012.gguf",
+"Sha256": "83b2224e0b5ac6882379d38a04970d313d3bc3c99760b5376c6f43e24c9ea057",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00011-of-00012.gguf",
+"Sha256": "ef039f8c5ea222cdc95a760ca3dd7b80ae9f8ce750ff87cc7120245771603380",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "IQ4_XS/Kimi-K2-Thinking-IQ4_XS-00012-of-00012.gguf",
+"Sha256": "7c90ce86ab2fd119054a79605615ab48c476cfe0a77c85de02bb0be201ea62af",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K/Kimi-K2-Thinking-Q2_K-00001-of-00008.gguf",
+"Sha256": "5cff23b53415e79dcce4c3a40d4d2ac91d9ad45d9ea867c21a90473a54747ee8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K/Kimi-K2-Thinking-Q2_K-00002-of-00008.gguf",
+"Sha256": "643e3c7462859a8fc38b764777776dd1babb8c06f3414de6017f5eddfadae219",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K/Kimi-K2-Thinking-Q2_K-00003-of-00008.gguf",
+"Sha256": "5acc72dac282e2db964f3d63d3c5150f4706a662813274dc0cec77daf34a0ce3",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K/Kimi-K2-Thinking-Q2_K-00004-of-00008.gguf",
+"Sha256": "0561519d6639c39fb43da15e4c15889969ce3cca4d3a3d0f540ad46812676616",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K/Kimi-K2-Thinking-Q2_K-00005-of-00008.gguf",
+"Sha256": "30acb7d3a80bff666aced0dcc63f02e192b3aad9bff596d739d134bc57fa004a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K/Kimi-K2-Thinking-Q2_K-00006-of-00008.gguf",
+"Sha256": "1679a5276686fcb8a7b5573c642a897691a38d6de5f15d493ddd03622a49500c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K/Kimi-K2-Thinking-Q2_K-00007-of-00008.gguf",
+"Sha256": "1e9711815b9c6a317898f6fe808b9c2b548f5fbe7d3df4112480b0a9d251c19e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K/Kimi-K2-Thinking-Q2_K-00008-of-00008.gguf",
+"Sha256": "5f9cef81a8abd4231c76363be971f138b6dee7245a257d55633d53cb8d0543ee",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K_L/Kimi-K2-Thinking-Q2_K_L-00001-of-00008.gguf",
+"Sha256": "79a4ec59aa4403c293e7b83cac8fea770fd2f9b4398a459e90fe80cfa0b911c5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K_L/Kimi-K2-Thinking-Q2_K_L-00002-of-00008.gguf",
+"Sha256": "643e3c7462859a8fc38b764777776dd1babb8c06f3414de6017f5eddfadae219",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K_L/Kimi-K2-Thinking-Q2_K_L-00003-of-00008.gguf",
+"Sha256": "5acc72dac282e2db964f3d63d3c5150f4706a662813274dc0cec77daf34a0ce3",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K_L/Kimi-K2-Thinking-Q2_K_L-00004-of-00008.gguf",
+"Sha256": "0561519d6639c39fb43da15e4c15889969ce3cca4d3a3d0f540ad46812676616",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K_L/Kimi-K2-Thinking-Q2_K_L-00005-of-00008.gguf",
+"Sha256": "30acb7d3a80bff666aced0dcc63f02e192b3aad9bff596d739d134bc57fa004a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K_L/Kimi-K2-Thinking-Q2_K_L-00006-of-00008.gguf",
+"Sha256": "1679a5276686fcb8a7b5573c642a897691a38d6de5f15d493ddd03622a49500c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K_L/Kimi-K2-Thinking-Q2_K_L-00007-of-00008.gguf",
+"Sha256": "1e9711815b9c6a317898f6fe808b9c2b548f5fbe7d3df4112480b0a9d251c19e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q2_K_L/Kimi-K2-Thinking-Q2_K_L-00008-of-00008.gguf",
+"Sha256": "5f9cef81a8abd4231c76363be971f138b6dee7245a257d55633d53cb8d0543ee",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00001-of-00011.gguf",
+"Sha256": "5b38fdc3eeffe0f68d80b5c54721814347926b1fcef4f4a8dcf204600b4008e9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00002-of-00011.gguf",
+"Sha256": "c1f6469cb6f6af562ab55445897084e6bb5d5cddaab193ae3be923b77076e99a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00003-of-00011.gguf",
+"Sha256": "5d261448fa515c9521a9db01770b7f9a96761bc7cf377ad195bb98ae460cfb99",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00004-of-00011.gguf",
+"Sha256": "d58fcdfaffeee20189671d5705eba7080fd9c914abdc3a8434a81a0c4d63d4a9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00005-of-00011.gguf",
+"Sha256": "b3f5be820cbaab7407a28b027d1ba1858c9a7dcbe75c3065e5d09ba9698392c6",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00006-of-00011.gguf",
+"Sha256": "bb0a8d9e45007f0f48f3dec1f2f046227751e3711a587a2aa2d06986d9ab64b3",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00007-of-00011.gguf",
+"Sha256": "58d149df0f19ae4c590da10adeee9ed5330655bbabb1ebd4167648942045fa23",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00008-of-00011.gguf",
+"Sha256": "9a9f138dbcf37b05f323931c948e822b68e2339158d5950ec262d769e202aee9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00009-of-00011.gguf",
+"Sha256": "10b43031fd4471fc4d65a1de384fd5d3b426abb8a63f3482352f1bb4b8801e1f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00010-of-00011.gguf",
+"Sha256": "f08e3b1fcd0ee3e8b725efd4fe5f5188d6f87bff7fa184e60438899132820c62",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_M/Kimi-K2-Thinking-Q3_K_M-00011-of-00011.gguf",
+"Sha256": "83a8607c499e6e35f91baf58850979dd0fb0d6cc031935d3fd93533aab7f9cc8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00001-of-00010.gguf",
+"Sha256": "76458e35ac486afae2e125e06ef1207aa6d42ea388736db22cb59723a6d5ed54",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00002-of-00010.gguf",
+"Sha256": "7e222da695e6f16189969d1018b4e89f89fb0f378c6a921fa893c9f09380c87e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00003-of-00010.gguf",
+"Sha256": "3ebee7baea84c213308800a6de69d9007d300987c7a05a0499357d0184fb5ecf",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00004-of-00010.gguf",
+"Sha256": "55e4cc903abe8438ed822f8cbf5ab77e32601899d9a9f819b1cfcc28e31eab5e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00005-of-00010.gguf",
+"Sha256": "0fd55bf208dc8b3b2d19c308916ca709035e3df419330d51b4482c6acca26863",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00006-of-00010.gguf",
+"Sha256": "cfbaa138fe9638c8a9391f7307773570d48bad8d1c42a0f8a187814bfe0e0506",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00007-of-00010.gguf",
+"Sha256": "b25b61df50723d4fb600beb8178ee7893ac0fd5407de3a31b18ecd7380790b34",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00008-of-00010.gguf",
+"Sha256": "07569b1d108aa2cb86f72eee965b3fe3dfc7415af7d9078535b1b5029e4c2bc1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00009-of-00010.gguf",
+"Sha256": "3eb0f7e89fe41706d773824e32b054bec4600903b321b31ae4c4d299d0e1d2a7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q3_K_S/Kimi-K2-Thinking-Q3_K_S-00010-of-00010.gguf",
+"Sha256": "dc8cc93bcb55d8f734d1bd14e89a465d8eac632de87f233dd10344cb1bbfc08d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00001-of-00013.gguf",
+"Sha256": "5347b4f0e0ccbd26468a372e7c784e0d355078772c3c3d9fc46d93407a0f50e2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00002-of-00013.gguf",
+"Sha256": "9ac8725bfbfcd4fba4f4fa1c54f523f1048803a80bca69feaf9d0f6a9c92bd84",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00003-of-00013.gguf",
+"Sha256": "18b16f60b5a0aabf78cd3c1a77c76473a4315cc6ba104b94a14f2ac273d48232",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00004-of-00013.gguf",
+"Sha256": "173e388cdc510627244084b18254df04ce6d5378e0c3776945d86a812f3c3c53",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00005-of-00013.gguf",
+"Sha256": "7ad4d983660a0dae206c10940c8aaa0c54f9e52a0d24c3042aceb2f6f4a6ba1e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00006-of-00013.gguf",
+"Sha256": "0e390929118eb7f90e53f58ab6667e12c405c804f5b4d77aa9098bb41f2b3824",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00007-of-00013.gguf",
+"Sha256": "e15711041d5da08f9987c3bc489be61d30bc4515b041788187a239618c3267ca",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00008-of-00013.gguf",
+"Sha256": "0458ae7535a1ebd9531bacc54915d4d912a7a05d07f07ad45f75cbaad68b110b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00009-of-00013.gguf",
+"Sha256": "4ee05caf9329ec0e006d58b0bd753b5731c4b65dcc68f333e749ef998008bd4e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00010-of-00013.gguf",
+"Sha256": "3fce5130801c611d46c205c2640cfab30ebb909e0ae50863dbaebf339c267b48",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00011-of-00013.gguf",
+"Sha256": "3e5e3c3d2da7bf9f4a87ee61466ace31c661396eff8b6aeae7337a7dc04e3ec1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00012-of-00013.gguf",
+"Sha256": "a3cb0346bff82f42e34148ac683c84eba4044ecef7655839fa052d8296f65a19",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_0/Kimi-K2-Thinking-Q4_0-00013-of-00013.gguf",
+"Sha256": "b5de4f1699293b6871a3264c9e1cc01fbf4622c7700223311383febafd30f6be",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00001-of-00013.gguf",
+"Sha256": "6cb4eda5e89251319d9f577156e4503bae8d7e7227dbd1e64d5da574b1c76899",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00002-of-00013.gguf",
+"Sha256": "03b97e2296ea6636ae51cc51d01adb18746cb5610d5b8c9ad12d895e8e0e8d15",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00003-of-00013.gguf",
+"Sha256": "89af620a99ad72657d1235de742163d146a4bb59e7586b0d2510cf74ee2fe9b7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00004-of-00013.gguf",
+"Sha256": "99d8da837d2ebf66810feb3443de08c2374f2752c639af6f45631c2ee9c071a4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00005-of-00013.gguf",
+"Sha256": "932eea864a0120576b5eb5aeeaf64b6df62ce455c2f8cccf8ab1b7dde543f6aa",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00006-of-00013.gguf",
+"Sha256": "6b724d36db64f555653a32e019574c72c700c870f20b0097afb1f4f72ec4db08",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00007-of-00013.gguf",
+"Sha256": "a55112bd6f0efac6db51849b7b01380c28ab5db8f96f4a331e3848d0848e3986",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00008-of-00013.gguf",
+"Sha256": "9a20777f441c9735553016d6d86ea40451ca6a6ff64835511aaafb82228b11b0",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00009-of-00013.gguf",
+"Sha256": "5fac2a7f7868fcc8c4ccaaa3d6e071273b9f169b947f6efc411658c24cb21988",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00010-of-00013.gguf",
+"Sha256": "70c59cfd18824cfc4f781a34a515c235b1deb2703ebab2c52a6fa0b7317a38fc",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00011-of-00013.gguf",
+"Sha256": "6becd5176fbcc87fca4bf592ffb332d3eda4bc90a4f3649a359d67604161a10f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00012-of-00013.gguf",
+"Sha256": "2dfc0d60cfa1094a9824b14c71432c7a971f76f14a41b609a6a4d228776e83ae",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_1/Kimi-K2-Thinking-Q4_1-00013-of-00013.gguf",
+"Sha256": "39e2b05101814c383d5f7445db5ae55493f1933875d0d60517893105964cddae",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00001-of-00013.gguf",
+"Sha256": "06ee8100cae7af93dfb3e07a3cbe309761dedd222fadff49f7b218612924cec2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00002-of-00013.gguf",
+"Sha256": "6da01a68e03a9e75f2eebd804ad046993fbeaa6346470a0462ee7c44e993af48",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00003-of-00013.gguf",
+"Sha256": "7ce29599fa1fdeb78c5ba620e68ddcb1f4e16e92e057132c70ca76ef752e878a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00004-of-00013.gguf",
+"Sha256": "66438c82a35b7734aa116d5e386b6555cf28f4f34fc89293a3844bda8d0c1788",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00005-of-00013.gguf",
+"Sha256": "616ef7892f554471a8680059e385a81dc787ddf7ad65f1b1de20f75164859322",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00006-of-00013.gguf",
+"Sha256": "be7af0ee14772f5242b824ec726f7f46387114ade6f11c7d41404f6260b91e64",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00007-of-00013.gguf",
+"Sha256": "f3b53b0eaae58983be66ed1e5540ae1a92acc7541d298088967ce14d2a057fb8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00008-of-00013.gguf",
+"Sha256": "eafec014a5bcdde552cdbcf053d8f89b84fef82c27ac4fd94a68a487ce710a37",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00009-of-00013.gguf",
+"Sha256": "16c2034ad1dee6a40845922c004d966fefeb0aabe792da0b17268436078a2254",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00010-of-00013.gguf",
+"Sha256": "25e81710ab933e7e400c793249e2e54b80c6296d6711160aa67b48505c358520",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00011-of-00013.gguf",
+"Sha256": "8386e06f597758085d0919d159f5500fe9832b6233047b1a5f4b129299839fdc",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00012-of-00013.gguf",
+"Sha256": "09bc28aa16105119343abee803688ac5f0a7eeb75163e390226994c4b14b8063",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_M/Kimi-K2-Thinking-Q4_K_M-00013-of-00013.gguf",
+"Sha256": "35b36760dceedf81baadd30231e5438e63932b6b5d1c1cdd3fa9d8a2b9a04a59",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00001-of-00013.gguf",
+"Sha256": "4c5ce4571675131726f0f6a98a91fcb25ba9e43e85bd7a0c83ef5a94e2a84168",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00002-of-00013.gguf",
+"Sha256": "30bdbd8ee8747eadb9da28df839a3882d737f917ab9a9f304cafca0bd5e33d5a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00003-of-00013.gguf",
+"Sha256": "a1df738b6a7c1b4de01996cf5ee638b19fc302d9f70b5947650aaa018cb81f1c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00004-of-00013.gguf",
+"Sha256": "b29b61439c7b265185982b4fb699bac5c767c456c2d426fff44b327f18f30edd",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00005-of-00013.gguf",
+"Sha256": "8a0576fa90f26eae4c40e730957062625f3793ca829e41bc174c4196fce8e7c4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00006-of-00013.gguf",
+"Sha256": "e810381344bcc80c6a09c95addf723502cf8b989ec95498926934f77184d75bd",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00007-of-00013.gguf",
+"Sha256": "56cef1f2cd43009940ebea3fa2b10be8c11e76b94a2d7c165ee761445f05f408",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00008-of-00013.gguf",
+"Sha256": "e53da5cdf1a49d9afc17df36663cf37a17e6e8ddd1d8f81d8bba8ad380cc65e1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00009-of-00013.gguf",
+"Sha256": "cc4b87910f722417dc3a7cdbea8038c21cdfab911340513abfddc0d8d43b451f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00010-of-00013.gguf",
+"Sha256": "6ace454522fa6c04dbde94c7ca74b01f3889e6ec390fc6fec9f3252bf3de96cd",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00011-of-00013.gguf",
+"Sha256": "e3ce381befa4ac54d5fbb47cffc5f30f5aa4d9a9a5cbefbb7aebacc3ecc4d668",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00012-of-00013.gguf",
+"Sha256": "d9166e6cfe6429e47a9fcaf71522c719a3a20b3fdcd6a725e6e065747ea92048",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q4_K_S/Kimi-K2-Thinking-Q4_K_S-00013-of-00013.gguf",
+"Sha256": "bc1b74170d229f53c71158d55b4b2006d745a97430d2cba3dbb35c3a42478f73",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00001-of-00016.gguf",
+"Sha256": "5dd07da2dc749f15ff963feb13d29c90e16b812c79b161bf3bd11971bfb47e5d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00002-of-00016.gguf",
+"Sha256": "676dd53ed081815cbb59206b06b8f61d7883b8207814756e7a4c47f827413d65",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00003-of-00016.gguf",
+"Sha256": "4cae3caf57d48525a02f3f826838b1564566c4b47b5803a8c3aa407694d2c66e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00004-of-00016.gguf",
+"Sha256": "c24f2193d0d7e1958aaefc2e118dfdbb1ee1e521e4de207a077ba72927aee682",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00005-of-00016.gguf",
+"Sha256": "7ce8a33c83811c26a0851f79afe1f9a41864bf03452269778bbdeae2db615d17",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00006-of-00016.gguf",
+"Sha256": "087a0eafb33826f1db8549f7cb2532d51d7dfb023b9279685f4070d587159412",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00007-of-00016.gguf",
+"Sha256": "3b828b9dd6c56a1606c7fb6fcfda0fba9db7e08959048e2c94f13b2fd0e6edef",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00008-of-00016.gguf",
+"Sha256": "6cb1ee9157a68db1d56e9bbbfb908e9e13c51a5ba3306eb7d86e1c38a67bb021",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00009-of-00016.gguf",
+"Sha256": "2338034ead7d24fd0972f9c18b5d49971419f5423b2aa14a5bdf08bb3f93b025",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00010-of-00016.gguf",
+"Sha256": "64bd82463eaa122615f544d53d6eab3e89a2acdd1e7325724cf5cd8b6c31c6a4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00011-of-00016.gguf",
+"Sha256": "43e2257ee8efd769dc6b651415362c04fc2e561769241b22ed7f2135e3c680e2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00012-of-00016.gguf",
+"Sha256": "0aad5d642aae22a8a95082d0d6672adcc8b41ee405daaeb0b9ecc0bc21a8f567",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00013-of-00016.gguf",
+"Sha256": "aa70d5e2041c4fbcfbc37ca9d4afcdaa4079c1304d29344fc7d303f04c755b78",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00014-of-00016.gguf",
+"Sha256": "e1296cc7ec634dd1926481ea7f5510fddcda7bc9c4bb92117ecfd3e0ed4a59ce",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00015-of-00016.gguf",
+"Sha256": "2c022afa8263a6c7e809a5d4887ebbab2856946d572866e64627ce5eae203c45",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_M/Kimi-K2-Thinking-Q5_K_M-00016-of-00016.gguf",
+"Sha256": "670794d04f37672bb6f665108418e7b302543fabbe5c7ad324efe17a6172e171",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00001-of-00015.gguf",
+"Sha256": "51215f0c47f1aa3d70d7491e6025b072045e2eefdc0cd1d6821d33a9d2e9013c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00002-of-00015.gguf",
+"Sha256": "a97d716ec4f143de407422dbf26d73d82762a49fb299354b6ef1fb55d3ac3a97",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00003-of-00015.gguf",
+"Sha256": "14a5e4af71a2bac1adf8ae00071a5b414e76eb42819370d9baff59bf97937b15",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00004-of-00015.gguf",
+"Sha256": "6c81dc83ad807466d7048124674c43a0980ff2ebd5fc14c318c8067717cd9fd7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00005-of-00015.gguf",
+"Sha256": "73870c4e89806dfccfde5c55419452067475b4c28a08a46a3793f39ec88b508e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00006-of-00015.gguf",
+"Sha256": "a6f5f4d4b350e8281b37d62790e5a37e52171d0a6aa86d292cce421807d6b492",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00007-of-00015.gguf",
+"Sha256": "8073b26da9d43a74183521484095bbc5b4d3c6ee1924df4b11cdc1f0738e3989",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00008-of-00015.gguf",
+"Sha256": "461d4b065341549c49d69c6b3413b2d162144c255c590582073deb363110e075",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00009-of-00015.gguf",
+"Sha256": "a00d02f79f6c5a83ba5aff0532d7646289edbb5e3356ebb6d47f1e5ef72a4f4b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00010-of-00015.gguf",
+"Sha256": "04390d2e7a0d300ef882424653363ea66e0d471382f0e6d05fb3cebb26b22dd2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00011-of-00015.gguf",
+"Sha256": "1dc21fbdf857585bdc04a033dfec9c32c70c9e47b759cb41640d0af0e904a925",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00012-of-00015.gguf",
+"Sha256": "89f9924af960f52387d33724507eab95e03259ff9e22d2c79162d54ca97bcce3",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00013-of-00015.gguf",
+"Sha256": "42c71b48320c88092e90f61563ca2e3720329c1dc507c0f7eec306bcee6a468e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00014-of-00015.gguf",
+"Sha256": "58aae26689b42e7a4cecbd235b81cd51d7b91fffb2d0cbb423fb0739331ec6ba",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q5_K_S/Kimi-K2-Thinking-Q5_K_S-00015-of-00015.gguf",
+"Sha256": "1a47eefe791333c214ee759e8fd4653c336da9745cec468eb3a46f9536337d06",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00001-of-00018.gguf",
+"Sha256": "855d79e041e206e4fd483d1d21abd28d96f43991a62444a66600fcc4b6dfaf11",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00002-of-00018.gguf",
+"Sha256": "a91ac792fea4d9e0d47c48ffea71a1a8c7a0e43763747ff7c198442eeb494ca9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00003-of-00018.gguf",
+"Sha256": "2dee3edb09008bf9315b880b31a8057d3f09b5a0c5f39617386b929b0d3b63f7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00004-of-00018.gguf",
+"Sha256": "ceca637cac7abbedfa4e226917cf107b2c5659d534c71e0ab04ccd98cabfcae1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00005-of-00018.gguf",
+"Sha256": "aebf30c9f59f29a07a60181c9228d443c42d8d3728081d12530d43a740af8f1e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00006-of-00018.gguf",
+"Sha256": "3ee2e9fd7a3f56729a59cb23a6961363f4c5e0449513a0c5821e26f8a6068e9e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00007-of-00018.gguf",
+"Sha256": "1ea7fe56cf3db886588cbb6a1d12e2b0ea7c95428c28e630af72a8310c97a144",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00008-of-00018.gguf",
+"Sha256": "9fe210a08f65d6814294acae40aa61f67932b752f87bbc1bebed836ac08dd27d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00009-of-00018.gguf",
+"Sha256": "98ed8809ead9f8052b5ded5e2571e72e96a0945254e15b9654a1abe7a48b26a2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00010-of-00018.gguf",
+"Sha256": "b33d4f266279d1cee5982ce630af11000e42e8a5d33f5d2b00cbc4e5350b56ef",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00011-of-00018.gguf",
+"Sha256": "748edabd94c096a247b3c12cbfa8245d301b3ae0d0d7129e73506c5c707e7980",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00012-of-00018.gguf",
+"Sha256": "d355be4ac3b535ba51c559e011af3c15c2c909655d9bf201b227bddbdf5d467d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00013-of-00018.gguf",
+"Sha256": "c645a565dec354e87f9c22229f446bdbb9b443959773dcbedf402cca5bd1e889",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00014-of-00018.gguf",
+"Sha256": "9c0bdc8699292d6adc27b5b75b2e54fedaf46d127e0c5154f40df043c35b0828",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00015-of-00018.gguf",
+"Sha256": "e76785bd5c2c505fa82f8774e14c1d52b836d3e2fe2e30c24a95fc4c991ff06d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00016-of-00018.gguf",
+"Sha256": "c17e3a9435f1923f6124628c53f2774f5ea98b7cc794a5071a680b1b46c5f2c7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00017-of-00018.gguf",
+"Sha256": "f326928ba8ef35def47b1a76e3138692b8e8a9df9594af1c99debe331a63194c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q6_K/Kimi-K2-Thinking-Q6_K-00018-of-00018.gguf",
+"Sha256": "b3abddd215fd5f10b73acb7a8330b887328b0b8b760cb7351e515cb999cb15a4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00001-of-00023.gguf",
+"Sha256": "9daa62eb04499571f61ee4d83af60d550effe22ef4cc12253fd6cfabc05336a9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00002-of-00023.gguf",
+"Sha256": "a934a002d16ec0b487a65e09dd4fb9fe6f21fe9943703eed0f0ec646daa74ff0",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00003-of-00023.gguf",
+"Sha256": "ab3d5e4c19c7f2eca1e911cd18712b1855f9615440ea6b276800434540918d37",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00004-of-00023.gguf",
+"Sha256": "750c6957eacfb9ad77d38fb5ecf746ede2f5318d73dcf28bc1ab53fc5c87b6c4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00005-of-00023.gguf",
+"Sha256": "2cd5cf44528a81309255a6df6ffc41f765e8f4a29aed143a51b01d0c67b06742",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00006-of-00023.gguf",
+"Sha256": "7559c7938f4a62e011a0f7014917597145d43734a8f3fc17e83161c312828e5d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00007-of-00023.gguf",
+"Sha256": "eb97f60f9e7a6ad1e73cedae2a926c38be117d34b3f6d78a9bc78124f157c9d8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00008-of-00023.gguf",
+"Sha256": "5471d70a7c64f909a1755f38a035fce7b7fa3a02836be24be748caa9e9e83602",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00009-of-00023.gguf",
+"Sha256": "6af0376700c5c00cf3646e36c97e77e7fb1784a2f979f9d90a21aef50cee1b90",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00010-of-00023.gguf",
+"Sha256": "d507d4ab0ef6885d161f9662ac7060239dc47affa84311d2fb0fbddf2b466c53",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00011-of-00023.gguf",
+"Sha256": "13a149accfa9180830eb263c3f7e3173cc3af5b3c3e949a74e89efdb6989543b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00012-of-00023.gguf",
+"Sha256": "6071671e76542ea4cd594b839990ee0e092f04b672b946e856d3cfc10c94a0f6",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00013-of-00023.gguf",
+"Sha256": "4696a9da5c0cbaf9af9370e78a5089b67adc45e7832bf5a27e2d4ec256fb07f2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00014-of-00023.gguf",
+"Sha256": "e2f20ffea66a0282e5fd413c398f91ee972b2b17888d777d29765883686d6f35",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00015-of-00023.gguf",
+"Sha256": "8fd01c42c949f952f8c22d3add5de249b4bf93840da29ccd3f15b1de30fe6d0f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00016-of-00023.gguf",
+"Sha256": "faf6c273d9910e48582d4f0f38ca0c3488c9f289706e9ea1a466b8b58f9b0d3d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00017-of-00023.gguf",
+"Sha256": "f44a4275610df1c9ecc17a8e34aea864cd81e858aca356abc9712cb3081d065c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00018-of-00023.gguf",
+"Sha256": "f495ac61eb09a173fc7fde6bf4c9d0186f69f84a299ccb59b5b3fcf9fcf2373c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00019-of-00023.gguf",
+"Sha256": "f2445a4425d08bca4f6159edcd45907cd911b160adccc2060815d6e250b62558",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00020-of-00023.gguf",
+"Sha256": "0306e303ba1841a675063f6db1a0e85c4054453bf5e448eda0eb4c106a7d1bba",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00021-of-00023.gguf",
+"Sha256": "50c07f1f60fad81210a6e9a427825767d93580a0b17d40716f973cdb0edaf79d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00022-of-00023.gguf",
+"Sha256": "4c028aaf028f402d55a69500759071adfefa964528bac72759c6191927b863d0",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "Q8_0/Kimi-K2-Thinking-Q8_0-00023-of-00023.gguf",
+"Sha256": "848f0088209ca88c8cffad02e027f93bc6dd53db31b622a3f30ae8452cb9b929",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2-Thinking-UD-IQ1_M-00001-of-00007.gguf",
+"Sha256": "9b592554d8b114454960c8dd61ed3f58e1df5e6f188c4fed7c44463f4074492a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2-Thinking-UD-IQ1_M-00002-of-00007.gguf",
+"Sha256": "9b805e31667a55925835fc998b330954393266237e59956eff6ec85d4955d5cd",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2-Thinking-UD-IQ1_M-00003-of-00007.gguf",
+"Sha256": "faec774e2328c2e07591485219371e311a2ab3e35e06065b1ea35cd033b48964",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2-Thinking-UD-IQ1_M-00004-of-00007.gguf",
+"Sha256": "fb0417a9ecc97560d38ebb28086fbecb5845be8aae8387c35457d1fa592b8c87",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2-Thinking-UD-IQ1_M-00005-of-00007.gguf",
+"Sha256": "70f7dd58fdfc808d80f7b5ed83005234cfc7a1681cf72417e4b087389abc2abd",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2-Thinking-UD-IQ1_M-00006-of-00007.gguf",
+"Sha256": "8b6ce5b8f43e803dee635bc2ebbf4ded1a174791ea2e14a52a838bced76a8b8b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_M/Kimi-K2-Thinking-UD-IQ1_M-00007-of-00007.gguf",
+"Sha256": "e026002080232e565979f004f7e94dcf7de81908152690a71caaa9275720ddb5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_S/Kimi-K2-Thinking-UD-IQ1_S-00001-of-00006.gguf",
+"Sha256": "8bf7aea3bfa095e7ead76093836fe254dfa06262e116eb8c6ce83a98b5d44169",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_S/Kimi-K2-Thinking-UD-IQ1_S-00002-of-00006.gguf",
+"Sha256": "b3ad9cfd516228e4ba485dc1c21f3aeb1dedb51b7d5b0ee97944b0a5da862ebe",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_S/Kimi-K2-Thinking-UD-IQ1_S-00003-of-00006.gguf",
+"Sha256": "d71c69b688ea7aa56cc5f7e4c3b72c28345af62eea70d52d94761fa62d141af7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_S/Kimi-K2-Thinking-UD-IQ1_S-00004-of-00006.gguf",
+"Sha256": "c95318d9d152fe0af0b3620e6d894fcba766d57a970d19932bc788369298b4e0",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_S/Kimi-K2-Thinking-UD-IQ1_S-00005-of-00006.gguf",
+"Sha256": "38ee05c71b7d14210cc1abda4f481fb9ec12b625459005028822570e936b8317",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ1_S/Kimi-K2-Thinking-UD-IQ1_S-00006-of-00006.gguf",
+"Sha256": "93968fb93a98d5dc3603c93770f244f8718686bc7057cec8175d6be29aaa59d1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2-Thinking-UD-IQ2_M-00001-of-00008.gguf",
+"Sha256": "75c1e0870ebdab3abb5ef4d17e0cf238a6067ab7b9150b4c7efa76a79a37efd9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2-Thinking-UD-IQ2_M-00002-of-00008.gguf",
+"Sha256": "b5d38da1c1fda3d859f3e9feec725eb01855d545529417a0c1af4293267487e8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2-Thinking-UD-IQ2_M-00003-of-00008.gguf",
+"Sha256": "64d043b0ffb3f4eb07bed045d734f6ded0f122f54912269898169a7b3a96c21a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2-Thinking-UD-IQ2_M-00004-of-00008.gguf",
+"Sha256": "e5ad7c0d35d9e33b75486b14cc2eb0f4e031afd73e2d8b699efb311f96bc8be5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2-Thinking-UD-IQ2_M-00005-of-00008.gguf",
+"Sha256": "5e7b51a7b5f00cd647a5231f67e5b034b3b073eb23441d4e8065f04c4af94d5a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2-Thinking-UD-IQ2_M-00006-of-00008.gguf",
+"Sha256": "4febfd928c944e59a5fbea4c246da2f5167d7f27acc9ada754c01141b95bce7a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2-Thinking-UD-IQ2_M-00007-of-00008.gguf",
+"Sha256": "6101f953d71062c444020005e1676ec201ebea01faf7121e0fbbb5d972a42482",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_M/Kimi-K2-Thinking-UD-IQ2_M-00008-of-00008.gguf",
+"Sha256": "f9d6ba25fabf1bd7197858f08322f929db2467a9898bb0162571afdd97f237e6",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2-Thinking-UD-IQ2_XXS-00001-of-00007.gguf",
+"Sha256": "16bc8ebd091bb6aefb6565fdb4109a368e6e37d51de98b524ec187f936297102",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2-Thinking-UD-IQ2_XXS-00002-of-00007.gguf",
+"Sha256": "b8a6fe0e2649ef0484331ffac6a7d61951a0e8f0d5fdeb3d420ad728c2908dba",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2-Thinking-UD-IQ2_XXS-00003-of-00007.gguf",
+"Sha256": "01fe7891b098e797ee3f202953b61197d05b38fa6d54c94d9ce1e76dfe74714c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2-Thinking-UD-IQ2_XXS-00004-of-00007.gguf",
+"Sha256": "097015ae374482323698753a3fe0a94e4bed54ea09e6342679bcdc7c551436fe",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2-Thinking-UD-IQ2_XXS-00005-of-00007.gguf",
+"Sha256": "053a779b5a5a31def3a6eec8ecbf8679b8fbd16eb1c6d4a46aac5ad28fef3989",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2-Thinking-UD-IQ2_XXS-00006-of-00007.gguf",
+"Sha256": "904f693e1ce03b52ba37112153a1e8dce55cfc2cf3c4389bad49e1e305a5ea4f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ2_XXS/Kimi-K2-Thinking-UD-IQ2_XXS-00007-of-00007.gguf",
+"Sha256": "84e3bda5439316e3d4afe1cc8f36f949b953803a7be73b9e3beaecbdd224c91d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00001-of-00009.gguf",
+"Sha256": "00c4aac21e02d9eb0c442f5bca7301a7977b1d6923ea23ff4bf00542dd97d536",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00002-of-00009.gguf",
+"Sha256": "6b68ac4e0fea9162d1153e7b19a47ce55ce3e7032635bf58d15630413bfc66de",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00003-of-00009.gguf",
+"Sha256": "8fe038e37ad73bb981023b2954d3bc33940d2c4057dfb97230f1c029f15acb53",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00004-of-00009.gguf",
+"Sha256": "2c421b24646859492299683ba2967ef8ef937257fa1f6765c26093dc6b44dca7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00005-of-00009.gguf",
+"Sha256": "4dc1d8bc7f17d2e63c9ecb05df439a2219a739871c42d69a8e9657e2da6a0c15",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00006-of-00009.gguf",
+"Sha256": "0eee4c238aa50e49f11d9d949012f46f48fca2b0b088536fe4e798829b7e8fad",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00007-of-00009.gguf",
+"Sha256": "1cfbb58e6483dbc981a18888781df1df2347eeb11e3adc751055f88732775cf6",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00008-of-00009.gguf",
+"Sha256": "f0b05f7f94ed5ba18d4c293da6fae27a06df0a0baf14b2307bbaf7d851100d7b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-IQ3_XXS/Kimi-K2-Thinking-UD-IQ3_XXS-00009-of-00009.gguf",
+"Sha256": "358c8f95af950fbf4b84dc43d923ea74be8c91b6b8ea84c979a5a9f92a9ac723",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2-Thinking-UD-Q2_K_XL-00001-of-00008.gguf",
+"Sha256": "0690916351a38d7168e33235ae0befea5f31dc99d8b0670448fdd3501e1bc387",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2-Thinking-UD-Q2_K_XL-00002-of-00008.gguf",
+"Sha256": "e439052d4c4021803dde6ade3650b3e36c731bc9ac7e71f7fa5a1157bd177520",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2-Thinking-UD-Q2_K_XL-00003-of-00008.gguf",
+"Sha256": "5111dd5b39e9537afae23294c673ecbe1fe5238ed51f44355f363691e9115038",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2-Thinking-UD-Q2_K_XL-00004-of-00008.gguf",
+"Sha256": "4082ca8976005d203f368fa72884c5893b7fdd5980ff11e394ae6d722ae94348",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2-Thinking-UD-Q2_K_XL-00005-of-00008.gguf",
+"Sha256": "cc7e1b78ec457204ecc4b5b3b734cfa2859071439e3e94fe9456135bd6f431cd",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2-Thinking-UD-Q2_K_XL-00006-of-00008.gguf",
+"Sha256": "5bbac81e2bab03d26e9ae17be8a0f7a156fd3ea12dc6af0d3d33fe5c97f17113",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2-Thinking-UD-Q2_K_XL-00007-of-00008.gguf",
+"Sha256": "de70a97ea80ad68501af5bdd48bd82952e20e19b47059aac3ee3f3b0f8903926",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q2_K_XL/Kimi-K2-Thinking-UD-Q2_K_XL-00008-of-00008.gguf",
+"Sha256": "0967698517f65a7e7c1a0231ceb7e5f1e3f39eaef1028849e80a28b355baad23",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00001-of-00010.gguf",
+"Sha256": "17920be43fc14b9a52dca79fb632f3dca04bb01b7825bd07dc4f399bc958c112",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00002-of-00010.gguf",
+"Sha256": "c495072ba7be5c0e05a3b1c5005c4114b33bd7def7441cdd8830b7fe0f4b1be9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00003-of-00010.gguf",
+"Sha256": "dcab21875490cc2029b288521e1711f7cedb0fad25c199b2a5afd2c15da6fbf4",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00004-of-00010.gguf",
+"Sha256": "50fbaafa570c626f719d38df1aaf0fb066bc400ecc1873aa508bf67636febf91",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00005-of-00010.gguf",
+"Sha256": "80c4427c6027a74ec0875a3508eb4daf77987cb65edd778198afbbe0b0ea4d5c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00006-of-00010.gguf",
+"Sha256": "db34ab8a492580fa9d1d028620a5df13ed821450a91cc832349b80fe38a71445",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00007-of-00010.gguf",
+"Sha256": "874014497621653c018d9042fdcf3ff46e0a1972f3b04ba06574644de0d56857",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00008-of-00010.gguf",
+"Sha256": "6025ff36cc42bafecd0f6be9de5bbd80616a95175034d0e65688476e6d96b30a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00009-of-00010.gguf",
+"Sha256": "2295e1d526ea227a50d5f7d1161b5d0358b0c4b7f125f027c0c86a037099bb14",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q3_K_XL/Kimi-K2-Thinking-UD-Q3_K_XL-00010-of-00010.gguf",
+"Sha256": "d45a5b5f195c4996d782691aa6c37ff114f4cfdea2721849005bfc17007800f5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00001-of-00014.gguf",
+"Sha256": "ff3b63a267f7f6aa676cd708c43f85807d6466f1d0f399e10795e86014f68050",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00002-of-00014.gguf",
+"Sha256": "02c056083610217861ca81b22f5e70e330dd5436b4173fbc5547f916e84dee40",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00003-of-00014.gguf",
+"Sha256": "bc964a770cafbda5fd0a124d0353d8c4cfdf72222eae0cb5a05d8cd587fc9bb2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00004-of-00014.gguf",
+"Sha256": "48e6c7b2766cf2b52bf37ab6458bfd3a97b99e72c606b04fde1cf1318836d76b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00005-of-00014.gguf",
+"Sha256": "9c0f40d8d4fd86fe5d73161a6c72254e8cff659889dfaed689db9445cb9fbc39",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00006-of-00014.gguf",
+"Sha256": "16e46e1881595e009f3377fff008a74501c4e3fa2ef4f8b5333818a346a50756",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00007-of-00014.gguf",
+"Sha256": "1cf0d3673253307fed8c413fec95dcd60db186625cd5a99322534bde6afac44e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00008-of-00014.gguf",
+"Sha256": "cf40639f8e088c1b00371b367f04d98ea3429fa5e14fe7ead1711f433309596b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00009-of-00014.gguf",
+"Sha256": "17ab5e4c1f2cad72d1cc42ae8adfed60f32742d3f92fd36ea20d1222c8f1dd15",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00010-of-00014.gguf",
+"Sha256": "c3cfd1670418b8574639c6b8e6ca902bf0a1561fbf2b47bc218467d4509db1f9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00011-of-00014.gguf",
+"Sha256": "2cc842661734c3e7cfaf2198ec69c4d2684fe981bb811a43a23af2720722cfae",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00012-of-00014.gguf",
+"Sha256": "9bce6194fe4ff582c89aaa39fce1ce52edc3f5732df7b45f0a35f0a8c0c8f34b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00013-of-00014.gguf",
+"Sha256": "1c0f6dad760b2b3ccbfb05549fb7ae0b3c185c87157f440f5b8313fd5cff185b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q4_K_XL/Kimi-K2-Thinking-UD-Q4_K_XL-00014-of-00014.gguf",
+"Sha256": "96ebf01db5c46cb338239b52a10f52e5151e7431e31c5613a294a9e5560da2c9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00001-of-00016.gguf",
+"Sha256": "0b907eb20ef6d14cda97910c0c5c968c3110d31ffc2d80adcdec8abd29527955",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00002-of-00016.gguf",
+"Sha256": "6eddb96bdf94b977efbca5b15b0921f15971baf84780c43dc6d12e4a4cc874b9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00003-of-00016.gguf",
+"Sha256": "839661791f5c7fa658c3ca81ee1be89c2b9fc2c71bb10804c3ba4bd957b24bfb",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00004-of-00016.gguf",
+"Sha256": "255fa9ef23f66bfce89696848b36a630065282d8bd4a53cb211df3f15dbc330b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00005-of-00016.gguf",
+"Sha256": "d1193231733056f343b94ccdbf751489d734c540ad7efdb7eea086dcf9b629a8",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00006-of-00016.gguf",
+"Sha256": "b9b61c977e863aafd6ff92a03aa23b4909d0464e0ac9ac6764483a54a372fd4f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00007-of-00016.gguf",
+"Sha256": "4d298cac393b7f7d2ca416290e56860df0aff829f8d2ea0b45d8aacd372c0a3c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00008-of-00016.gguf",
+"Sha256": "89049ab0a0de8797a91496821ceb0ed9a2c73c55022b66f35db42d4a21e38fde",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00009-of-00016.gguf",
+"Sha256": "3618bdff1fff4b0c3b70e90406090c95c957599c6c02c03c258060ef213d171f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00010-of-00016.gguf",
+"Sha256": "b2c365e32f5c6f225017f6fa008dc122bd4f9297c9d1c9d121d829f5819401a3",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00011-of-00016.gguf",
+"Sha256": "608410bd993374200b14aa25af9bf6cf9fb2b2e7586f88afbc70da42326a5d5e",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00012-of-00016.gguf",
+"Sha256": "13c8bff0d3cd56c9048841015cf0318418af3da1604bde90376a2b21a3951ac6",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00013-of-00016.gguf",
+"Sha256": "11ee8b5d9c80deecb2385bd4642591caa2ed1471d61d7088473a1547f8a594d2",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00014-of-00016.gguf",
+"Sha256": "5f978d7003e0aa167400ca4ecc2d76ca2acb5db30dd8396ea1261d775af6163c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00015-of-00016.gguf",
+"Sha256": "5e70dbe51dcef45f9d602ad92bc4c19839eb88c1559a9b0da4cd68268c3c5ef0",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q5_K_XL/Kimi-K2-Thinking-UD-Q5_K_XL-00016-of-00016.gguf",
+"Sha256": "2794faeb2490b1efff5715041d78ba1215f2b2e99436472a9d8b99487ca97b2a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00001-of-00019.gguf",
+"Sha256": "52faeca185fcfff81772a1c4e6108dcbc70bf788edfc1fb2536250a765700985",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00002-of-00019.gguf",
+"Sha256": "414b77d9c4a4b21cb5a8541983a8efdd9f908de305bad5f9138fbf7b70389ee9",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00003-of-00019.gguf",
+"Sha256": "86dbe0c71c8eb302023015581ccb7b246905d68000943026639c8be8b3a3756f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00004-of-00019.gguf",
+"Sha256": "4a8b5c9f82b18c74fb3ba4f476d9de1e7bfc8438d1cc924e3e65374a193474a1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00005-of-00019.gguf",
+"Sha256": "25a8fe4395e498b13fb804dacd1f87f2c8da5aa4512a1f5af4249fb695d0a491",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00006-of-00019.gguf",
+"Sha256": "72e4d7bc7ea8b48a2cda935fcbf1e7860279c1de020ae805c00d09b994c0c897",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00007-of-00019.gguf",
+"Sha256": "60ebc1ed8066942450729dbfb951a64ed3e2f9367fc271d4c220bc56ed8d392a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00008-of-00019.gguf",
+"Sha256": "18aec46e76a4785c5f6e66dd40187ac4c0c6921aa94b7205531cf893727363ed",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00009-of-00019.gguf",
+"Sha256": "fb8300bbcefc96f6e77241bf9ec1ed4b57591bed01fec20483b474964251e76f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00010-of-00019.gguf",
+"Sha256": "96a01ae0b63ba9c52213004ad7aeb37a3312b54b4d37d1504103d56d0c8f9fa1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00011-of-00019.gguf",
+"Sha256": "e6c15103be03fe2050aa66afaaa65f02645e5d0922dff491c2e25f0a4417cd3a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00012-of-00019.gguf",
+"Sha256": "0aa0e94d1e4b41ea2df52a19070d48eda9bba6e34c3ab67c960eff17cec98eaa",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00013-of-00019.gguf",
+"Sha256": "06b476977cbf2072cc1e624ca5fbe80344b883871760a18322a47901aad7bef5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00014-of-00019.gguf",
+"Sha256": "5e8c9730e8cebd6fe44c116ff8eb4170e043488945460b4d3e86a09db66e0b9c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00015-of-00019.gguf",
+"Sha256": "b9707f9dddcb482848cd87fe76baa981101114bd391a483ef1278bb32ccbe1f7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00016-of-00019.gguf",
+"Sha256": "b667622e118e67f964d6fa4917eaedadb203b6b30b659f7f21005da69e8d853f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00017-of-00019.gguf",
+"Sha256": "67c6a2a7e743b17c25567775c484f04044675a6caec195752e8a84418d4a5952",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00018-of-00019.gguf",
+"Sha256": "8a45e8cd84e1207ecb7526d4d5b52e330ac8c3a448c893ec17da64dedc963d9f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q6_K_XL/Kimi-K2-Thinking-UD-Q6_K_XL-00019-of-00019.gguf",
+"Sha256": "8cb1218300b96440b3f2cbe68b0b84843a194c5152806b2c4e8108f2e801a8ae",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00001-of-00025.gguf",
+"Sha256": "e0b5bf1d10b62079b2bb5aa0dd4d5125a5e62ca3644cf4f642f300de7e4719fe",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00002-of-00025.gguf",
+"Sha256": "f5de18020462cf05cb94824c7f6ef7bb63306af1384763454d6a5e7cc9f932d5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00003-of-00025.gguf",
+"Sha256": "d0f2cdf7b32e10d03f33a00625ffed0c83a173b2617626075423729a799861ae",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00004-of-00025.gguf",
+"Sha256": "42adf9627a567f570df731299d01d3a492d448236386a973286ea0a2daf5e045",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00005-of-00025.gguf",
+"Sha256": "aee93fc3f53179b467ed1881047ac53c3dc94702a577495b9c94aa9203a1d97a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00006-of-00025.gguf",
+"Sha256": "79555c00dc47bec936e008ed1b4741075fa1503b73dd4e101bc5869e250c8245",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00007-of-00025.gguf",
+"Sha256": "ae343743f1b00de8ebe0673cf05819bf46b44e5f2bf786a3797d65ddda00af97",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00008-of-00025.gguf",
+"Sha256": "dda94b4ef4e285544bd16fd18aca64884fad5e6225203753aaf2eb94567c1600",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00009-of-00025.gguf",
+"Sha256": "b7cdf8c0fe035344f41e8173f382fda5e62a25c07f8112c35b83f81c24b5249b",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00010-of-00025.gguf",
+"Sha256": "fab8fdbbb2fa5b8a33dbae00069ae710491f2fdd533c808bbbd9255b3308c47f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00011-of-00025.gguf",
+"Sha256": "4975d44de0c0f115bbf6c5bad0fab12de58e42b81bb8a15bd24794c45d6202c7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00012-of-00025.gguf",
+"Sha256": "345af4001bb4905d6cd379791924ac403bf1b9cc50c2ae63173de1029bdbbee7",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00013-of-00025.gguf",
+"Sha256": "50d0f853085ee7496971a2a38344534d5537c241f2babf42737baf779f233b8a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00014-of-00025.gguf",
+"Sha256": "f50c5be9b7f71d7ad90e5ad60b6e94fc42ff734fe9a15e9c57495bef1162cbe6",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00015-of-00025.gguf",
+"Sha256": "7961f7b860f341a65c154c128cbd1c028cbff4f140d83351140521820cf7479c",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00016-of-00025.gguf",
+"Sha256": "5642e65342480c0082b1e4ffbf3828a25a3965368561c7aeb9faac8d4ea85c54",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00017-of-00025.gguf",
+"Sha256": "74f3da2fea56debf71e020f10c7a6de185c6ba4309493aabe3a1bc44db91664a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00018-of-00025.gguf",
+"Sha256": "6a22a1b4b5bfae13d044818ce0caa8bacd0a8058ff542e14ad806958b2075835",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00019-of-00025.gguf",
+"Sha256": "ac23bf05c7639f8d1bbf754841ff30a2f9667f2eb8bd94d0e66247f4eaa00f0a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00020-of-00025.gguf",
+"Sha256": "f0e34fa51fe288faae965ff1453285281903b8dcc23d8356a4f1fc0dad671db1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00021-of-00025.gguf",
+"Sha256": "44182344036c97123c63958d564555868ed59dee3356fea9790fcd789fc88159",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00022-of-00025.gguf",
+"Sha256": "fae7aea4ebd6c56f521b0e4884bc59c964508cc5fbf86a5f36058cab29bcaafa",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00023-of-00025.gguf",
+"Sha256": "d639e03d7d6c9da619f06dd896e3054a1cc201c98324b9ce03103fb31dd4fee1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00024-of-00025.gguf",
+"Sha256": "0adf8d96d258ab3aaadaf1a78a09177335274e3542acf87b21b4dce8f87f48a0",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-Q8_K_XL/Kimi-K2-Thinking-UD-Q8_K_XL-00025-of-00025.gguf",
+"Sha256": "be9244388d120356cff192d5bbca58ea65b7f6f0f39ca4ec3503b07103edbbcb",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-TQ1_0/Kimi-K2-Thinking-UD-TQ1_0-00001-of-00006.gguf",
+"Sha256": "fa3aba1c4c7c423e53d48ca34e017b1beedb70c338c308e51c503ecff857615f",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-TQ1_0/Kimi-K2-Thinking-UD-TQ1_0-00002-of-00006.gguf",
+"Sha256": "69f2d338c09fe60ee3299c9db923ec4bb018ff56af796c6d5943f7e2b21384e0",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-TQ1_0/Kimi-K2-Thinking-UD-TQ1_0-00003-of-00006.gguf",
+"Sha256": "e59f187581bd60c4f9b69a0cd09f86f606eee11ea2981a0520a2276f329c7ef1",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-TQ1_0/Kimi-K2-Thinking-UD-TQ1_0-00004-of-00006.gguf",
+"Sha256": "22b39f5eeea0f62fb80cfea456ce125b614fe0c12142503fedda24fc68e6d5b5",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-TQ1_0/Kimi-K2-Thinking-UD-TQ1_0-00005-of-00006.gguf",
+"Sha256": "49a98e96121882acb08c7edd63f9751f9028f8e94c711bf29a0411f256b2732d",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "UD-TQ1_0/Kimi-K2-Thinking-UD-TQ1_0-00006-of-00006.gguf",
+"Sha256": "b6a65575ed7df971b1bbddba776f1d234c1f86fa227ffffcd343c69c1a00583a",
+"IsLFS": true,
+"CommittedDate": 0
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "34564cc3299c49fe53899023a9d4a3e7e89b15fd5533c2bac9961e7091ae565f",
+"IsLFS": true,
+"CommittedDate": 0
+}
+]

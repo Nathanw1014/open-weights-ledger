@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Flash-1B
+main commit at snapshot: da87f707f678b5936e67fdcfe598f76ebcc5fdbc
+snapshot taken: 2026-11-13T13:58:56Z

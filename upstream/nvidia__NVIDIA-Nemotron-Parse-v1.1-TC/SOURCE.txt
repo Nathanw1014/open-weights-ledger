@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-v1.1-TC
+main commit at snapshot: 19d8c4c359dd933f4f32850629c9d4ad30886a42
+snapshot taken: 2026-11-13T13:59:32Z

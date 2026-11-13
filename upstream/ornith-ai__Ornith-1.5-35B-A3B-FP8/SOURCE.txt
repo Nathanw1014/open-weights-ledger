@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-FP8
+main commit at snapshot: b93dbd8128d3d2e6655b8570c992de97fc8ece6e
+snapshot taken: 2026-11-13T13:54:00Z

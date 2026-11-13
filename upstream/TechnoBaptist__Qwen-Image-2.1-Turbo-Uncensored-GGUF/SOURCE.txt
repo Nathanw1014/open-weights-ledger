@@ -1,0 +1,3 @@
+repo: https://huggingface.co/TechnoBaptist/Qwen-Image-2.1-Turbo-Uncensored-GGUF
+main commit at snapshot: f184390dce1f6b6c9bb9cb288945c9619c10cef4
+snapshot taken: 2026-11-13T14:10:11Z

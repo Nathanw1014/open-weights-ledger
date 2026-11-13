@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/mlabonne_Qwen3-8B-abliterated-GGUF
+main commit at snapshot: 0e66e6f836c802246b69941780ec8ef32670dc09
+snapshot taken: 2026-11-13T14:19:19Z

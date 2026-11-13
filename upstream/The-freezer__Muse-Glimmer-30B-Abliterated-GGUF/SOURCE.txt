@@ -1,0 +1,3 @@
+repo: https://huggingface.co/The-freezer/Muse-Glimmer-30B-Abliterated-GGUF
+main commit at snapshot: 83e7dc723f5515704adc8767dfeb279de3df914d
+snapshot taken: 2026-11-13T14:01:43Z

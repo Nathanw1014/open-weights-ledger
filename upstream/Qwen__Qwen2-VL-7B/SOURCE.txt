@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2-VL-7B
+main commit at snapshot: e61834264a23db10c06dc4f566dac5634c7ca024
+snapshot taken: 2026-11-13T13:50:01Z

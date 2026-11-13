@@ -1,0 +1,98 @@
+[
+{
+"Path": "gpt-oss-safeguard-20b-F16.gguf",
+"Sha256": "1515212172e3acbf6ab89a8ed3467fbedeac27c29ce28649de1509662fbe6475",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q2_K.gguf",
+"Sha256": "5e7e15bfa009d5b0e940a0d31807f58cbccb4e3dee3e6e4ea072cf36df9c44b4",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q2_K_L.gguf",
+"Sha256": "8ece1bd3a20e6c04e32dd7efd40f70a95d8d1ba70d159c1176936fb9a3a69790",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q3_K_M.gguf",
+"Sha256": "a5a9f7caa84c7eeb32c785c9716d5b9473e5ae8cd96cdc2dcee486c4f6f2e1db",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q3_K_S.gguf",
+"Sha256": "addb58f117cc8255340792ed7a12fa38fef5c7dd85585a675dc14cdb28dd5ec1",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q4_0.gguf",
+"Sha256": "0a9471951944c91c2286fc202cb7ccbd849bc89f274304f50d37b59ceec3a5a9",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q4_1.gguf",
+"Sha256": "fe1391999c69c93a580cf5ab4116b06f5e2d6826ec092349ab16c9d4f5625039",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q4_K_M.gguf",
+"Sha256": "7c70a6d00294bafb0a118d4deb1697ee8cf0cef8e65dc5dedcc25cbbe4699bad",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q4_K_S.gguf",
+"Sha256": "bfd164d855b599d3cc19581d12bd06370f5f96e382aa41df39363d5ae7c8021c",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q5_K_M.gguf",
+"Sha256": "744eeac466eb03e1966f5cd3d0c55d068653d9fc24b507fae6672b71ce14cabf",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q5_K_S.gguf",
+"Sha256": "dd2d7ded5df90d39f58dd3487d382648c8946e0fdfda99e3a3787acb5670634b",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q6_K.gguf",
+"Sha256": "dc6dbe1445cd1628ffc7a84ee4c7c6fb4d8082962dee8e193c390efab950df1d",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-Q8_0.gguf",
+"Sha256": "d78461375a173961e2f1f1c809706e478beca06ddb2eb74e2493b323ffa3a36d",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-UD-Q4_K_XL.gguf",
+"Sha256": "18f85151a41f9b1abed10ff8875b07cbe259dce58b7ae19c77b1727d2c4ecf71",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-UD-Q6_K_XL.gguf",
+"Sha256": "dc6dbe1445cd1628ffc7a84ee4c7c6fb4d8082962dee8e193c390efab950df1d",
+"IsLFS": true,
+"CommittedDate": 1761764660
+},
+{
+"Path": "gpt-oss-safeguard-20b-UD-Q8_K_XL.gguf",
+"Sha256": "51011b84131acd4a78e786d70d6db4c0ff1e4b179f49db3c12e6204b71a079ab",
+"IsLFS": true,
+"CommittedDate": 1761764660
+}
+]

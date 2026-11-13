@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3-8B-Hivemind-Inst-Hrtic-Ablit-Uncensored-IQ2_M-imat.gguf	2755340160	55fcef4e1ea8f7b07d1a04b85320dd499e02f7d54f8cd062d20cab33ef1f5fca	sha256
+Qwen3-8B-Hivemind-Inst-Hrtic-Ablit-Uncensored-IQ3_M-imat.gguf	3604090240	633c34078d6b400ea498df58a4d53e48b30e85fad580f464f09e7be99ed88725	sha256
+Qwen3-8B-Hivemind-Inst-Hrtic-Ablit-Uncensored-IQ4_XS-imat.gguf	4216493440	c62aebe2609010355313ea608d81971729559c86955427d63a05dda688f45351	sha256
+Qwen3-8B-Hivemind-Inst-Hrtic-Ablit-Uncensored-Q4_K_M-imat.gguf	4669552000	25c95fbfe74e0fca6527076546033f68c79b879c5a2c0c9252e937c59f251c26	sha256
+Qwen3-8B-Hivemind-Inst-Hrtic-Ablit-Uncensored-Q5_K_M-imat.gguf	5454017920	4a2d9a4952637bc12746b41ee1a6a2975eb32744ce991b304c6da904865a8c14	sha256
+Qwen3-8B-Hivemind-Inst-Hrtic-Ablit-Uncensored-Q5_K_S-imat.gguf	5322413440	cd0732152e9d776ede3951f7a7a83e6657742e24bc243bd1b0b1b4d752473f64	sha256
+Qwen3-8B-Hivemind-Inst-Hrtic-Ablit-Uncensored-Q6_K-imat.gguf	6287512960	ae7dd0d7ad971123d0bca6fd064e829196acd326ad5695f01b3acea710e1f2dd	sha256
+Qwen3-8B-Hivemind-Inst-Hrtic-Ablit-Uncensored-Q8_0.gguf	8141600640	f4cc4945942053e0991d23f287e939c6775caed28d10e1e6c6de1dbdd8460bc7	sha256
+hivemind-heretic.gif	2116415	ea18a2df33b38a15d5e52b45ecf98a52ffb4f9830e067f4816dfdda827a8d7a5	sha256

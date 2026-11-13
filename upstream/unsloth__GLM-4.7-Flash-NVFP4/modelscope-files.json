@@ -1,0 +1,26 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "321196f10d90e4bbf3c2401bb49a6a4062cbd99701673160fcdf78b56b8865f1",
+"IsLFS": true,
+"CommittedDate": 1784055099
+},
+{
+"Path": "model.safetensors.index.json",
+"Sha256": "839906024a440f91db46ddc8898dde3cc5b5e148441bccfafd762d927624ce84",
+"IsLFS": true,
+"CommittedDate": 1784055100
+},
+{
+"Path": "model_mtp.safetensors",
+"Sha256": "6c5e76856a6f306161e17baefb92e226465aba0841d9638513dc056b8cfb39ff",
+"IsLFS": true,
+"CommittedDate": 1784055102
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "fcce46e83a6ed162239b0a0b421d2ab3f148d3f1fd6839c0f82baf61b2284cdc",
+"IsLFS": true,
+"CommittedDate": 1784055106
+}
+]

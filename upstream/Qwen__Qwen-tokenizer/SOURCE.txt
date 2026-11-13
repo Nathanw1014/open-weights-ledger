@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-tokenizer
+main commit at snapshot: 5909c8222473b2c73b0b73fb054552cd4ef6a8eb
+snapshot taken: 2026-11-13T13:53:37Z

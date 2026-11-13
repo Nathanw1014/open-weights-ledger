@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3-14B-abliterated-GGUF
+main commit at snapshot: 53729450c82efabb1b3a00ea4637df10240b1719
+snapshot taken: 2026-11-13T14:02:39Z

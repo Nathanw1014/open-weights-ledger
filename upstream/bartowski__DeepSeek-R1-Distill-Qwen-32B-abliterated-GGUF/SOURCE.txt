@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF
+main commit at snapshot: f64fae610c817babb03adb0fa17f072f701245f5
+snapshot taken: 2026-11-13T14:02:33Z

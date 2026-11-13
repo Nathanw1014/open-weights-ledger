@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF
+main commit at snapshot: a38270280633a5d318a9f51c18ef95eefb07c423
+snapshot taken: 2026-11-13T13:10:08Z

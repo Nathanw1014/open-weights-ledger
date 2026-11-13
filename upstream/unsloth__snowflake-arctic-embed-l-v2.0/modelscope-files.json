@@ -1,0 +1,80 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "21bf1a120b1c6562aeec379dfa9039b0d360591c784cb1c6786e87256b738ee1",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model.onnx",
+"Sha256": "f74aa79745ccfb1e75daa7e8e6552a78402d4de193eb8ca67a931358d3e0a25e",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model.onnx_data",
+"Sha256": "fe7d75ff258fbda10a6bea63c5422df5579d625355b1aca69ba6923c0ba604a9",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model_O4.onnx",
+"Sha256": "ae7e73a69d690db23c91d297802d0a2c2c7cc6f18600ab457b6399bfea11e602",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model_bnb4.onnx",
+"Sha256": "50d4fae23d8d1d6876f28097110cab03a606662b0ea076d4904be8c2544c476a",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model_fp16.onnx",
+"Sha256": "0b6846bcf4c0d9e53fdfc70d6dc1bbe3bb40fd205ebb7f0365da5b07064ddccc",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model_int8.onnx",
+"Sha256": "4b164a8bd09dd9806e035bdf3c34a2d81848b3db9642ba2e342b8367c00872d8",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model_q4.onnx",
+"Sha256": "ec3ba7101ef4313f75d08608671e4428fa9383415ae13423b328059b20abb05b",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model_q4f16.onnx",
+"Sha256": "6a449f29654af60c7190c8681bb5f6fa426f191b61c28dd57e3aa289617e0e0c",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model_quantized.onnx",
+"Sha256": "4b164a8bd09dd9806e035bdf3c34a2d81848b3db9642ba2e342b8367c00872d8",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "onnx/model_uint8.onnx",
+"Sha256": "8712ea862fbbf1ba08fecfcfef4f9d01929e7326567672fb033b6c3755751e1a",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "sentencepiece.bpe.model",
+"Sha256": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+"IsLFS": true,
+"CommittedDate": 1769106139
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "39feb9863a378165ab9c5c689047203d789422966c0c58721c5309fd039a8edc",
+"IsLFS": true,
+"CommittedDate": 1769106139
+}
+]

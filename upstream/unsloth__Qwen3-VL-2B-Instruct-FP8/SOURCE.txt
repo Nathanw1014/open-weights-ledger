@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-2B-Instruct-FP8
+main commit at snapshot: db67128fa7a379291c47527d7027b9c99f2afa64
+snapshot taken: 2026-11-13T13:29:52Z

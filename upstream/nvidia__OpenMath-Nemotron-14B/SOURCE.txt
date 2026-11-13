@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/OpenMath-Nemotron-14B
+main commit at snapshot: b7eeebb07482085ca137c5c9111efb2bc277e5df
+snapshot taken: 2026-11-13T13:57:39Z

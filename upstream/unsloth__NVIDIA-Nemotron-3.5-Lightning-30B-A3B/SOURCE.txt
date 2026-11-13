@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B
+main commit at snapshot: b7cbbf7c66478499d97f07b01dbb58d181576b22
+snapshot taken: 2026-11-13T13:18:59Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Step-3.7-Flash-GGUF
+main commit at snapshot: 8dd62fe8a98f3c8994160d0c521542560b558f37
+snapshot taken: 2026-11-13T13:10:11Z

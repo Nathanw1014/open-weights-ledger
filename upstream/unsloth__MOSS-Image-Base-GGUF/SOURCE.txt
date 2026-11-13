@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MOSS-Image-Base-GGUF
+main commit at snapshot: f621aa285f779e8305553686c8fe8826d3b65bde
+snapshot taken: 2026-11-13T13:05:21Z

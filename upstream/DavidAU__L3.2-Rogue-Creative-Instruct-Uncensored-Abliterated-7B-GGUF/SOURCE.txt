@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/L3.2-Rogue-Creative-Instruct-Uncensored-Abliterated-7B-GGUF
+main commit at snapshot: 5bdbd518ef4c51375db7c50c19a504f0994f2d4d
+snapshot taken: 2026-11-13T14:03:13Z

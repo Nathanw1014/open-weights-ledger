@@ -1,0 +1,32 @@
+[
+{
+"Path": "Ornith-1.5-35B-A3B-Heretic-MTP-APEX-I-Balanced.gguf",
+"Sha256": "75e88dab782354fcfe5ae7f3a40ad8b49ae262064c8d34736ecbdbdff54a840e",
+"IsLFS": true,
+"CommittedDate": 1787494454
+},
+{
+"Path": "Ornith-1.5-35B-A3B-Heretic-MTP-APEX-I-Compact.gguf",
+"Sha256": "37f678613ca5efd71b23ce1c3811da8d8f077c79be059104d7b216539bdbe0e7",
+"IsLFS": true,
+"CommittedDate": 1787494454
+},
+{
+"Path": "Ornith-1.5-35B-A3B-Heretic-MTP-APEX-I-Mini.gguf",
+"Sha256": "73916d5bcf4530aa3572d6b16101c7f96006f80d55905d4efbdd452c990e2365",
+"IsLFS": true,
+"CommittedDate": 1787494454
+},
+{
+"Path": "Ornith-1.5-35B-A3B-Heretic-MTP-APEX-I-Quality.gguf",
+"Sha256": "2dd85b592447b488b9386ad08e8edf4b94ed61024df6e07213aa3bc1bf94517c",
+"IsLFS": true,
+"CommittedDate": 1787494454
+},
+{
+"Path": "mmproj-Ornith-1.5-35B-A3B-Heretic-MTP-BF16.gguf",
+"Sha256": "4d07a953fe1a6eae96eb7cd03b0960618a25cc32f69655ecb0212e6675a5a719",
+"IsLFS": true,
+"CommittedDate": 1787423192
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Seed-OSS-36B-Instruct-GGUF
+main commit at snapshot: 6403aa019fffb2d698433e3aed271d8962e28a58
+snapshot taken: 2026-11-13T13:10:19Z

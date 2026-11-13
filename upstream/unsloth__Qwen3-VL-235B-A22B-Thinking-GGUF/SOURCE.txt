@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-235B-A22B-Thinking-GGUF
+main commit at snapshot: b0e28e1f8691e5a0f3a846363e578a61e496cb99
+snapshot taken: 2026-11-13T13:18:35Z

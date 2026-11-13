@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF-UD
+main commit at snapshot: 11ee6410f6931a71ad85cae78cbc6843ceb28caa
+snapshot taken: 2026-11-13T13:18:33Z

@@ -1,0 +1,53 @@
+# Repos to track. A plain org/repo line is pinned (also keeps a git history bundle).
+# author:NAME | author:NAME search:TERM | search:TERM top:N add whole sets; see tools/scrape-hf.py.
+agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF
+agentionai/Qwen3.8-Flash-Next-Gyro-GGUF
+Anbeeld/Qwen3-Coder-30B-A3B-DFlash-GGUF
+AtomicChat/Qwen3-Coder-30B-A3B-DFlash-GGUF
+bartowski/Ling-3.0-tiny-GGUF
+bartowski/Qwen2.5-7B-Instruct-GGUF
+dzannotti/Qwen3.8-Flash-Next-MTP-GGUF
+ggml-org/DeepSeek-V4-Flash-0731-GGUF
+ggml-org/stories15M_MOE
+ggml-org/test-model-stories260K
+ggml-org/tinygemma3-GGUF
+gpustack/bge-reranker-v2-m3-GGUF
+hipfire-models/qwen3.8-27b
+incoai/Qwen3.8-Flash-Next-DFlash2-GGUF
+Jackrong/Qwopus3.6-35B-A3B-v1
+Jackrong/Qwopus3.6-35B-A3B-v1-GGUF
+jukofyork/Qwen3-Coder-Instruct-DRAFT-0.75B-GGUF
+LiquidAI/LFM2.5-8B-A1B-DSpark-GGUF
+LiquidAI/LFM2.5-8B-A1B-GGUF
+ornith-ai/Ornith-1.5-35B-A3B-GGUF
+ornith-ai/Ornith-1.5-9B-GGUF
+prism-ml/Ternary-Bonsai-2-27B-gguf
+Qwen/Qwen3-0.6B-GGUF
+turboderp/LFM2.5-8B-A1B-exl3
+turboderp/Qwen3.5-9B-exl3
+unsloth/DeepSeek-V4-Flash-GGUF
+unsloth/gemma-4-26B-A4B-it-GGUF
+unsloth/gemma-4-E2B-it-GGUF
+unsloth/granite-4.0-h-tiny-GGUF
+unsloth/Llama-3.2-1B-Instruct-GGUF
+unsloth/Ornith-1.0-35B-GGUF
+unsloth/Qwen3.5-2B-GGUF
+unsloth/Qwen3.5-9B-GGUF
+unsloth/Qwen3.6-35B-A3B-GGUF
+unsloth/Qwen3.8-27B-GGUF
+unsloth/Qwen3.8-Flash-Next-GGUF
+unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF
+z-lab/Qwen3.8-27B-DFlash2-GGUF
+
+# Publishers tracked in full
+author:unsloth
+author:Qwen
+author:ornith-ai
+author:meta-models
+author:nvidia search:Nemotron
+
+# Popular abliterated / uncensored variants (most downloaded first; these are the likeliest takedowns)
+search:abliterated top:200
+search:obliterated top:60
+search:heretic top:100
+search:uncensored top:100

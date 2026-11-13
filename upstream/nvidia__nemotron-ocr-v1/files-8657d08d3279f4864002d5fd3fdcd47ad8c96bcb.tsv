@@ -1,0 +1,8 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+checkpoints/detector.pth	181677320	8b7d50c74b2dba9acb8dd76d2fbcf75e6eeae0cb3e9688edf42c91aa5550ade1	sha256
+checkpoints/recognizer.pth	19823477	db307d9b0dcb6cd15ab6c71e302fd62ca90ce077c3013c9f63a4ba0dbfdf3f50	sha256
+checkpoints/relational.pth	9048309	b1db5a62853269aabd8a040eeb05038a871032e8275def77653631657cb8ca4a	sha256
+nemotron-ocr/cpp/trove/doc/contiguous.png	14320	7d9649776fec8fd812468d82d1a733c87fce86b302b9a52d5e70ba4ed5a1f76c	sha256
+nemotron-ocr/cpp/trove/doc/random.png	12801	333c776116f1f580d76bce114e31e6b0293008973a8935968b5bf9636d5d6d25	sha256
+nemotron-ocr/cpp/trove/doc/transpose.png	69859	0af509a49d5e13153409c5302146bebb27a9b2680e7dd06a817ec66f90128adc	sha256
+ocr-example-input-1.png	224907	f7faa3e8052eab6c00fb54d269a7b6a5b4bd2774d4f5109120da2525c5c16a3b	sha256

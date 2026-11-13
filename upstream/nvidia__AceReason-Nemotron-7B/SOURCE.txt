@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/AceReason-Nemotron-7B
+main commit at snapshot: 7d385d309648ef2fc78eaab944d41dfa204da8d8
+snapshot taken: 2026-11-13T13:57:00Z

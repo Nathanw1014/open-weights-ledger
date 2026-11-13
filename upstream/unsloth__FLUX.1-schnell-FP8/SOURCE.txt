@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/FLUX.1-schnell-FP8
+main commit at snapshot: 6d3cd29646389c6084c8cbffb73ffb652506ade5
+snapshot taken: 2026-11-13T13:40:54Z

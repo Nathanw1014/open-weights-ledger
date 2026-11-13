@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-Uncensored-Cyber-Q4_K_M.gguf	18973870784	9ea57a2c912934bc39369b8988cf7f9b267f1a4d13d3cb6af38310c212986b98	sha256
+Qwen3.8-27B-Uncensored-Cyber-Q5_K_M.gguf	21271890624	3ff3583492c1c087cdba1714efd3413c5c12760f524643680e3649333423a972	sha256
+Qwen3.8-27B-Uncensored-Cyber-Q6_K.gguf	23713536704	3ae736100682f2b8dd2cd1c3cb463172ec6fb9bcc9e4a44ec929612005281463	sha256
+Qwen3.8-27B-Uncensored-Cyber-Q8_0.gguf	28595763904	48b2cbdc7b7714ac0b6d3b514cf4ebff49787c47a410fd22ff1230ae5a256c7f	sha256
+mmproj-Qwen3.8-27B-Uncensored-Cyber-BF16.gguf	931146272	560b365631576403a0a8be887ddeb0109309148cbc60785355da07d6dd17b4cb	sha256
+mmproj-Qwen3.8-27B-Uncensored-Cyber-Q8_0.gguf	629247392	a44e6b11a6eb9b2c9a1e91c08cdc870e657c956cf8d490c1894b2c4528bedf6f	sha256
+mtp-Qwen3.8-27B-Uncensored-Cyber-BF16.gguf	5946010240	6cabeb2c72ea99fd9d9879c4a72e040904783b2a8f2490e63eba8ba7f96afab6	sha256
+mtp-Qwen3.8-27B-Uncensored-Cyber-Q4_0.gguf	1680272000	1bba9e0d2df8dc5e90a5bfdb4b6b4af903ad352a03d4d0295d50de8879dbb56c	sha256
+mtp-Qwen3.8-27B-Uncensored-Cyber-Q8_0.gguf	3164007040	b3edb8ccc66fe4d5f4f9f89f202fc69db310e04e2b513b844750046c5342a5b4	sha256

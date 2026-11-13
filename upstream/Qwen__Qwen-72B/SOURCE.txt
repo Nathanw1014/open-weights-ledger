@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-72B
+main commit at snapshot: b8e18ac61df64d35308695769ff46b976b6a00f4
+snapshot taken: 2026-11-13T13:49:14Z

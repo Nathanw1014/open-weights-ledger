@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash, git = git blob id)
+.gitattributes	1633	6647714840df7bdbe382bc17a3eee11aa9dfcddf	git
+stories260K-f32.gguf	1185376	270cba1bd5109f42d03350f60406024560464db173c0e387d91f0426d3bd256d	sha256

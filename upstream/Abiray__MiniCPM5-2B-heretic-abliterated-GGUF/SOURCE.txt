@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Abiray/MiniCPM5-2B-heretic-abliterated-GGUF
+main commit at snapshot: c153cc60bed0471d7d26feb02f999a887851a81b
+snapshot taken: 2026-11-13T14:03:32Z

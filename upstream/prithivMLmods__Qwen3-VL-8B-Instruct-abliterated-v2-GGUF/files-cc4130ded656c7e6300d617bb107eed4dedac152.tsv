@@ -1,0 +1,15 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3-VL-8B-Instruct-abliterated-v2.IQ4_XS.gguf	4593298528	31adf3cf970fe759dc1038cdd8ac5cf73b6afc84327cffd98c2b05eaa5f7f227	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q2_K.gguf	3281734752	d92c9951303a6ca94542b4bd8fa98cccc74f60769a27ae5594a482d72160cdea	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q3_K_L.gguf	4431395936	b09af21df6582a7171565f07c71e2c94402a335a61bd7032dbb135987fc72f73	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q3_K_M.gguf	4124163168	8aba51d127fb454af9208267c406a606f1a0089cf339342e4328035d926a257c	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q3_K_S.gguf	3769613408	57646633c6e15f14acea8c5b6f1864b022aeeb84ddadae644d0a5684b7c8e6ce	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q4_K_M.gguf	5027785824	aa3e702cbb2390c2e344592ebf3298fcafdac6c5df67aefa024f11dea521817f	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q4_K_S.gguf	4802014304	b06f6f71a45cffdbe691926c82ec45a67e6b111f1fea0fe979acdc2b036dacc5	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q5_K_M.gguf	5851114592	f97c0aae3b5a4a8d3c0c1c966e86a33a0ceeddc06171d0856476a525a356ebea	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q5_K_S.gguf	5720763488	d28712f10e1cdaf64380f2c7e3897f61d2ec6d26f01d30d0487738c2b121e6d3	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q6_K.gguf	6725901408	1706afcac72431ab08949a0f4659e834052ffbf38782addc6399b806f9852404	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.Q8_0.gguf	8709520480	9c381dacf22fe012decb14461585500e017c45b3a046943336c7923b48822a7c	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.f16.gguf	16388045920	b13f3ccc42af69d3c373cfbc3c5fa26044d3c03399e9073a30d8bef82536b634	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.mmproj-Q8_0.gguf	752290272	08769ef6e39797a411c80524780d8261b07e1ab1e86b887ccb675b099e7ec53a	sha256
+Qwen3-VL-8B-Instruct-abliterated-v2.mmproj-f16.gguf	1159030368	e360d32141265b9956edaed10d0011e02b31a7d847063beac4863a3aaf438b6d	sha256

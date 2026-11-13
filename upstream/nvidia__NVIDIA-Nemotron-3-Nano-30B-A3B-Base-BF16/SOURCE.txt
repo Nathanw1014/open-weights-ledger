@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16
+main commit at snapshot: e0ac9ee3dfd02be21b5479edfc2f671ed269d0a2
+snapshot taken: 2026-11-13T13:55:58Z

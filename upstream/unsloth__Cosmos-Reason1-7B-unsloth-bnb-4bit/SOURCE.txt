@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Cosmos-Reason1-7B-unsloth-bnb-4bit
+main commit at snapshot: 8799a966d826a194fb141c434a4a8724c28021d0
+snapshot taken: 2026-11-13T13:32:51Z

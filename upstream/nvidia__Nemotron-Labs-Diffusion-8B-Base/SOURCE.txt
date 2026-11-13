@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B-Base
+main commit at snapshot: 59ff0ffee284112fc6ccf37493ced41a11031434
+snapshot taken: 2026-11-13T13:55:59Z

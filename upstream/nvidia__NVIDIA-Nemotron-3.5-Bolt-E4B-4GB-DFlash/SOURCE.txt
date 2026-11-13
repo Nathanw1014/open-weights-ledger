@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB-DFlash
+main commit at snapshot: 0949a2eb7152ec6fda1a91ff9302aecbcd464fbf
+snapshot taken: 2026-11-13T13:56:25Z

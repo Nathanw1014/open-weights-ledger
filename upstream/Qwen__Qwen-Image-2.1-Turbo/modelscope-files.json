@@ -1,0 +1,86 @@
+[
+{
+"Path": "assets/turbo-ballet.png",
+"Sha256": "bea468baa657e35e81f74373964a257c2eb6bf1556b304ab59801a92fea9a372",
+"IsLFS": true,
+"CommittedDate": 1791550673
+},
+{
+"Path": "assets/turbo-boat-input.png",
+"Sha256": "903f87e2553cbae5b400469a95aac46ea3068f7525d98cab448b4564aee5ab05",
+"IsLFS": true,
+"CommittedDate": 1791551991
+},
+{
+"Path": "assets/turbo-composition.png",
+"Sha256": "2981c6ae9ecbc48cd7e1d846210231a38cd04afb980194f076686ed6f78226f6",
+"IsLFS": true,
+"CommittedDate": 1791550683
+},
+{
+"Path": "assets/turbo-figure.png",
+"Sha256": "cf69433e51c20eb9cf05b10f62f3fd8e55c8f276a0867a851f6872a09de436ba",
+"IsLFS": true,
+"CommittedDate": 1791550691
+},
+{
+"Path": "assets/turbo-interior.png",
+"Sha256": "90d37b3880d179caa158a0273dd61756f567c5ca16144f61fd08cca2e608da49",
+"IsLFS": true,
+"CommittedDate": 1791550698
+},
+{
+"Path": "assets/turbo-portrait.png",
+"Sha256": "8855135944f03a78e274c14059c6b0cec5cb5932262774ba3ce87d32f99dc155",
+"IsLFS": true,
+"CommittedDate": 1791550702
+},
+{
+"Path": "assets/turbo-poster.png",
+"Sha256": "a6ca151f459650596133fe0d78802f5604bc3a757d2a4740ddae46a23531c8e1",
+"IsLFS": true,
+"CommittedDate": 1791550705
+},
+{
+"Path": "assets/turbo-rgba.png",
+"Sha256": "a7ffdacf26f8686e42d9947e90a2b9f8dd3407dcb3402cd8dd61f733efc619ae",
+"IsLFS": true,
+"CommittedDate": 1791550709
+},
+{
+"Path": "assets/turbo-ui.png",
+"Sha256": "d7b8a7cea1f33c6f5711b5309902640fdf7470fd727fc387cf5c137fe8cdf570",
+"IsLFS": true,
+"CommittedDate": 1791550712
+},
+{
+"Path": "processor/tokenizer.json",
+"Sha256": "be75606093db2094d7cd20f3c2f385c212750648bd6ea4fb2bf507a6a4c55506",
+"IsLFS": true,
+"CommittedDate": 1791529032
+},
+{
+"Path": "text_encoder/model.safetensors",
+"Sha256": "a1eee8233f3063466dd3b06e857b0a2cf13a77c543908374771d51a546beb2e0",
+"IsLFS": true,
+"CommittedDate": 1791529093
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00001-of-00002.safetensors",
+"Sha256": "6cccd922767f01694461bdcf1f34ea7b771f3442e4d5e338ea9aa55277431cc0",
+"IsLFS": true,
+"CommittedDate": 1791529115
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00002-of-00002.safetensors",
+"Sha256": "69f53ebb063d2f606bdaff7e22e0e2144f28d978d73dc75e6e4293fc5982eab5",
+"IsLFS": true,
+"CommittedDate": 1791529115
+},
+{
+"Path": "vae/diffusion_pytorch_model.safetensors",
+"Sha256": "71879ffd5321e6d10c3c87513e2b474b1252efa7f3dec2969214a9bf06a6dd5c",
+"IsLFS": true,
+"CommittedDate": 1791529120
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen-3.8-27B-Uncensored-GGUF
+main commit at snapshot: af3903ef84f5dd4d66fdb68fc68cc2c425fe3aec
+snapshot taken: 2026-11-13T14:10:06Z

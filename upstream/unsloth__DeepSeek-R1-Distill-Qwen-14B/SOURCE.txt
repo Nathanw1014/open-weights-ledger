@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-14B
+main commit at snapshot: 5cc5f9ca83c8e90233cb834a25484dd5d161e03f
+snapshot taken: 2026-11-13T13:22:33Z

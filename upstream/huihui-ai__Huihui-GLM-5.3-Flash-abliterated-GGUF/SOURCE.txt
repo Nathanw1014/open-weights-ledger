@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-GLM-5.3-Flash-abliterated-GGUF
+main commit at snapshot: c43a994637c10f5c376b7a471b3afc7663f80b9b
+snapshot taken: 2026-11-13T14:01:49Z

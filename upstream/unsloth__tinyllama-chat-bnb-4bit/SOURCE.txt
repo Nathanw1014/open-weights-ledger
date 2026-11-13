@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/tinyllama-chat-bnb-4bit
+main commit at snapshot: effb5dc8248c9270b0db975639c17084417180a7
+snapshot taken: 2026-11-13T13:16:38Z

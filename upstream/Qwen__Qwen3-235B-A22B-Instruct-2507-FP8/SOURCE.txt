@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507-FP8
+main commit at snapshot: e156cb4efae43fbee1a1ab073f946a1377e6b969
+snapshot taken: 2026-11-13T13:47:10Z

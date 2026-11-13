@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.1-Tulu-3-8B-GGUF
+main commit at snapshot: 207af65f55ea23bf69ca4f9cbc807903aba4e70d
+snapshot taken: 2026-11-13T13:29:04Z

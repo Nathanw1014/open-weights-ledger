@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/zephyr-sft-bnb-4bit
+main commit at snapshot: 467eff1ac1c3395c130929bbe1f34a8194715e7c
+snapshot taken: 2026-11-13T13:17:44Z

@@ -1,0 +1,32 @@
+[
+{
+"Path": "ornith-1.0-35b-Q4_K_M.gguf",
+"Sha256": "ff25291b2599fb927a835e624d2b3540106af61761c3fa57ac4264046dbec002",
+"IsLFS": true,
+"CommittedDate": 1787197060
+},
+{
+"Path": "ornith-1.0-35b-Q5_K_M.gguf",
+"Sha256": "325b351fc30a4114af5bb21dc2ba7f666ccc90c8f26e6bb36909255d5a449469",
+"IsLFS": true,
+"CommittedDate": 1787197060
+},
+{
+"Path": "ornith-1.0-35b-Q6_K.gguf",
+"Sha256": "b3da60c3643af02e7979eb47267c3046dc3f6e3a5c88b6790db12208c051116c",
+"IsLFS": true,
+"CommittedDate": 1787197060
+},
+{
+"Path": "ornith-1.0-35b-Q8_0.gguf",
+"Sha256": "cbc992bca07901c1a51f33e65e6fc5d687de179c852a772dfd15e4c3261dbf5c",
+"IsLFS": true,
+"CommittedDate": 1787197060
+},
+{
+"Path": "ornith-1.0-35b-bf16.gguf",
+"Sha256": "7ee1ede4e151f41eb1ad89ffc2b8ce0b33935d87a0bf473a0dd1957ccc45ec8a",
+"IsLFS": true,
+"CommittedDate": 1787197060
+}
+]

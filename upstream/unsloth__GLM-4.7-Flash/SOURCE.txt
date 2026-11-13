@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-4.7-Flash
+main commit at snapshot: 070169aa5fd9cf953f8a4e9e30b8dad73ec02604
+snapshot taken: 2026-11-13T13:27:09Z

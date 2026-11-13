@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/LFM2-1.2B-unsloth-bnb-4bit
+main commit at snapshot: b8d6a64b385f9080823cbe7fe7eb77cf24ccc344
+snapshot taken: 2026-11-13T13:26:35Z

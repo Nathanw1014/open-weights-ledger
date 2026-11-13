@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-1.7B-MLX-bf16
+main commit at snapshot: 720c04346ea2b095c801ebbd545c109230964cd4
+snapshot taken: 2026-11-13T13:48:19Z

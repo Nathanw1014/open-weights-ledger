@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF
+main commit at snapshot: 90a3350cd800ec1fe0d1660a38414ad9e985782f
+snapshot taken: 2026-11-13T14:00:14Z

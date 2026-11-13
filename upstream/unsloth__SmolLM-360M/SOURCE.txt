@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/SmolLM-360M
+main commit at snapshot: edd5803235f006e27cfd0519f9ffaef1aae5262a
+snapshot taken: 2026-11-13T13:22:16Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Gemma-4-12B-OBLITERATED-i1-GGUF
+main commit at snapshot: 1bb49d2489ad2aba9c1682e0dea8aac03b0d1b3b
+snapshot taken: 2026-11-13T14:05:00Z

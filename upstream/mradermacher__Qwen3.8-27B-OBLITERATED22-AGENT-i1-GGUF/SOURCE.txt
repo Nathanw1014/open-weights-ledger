@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-27B-OBLITERATED22-AGENT-i1-GGUF
+main commit at snapshot: 8b080f5c0115d328777200618956242edad247ee
+snapshot taken: 2026-11-13T14:05:38Z

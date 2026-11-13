@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/SmolLM2-135M-Instruct-GGUF
+main commit at snapshot: 9e6855bc4be717fca1ef21360a1db4b29d5c559a
+snapshot taken: 2026-11-13T13:05:25Z

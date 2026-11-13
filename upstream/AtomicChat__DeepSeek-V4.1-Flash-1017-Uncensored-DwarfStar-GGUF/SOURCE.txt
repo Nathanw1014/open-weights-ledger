@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-DwarfStar-GGUF
+main commit at snapshot: 36c3f1413965b2df09f49e8bedd80dad1db76284
+snapshot taken: 2026-11-13T14:10:13Z

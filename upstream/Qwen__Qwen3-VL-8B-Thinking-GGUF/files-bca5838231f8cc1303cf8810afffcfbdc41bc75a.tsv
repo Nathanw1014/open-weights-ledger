@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3VL-8B-Thinking-F16.gguf	16388044800	b0f1e99a42e1a7fabec794af37d7501ed097d322716b86c08a078e8b2f0b6e41	sha256
+Qwen3VL-8B-Thinking-Q4_K_M.gguf	5027784704	9e54ca761ab1eb0e8bf9eddae356fd3535b910b3bf3e38e10c914f42cf8751cb	sha256
+Qwen3VL-8B-Thinking-Q8_0.gguf	8709519360	6657d91e693b7ff8eec9f137589642f8813a7611fea4eeae365d31edcaaf0cf5	sha256
+mmproj-Qwen3VL-8B-Thinking-F16.gguf	1159029824	0fda38a08e4344096c5b6d779daf79ffc073adc2736962aaae8692025ef04bae	sha256
+mmproj-Qwen3VL-8B-Thinking-Q8_0.gguf	752289728	c6aebeb17ab596dda1976629ea4ed1bdb94d506fd198630eb8567ae11cfb4684	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/phi-4-GGUF
+main commit at snapshot: 5110b7771e8166d5530e73346a15aea096a8cb99
+snapshot taken: 2026-11-13T13:13:34Z

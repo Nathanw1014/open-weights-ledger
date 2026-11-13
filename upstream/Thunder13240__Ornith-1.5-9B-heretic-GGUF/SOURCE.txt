@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Thunder13240/Ornith-1.5-9B-heretic-GGUF
+main commit at snapshot: a2e7bbe174b637fafb28ecccce8c8355307f5cd4
+snapshot taken: 2026-11-13T14:07:36Z

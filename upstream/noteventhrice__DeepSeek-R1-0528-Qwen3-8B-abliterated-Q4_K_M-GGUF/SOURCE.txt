@@ -1,0 +1,3 @@
+repo: https://huggingface.co/noteventhrice/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q4_K_M-GGUF
+main commit at snapshot: 1a39365a39a86b80c053539c9e1e98eae3bf387c
+snapshot taken: 2026-11-13T14:04:24Z

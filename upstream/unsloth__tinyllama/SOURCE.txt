@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/tinyllama
+main commit at snapshot: 277240b3a621a06cfc02acf7b1f53bdbcb27843b
+snapshot taken: 2026-11-13T13:19:58Z

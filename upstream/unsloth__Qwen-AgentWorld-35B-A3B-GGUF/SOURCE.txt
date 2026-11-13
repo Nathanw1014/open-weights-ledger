@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen-AgentWorld-35B-A3B-GGUF
+main commit at snapshot: 3a305abf5cfd119ee999dfe929c433746edd8d63
+snapshot taken: 2026-11-13T13:04:09Z

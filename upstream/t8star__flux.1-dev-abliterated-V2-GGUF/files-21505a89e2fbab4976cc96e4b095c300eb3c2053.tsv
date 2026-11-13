@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+T8-flux.1-dev-abliterated-V2-GGUF-Q4_K_M.gguf	6940468512	f68579dfc3a5715f9618a3547f17708e952d2d3cd36703e40f2de7935e785168	sha256
+T8-flux.1-dev-abliterated-V2-GGUF-Q6_K.gguf	9857000736	9a7ef0087e932ccff807b73b19b85aef75c0449883d01aa06c0ada4f1911608b	sha256
+T8-flux.1-dev-abliterated-V2-GGUF-Q8_0.gguf	12723103008	aba8163ff644018da195212a1c33aeddbf802a0c2bba96abc584a2d0b6b42272	sha256

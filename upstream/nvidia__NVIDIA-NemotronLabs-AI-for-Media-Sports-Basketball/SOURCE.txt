@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-NemotronLabs-AI-for-Media-Sports-Basketball
+main commit at snapshot: 632ddf0d709b0d3d550e2567a5745c067d8ee08f
+snapshot taken: 2026-11-13T13:59:19Z

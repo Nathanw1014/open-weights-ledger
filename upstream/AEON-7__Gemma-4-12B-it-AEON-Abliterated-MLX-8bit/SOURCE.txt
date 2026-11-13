@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Gemma-4-12B-it-AEON-Abliterated-MLX-8bit
+main commit at snapshot: c2f5d3754bd7baa381c5718bf770be2672249614
+snapshot taken: 2026-11-13T14:03:27Z

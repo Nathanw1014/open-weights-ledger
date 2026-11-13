@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/medgemma-27b-text-it-bnb-4bit
+main commit at snapshot: 60fb8beb3d071f496b5fd56c8f9da299e22008d5
+snapshot taken: 2026-11-13T13:22:47Z

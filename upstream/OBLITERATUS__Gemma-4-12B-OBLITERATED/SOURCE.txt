@@ -1,0 +1,3 @@
+repo: https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED
+main commit at snapshot: f81b0cbd28a3650138635823bc101adb56a0bc4a
+snapshot taken: 2026-11-13T14:04:48Z

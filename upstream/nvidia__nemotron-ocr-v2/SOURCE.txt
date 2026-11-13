@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/nemotron-ocr-v2
+main commit at snapshot: 0e83e83f17943524b90afa6c0fd82ac2bc1a40ca
+snapshot taken: 2026-11-13T13:57:25Z

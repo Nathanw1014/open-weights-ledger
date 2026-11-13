@@ -1,0 +1,44 @@
+[
+{
+"Path": "SmolLM2-1.7B-Instruct-F16.gguf",
+"Sha256": "5f4020d9c59b329aaa082a690743e760411dfbb5c4ccd1ef49fb0fd20a6b6a7c",
+"IsLFS": true,
+"CommittedDate": 1731538304
+},
+{
+"Path": "SmolLM2-1.7B-Instruct-Q2_K.gguf",
+"Sha256": "0bef8188930ae76e83e462eadd5a0878b55f14bf076ea140c1b47bc368fff47f",
+"IsLFS": true,
+"CommittedDate": 1731538304
+},
+{
+"Path": "SmolLM2-1.7B-Instruct-Q3_K_M.gguf",
+"Sha256": "c11df3ad10008f80b80c8028b93c959448d1a7a2e5758ff4248eeab20941be51",
+"IsLFS": true,
+"CommittedDate": 1731538304
+},
+{
+"Path": "SmolLM2-1.7B-Instruct-Q4_K_M.gguf",
+"Sha256": "61b6f90dd515fd3bffbd0f6ba716e87555dde77d9b0573a562c2c5e62afc4909",
+"IsLFS": true,
+"CommittedDate": 1731538304
+},
+{
+"Path": "SmolLM2-1.7B-Instruct-Q5_K_M.gguf",
+"Sha256": "5c4b64bdc11ef0929857d946c43c8fe4e469542bbbafe7fb2589fb7eb3f8cdb2",
+"IsLFS": true,
+"CommittedDate": 1731538304
+},
+{
+"Path": "SmolLM2-1.7B-Instruct-Q6_K.gguf",
+"Sha256": "c53b3d00ac5588a36ffda34e8d1997898af712e076b31026c1fbcd6ead7f79ef",
+"IsLFS": true,
+"CommittedDate": 1731538304
+},
+{
+"Path": "SmolLM2-1.7B-Instruct-Q8_0.gguf",
+"Sha256": "0f3fb091804c48a561b42a4ca1be9ce2c353017187f74c48f52299cae790abe5",
+"IsLFS": true,
+"CommittedDate": 1731538304
+}
+]

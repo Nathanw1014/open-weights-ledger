@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pottokao/MiniMax-H3-TextEncoder-16GB-abliterated-GGUF
+main commit at snapshot: 58964486de6d8954974b4b02aac8b8885666cc6e
+snapshot taken: 2026-11-13T14:02:11Z

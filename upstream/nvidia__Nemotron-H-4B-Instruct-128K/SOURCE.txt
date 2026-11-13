@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-H-4B-Instruct-128K
+main commit at snapshot: f3c0b6c3b7fcb39e132b6007386e33a586d6e6cb
+snapshot taken: 2026-11-13T13:57:59Z

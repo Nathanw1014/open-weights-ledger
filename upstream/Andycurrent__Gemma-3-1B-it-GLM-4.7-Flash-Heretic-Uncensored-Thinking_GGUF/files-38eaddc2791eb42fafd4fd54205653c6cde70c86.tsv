@@ -1,0 +1,8 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_F16.gguf	2006574688	b03913d681e692d58144ae910c585f6c95063e7a0cc92f6f0bac6863b8458837	sha256
+Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_Q2_k.gguf	689815648	6008b2f2537e2624eb6b9ed9e72f70cf1e11afb87e39383bd9acb7d10374960f	sha256
+Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_Q3_k_m.gguf	722417248	2586c2c40703931aedac52fdd69d28b60b1027aaa0871468e0aee8908c6edd9b	sha256
+Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_Q4_k_m.gguf	806059360	fcd05a80d8f617383259bf674729d35392664829ff9e467600b5392e11212d8c	sha256
+Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_Q5_k_m.gguf	851346784	ffd5366ab8ad7367f9a0ceedf62e779ccb788080a2b4f7e9b751ed0ee1d5c8f7	sha256
+Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_Q6_k.gguf	1011739744	12f37c642bf99c8e94856ff4dc6ccbbb698106508584579cab1dc9c1d4fa6be4	sha256
+Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_Q8_0.gguf	1069307488	f8bb055bcb4041682b6488370a9567c668c43877b450c7a54ea7c8f6c49ce662	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Gemma-4-31B-it-DECKARD-HERETIC-Uncensored-NVFP4-SVDQuant
+main commit at snapshot: ad1719d5979e3a52e1dfdf5ba83a7eb392cf24a4
+snapshot taken: 2026-11-13T14:08:44Z

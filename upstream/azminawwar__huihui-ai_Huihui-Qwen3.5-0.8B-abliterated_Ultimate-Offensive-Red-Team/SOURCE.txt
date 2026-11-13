@@ -1,0 +1,3 @@
+repo: https://huggingface.co/azminawwar/huihui-ai_Huihui-Qwen3.5-0.8B-abliterated_Ultimate-Offensive-Red-Team
+main commit at snapshot: 7eed783a6dde94ef571ede000664bac9e901c25f
+snapshot taken: 2026-11-13T14:03:42Z

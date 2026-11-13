@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pottokao/MiniMax-H3-TextEncoder-Qwen3VL-32B-abliterated-GGUF
+main commit at snapshot: fcab56761c77a203f93c40722181cbc773a34615
+snapshot taken: 2026-11-13T14:02:02Z

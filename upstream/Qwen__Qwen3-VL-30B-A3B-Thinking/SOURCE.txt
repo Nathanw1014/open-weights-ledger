@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking
+main commit at snapshot: d0ed0380729be07a546fdefafbb4fe411f341e92
+snapshot taken: 2026-11-13T13:47:57Z

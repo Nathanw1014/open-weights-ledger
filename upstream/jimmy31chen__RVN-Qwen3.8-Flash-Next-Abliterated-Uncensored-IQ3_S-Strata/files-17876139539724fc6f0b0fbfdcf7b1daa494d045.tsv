@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+RVN-Qwen3.8-Flash-Next-IQ3_S-merged.gguf	88882765184	cb5958e5b0e97804fa2973f7ce36943a1b0d735b1b83fc1e52b8c3f3b97f87e6	sha256
+pack/dense.bin	1538035200	4f87fa3fb3bb87155fada5e0abb05df3d6c9a2872cd70cc3d9f3cc40a7d87eda	sha256

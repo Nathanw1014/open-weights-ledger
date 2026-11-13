@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2-Math-1.5B
+main commit at snapshot: f99ba36041634c31dcf6cffcea28fca380e415b9
+snapshot taken: 2026-11-13T13:29:11Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2.5-1.5B-Instruct-bnb-4bit
+main commit at snapshot: d2f2dd02b071701d5100a04a7a49d6fb0bd305b7
+snapshot taken: 2026-11-13T13:07:45Z

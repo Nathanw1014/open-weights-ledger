@@ -1,0 +1,182 @@
+[
+{
+"Path": "Apriel-1.5-15b-Thinker-BF16.gguf",
+"Sha256": "693a56fe23d39812fcb2a97ce2a75eb84ced9a0496a0986c3c80ff88cfe6716a",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-IQ4_NL.gguf",
+"Sha256": "e24578a9267a4e50a924bbc6aff078691786626524981ad4ce47b58a7ed6bb13",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-IQ4_XS.gguf",
+"Sha256": "33e736ec8f74bdb8a155f519af41aa885247ab10c0ac30a17a65d9e1a07801d7",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q2_K.gguf",
+"Sha256": "beaeac5b50c6d6faaabe8c08a5ee55dec1b2a5ce7f1401e4425867f3696b218a",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q2_K_L.gguf",
+"Sha256": "0735b85c1afeff124871bb6eeb00d126946b5ea593f1f9972875a978c38e1e29",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q3_K_M.gguf",
+"Sha256": "1e83a2e65b67b138dd179cc0d0be7d2e4574fc147e01c5638283b717a8fb9134",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q3_K_S.gguf",
+"Sha256": "10ca1be702c9e96b61d5dcb4a94257ed310df847a18ae63795166680161226e1",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q4_0.gguf",
+"Sha256": "4d9439b76b6f4380ab5205617c1ef3d10b0e8897146a0a7ccb7155bca1771df7",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q4_1.gguf",
+"Sha256": "095fc418904ea343d6f2982e50ca9d51268182b8d0cd7439693dae8dd3e1799c",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q4_K_M.gguf",
+"Sha256": "a447c432b12a11a689632edb01e747f3a1c9c2d62e61752b6c0f8b0024e70cf5",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q4_K_S.gguf",
+"Sha256": "e12bcd55ec5a886027f5b0d9b5a41b714a9dde88fb39b209223382d4f06a782c",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q5_K_M.gguf",
+"Sha256": "de76080f1114fd5a6a39fdff15263246707247dc587a6d32d25dd2dcbc31dbb6",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q5_K_S.gguf",
+"Sha256": "d250c544ddbc85a46626aee9c6f9f144908bcd28dd5ba87ffd84646c20a62f60",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q6_K.gguf",
+"Sha256": "660a9e1fa70b58775304609476e6903479ffc233cd4c913dffe6edb8a37787db",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-Q8_0.gguf",
+"Sha256": "bffa04967a9ebb47ebc946329a2f4ce9e2cbcddd4c5e59b862e221b36d1e71c2",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-IQ1_M.gguf",
+"Sha256": "2868bc2baf47add2607c005724995c21031ea5df7b329ba94f3afa1e11738392",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-IQ1_S.gguf",
+"Sha256": "e7310af7c889401a5b57d38147190ae38cf791fd0d091c61033368c03d565a68",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-IQ2_M.gguf",
+"Sha256": "61f1279994ccce377e40760ceb8fec4638a74809b4c72a11a52d7fa61f3887d5",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-IQ2_XXS.gguf",
+"Sha256": "6bc0f4d42e3c591314a65e8d817ed53cf06f9fa6d0d76ac0ffa7e380dad14b7e",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-IQ3_XXS.gguf",
+"Sha256": "8fe8826ca1fcaec2e5b293d5da110c21d417219a5d18146615b7fa77550117a1",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-Q2_K_XL.gguf",
+"Sha256": "e190b0193c315483e77c0a83d7b6fe4a62d7a2162adf14510a4f3fddaee26b3a",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-Q3_K_XL.gguf",
+"Sha256": "37561adaecaf3caa19a979e5f65491fad154ed92a89ad5991526bbf9318d3c3a",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-Q4_K_XL.gguf",
+"Sha256": "9549d3e89040b24864a0bfcce9d7c76c8d8ddfef0427342945e8555038822381",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-Q5_K_XL.gguf",
+"Sha256": "96a0a2f0751c1aa2b0c5040c372a705cd529a98dcaf34618c4379af56a81b533",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-Q6_K_XL.gguf",
+"Sha256": "7db9a8582c0035aaf5a0bbc97dd73dc51a901e4b52d03b5a651370eb5b7d558a",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "Apriel-1.5-15b-Thinker-UD-Q8_K_XL.gguf",
+"Sha256": "04580026387d64c968825b2ff57d14eb0d05fe19e01f79860045672b2bff4191",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "46d8f7913cea0f0f1748a9ba5cf79baf776556ad1caf88114b6b967343d2853f",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "83e1f70a9c00eaba6fbba9f66f90d484f5bcd52c0111b10dd6f23a020d2913ce",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "21b850319538d0324666a08e5880e4630d7cbbdf70497891affaebb8b97b12d4",
+"IsLFS": true,
+"CommittedDate": 1759987253
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "678386672f1191f92d37cd603aa72030e5108076611fa07df4879e79b617ea45",
+"IsLFS": true,
+"CommittedDate": 1759987253
+}
+]

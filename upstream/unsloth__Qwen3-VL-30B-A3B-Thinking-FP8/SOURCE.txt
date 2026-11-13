@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-30B-A3B-Thinking-FP8
+main commit at snapshot: 6f9f569ab9aa4c62c4d0a00b20e785c4bf50b821
+snapshot taken: 2026-11-13T13:34:23Z

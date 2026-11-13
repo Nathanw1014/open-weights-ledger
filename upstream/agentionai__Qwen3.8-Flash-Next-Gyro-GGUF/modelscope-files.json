@@ -1,0 +1,50 @@
+[
+{
+"Path": "Qwen3.8-Flash-Next-Gyro-L-TQ3_0-noPLE.gguf",
+"Sha256": "421f9d91026844e8ff5be5d3e311d754e3fcac77835e801ef599cd458cdb7195",
+"IsLFS": true,
+"CommittedDate": 1793979187
+},
+{
+"Path": "Qwen3.8-Flash-Next-Gyro-L-TQ3_0.gguf",
+"Sha256": "5428a5646eaeaa56cc00a892f92e7546aeadb255233503969ad25cf48c7f359b",
+"IsLFS": true,
+"CommittedDate": 1791904428
+},
+{
+"Path": "Qwen3.8-Flash-Next-Gyro-M-TQ2_0-noPLE.gguf",
+"Sha256": "b3b977d29944e50ad5ae7f85bfce1bf78f5727da4c0640e9dc67854af908d8b3",
+"IsLFS": true,
+"CommittedDate": 1793979187
+},
+{
+"Path": "Qwen3.8-Flash-Next-Gyro-M-TQ2_0.gguf",
+"Sha256": "7aa36d15131d255179ab6c87fa9c9f81a0b541fc9e81e959d4c3e29eb20feb5f",
+"IsLFS": true,
+"CommittedDate": 1791832805
+},
+{
+"Path": "Qwen3.8-Flash-Next-Gyro-S-TQ1_0-noPLE.gguf",
+"Sha256": "ae7bad99385cc5074029596c049d2839f37ae02a2cd9ff77f1aa54f6e0f53fd6",
+"IsLFS": true,
+"CommittedDate": 1793979187
+},
+{
+"Path": "Qwen3.8-Flash-Next-Gyro-S-TQ1_0.gguf",
+"Sha256": "c6ea1b08ca312f99095b27588ba35976b53f948268e7f91e7761926aa01d9c87",
+"IsLFS": true,
+"CommittedDate": 1791732894
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "f456cd796fdbdef0cadb22710b54e0071b6cdf22c07963365baa898267aec517",
+"IsLFS": true,
+"CommittedDate": 1790955565
+},
+{
+"Path": "mtp-Qwen3.8-Flash-Next-draft.gguf",
+"Sha256": "008183784ac5aa2cdcd3d7777e4e6febb0645ae4b8d1da1c065b2149c1d6391b",
+"IsLFS": true,
+"CommittedDate": 1791297067
+}
+]

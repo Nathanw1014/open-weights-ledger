@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-7B-Chat
+main commit at snapshot: 93a65d34827a3cc269b727e67004743b723e2f83
+snapshot taken: 2026-11-13T13:46:13Z

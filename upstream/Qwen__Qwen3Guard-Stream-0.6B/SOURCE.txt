@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3Guard-Stream-0.6B
+main commit at snapshot: 74e1479150e9029d6778993f00491108323bb6f8
+snapshot taken: 2026-11-13T13:48:30Z

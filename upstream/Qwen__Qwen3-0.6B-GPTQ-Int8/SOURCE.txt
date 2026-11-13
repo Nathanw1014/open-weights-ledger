@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-0.6B-GPTQ-Int8
+main commit at snapshot: d3f20e7e71825fe57ad32705b396e9e156279107
+snapshot taken: 2026-11-13T13:50:07Z

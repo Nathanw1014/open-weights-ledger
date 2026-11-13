@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-Flash-Next-GSQ-RCO-abliterated-IQ3_S-00001-of-00002.gguf	55063664928	78706315c2fe912777c006b4ae18be1024c9f4353bd25d33b8a306c9c55f9e34	sha256
+Qwen3.8-Flash-Next-GSQ-RCO-abliterated-IQ3_S-00002-of-00002.gguf	28800138432	316b46f3a2dbd68c900f43136ab9449f9dcc3725dfd8c794847c204bc161e113	sha256
+free-mind.gif	17871127	988bc94e5dee167e126b0885d17ad52fe0b5d8f579becdf9dc7b178be04d347e	sha256
+mmproj-Qwen3.8-Flash-Next-BF16.gguf	907543008	b1a82259702816a5330d7bd7607cd9676b11780e79ff7348c21103ff3ce49bd0	sha256

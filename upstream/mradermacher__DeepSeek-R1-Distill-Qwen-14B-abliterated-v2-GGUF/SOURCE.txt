@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2-GGUF
+main commit at snapshot: 39e97fd1a97e3e4b5be8ba92d6640a95f2757d29
+snapshot taken: 2026-11-13T14:03:10Z

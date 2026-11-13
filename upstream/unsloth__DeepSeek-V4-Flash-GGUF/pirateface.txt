@@ -1,0 +1,2 @@
+checked 2026-11-13T09:33:50Z
+unsloth/DeepSeek-V4-Flash-GGUF                                   1.5 TB  2 seeds  magnet:?xt=urn:btih:24f5ecd9f816bfde0f5543210a4728b4a9245137&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2FDeepSeek-V4-Flash-GGUF%2Fe3aa0d6a5fa4f820d9e132ac1fd1d01e1b2b49e0%2F

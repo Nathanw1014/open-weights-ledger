@@ -1,0 +1,3 @@
+repo: https://huggingface.co/prithivMLmods/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-MTP-GGUF
+main commit at snapshot: 84b3b063952e004f9ee39e73e5faa1995965c619
+snapshot taken: 2026-11-13T14:08:16Z

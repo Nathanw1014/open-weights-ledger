@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning
+main commit at snapshot: da923c72598f323f1aa01541244fe6d4d7774279
+snapshot taken: 2026-11-13T13:30:13Z

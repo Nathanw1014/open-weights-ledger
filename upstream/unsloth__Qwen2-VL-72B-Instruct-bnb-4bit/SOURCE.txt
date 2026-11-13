@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen2-VL-72B-Instruct-bnb-4bit
+main commit at snapshot: 951d1ec7fdf7d6f868da9b3319824091040e16ce
+snapshot taken: 2026-11-13T13:34:48Z

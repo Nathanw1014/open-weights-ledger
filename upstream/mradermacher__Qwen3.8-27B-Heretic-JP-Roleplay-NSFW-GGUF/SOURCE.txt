@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-27B-Heretic-JP-Roleplay-NSFW-GGUF
+main commit at snapshot: df7a4735a28bb74c80e49090885247a64fc8f952
+snapshot taken: 2026-11-13T14:08:31Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/yi-6b-bnb-4bit
+main commit at snapshot: 63563e0b2fc8a8a6a367f1caeb2519ce9346ed82
+snapshot taken: 2026-11-13T13:25:25Z

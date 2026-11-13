@@ -1,0 +1,428 @@
+[
+{
+"Path": "BF16/Mistral-Medium-3.5-128B-BF16-00001-of-00006.gguf",
+"Sha256": "b0b5dc7af56f62dbd446b32f058b011af5e3547cb98f1648d7d312033b28be78",
+"IsLFS": true,
+"CommittedDate": 1777801346
+},
+{
+"Path": "BF16/Mistral-Medium-3.5-128B-BF16-00002-of-00006.gguf",
+"Sha256": "adda2df8ecd859f4413ebb20378698ec4a2a2e2f660d90683a5128ba2b5d69f0",
+"IsLFS": true,
+"CommittedDate": 1777801346
+},
+{
+"Path": "BF16/Mistral-Medium-3.5-128B-BF16-00003-of-00006.gguf",
+"Sha256": "3c1fb0905bdb31a9969f191bb38071f84a7bf4ca1e15cfb224a9de47e5c5a2a7",
+"IsLFS": true,
+"CommittedDate": 1777801346
+},
+{
+"Path": "BF16/Mistral-Medium-3.5-128B-BF16-00004-of-00006.gguf",
+"Sha256": "6472cb995ab1a84461becfb932b96dccd0493e1d1513a1dcf264ee0daa3aa9cb",
+"IsLFS": true,
+"CommittedDate": 1777801346
+},
+{
+"Path": "BF16/Mistral-Medium-3.5-128B-BF16-00005-of-00006.gguf",
+"Sha256": "e1624e7f0d263aff88dcd738450ef65e5992a50a7e82eb50f3191845de43b415",
+"IsLFS": true,
+"CommittedDate": 1777801346
+},
+{
+"Path": "BF16/Mistral-Medium-3.5-128B-BF16-00006-of-00006.gguf",
+"Sha256": "71d93d5c685bf13001ae06ee87651ecbe01749dbdeb9fc96c5103a9297ccd977",
+"IsLFS": true,
+"CommittedDate": 1777801346
+},
+{
+"Path": "IQ4_NL/Mistral-Medium-3.5-128B-IQ4_NL-00001-of-00003.gguf",
+"Sha256": "d40364b59b985106f66955e47f2226541b3fa5be606f50d79132b09ef90a3eb8",
+"IsLFS": true,
+"CommittedDate": 1777801346
+},
+{
+"Path": "IQ4_NL/Mistral-Medium-3.5-128B-IQ4_NL-00002-of-00003.gguf",
+"Sha256": "471b51caecfbbc0cc1d6e7e6e42694402f173889efc50dbfcb87344271e7b67a",
+"IsLFS": true,
+"CommittedDate": 1777801540
+},
+{
+"Path": "IQ4_NL/Mistral-Medium-3.5-128B-IQ4_NL-00003-of-00003.gguf",
+"Sha256": "5d7fd578633914e1ded3f58520244ece750b2541eaf971a4f3f595e699655548",
+"IsLFS": true,
+"CommittedDate": 1777801540
+},
+{
+"Path": "IQ4_XS/Mistral-Medium-3.5-128B-IQ4_XS-00001-of-00003.gguf",
+"Sha256": "b8444f3af31ca2dd59040b816589155c812a06042203ac0be1be64a1e2441197",
+"IsLFS": true,
+"CommittedDate": 1777801540
+},
+{
+"Path": "IQ4_XS/Mistral-Medium-3.5-128B-IQ4_XS-00002-of-00003.gguf",
+"Sha256": "2ab6ace42615d10a7e489d3a834e5c022d0387a98159a386776b68557a755bce",
+"IsLFS": true,
+"CommittedDate": 1777801540
+},
+{
+"Path": "IQ4_XS/Mistral-Medium-3.5-128B-IQ4_XS-00003-of-00003.gguf",
+"Sha256": "e9fce6e974281a210559e18f639c5a0daf9406a17ccadbfa3000700772257de3",
+"IsLFS": true,
+"CommittedDate": 1777801540
+},
+{
+"Path": "Mistral-Medium-3.5-128B-Q2_K.gguf",
+"Sha256": "4063bb10565d4910d23646587477629251a666bb0b33dac391a0cb31358177fd",
+"IsLFS": true,
+"CommittedDate": 1777801540
+},
+{
+"Path": "Mistral-Medium-3.5-128B-Q2_K_L.gguf",
+"Sha256": "c407359504e6d45dd810f824ea4df353fd01eb4b7f25eb551efb186ca6e95f6c",
+"IsLFS": true,
+"CommittedDate": 1777801540
+},
+{
+"Path": "Mistral-Medium-3.5-128B-UD-IQ2_M.gguf",
+"Sha256": "e7e41f78d72983c393588482993783489068e59be3bc819caafdd569a2ac8748",
+"IsLFS": true,
+"CommittedDate": 1777802915
+},
+{
+"Path": "Mistral-Medium-3.5-128B-UD-IQ2_XXS.gguf",
+"Sha256": "ef1bce9c1ed42e471cda0c5e33a96dded66bd1e35f9dbe21c4cf53c6c3a73b54",
+"IsLFS": true,
+"CommittedDate": 1777802915
+},
+{
+"Path": "Mistral-Medium-3.5-128B-UD-IQ3_XXS.gguf",
+"Sha256": "e8764261dfe229b9ca9bda49f1e14ffd746230e03be3b6d37db4f3e6c0338546",
+"IsLFS": true,
+"CommittedDate": 1777802915
+},
+{
+"Path": "Mistral-Medium-3.5-128B-UD-Q2_K_XL.gguf",
+"Sha256": "e9afecbb039eeff18ee54311300b739a7417b593f0bf70cd25f1a86bf0035527",
+"IsLFS": true,
+"CommittedDate": 1777802915
+},
+{
+"Path": "Q3_K_M/Mistral-Medium-3.5-128B-Q3_K_M-00001-of-00003.gguf",
+"Sha256": "554bc3599156620db579127d85a3241f9ced9dfe6191774d502a6632121f2e1f",
+"IsLFS": true,
+"CommittedDate": 1777802915
+},
+{
+"Path": "Q3_K_M/Mistral-Medium-3.5-128B-Q3_K_M-00002-of-00003.gguf",
+"Sha256": "d42bbae48cc1029f55c397033266d4e74c1951a3eb52cdec8fc9a5dcae55b55e",
+"IsLFS": true,
+"CommittedDate": 1777802915
+},
+{
+"Path": "Q3_K_M/Mistral-Medium-3.5-128B-Q3_K_M-00003-of-00003.gguf",
+"Sha256": "aa944198c27e04a91aad1d4f7929c5042a5fc567d83fb28c3ac519eabab60690",
+"IsLFS": true,
+"CommittedDate": 1777802915
+},
+{
+"Path": "Q3_K_S/Mistral-Medium-3.5-128B-Q3_K_S-00001-of-00003.gguf",
+"Sha256": "18bacd2b6e96b28f6808d789fafce958045a62ee4008b6bb00ebeb9e12845af6",
+"IsLFS": true,
+"CommittedDate": 1777802927
+},
+{
+"Path": "Q3_K_S/Mistral-Medium-3.5-128B-Q3_K_S-00002-of-00003.gguf",
+"Sha256": "74b4765c97805105691e053b4b00efc98846d2dfa4f382b45bd14409a6204a93",
+"IsLFS": true,
+"CommittedDate": 1777802927
+},
+{
+"Path": "Q3_K_S/Mistral-Medium-3.5-128B-Q3_K_S-00003-of-00003.gguf",
+"Sha256": "498501ebe4c30d70c7109000da84747828eb771cafe260ef7095808ae7c517d6",
+"IsLFS": true,
+"CommittedDate": 1777802927
+},
+{
+"Path": "Q4_0/Mistral-Medium-3.5-128B-Q4_0-00001-of-00003.gguf",
+"Sha256": "620fd3c2fa82d5da7da3a87de9dd0e8224a5abfea69f8a28c5ea354801f3f9b3",
+"IsLFS": true,
+"CommittedDate": 1777802927
+},
+{
+"Path": "Q4_0/Mistral-Medium-3.5-128B-Q4_0-00002-of-00003.gguf",
+"Sha256": "f90b66718d9c986db3f644465738598965a6be97cdb1e80b7f5bbc311191a243",
+"IsLFS": true,
+"CommittedDate": 1777802927
+},
+{
+"Path": "Q4_0/Mistral-Medium-3.5-128B-Q4_0-00003-of-00003.gguf",
+"Sha256": "18e6bd8acc952dbca6a040855fc7b9dc19203c40834d48ef1f4ea3d79429a999",
+"IsLFS": true,
+"CommittedDate": 1777802927
+},
+{
+"Path": "Q4_1/Mistral-Medium-3.5-128B-Q4_1-00001-of-00003.gguf",
+"Sha256": "29a2b69829ecf296787b069bb1d789a8812c444f7eff16787a7c0d85817fcfd6",
+"IsLFS": true,
+"CommittedDate": 1777802927
+},
+{
+"Path": "Q4_1/Mistral-Medium-3.5-128B-Q4_1-00002-of-00003.gguf",
+"Sha256": "2a9b03126fdac992443811ae8e8b71e19231f6d3ab8b760397a171bcdea6456a",
+"IsLFS": true,
+"CommittedDate": 1777804329
+},
+{
+"Path": "Q4_1/Mistral-Medium-3.5-128B-Q4_1-00003-of-00003.gguf",
+"Sha256": "46494d178bd2e0e2a8d11e1a468ecd0fa486d29d5d2b18d7d308a9fecc2120e5",
+"IsLFS": true,
+"CommittedDate": 1777804329
+},
+{
+"Path": "Q4_K_M/Mistral-Medium-3.5-128B-Q4_K_M-00001-of-00003.gguf",
+"Sha256": "94bf2dd90d80f41b1dfb1f94b569d11fd78fd302a79ae9fdf828f8082d1dfeaa",
+"IsLFS": true,
+"CommittedDate": 1777804329
+},
+{
+"Path": "Q4_K_M/Mistral-Medium-3.5-128B-Q4_K_M-00002-of-00003.gguf",
+"Sha256": "8396392f4b9eafac69e59355b569b6603f42d103505988e26939db7f5bfecb95",
+"IsLFS": true,
+"CommittedDate": 1777804329
+},
+{
+"Path": "Q4_K_M/Mistral-Medium-3.5-128B-Q4_K_M-00003-of-00003.gguf",
+"Sha256": "3f4ddc0284d522e6f1a020eaa731eaf851d6708a26431773de7bba504227c2e5",
+"IsLFS": true,
+"CommittedDate": 1777804329
+},
+{
+"Path": "Q4_K_S/Mistral-Medium-3.5-128B-Q4_K_S-00001-of-00003.gguf",
+"Sha256": "a289206b5818864bf2f7cbb7fa086c3fa9c7ab4dc61bae1a06d10079cfc49754",
+"IsLFS": true,
+"CommittedDate": 1777804329
+},
+{
+"Path": "Q4_K_S/Mistral-Medium-3.5-128B-Q4_K_S-00002-of-00003.gguf",
+"Sha256": "a37d54c2d5f971457b87295dddbcb3c1f2a16fbd65f678a72702e64dd2e4f675",
+"IsLFS": true,
+"CommittedDate": 1777804329
+},
+{
+"Path": "Q4_K_S/Mistral-Medium-3.5-128B-Q4_K_S-00003-of-00003.gguf",
+"Sha256": "fc80390c85cdd6187a5da90b723fb18ea84c97d0cefbc10d578d387af3dca8ad",
+"IsLFS": true,
+"CommittedDate": 1777804645
+},
+{
+"Path": "Q5_K_M/Mistral-Medium-3.5-128B-Q5_K_M-00001-of-00003.gguf",
+"Sha256": "8043f33b09cb7bc6e62a100f8f74113cf5fce15adc89a53ad5c56709eccdf565",
+"IsLFS": true,
+"CommittedDate": 1777804645
+},
+{
+"Path": "Q5_K_M/Mistral-Medium-3.5-128B-Q5_K_M-00002-of-00003.gguf",
+"Sha256": "4a77d88870b34b935e7e91824e8cb9c7943953cb7ff38de7c5aa95a5975656c6",
+"IsLFS": true,
+"CommittedDate": 1777804645
+},
+{
+"Path": "Q5_K_M/Mistral-Medium-3.5-128B-Q5_K_M-00003-of-00003.gguf",
+"Sha256": "85207b9d47424c41c68f549a354a3095f4b7f086108af44b53bf783089305199",
+"IsLFS": true,
+"CommittedDate": 1777804645
+},
+{
+"Path": "Q5_K_S/Mistral-Medium-3.5-128B-Q5_K_S-00001-of-00003.gguf",
+"Sha256": "a08c275e60b2b96f09fd4113eb19a539d41189d97ed5ffb5bf6dc1bea4765075",
+"IsLFS": true,
+"CommittedDate": 1777804645
+},
+{
+"Path": "Q5_K_S/Mistral-Medium-3.5-128B-Q5_K_S-00002-of-00003.gguf",
+"Sha256": "a86dfdec45c27bf5aa0ef594206fb42db163babf1c59b02fac19af0f74260f48",
+"IsLFS": true,
+"CommittedDate": 1777804645
+},
+{
+"Path": "Q5_K_S/Mistral-Medium-3.5-128B-Q5_K_S-00003-of-00003.gguf",
+"Sha256": "6a1fb4efefbc187cc51b262e906aff0618ea7db70439c20a986de52ac8396b86",
+"IsLFS": true,
+"CommittedDate": 1777804645
+},
+{
+"Path": "Q6_K/Mistral-Medium-3.5-128B-Q6_K-00001-of-00004.gguf",
+"Sha256": "38da229c4b012dae4beaad451c18e65674490ad0b024c06f5aed617af58d4ba5",
+"IsLFS": true,
+"CommittedDate": 1777805846
+},
+{
+"Path": "Q6_K/Mistral-Medium-3.5-128B-Q6_K-00002-of-00004.gguf",
+"Sha256": "912478ac88bf7f981138155e0d59998d65f7cdf0bd06093a31a67727bb6fb995",
+"IsLFS": true,
+"CommittedDate": 1777805846
+},
+{
+"Path": "Q6_K/Mistral-Medium-3.5-128B-Q6_K-00003-of-00004.gguf",
+"Sha256": "51902c7c0c0dd8197a5e379490f2931848582798c6ee26ef7c7949f168714fe4",
+"IsLFS": true,
+"CommittedDate": 1777805846
+},
+{
+"Path": "Q6_K/Mistral-Medium-3.5-128B-Q6_K-00004-of-00004.gguf",
+"Sha256": "12c9b856abbdfafd9cde018345bfcfb7a950ba528e7c782d15401244531135dc",
+"IsLFS": true,
+"CommittedDate": 1777805846
+},
+{
+"Path": "Q8_0/Mistral-Medium-3.5-128B-Q8_0-00001-of-00004.gguf",
+"Sha256": "a0b95ccb05587e8ae76cd4fa58c9f5d8653393ae46deda790fddba8e7366e588",
+"IsLFS": true,
+"CommittedDate": 1777805846
+},
+{
+"Path": "Q8_0/Mistral-Medium-3.5-128B-Q8_0-00002-of-00004.gguf",
+"Sha256": "7192378e0262ebb1baa1d9b4a39f4a0279de888890f9c005b51102c43b2987b1",
+"IsLFS": true,
+"CommittedDate": 1777805846
+},
+{
+"Path": "Q8_0/Mistral-Medium-3.5-128B-Q8_0-00003-of-00004.gguf",
+"Sha256": "e633ef563f36d744e6222296c21190568fd5c10f15949adaed69d0574ded269b",
+"IsLFS": true,
+"CommittedDate": 1777805846
+},
+{
+"Path": "Q8_0/Mistral-Medium-3.5-128B-Q8_0-00004-of-00004.gguf",
+"Sha256": "c3f522c99f277baa3d7df4f376ce0e8ea1633f69585c2ac23de364ecc2b6b44e",
+"IsLFS": true,
+"CommittedDate": 1777806348
+},
+{
+"Path": "UD-Q3_K_XL/Mistral-Medium-3.5-128B-UD-Q3_K_XL-00001-of-00003.gguf",
+"Sha256": "554bc3599156620db579127d85a3241f9ced9dfe6191774d502a6632121f2e1f",
+"IsLFS": true,
+"CommittedDate": 1777806348
+},
+{
+"Path": "UD-Q3_K_XL/Mistral-Medium-3.5-128B-UD-Q3_K_XL-00002-of-00003.gguf",
+"Sha256": "8374eb1068d80754dd158c349550165a7613c68a1d79bca61ee555e774f9a242",
+"IsLFS": true,
+"CommittedDate": 1777806348
+},
+{
+"Path": "UD-Q3_K_XL/Mistral-Medium-3.5-128B-UD-Q3_K_XL-00003-of-00003.gguf",
+"Sha256": "2694587446881fcd2b7a19dc401a2b91ea2ea9939238d57b7b3669c01e06c0d6",
+"IsLFS": true,
+"CommittedDate": 1777806348
+},
+{
+"Path": "UD-Q4_K_XL/Mistral-Medium-3.5-128B-UD-Q4_K_XL-00001-of-00003.gguf",
+"Sha256": "94bf2dd90d80f41b1dfb1f94b569d11fd78fd302a79ae9fdf828f8082d1dfeaa",
+"IsLFS": true,
+"CommittedDate": 1777806348
+},
+{
+"Path": "UD-Q4_K_XL/Mistral-Medium-3.5-128B-UD-Q4_K_XL-00002-of-00003.gguf",
+"Sha256": "35ed0f9cc3361658430ec20caee7a491fcad77a4145a3bf2d1c520c6d7d223bf",
+"IsLFS": true,
+"CommittedDate": 1777806348
+},
+{
+"Path": "UD-Q4_K_XL/Mistral-Medium-3.5-128B-UD-Q4_K_XL-00003-of-00003.gguf",
+"Sha256": "62cb13818de00d4dc7756316f020df81aea20bc046443daa4eab9dfbab7ee4b1",
+"IsLFS": true,
+"CommittedDate": 1777806939
+},
+{
+"Path": "UD-Q5_K_XL/Mistral-Medium-3.5-128B-UD-Q5_K_XL-00001-of-00003.gguf",
+"Sha256": "8043f33b09cb7bc6e62a100f8f74113cf5fce15adc89a53ad5c56709eccdf565",
+"IsLFS": true,
+"CommittedDate": 1777806939
+},
+{
+"Path": "UD-Q5_K_XL/Mistral-Medium-3.5-128B-UD-Q5_K_XL-00002-of-00003.gguf",
+"Sha256": "831747de8541e5c5d10d4585d30f4c612336dba16868d6d74f3f8ef1a23be57d",
+"IsLFS": true,
+"CommittedDate": 1777806939
+},
+{
+"Path": "UD-Q5_K_XL/Mistral-Medium-3.5-128B-UD-Q5_K_XL-00003-of-00003.gguf",
+"Sha256": "763c126044c0b2e61c4d6f4dd702057d97c6936401197892acc35b469376c8bf",
+"IsLFS": true,
+"CommittedDate": 1777806939
+},
+{
+"Path": "UD-Q6_K_XL/Mistral-Medium-3.5-128B-UD-Q6_K_XL-00001-of-00004.gguf",
+"Sha256": "38da229c4b012dae4beaad451c18e65674490ad0b024c06f5aed617af58d4ba5",
+"IsLFS": true,
+"CommittedDate": 1777806939
+},
+{
+"Path": "UD-Q6_K_XL/Mistral-Medium-3.5-128B-UD-Q6_K_XL-00002-of-00004.gguf",
+"Sha256": "48ed0b0e86efe6a81403de41e5f5c6a52cb88f66d9a5dae6b129c4c34373dbee",
+"IsLFS": true,
+"CommittedDate": 1777806939
+},
+{
+"Path": "UD-Q6_K_XL/Mistral-Medium-3.5-128B-UD-Q6_K_XL-00003-of-00004.gguf",
+"Sha256": "d501b9e2959e20744b084096f38271b012ff96419a87f7234bde8f700b63b48f",
+"IsLFS": true,
+"CommittedDate": 1777806939
+},
+{
+"Path": "UD-Q6_K_XL/Mistral-Medium-3.5-128B-UD-Q6_K_XL-00004-of-00004.gguf",
+"Sha256": "6af188cd8c3daf8f1ac815adacffef8d05bfa1ce8a8d667d16440fe7d49dbe36",
+"IsLFS": true,
+"CommittedDate": 1777807220
+},
+{
+"Path": "UD-Q8_K_XL/Mistral-Medium-3.5-128B-UD-Q8_K_XL-00001-of-00004.gguf",
+"Sha256": "a0b95ccb05587e8ae76cd4fa58c9f5d8653393ae46deda790fddba8e7366e588",
+"IsLFS": true,
+"CommittedDate": 1777807220
+},
+{
+"Path": "UD-Q8_K_XL/Mistral-Medium-3.5-128B-UD-Q8_K_XL-00002-of-00004.gguf",
+"Sha256": "ae835ebcaab3cbcca30f96c370c8ddc2fa68f9848d0df38a8446f5dc3d5d687c",
+"IsLFS": true,
+"CommittedDate": 1777807220
+},
+{
+"Path": "UD-Q8_K_XL/Mistral-Medium-3.5-128B-UD-Q8_K_XL-00003-of-00004.gguf",
+"Sha256": "d218eaa2c13561db9e1bee8b2870902fd294d59366ecd98e24fbeff55487ac99",
+"IsLFS": true,
+"CommittedDate": 1777807220
+},
+{
+"Path": "UD-Q8_K_XL/Mistral-Medium-3.5-128B-UD-Q8_K_XL-00004-of-00004.gguf",
+"Sha256": "37253829882a1611edd5dce7915692ed9e967d58a4f1b5901879917d14074a8c",
+"IsLFS": true,
+"CommittedDate": 1777807220
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "59bc3c76dad85c3609543612f6b134f00bafec4b6801a3e7ac6587bda7ef6513",
+"IsLFS": true,
+"CommittedDate": 1777807220
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "e66fe23ad15c9331eae0cbb2069171747a945a055a47410d5b6986f98eb096c6",
+"IsLFS": true,
+"CommittedDate": 1777807232
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "494e993f80330f170ca6dd436db7a8f64cbc5617fcccf3e7d12564667114b272",
+"IsLFS": true,
+"CommittedDate": 1777807232
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "04e7f8be86683ed4b6cb21f833fb73d03ed70eb4f274f498a739f0eb2574e7be",
+"IsLFS": true,
+"CommittedDate": 1777807232
+}
+]

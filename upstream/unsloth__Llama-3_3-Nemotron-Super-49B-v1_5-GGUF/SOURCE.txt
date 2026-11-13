@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3_3-Nemotron-Super-49B-v1_5-GGUF
+main commit at snapshot: cae8fb480126298d35cac575f77d68e3d4fc26a8
+snapshot taken: 2026-11-13T13:15:53Z

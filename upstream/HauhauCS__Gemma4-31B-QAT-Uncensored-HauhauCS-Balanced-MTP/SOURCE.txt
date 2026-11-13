@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HauhauCS/Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-MTP
+main commit at snapshot: 9654466e82d83f5ebfe1518a369bc5900873abb1
+snapshot taken: 2026-11-13T14:09:48Z

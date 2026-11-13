@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-30B-A3B-Thinking-1M-GGUF
+main commit at snapshot: e5dd74ed359da870ef2e010d06dc8e8402f9af55
+snapshot taken: 2026-11-13T13:18:28Z

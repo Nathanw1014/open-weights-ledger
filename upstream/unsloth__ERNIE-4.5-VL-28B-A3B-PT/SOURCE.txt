@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/ERNIE-4.5-VL-28B-A3B-PT
+main commit at snapshot: 6664f3837773ca98775690eb29f2ade0932eab16
+snapshot taken: 2026-11-13T13:36:30Z

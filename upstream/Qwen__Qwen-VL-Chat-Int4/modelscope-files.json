@@ -1,0 +1,38 @@
+[
+{
+"Path": "SimSun.ttf",
+"Sha256": "ca4da082cd970f0c8abaa79f213ddcbc475f7b5afabcb81b385998f9ebfbb53f",
+"IsLFS": true,
+"CommittedDate": 1740578437
+},
+{
+"Path": "model-00001-of-00005.safetensors",
+"Sha256": "6da3eb28251864f0e8a8e62f2ffb39cd73cef927a10db63a3e1e8609f4f11352",
+"IsLFS": true,
+"CommittedDate": 1727061397
+},
+{
+"Path": "model-00002-of-00005.safetensors",
+"Sha256": "137bcec03a321c9f3aec4076ca17c8d8fb92e9f0aea61b3ffbfc55daf78efe1b",
+"IsLFS": true,
+"CommittedDate": 1727061397
+},
+{
+"Path": "model-00003-of-00005.safetensors",
+"Sha256": "b056012de4c10fbdd2cb5289b8439b8f546c2f492ef91fc280ee0474cf2b05de",
+"IsLFS": true,
+"CommittedDate": 1727061397
+},
+{
+"Path": "model-00004-of-00005.safetensors",
+"Sha256": "7380283a20d7f0adbc39d995d81767fb424c3241e78793c0e7de75756b6d43d4",
+"IsLFS": true,
+"CommittedDate": 1693522943
+},
+{
+"Path": "model-00005-of-00005.safetensors",
+"Sha256": "525822e00b189f6eb09a0c99e3b49984c7b06522ab6618c5735e70a160351e2d",
+"IsLFS": true,
+"CommittedDate": 1727061397
+}
+]

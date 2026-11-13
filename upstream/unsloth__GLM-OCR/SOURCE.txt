@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-OCR
+main commit at snapshot: fae39dc9c35655593e5f9f77e2b01276ad343b38
+snapshot taken: 2026-11-13T13:06:58Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/twolven/Qwen3.8-27B-abliterated-AWQ-MTP
+main commit at snapshot: c2f5341e7c9a1c55e6d61cfc8e6d0ca897bd7443
+snapshot taken: 2026-11-13T14:02:48Z

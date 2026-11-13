@@ -1,0 +1,86 @@
+[
+{
+"Path": "images/00.jpg",
+"Sha256": "cd70b8be7f4a6a50711c3f10b6d2cf19d5e2a977e85102c7d0c1f6cc46526569",
+"IsLFS": true,
+"CommittedDate": 1785954839
+},
+{
+"Path": "images/01.jpg",
+"Sha256": "80e6401136085c55a2ae6f4f695ae0c5bcbd5604ba355d28b172b18ef361737e",
+"IsLFS": true,
+"CommittedDate": 1785954839
+},
+{
+"Path": "images/10.jpg",
+"Sha256": "9399e8b0a7cf7460992ffa34e06ca427a12fdfc946367bed167bd56410374b06",
+"IsLFS": true,
+"CommittedDate": 1785954844
+},
+{
+"Path": "images/18.jpg",
+"Sha256": "d820dcb73ba7640adc42d843975c3cb9bc19d99c733de2a96451f845899b1af0",
+"IsLFS": true,
+"CommittedDate": 1785954847
+},
+{
+"Path": "images/21.jpg",
+"Sha256": "c3a4e785ede82a52429c226492ea2da3df1824a3da095f541fc6477c49ade298",
+"IsLFS": true,
+"CommittedDate": 1785954852
+},
+{
+"Path": "images/32.jpg",
+"Sha256": "962fcb843e7cd0a287a070f2ed0f0213ab11aeb6e95be2e1a86df2f1828d3398",
+"IsLFS": true,
+"CommittedDate": 1785954857
+},
+{
+"Path": "images/header.jpg",
+"Sha256": "90ffc62fea303c12ee7e7892b37940c0ec575e1bd53cd801c1756e5d9b7b0d50",
+"IsLFS": true,
+"CommittedDate": 1785954860
+},
+{
+"Path": "text_encoder/model.safetensors",
+"Sha256": "8434db05292f95e0041589a7c82abeb39385be59c85b54ae11caa7b45e9f4f13",
+"IsLFS": true,
+"CommittedDate": 1785954902
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "be75606093db2094d7cd20f3c2f385c212750648bd6ea4fb2bf507a6a4c55506",
+"IsLFS": true,
+"CommittedDate": 1785954902
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00001-of-00003.safetensors",
+"Sha256": "9ca6a4951e447d8465cf64e0d7324b65da1a44d373d7d1b7d610fc395b164861",
+"IsLFS": true,
+"CommittedDate": 1785955014
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00002-of-00003.safetensors",
+"Sha256": "d092b7b22d2febe37354a54f2cfa4891b4fda397e27a3a465ee64f7597ecaad3",
+"IsLFS": true,
+"CommittedDate": 1785955014
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00003-of-00003.safetensors",
+"Sha256": "df51a0e537a56ba2ebf06c0d190d3f8571f967ae1f8e7b8acf05c33b5821cdce",
+"IsLFS": true,
+"CommittedDate": 1785955014
+},
+{
+"Path": "turbo.safetensors",
+"Sha256": "78bbf8f4165eda19cea3cb06c78089221932a39e2eed8af9da741f942c47ffb3",
+"IsLFS": true,
+"CommittedDate": 1785955014
+},
+{
+"Path": "vae/diffusion_pytorch_model.safetensors",
+"Sha256": "ab1b61103959913d6c7e628cf793dbb2ca4726a40a3b3ae206c52b8e75bf6f08",
+"IsLFS": true,
+"CommittedDate": 1785955016
+}
+]

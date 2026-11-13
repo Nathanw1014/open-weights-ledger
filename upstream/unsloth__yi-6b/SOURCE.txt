@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/yi-6b
+main commit at snapshot: b8fc6c286d7fdf6523348f1a718fe534ce0cdb09
+snapshot taken: 2026-11-13T13:28:37Z

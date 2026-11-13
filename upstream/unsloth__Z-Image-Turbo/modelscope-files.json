@@ -1,0 +1,104 @@
+[
+{
+"Path": "assets/Z-Image-Gallery.pdf",
+"Sha256": "6f9895b3246d2547bac74bbe0be975da500eaae93f2cad4248ad3281786b1ac6",
+"IsLFS": true,
+"CommittedDate": 1786041602
+},
+{
+"Path": "assets/leaderboard.png",
+"Sha256": "e9fd4aa185bb7bff2b5515f2001b4d80df330595e78d6a098142e5a232bb4e4e",
+"IsLFS": true,
+"CommittedDate": 1786041605
+},
+{
+"Path": "assets/reasoning.png",
+"Sha256": "96c16b2c8d8dc67bb92ecc22d54b9955ab55136977f515bb76f4b2eb42eb3cdb",
+"IsLFS": true,
+"CommittedDate": 1786041608
+},
+{
+"Path": "assets/showcase.jpg",
+"Sha256": "f6ee74e066e00596e429f5a08140aebae1678e5935ce1e11ca6c1c6cd72432ee",
+"IsLFS": true,
+"CommittedDate": 1786041608
+},
+{
+"Path": "assets/showcase_editing.png",
+"Sha256": "7d720c3157fd0b0c1f07ac826c6d380b4bcb1b6933c64eb11bfe804ccf7c26f4",
+"IsLFS": true,
+"CommittedDate": 1786041610
+},
+{
+"Path": "assets/showcase_realistic.png",
+"Sha256": "697e6f6857f619314173508df72a14314cbb43e67475de7494123bb8b4f4eb2c",
+"IsLFS": true,
+"CommittedDate": 1786041610
+},
+{
+"Path": "assets/showcase_rendering.png",
+"Sha256": "3556dd66be2200d53f957424e12ecf914ddf3eded151cde86c7353f8b231284f",
+"IsLFS": true,
+"CommittedDate": 1786041610
+},
+{
+"Path": "text_encoder/model-00001-of-00003.safetensors",
+"Sha256": "328a91d3122359d5547f9d79521205bc0a46e1f79a792dfe650e99fc2d651223",
+"IsLFS": true,
+"CommittedDate": 1786041776
+},
+{
+"Path": "text_encoder/model-00002-of-00003.safetensors",
+"Sha256": "6cd087b316306a68c562436b5492edbcf6e16c6dba3a1308279caa5a58e21ca5",
+"IsLFS": true,
+"CommittedDate": 1786041782
+},
+{
+"Path": "text_encoder/model-00003-of-00003.safetensors",
+"Sha256": "7ca841ee75b9c61267c0c6148fd8d096d3d21b6d3e161256a9b878154f91fc52",
+"IsLFS": true,
+"CommittedDate": 1786041782
+},
+{
+"Path": "tokenizer/merges.txt",
+"Sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+"IsLFS": true,
+"CommittedDate": 1786041790
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+"IsLFS": true,
+"CommittedDate": 1786041790
+},
+{
+"Path": "tokenizer/vocab.json",
+"Sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+"IsLFS": true,
+"CommittedDate": 1786042003
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00001-of-00003.safetensors",
+"Sha256": "95facd593e2549e8252acb571c653d57f7ddb7f1060d4e81712f152555a88804",
+"IsLFS": true,
+"CommittedDate": 1786042003
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00002-of-00003.safetensors",
+"Sha256": "a4bbe43ee184a1fb5af4b412d27555f532893bdc3165b1149e304ed82b5d7015",
+"IsLFS": true,
+"CommittedDate": 1786042005
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00003-of-00003.safetensors",
+"Sha256": "aba4e37a590e63210878160a718d916d80398f4e1f78ab6c9b2b2a00d92769fa",
+"IsLFS": true,
+"CommittedDate": 1786042005
+},
+{
+"Path": "vae/diffusion_pytorch_model.safetensors",
+"Sha256": "f5b59a26851551b67ae1fe58d32e76486e1e812def4696a4bea97f16604d40a3",
+"IsLFS": true,
+"CommittedDate": 1786042007
+}
+]

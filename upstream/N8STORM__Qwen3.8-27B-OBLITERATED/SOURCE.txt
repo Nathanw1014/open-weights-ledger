@@ -1,0 +1,3 @@
+repo: https://huggingface.co/N8STORM/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 27b8dae721f6fcc91da85cba26520b41849a45b2
+snapshot taken: 2026-11-13T14:05:27Z

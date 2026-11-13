@@ -1,0 +1,3 @@
+repo: https://huggingface.co/alesha-pro/GLM-5.3-Flash-abliterated-Maya-M-GGUF
+main commit at snapshot: 3518a2d20e5a2ea8d9468718745dca5f72aed5f1
+snapshot taken: 2026-11-13T14:03:40Z

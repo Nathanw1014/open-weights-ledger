@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.2-90B-Vision
+main commit at snapshot: 3d6cd477701c5a9a3fac54a8e00b998532681acc
+snapshot taken: 2026-11-13T13:33:26Z

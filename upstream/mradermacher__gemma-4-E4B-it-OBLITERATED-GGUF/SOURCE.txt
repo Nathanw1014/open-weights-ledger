@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/gemma-4-E4B-it-OBLITERATED-GGUF
+main commit at snapshot: e041f42ae1bb294b514982385d51c2a47e93465d
+snapshot taken: 2026-11-13T14:05:26Z

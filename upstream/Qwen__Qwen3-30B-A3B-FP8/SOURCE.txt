@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-30B-A3B-FP8
+main commit at snapshot: d206ba732169f29bb77fbf80fc2c4b81d4d30782
+snapshot taken: 2026-11-13T13:46:22Z

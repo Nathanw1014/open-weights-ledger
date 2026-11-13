@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3.6-35B-A3B-UD-MLX-3bit
+main commit at snapshot: c7993c53bce35cd9d63ef249947d7285b7aa2a03
+snapshot taken: 2026-11-13T13:13:44Z

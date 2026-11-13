@@ -1,0 +1,830 @@
+[
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00001-of-00017.gguf",
+"Sha256": "21de040eb01f2de655968e2dc93ec0d8901a86c71762c4b0f3c31489fa906cba",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00002-of-00017.gguf",
+"Sha256": "a3d59c90c4bcd906b7f6db398c67af30c3cf88f1cf126e184b88d577d501cdba",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00003-of-00017.gguf",
+"Sha256": "ac798560240d4af730a918345cabe8482a2dfa29abc8188111d4c252aa9f9c85",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00004-of-00017.gguf",
+"Sha256": "72b6a73bfc1387d20f238fe979f395a43217adc94868f807f5c25b05baf9fe12",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00005-of-00017.gguf",
+"Sha256": "716408a2096435c82e1dcf2147a285c82643c3b5157eb3880a548765a2a8a03d",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00006-of-00017.gguf",
+"Sha256": "3e4178bab986ddd5f68d84efc1d7c57270449753c88f093ce35a75f5ea50782a",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00007-of-00017.gguf",
+"Sha256": "f34bccfcc553b08b4f37f4456010fb984ba8c14d31a4c729c26c7146afc642fb",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00008-of-00017.gguf",
+"Sha256": "94f46c2db72a0b8a35a41b8aecfcac384c0367ae916edcb3014d2ef6b9b6bb83",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00009-of-00017.gguf",
+"Sha256": "810e550b56ffff76cdd4faf7ee10514b8c6bd5af4d9ec88a6ff8000753cc73c3",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00010-of-00017.gguf",
+"Sha256": "78285a9a3f3a871dbe446d98fadbc75786805c28ababf9f6c11303ab526ff9ba",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00011-of-00017.gguf",
+"Sha256": "609e9878ed98e41302cdac2ab7a71d91c6c211039f600a5454268cd5c366c0b5",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00012-of-00017.gguf",
+"Sha256": "dd7dacab54d95922d86df28764520b1728561774c3f321299237749b0c59f4ca",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00013-of-00017.gguf",
+"Sha256": "00481573b52641b0436b91083314469632d379a15429a5e665c20ca67ffda063",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00014-of-00017.gguf",
+"Sha256": "234e4bba1fc4125fe863c7aa3f0b69f0ccb23ec8c19c6bfabe2e649ab5bdcb0a",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00015-of-00017.gguf",
+"Sha256": "14d22a09607b1e032ae527d879d9e4aaeed692d4a582cd80ed68e332773d8abd",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00016-of-00017.gguf",
+"Sha256": "5d35f767eef121f81452edcb330b47d097e40829d3fefa6bf00b67ee302d2580",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "BF16/Trinity-Large-Preview-BF16-00017-of-00017.gguf",
+"Sha256": "ec522ababc840deb65a7d5f8ce58a63b10dedf936ae184869de762784ec1cd7a",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_NL/Trinity-Large-Preview-IQ4_NL-00001-of-00005.gguf",
+"Sha256": "8e9ee326233ab8f4f2b30af37f1349b4e9192559c0329078bf9cc6bf797b424f",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_NL/Trinity-Large-Preview-IQ4_NL-00002-of-00005.gguf",
+"Sha256": "db577ce2f7f1d16f47cf73a3ed9f414498fe52d501107860bfe807917bc23d87",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_NL/Trinity-Large-Preview-IQ4_NL-00003-of-00005.gguf",
+"Sha256": "3a3e88cc66049e8f5af525312d9b4dad079ddf8815b76fe1010487bb33dd3a89",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_NL/Trinity-Large-Preview-IQ4_NL-00004-of-00005.gguf",
+"Sha256": "009c2f621a2f5597c31f43f8546c7ec90f86cf08d82d8a8830c512f79de0327a",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_NL/Trinity-Large-Preview-IQ4_NL-00005-of-00005.gguf",
+"Sha256": "6925f4cf28eb66771723c76d1b3f5c086df13b523f21fcc054bfbcc8db975fb0",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_XS/Trinity-Large-Preview-IQ4_XS-00001-of-00005.gguf",
+"Sha256": "25a421d4916b3cd9ef85c6965fe33b5fe8a5b5639443c09d4f30ab3cc4da3625",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_XS/Trinity-Large-Preview-IQ4_XS-00002-of-00005.gguf",
+"Sha256": "280845b7b485a374e82288af34841c47ecd0c6ecc83f5377c4928c191e38c379",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_XS/Trinity-Large-Preview-IQ4_XS-00003-of-00005.gguf",
+"Sha256": "178d11b06496d5ef9b7ff5e40df4d96a1be0a275e797b4c16c64e06997b99d9a",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_XS/Trinity-Large-Preview-IQ4_XS-00004-of-00005.gguf",
+"Sha256": "9e96dcf8a8fc054f0497c517a79cbb9d0c26152ad68b95e032cb4b7341867362",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "IQ4_XS/Trinity-Large-Preview-IQ4_XS-00005-of-00005.gguf",
+"Sha256": "ae9c09e2e499413d0db5a6818ef7e504e663e85dde19c712dee348491857e082",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q2_K/Trinity-Large-Preview-Q2_K-00001-of-00003.gguf",
+"Sha256": "8087f81c294fdaadf007d67771b446823b21a10f5ad920f987af9ef1563a57cd",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q2_K/Trinity-Large-Preview-Q2_K-00002-of-00003.gguf",
+"Sha256": "e762b057a3a273b9a1b2784466103de192e3ee85bd7bad8b624c476ba9dbab8f",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q2_K/Trinity-Large-Preview-Q2_K-00003-of-00003.gguf",
+"Sha256": "78c9d6a959fa1a6490195cfc681dc00b0994ccc61d5098fd19b4acb7a303fa1b",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q2_K_L/Trinity-Large-Preview-Q2_K_L-00001-of-00003.gguf",
+"Sha256": "2ca176f7f470258e0b6c181ed9791635f069ed068d34b4effa9c7a02710cfd2c",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q2_K_L/Trinity-Large-Preview-Q2_K_L-00002-of-00003.gguf",
+"Sha256": "e762b057a3a273b9a1b2784466103de192e3ee85bd7bad8b624c476ba9dbab8f",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q2_K_L/Trinity-Large-Preview-Q2_K_L-00003-of-00003.gguf",
+"Sha256": "78c9d6a959fa1a6490195cfc681dc00b0994ccc61d5098fd19b4acb7a303fa1b",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q3_K_M/Trinity-Large-Preview-Q3_K_M-00001-of-00004.gguf",
+"Sha256": "5d410d110ced3bb6672f6d6cd51dc04ab7e107f49d6c74c816166b91629d3293",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q3_K_M/Trinity-Large-Preview-Q3_K_M-00002-of-00004.gguf",
+"Sha256": "9b327e668c54fec1b4c5c4b0797f2764d9006642e553df3308a142e186c49de8",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q3_K_M/Trinity-Large-Preview-Q3_K_M-00003-of-00004.gguf",
+"Sha256": "4edd67e8aad46e66d2976c5e7a4a2d8f58298a0e6e1841b3e9e21ac91adfde12",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q3_K_M/Trinity-Large-Preview-Q3_K_M-00004-of-00004.gguf",
+"Sha256": "c922d85b121b1705511a0379ed6bbb40e6317faec45df622c3396c32a22ae25b",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q3_K_S/Trinity-Large-Preview-Q3_K_S-00001-of-00004.gguf",
+"Sha256": "8de42d1db3fc376ca8a616622e707b084a431ab6cda07db72cc39b98b16f480d",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q3_K_S/Trinity-Large-Preview-Q3_K_S-00002-of-00004.gguf",
+"Sha256": "3c2fa5f224d7f661d62b53190d643bf77444c9b2d8f31d5a2cc76509fe91633b",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q3_K_S/Trinity-Large-Preview-Q3_K_S-00003-of-00004.gguf",
+"Sha256": "5dbd8d63d223cfb28cbc9c9baa7f9dd14a9139051648373506bf0b2c17009162",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q3_K_S/Trinity-Large-Preview-Q3_K_S-00004-of-00004.gguf",
+"Sha256": "ad49a676acc94a5d73b4ba55aba8a0c8e1622c79ada106d353a64e659dc62fc5",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_0/Trinity-Large-Preview-Q4_0-00001-of-00005.gguf",
+"Sha256": "0040ad5fac7f2c80c34758c93486a75b38224b0b875ef1a79bff91b0fdd6d8ff",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_0/Trinity-Large-Preview-Q4_0-00002-of-00005.gguf",
+"Sha256": "cbeace060a7b91e66c0dddbc36143085ca9a653e622e341b61aa7d76a977200f",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_0/Trinity-Large-Preview-Q4_0-00003-of-00005.gguf",
+"Sha256": "500733ccbfe96c661d7be27a597a0b78531fbf6b190f83540aa214b5d3f1a29b",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_0/Trinity-Large-Preview-Q4_0-00004-of-00005.gguf",
+"Sha256": "efd9ac47cc36241dc43e72db690f2ca4e313197472f789bcb17e68ba104b7ee0",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_0/Trinity-Large-Preview-Q4_0-00005-of-00005.gguf",
+"Sha256": "93fb08e437f945d2b8592e11661b7e33bd131e43db928e5c17b84c85932f6894",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_1/Trinity-Large-Preview-Q4_1-00001-of-00006.gguf",
+"Sha256": "7988b2f281d995a6749472456b67730284087454d7b8ba96a3df683ede04f9a4",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_1/Trinity-Large-Preview-Q4_1-00002-of-00006.gguf",
+"Sha256": "4ac2c524e21138ba42343651a75a6e182f75e0a7be2af4a61d6b6da9ff26a6d4",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_1/Trinity-Large-Preview-Q4_1-00003-of-00006.gguf",
+"Sha256": "2d7925c3ccad621dfad27e214fde03240254d4fd57f95567412e6288627f1f36",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_1/Trinity-Large-Preview-Q4_1-00004-of-00006.gguf",
+"Sha256": "7b058c7cde106fab0b69a49876963d34cbf8325b443c1e501dd81f4f12b0c400",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_1/Trinity-Large-Preview-Q4_1-00005-of-00006.gguf",
+"Sha256": "3cd77382285f3be94235dd706a3f50948e90e5c433752c71b45298b0b88278fd",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_1/Trinity-Large-Preview-Q4_1-00006-of-00006.gguf",
+"Sha256": "bba2afef33fd2b163d389bd4eccd0b53bc795764c6188320e03641ccf494f0d1",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_M/Trinity-Large-Preview-Q4_K_M-00001-of-00005.gguf",
+"Sha256": "b1e90cb8615e1fe500b769f7967250a1d265b0854488e0d167da08be77da899b",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_M/Trinity-Large-Preview-Q4_K_M-00002-of-00005.gguf",
+"Sha256": "ca59edb6d303d3496a9674c44046d6c4e39d0f4e2608801925fbb6764c5bb8e7",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_M/Trinity-Large-Preview-Q4_K_M-00003-of-00005.gguf",
+"Sha256": "1c95acee4441ae92bb78a4fce187527029dd93b63ebe26d50768e00bd9763b06",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_M/Trinity-Large-Preview-Q4_K_M-00004-of-00005.gguf",
+"Sha256": "e5a5b8d9a373f00a05b7b64a6ac64c1ee94bb46ff9e4149b9d200c30e18fcb19",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_M/Trinity-Large-Preview-Q4_K_M-00005-of-00005.gguf",
+"Sha256": "c35184a3faed206be30163aac8392d0a935e4e89edb3a69a9a406a1b63040f59",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_S/Trinity-Large-Preview-Q4_K_S-00001-of-00005.gguf",
+"Sha256": "284fa9be3f331cdffa222f1e03e32a9eaf362944390b50bad54adf4abf84e596",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_S/Trinity-Large-Preview-Q4_K_S-00002-of-00005.gguf",
+"Sha256": "4c71af1772f265dfa077ac405831f9e2a72032240f820e4bebc96ebb71318471",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_S/Trinity-Large-Preview-Q4_K_S-00003-of-00005.gguf",
+"Sha256": "61fc3b093ba5463024597b369ec98c45d4fd559b6c399c03a7f5addfd59022bd",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_S/Trinity-Large-Preview-Q4_K_S-00004-of-00005.gguf",
+"Sha256": "0d48d671c64e0ce46d6a2f69c2cf3d961da340c6a17544e9da45e227906f300b",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q4_K_S/Trinity-Large-Preview-Q4_K_S-00005-of-00005.gguf",
+"Sha256": "cb79bc8b5a29a7cbfea5bb19dc611a53f00925aa8271ff5ab440f9d3543ad973",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_M/Trinity-Large-Preview-Q5_K_M-00001-of-00006.gguf",
+"Sha256": "1aa44e48e4cfa72848d843ef7fc1244a8a4914a23c86c42f75b54db96af12d88",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_M/Trinity-Large-Preview-Q5_K_M-00002-of-00006.gguf",
+"Sha256": "819494bb36be7aeb95fa8343dee5021461723244cb52aa4b1485d353f3fd8eeb",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_M/Trinity-Large-Preview-Q5_K_M-00003-of-00006.gguf",
+"Sha256": "c17dccbfdf2a67e9bfd3b1966cd6940129190cd1a78147506d6fb594620eb4f8",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_M/Trinity-Large-Preview-Q5_K_M-00004-of-00006.gguf",
+"Sha256": "bc5dcc08376c5ad3f6c593fd4b908434642c7026a1d248c8618e74ede3ec2db6",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_M/Trinity-Large-Preview-Q5_K_M-00005-of-00006.gguf",
+"Sha256": "92b6ab8762a3310b725af960aba14213293acaa23e19f5b310bd3cb9251ddfd2",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_M/Trinity-Large-Preview-Q5_K_M-00006-of-00006.gguf",
+"Sha256": "be632120d94b6b73079d35b51fd5b036b10aa2ea7f3731470db46cdcb2dd8ccc",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_S/Trinity-Large-Preview-Q5_K_S-00001-of-00006.gguf",
+"Sha256": "9047f080a75594cdd7d15d67f78d3089ba96fe22a6d990d8db55923edb720157",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_S/Trinity-Large-Preview-Q5_K_S-00002-of-00006.gguf",
+"Sha256": "5bf35c6edbe21cd16ecdd7ce908bb9360ae8c2fcf7ac3f8ec1b568a00d495827",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_S/Trinity-Large-Preview-Q5_K_S-00003-of-00006.gguf",
+"Sha256": "2dee9545317b0ee0df3ccde59b60a954a8e9c266218c9b49279e153c44364c94",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_S/Trinity-Large-Preview-Q5_K_S-00004-of-00006.gguf",
+"Sha256": "376410088fd8191b6f1d347e25804b80e6e9a3c41c16e4410503bc970f0199ad",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_S/Trinity-Large-Preview-Q5_K_S-00005-of-00006.gguf",
+"Sha256": "458272dbf28fbfda6d892a2172c68cbac986e0e6c47782aedb34e82b8960ca15",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q5_K_S/Trinity-Large-Preview-Q5_K_S-00006-of-00006.gguf",
+"Sha256": "f32bffd37c357373177de7e03f8753eca5b1b9345474bd250a8c6108aa42e48c",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q6_K/Trinity-Large-Preview-Q6_K-00001-of-00007.gguf",
+"Sha256": "b8b1e488845ce1c4aafca09e625e8ecab9c3a15b6f56a220e63b90a838fa88c8",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q6_K/Trinity-Large-Preview-Q6_K-00002-of-00007.gguf",
+"Sha256": "205239ce7734ddcc56f762f6e18cb2bd61601721902ea8832714fd18cea44816",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q6_K/Trinity-Large-Preview-Q6_K-00003-of-00007.gguf",
+"Sha256": "87c9e225962de0295f397f05d12a7b1267ef1e3f1475e2693b31edfa04afebf7",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q6_K/Trinity-Large-Preview-Q6_K-00004-of-00007.gguf",
+"Sha256": "b33d7eb3d53d0d46d572fa2d2829ddf461165896c186c47ec0ef22990bcd34bd",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q6_K/Trinity-Large-Preview-Q6_K-00005-of-00007.gguf",
+"Sha256": "6322ee7a1823b0ea3db777fc059200d83c34f3bfe6df091142426098955960fa",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q6_K/Trinity-Large-Preview-Q6_K-00006-of-00007.gguf",
+"Sha256": "c0787f3e1c311c8dba34e4a60e056a389b9e2f59033253b4f5199fb8bf3f92b1",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q6_K/Trinity-Large-Preview-Q6_K-00007-of-00007.gguf",
+"Sha256": "ba91ede5d5f534c5a9b5db63e49b24bb663abf207e87c489e52a7c53212c4134",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00001-of-00009.gguf",
+"Sha256": "1184c298c9a5a3f55e89804024e2d7427d580a1fa99a85695d5c3fffbb665b89",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00002-of-00009.gguf",
+"Sha256": "99211ba59d00ee311460290b03355cd9cb3605e20b9fbba55aa46efcd19a5e23",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00003-of-00009.gguf",
+"Sha256": "e9301b365967d605d80e0117bd61d0ce382afe4418d12a7723a4c52b8ecabb3c",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00004-of-00009.gguf",
+"Sha256": "ac34ff3e6aad0f68fda95c594c00b66f4985138a1202d59df1c50f51691f8ba7",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00005-of-00009.gguf",
+"Sha256": "d36192366bace0d2c07c38cb3446a0261c4b388239573801172801107bb1df05",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00006-of-00009.gguf",
+"Sha256": "4d9a1a1d65731e32f0b0db06fb51e11c033d3bcd046ed03f5731c8c26443672c",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00007-of-00009.gguf",
+"Sha256": "9353765ed9741f5767f991d78aead55f1b44b747aef0d0b8b11ade75e8362986",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00008-of-00009.gguf",
+"Sha256": "dba6915c0956cc930c435632fd1d8a1558cd292d15a7257264ee7c7d2858b6c6",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "Q8_0/Trinity-Large-Preview-Q8_0-00009-of-00009.gguf",
+"Sha256": "96abcef1d4f45ff30cda8df8323bd07a4ef262b3215b89e8f31ba2f4ef20cb41",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ2_M/Trinity-Large-Preview-UD-IQ2_M-00001-of-00004.gguf",
+"Sha256": "5a53214782b29a94937b95023d78389ff5b20e2a35a7a620a1a325983d705d71",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ2_M/Trinity-Large-Preview-UD-IQ2_M-00002-of-00004.gguf",
+"Sha256": "1764bdb02b729d6a389a27a5c611da562a5e55013cb57a0c6a8a44c8da57e424",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ2_M/Trinity-Large-Preview-UD-IQ2_M-00003-of-00004.gguf",
+"Sha256": "633c5089ad8ac4e0c8cffe546f1948cdbff58e014e457c0db4e83d2e7fac4f3d",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ2_M/Trinity-Large-Preview-UD-IQ2_M-00004-of-00004.gguf",
+"Sha256": "60537380c78a405faa7b8de75aebfa0c359789365e97efb689d0c207554a1c5f",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ2_XXS/Trinity-Large-Preview-UD-IQ2_XXS-00001-of-00004.gguf",
+"Sha256": "8aa519cd17a3d3403c36179878e91a832a8a1b29203412a424d9d469f660211e",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ2_XXS/Trinity-Large-Preview-UD-IQ2_XXS-00002-of-00004.gguf",
+"Sha256": "b72ccd0d110908cf430ca2eaea12ecbcc512bef672bee6e2da510a391b0e5f67",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ2_XXS/Trinity-Large-Preview-UD-IQ2_XXS-00003-of-00004.gguf",
+"Sha256": "8a72ff923bfe065f4a586d4565c86f8e594568b07a60567252a743e0cd613711",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ2_XXS/Trinity-Large-Preview-UD-IQ2_XXS-00004-of-00004.gguf",
+"Sha256": "f7b779c5f9f6943db8bf6b69f954547f4659829d582bb8c30303ee7cbbbf9b4b",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ3_XXS/Trinity-Large-Preview-UD-IQ3_XXS-00001-of-00004.gguf",
+"Sha256": "17b66758cb771bdfd5d891b73fa7d936c62a5c49dbbd6c52f38e0289b3d09138",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ3_XXS/Trinity-Large-Preview-UD-IQ3_XXS-00002-of-00004.gguf",
+"Sha256": "e4b0de90dcf4d5ba7255c66c27b2deef6b2abcadae8f375153f854b12fc50909",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ3_XXS/Trinity-Large-Preview-UD-IQ3_XXS-00003-of-00004.gguf",
+"Sha256": "25ded4c21845bfdd22ea7e45b58e9f34a1e7a558a1f3aa62c6c1991e36dc4bd8",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-IQ3_XXS/Trinity-Large-Preview-UD-IQ3_XXS-00004-of-00004.gguf",
+"Sha256": "bc459e55463ca2f1afeed2ad1efb27b073dfabc2b410c3a4ac75d7282301d2ad",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q2_K_XL/Trinity-Large-Preview-UD-Q2_K_XL-00001-of-00003.gguf",
+"Sha256": "127686d60868511b343b5166efecfbae5dfa3fa585b89e8bc3cc8dd3e0a09c89",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q2_K_XL/Trinity-Large-Preview-UD-Q2_K_XL-00002-of-00003.gguf",
+"Sha256": "6405b18a03f13f1ed6b624c242e452313a09bedbd17c98e3879d4e4f63ab1b5d",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q2_K_XL/Trinity-Large-Preview-UD-Q2_K_XL-00003-of-00003.gguf",
+"Sha256": "4a591349f1a4aee80137948e0ab712f532cea0155d08db81bb926f64f12b7911",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q3_K_XL/Trinity-Large-Preview-UD-Q3_K_XL-00001-of-00004.gguf",
+"Sha256": "8ac6864ab6e8857aefae7e3db0a1624f3ffef170f4d616486093a4622fae859c",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q3_K_XL/Trinity-Large-Preview-UD-Q3_K_XL-00002-of-00004.gguf",
+"Sha256": "f59468c7b599c231ae364b7db32a602bb6378d2969a26ffeda3106bc04bf2971",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q3_K_XL/Trinity-Large-Preview-UD-Q3_K_XL-00003-of-00004.gguf",
+"Sha256": "8761b4bb347284c886062b0cdc6c3e84bc410c4ddba0eb3117de1e88d4ea8014",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q3_K_XL/Trinity-Large-Preview-UD-Q3_K_XL-00004-of-00004.gguf",
+"Sha256": "315e951776f08f4e323c0ca59e40837f961abe9932fd8d5effe9cdd2c1927839",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q4_K_XL/Trinity-Large-Preview-UD-Q4_K_XL-00001-of-00005.gguf",
+"Sha256": "13632564d2e8a57be6a4bcde297cbecb97f5e9a40ffc06b8057877f3301b694d",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q4_K_XL/Trinity-Large-Preview-UD-Q4_K_XL-00002-of-00005.gguf",
+"Sha256": "d77bdadedb106432e1abe40c49482bede023707beece737306086efef9250a37",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q4_K_XL/Trinity-Large-Preview-UD-Q4_K_XL-00003-of-00005.gguf",
+"Sha256": "3f6c7316cc8eac41ea8601aca33d1fe737a8f96891d3edb244b40f2505f42696",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q4_K_XL/Trinity-Large-Preview-UD-Q4_K_XL-00004-of-00005.gguf",
+"Sha256": "5f1ff3600934c74cd121d663609d02aa0d927cf657aaf80a2e59fa0f4ddf5d38",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q4_K_XL/Trinity-Large-Preview-UD-Q4_K_XL-00005-of-00005.gguf",
+"Sha256": "d38a59558d7d58e4e90ec54dac9df9164b63e549c7402d5de9af1dd35878e3d4",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q5_K_XL/Trinity-Large-Preview-UD-Q5_K_XL-00001-of-00006.gguf",
+"Sha256": "9851e7fbd372174a7013d88f81e26a8134b03d96167b83a29cb040b83fe45b19",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q5_K_XL/Trinity-Large-Preview-UD-Q5_K_XL-00002-of-00006.gguf",
+"Sha256": "d3e857b33e8d5b0cc927c107bac31bbed24d96671e89ffa7865262c5e07f7a58",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q5_K_XL/Trinity-Large-Preview-UD-Q5_K_XL-00003-of-00006.gguf",
+"Sha256": "680a9ae2465fae5d6668917ee834fd89f1a5493cb5693804c4ae349e6e020d16",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q5_K_XL/Trinity-Large-Preview-UD-Q5_K_XL-00004-of-00006.gguf",
+"Sha256": "f88cb91096e8571b05697876388e0183b465288717858ea8957873cf5b083b1d",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q5_K_XL/Trinity-Large-Preview-UD-Q5_K_XL-00005-of-00006.gguf",
+"Sha256": "6610b3970226d4e2c89c14f5754786f546d313fef0c7ddd54e2ce72b6c24fe70",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q5_K_XL/Trinity-Large-Preview-UD-Q5_K_XL-00006-of-00006.gguf",
+"Sha256": "66da59664db3141a064f8c6d50e8d81f0c820ae5df2348501514dc06118a6d9d",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q6_K_XL/Trinity-Large-Preview-UD-Q6_K_XL-00001-of-00007.gguf",
+"Sha256": "5dc58e4b77ca3c49c8c4220a10cac0364e85c15df033478a30dd16fee23ab93c",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q6_K_XL/Trinity-Large-Preview-UD-Q6_K_XL-00002-of-00007.gguf",
+"Sha256": "f878ff8df20f29306c221529e9ff21b3af2d058a1f2d9174a78710bd2abd1984",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q6_K_XL/Trinity-Large-Preview-UD-Q6_K_XL-00003-of-00007.gguf",
+"Sha256": "bba08158f86e963ff1dba152dc2fa9b4bccce2938e993f4776b9e395b81eca42",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q6_K_XL/Trinity-Large-Preview-UD-Q6_K_XL-00004-of-00007.gguf",
+"Sha256": "6dac263ac8ce496fff4a4ebb75eaa00f49c641e45f603b049fa52812ecadda26",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q6_K_XL/Trinity-Large-Preview-UD-Q6_K_XL-00005-of-00007.gguf",
+"Sha256": "469c4c248dd0bf558ee893122c9c7792ccca1a9a6384bc2c4b6506166ee9f608",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q6_K_XL/Trinity-Large-Preview-UD-Q6_K_XL-00006-of-00007.gguf",
+"Sha256": "c11e4605397362874f8fe095911e8d420b6c3071262d27e1dac78de874574cf9",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q6_K_XL/Trinity-Large-Preview-UD-Q6_K_XL-00007-of-00007.gguf",
+"Sha256": "8dfab738d42f99c3876410b38552bf8aeaaa11eee2975af5525a5665284997f9",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00001-of-00010.gguf",
+"Sha256": "062252b1f0cdbc04578131de81a31ed2bfc39f2acd6561bf77bcbafe973d96a9",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00002-of-00010.gguf",
+"Sha256": "7721c19031334e4a2ca24ce605861448afb1c18636f0fac2014762433ce63b98",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00003-of-00010.gguf",
+"Sha256": "fc03b55830014021eb8075192ea45570cddbfd983f71aec66c85cd3b3452d67e",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00004-of-00010.gguf",
+"Sha256": "a4a059c48a6a2950a8fb040af55415701edea7c831d9b78b099280c9ccfe0582",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00005-of-00010.gguf",
+"Sha256": "46e88f36fa2be7211b93d35f2650b7254c13b307faa5a2ae7345055c8c36ef1e",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00006-of-00010.gguf",
+"Sha256": "2e314e3cda7d9c595a7df853faf1b58bed96ed9efb159590a67fe7b88249dd58",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00007-of-00010.gguf",
+"Sha256": "fd182e8288d175e7f9defcae10483cc4243cfe344eccfc19f573211cdbe4987e",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00008-of-00010.gguf",
+"Sha256": "ce8945a452ae0445e429f92ff5a3992c92822af0e2e7cbf111670de7ffa33854",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00009-of-00010.gguf",
+"Sha256": "a1feb99f5c9ffcde88e116f46dbd215928b03e04d0858e24d6e0a31dc437e68f",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "UD-Q8_K_XL/Trinity-Large-Preview-UD-Q8_K_XL-00010-of-00010.gguf",
+"Sha256": "2cf3e3998dbe0cbc5c520031ab4ae435f1ba7b09c6ff541435819eec4344bdbd",
+"IsLFS": true,
+"CommittedDate": 1769659612
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "54f79bee744548c9440b72e2487a42d7a4a87ee0244a5b6524ad358dc4513b70",
+"IsLFS": true,
+"CommittedDate": 1769659612
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-Coder390-EfficientThink-abliterated-GGUF
+main commit at snapshot: a0b17c71d9943529aefe88b83f494bf01c6b4d68
+snapshot taken: 2026-11-13T14:00:55Z

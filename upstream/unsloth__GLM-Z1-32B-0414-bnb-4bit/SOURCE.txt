@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-Z1-32B-0414-bnb-4bit
+main commit at snapshot: 2fe24f352916e146ba5734169c206b8ad8dcde12
+snapshot taken: 2026-11-13T13:39:37Z

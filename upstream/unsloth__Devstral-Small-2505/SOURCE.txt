@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Devstral-Small-2505
+main commit at snapshot: 3d68ff1bd9d5d5dfdbd5d5022084f34448354edc
+snapshot taken: 2026-11-13T13:34:55Z

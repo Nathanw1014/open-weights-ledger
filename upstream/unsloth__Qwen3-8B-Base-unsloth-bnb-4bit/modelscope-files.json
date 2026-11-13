@@ -1,0 +1,14 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "f9a2d9a98430c052fd4802dbcbd83c875df34cb86fdeaf4ff11724136f98349e",
+"IsLFS": true,
+"CommittedDate": 1745884323
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+"IsLFS": true,
+"CommittedDate": 1746990779
+}
+]

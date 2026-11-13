@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3_1-Nemotron-Ultra-253B-v1-GGUF
+main commit at snapshot: 37303d829f323ef215da8263329ed71469e514c2
+snapshot taken: 2026-11-13T13:18:17Z

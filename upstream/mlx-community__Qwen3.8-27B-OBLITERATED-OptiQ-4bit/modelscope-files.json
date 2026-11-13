@@ -1,0 +1,44 @@
+[
+{
+"Path": "model-00001-of-00004.safetensors",
+"Sha256": "6854c30092b9477885a95dc0490711cbbc84b62207013259385d75bfd35eaf68",
+"IsLFS": true,
+"CommittedDate": 1787685731
+},
+{
+"Path": "model-00002-of-00004.safetensors",
+"Sha256": "295eaa40bb8839ad2c13f66c6098c04adc7920d1e09ef33b3178d057e4665fa6",
+"IsLFS": true,
+"CommittedDate": 1787685740
+},
+{
+"Path": "model-00003-of-00004.safetensors",
+"Sha256": "37ae6c068cd0241e09b05a2f92a3371a4e328f051f0601ccd827bf1ed7ce136e",
+"IsLFS": true,
+"CommittedDate": 1787685745
+},
+{
+"Path": "model-00004-of-00004.safetensors",
+"Sha256": "db2cd3108457a4e7d40643206b5ec1c81a970cac5bd3bb55ae02e9ff4a65d352",
+"IsLFS": true,
+"CommittedDate": 1787685748
+},
+{
+"Path": "optiq/mtp.safetensors",
+"Sha256": "0278b45913f2043fc338434724429fe57e43b45f70e2edddc8bd4791b3fbab94",
+"IsLFS": true,
+"CommittedDate": 1787685811
+},
+{
+"Path": "optiq_vision.safetensors",
+"Sha256": "2238151d97b9be46cef668e25a2b0faa226ee9c54ba3ff2dcb945b6b109c9333",
+"IsLFS": true,
+"CommittedDate": 1792337896
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523",
+"IsLFS": true,
+"CommittedDate": 1787685815
+}
+]

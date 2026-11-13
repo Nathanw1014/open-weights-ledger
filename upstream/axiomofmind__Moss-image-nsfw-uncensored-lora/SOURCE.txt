@@ -1,0 +1,3 @@
+repo: https://huggingface.co/axiomofmind/Moss-image-nsfw-uncensored-lora
+main commit at snapshot: 5f24e258ebb2a7d8aa77ee4940504dd57b54d5b9
+snapshot taken: 2026-11-13T14:09:51Z

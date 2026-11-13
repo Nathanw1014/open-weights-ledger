@@ -1,0 +1,26 @@
+[
+{
+"Path": "HunyuanImage-2.1-FP8.pt",
+"Sha256": "4b28b48ef13031af1c175f974ae1a2a696d073dc8fb66658d5a799034abd0cc1",
+"IsLFS": true,
+"CommittedDate": 1785868431
+},
+{
+"Path": "HunyuanImage-2.1-FP8.safetensors",
+"Sha256": "9b6781a81096b38e99712f60524f59bd2743d98b9428eec1dad6f291abff2240",
+"IsLFS": true,
+"CommittedDate": 1791223174
+},
+{
+"Path": "HunyuanImage-2.1-INT8.pt",
+"Sha256": "4942baee0d4bc9613a95ad72f7d0d414be95abb31d89742dacc4500ea6534729",
+"IsLFS": true,
+"CommittedDate": 1785868665
+},
+{
+"Path": "HunyuanImage-2.1-INT8.safetensors",
+"Sha256": "301c28979564e12d9f2eb50aff576d11ff76f49222ffef1a81fc97af7b76ffa7",
+"IsLFS": true,
+"CommittedDate": 1791223174
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/North-Mini-Code-1.0-GGUF
+main commit at snapshot: e306bb4bf0df610f5471d97a01de2b6e0b24d356
+snapshot taken: 2026-11-13T13:03:30Z

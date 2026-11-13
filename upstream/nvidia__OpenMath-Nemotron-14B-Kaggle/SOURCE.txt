@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/OpenMath-Nemotron-14B-Kaggle
+main commit at snapshot: 735d7fa01ed91486891fa10e27bdfe1085040071
+snapshot taken: 2026-11-13T13:58:14Z

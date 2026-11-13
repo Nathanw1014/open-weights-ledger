@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-Qwen3-Coder-Next-abliterated-GGUF
+main commit at snapshot: 865bbba20de1673f59815fd331d790900c75af9c
+snapshot taken: 2026-11-13T14:01:10Z

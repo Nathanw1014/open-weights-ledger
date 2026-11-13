@@ -1,0 +1,13 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Dolphin3.0-Llama3.1-8B-abliterated.IQ4_XS.gguf	4484375072	94681a9ff3fb2cc803c268242bb00ef0ff3a5347b05df10f9be5250b6452f6a5	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q2_K.gguf	3179142048	966de37829dbfc8472bc3730623a1deea0285ece32f295e5070feab179cbe9a2	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q3_K_L.gguf	4321967840	edc6247836e4f7c0ee4a4801f9b42729bbec0803a68cb65b333abd191b117ef8	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q3_K_M.gguf	4018929376	befc01da1d12fef3330392435b349f5b06180db5e54d7aca073116f8473165df	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q3_K_S.gguf	3664510688	d8a8fbc59185aca47bab6711fbdfb0a1c97c5d954ec654bf5c7e428bc5df0f47	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q4_K_M.gguf	4920746784	66068764f4a5dcd25619357bd24f656509edb6371f5735c1b0df406280119c6a	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q4_K_S.gguf	4692681504	c4132e35ffdf7268cf99faa25436944f1dfa3764c5f828cce9d27270fba092d4	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q5_K_M.gguf	5733000992	efa036cf4dc977543284216e87c6d4cef37220664052769054303d02c7116a64	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q5_K_S.gguf	5599307552	67ed7711fe378d2dfdd815436963784ab661d514e9a395cec6cdc8747898119b	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q6_K.gguf	6596021088	1cc7550951e6974bc723f90fd9ce3b3136bae4f42e76710ec15ef28978f23659	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.Q8_0.gguf	8540789472	1188246ef39df12c63d4b3ac096864dc671872de98f6fdd948de5329eb884ac1	sha256
+Dolphin3.0-Llama3.1-8B-abliterated.f16.gguf	16068925152	fb201b1308b43f7cb4cbd9058c8c82e7ca6f293ffb458ae8aaa9c4fc9d123001	sha256

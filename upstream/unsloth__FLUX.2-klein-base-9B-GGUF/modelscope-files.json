@@ -1,0 +1,110 @@
+[
+{
+"Path": "editing.jpg",
+"Sha256": "2912ca5a7cb9ccbdc8627f8123894d28d8d5e5b0425e8907b3c8111659885ce0",
+"IsLFS": true,
+"CommittedDate": 1768541220
+},
+{
+"Path": "flux-2-klein-base-9b-BF16.gguf",
+"Sha256": "00809a2bb5031c2d9c8cc7dd06ee77a961c369d9235e48fd427bffe990ae20bb",
+"IsLFS": true,
+"CommittedDate": 1768541220
+},
+{
+"Path": "flux-2-klein-base-9b-F16.gguf",
+"Sha256": "33cd22fa5aa91b533ffaae75f9f07c846b214fe83dccce765dbe1bc49cac873d",
+"IsLFS": true,
+"CommittedDate": 1768541220
+},
+{
+"Path": "flux-2-klein-base-9b-Q2_K.gguf",
+"Sha256": "8d7186555bdbd2614f6885b4686d2d4a16c6380c44a872b31245eae6c0f989dc",
+"IsLFS": true,
+"CommittedDate": 1793808148
+},
+{
+"Path": "flux-2-klein-base-9b-Q3_K_M.gguf",
+"Sha256": "1ddd4aee2e441bcd57b63c128a869e11c4d9e90291ffbce5976fb3b68cdfd556",
+"IsLFS": true,
+"CommittedDate": 1793808181
+},
+{
+"Path": "flux-2-klein-base-9b-Q3_K_S.gguf",
+"Sha256": "3e196d7978f54cec9b0e78e25b71e90b37f47f0d2748c26c0c7b00d4b5673184",
+"IsLFS": true,
+"CommittedDate": 1793808185
+},
+{
+"Path": "flux-2-klein-base-9b-Q4_0.gguf",
+"Sha256": "02d4c2b55b5a6d4aca65eafd0f0eabe8c1e3837391042b6879be04eb99c7e116",
+"IsLFS": true,
+"CommittedDate": 1768541220
+},
+{
+"Path": "flux-2-klein-base-9b-Q4_1.gguf",
+"Sha256": "bf99f78af295b5a6d75b2a67b0c3c9fdde5b48a7a70d7522b28c35bdc29db435",
+"IsLFS": true,
+"CommittedDate": 1793808207
+},
+{
+"Path": "flux-2-klein-base-9b-Q4_K_M.gguf",
+"Sha256": "e251d3b2dcd7a2b954754763252a388f0c8fcb992fc5b243d041aa97a3c81668",
+"IsLFS": true,
+"CommittedDate": 1793808217
+},
+{
+"Path": "flux-2-klein-base-9b-Q4_K_S.gguf",
+"Sha256": "fc9534b98c2afcce7f564eceb14829460235a748d7eb27c2e71d947a79082dec",
+"IsLFS": true,
+"CommittedDate": 1793808221
+},
+{
+"Path": "flux-2-klein-base-9b-Q5_0.gguf",
+"Sha256": "afc449985d31a53836b106633b0cf8d38521d470b99da4f5df6ad93f2ffb2bb9",
+"IsLFS": true,
+"CommittedDate": 1793808226
+},
+{
+"Path": "flux-2-klein-base-9b-Q5_1.gguf",
+"Sha256": "4b2e6358e9de5091650a568ad45664a632b9ecc4db2ee18c964d31408dcd049e",
+"IsLFS": true,
+"CommittedDate": 1793808230
+},
+{
+"Path": "flux-2-klein-base-9b-Q5_K_M.gguf",
+"Sha256": "6194deb13cfeb2584f7fcf36e85b1713cc30af6551dab74cbe18a4b8c96527ef",
+"IsLFS": true,
+"CommittedDate": 1793808241
+},
+{
+"Path": "flux-2-klein-base-9b-Q5_K_S.gguf",
+"Sha256": "dd6eab2a22bf9924b4df18f2b371b5b699ba186f459ab095b3c4dd3db9a520f0",
+"IsLFS": true,
+"CommittedDate": 1793808258
+},
+{
+"Path": "flux-2-klein-base-9b-Q6_K.gguf",
+"Sha256": "083b7ae070ae7792b9a8d4d0f66b4917384039097f58610ec6e9ce500c1aac4b",
+"IsLFS": true,
+"CommittedDate": 1793808292
+},
+{
+"Path": "flux-2-klein-base-9b-Q8_0.gguf",
+"Sha256": "0f625ee27883d25379e897ea7b4328ec13376455bf6c2159f3aef7a801c88f10",
+"IsLFS": true,
+"CommittedDate": 1768541220
+},
+{
+"Path": "others.jpg",
+"Sha256": "78caed191515181abe87c10b6303a0fb58ae5518b8e7c7ed5847f406b377a0e4",
+"IsLFS": true,
+"CommittedDate": 1768541220
+},
+{
+"Path": "realism.jpg",
+"Sha256": "6cccc69a683c3f650eb149a006be54cdcd42eb92b367d2b8e65939d486d1946a",
+"IsLFS": true,
+"CommittedDate": 1768541220
+}
+]

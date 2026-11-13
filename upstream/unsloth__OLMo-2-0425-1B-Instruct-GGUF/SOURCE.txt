@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/OLMo-2-0425-1B-Instruct-GGUF
+main commit at snapshot: d224b117fade51a5c5bfbe4d043052a79305b2c2
+snapshot taken: 2026-11-13T13:23:10Z

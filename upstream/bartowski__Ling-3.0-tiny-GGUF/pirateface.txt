@@ -1,0 +1,2 @@
+checked 2026-11-13T09:31:34Z
+bartowski/Ling-3.0-tiny-GGUF                   124 GB  1 seeds  magnet:?xt=urn:btih:9d5cced35c4de1a76e3d722286a46d12f8255f9d&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fbartowski%2FLing-3.0-tiny-GGUF%2Fea072726af0d2e8ba325b2f90fc0efa762105a91%2F

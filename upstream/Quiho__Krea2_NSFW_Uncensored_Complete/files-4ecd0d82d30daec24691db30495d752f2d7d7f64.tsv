@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+moodyKrea2Mix_v3-Global-FP8.safetensors	13485164976	49591a46ef95d21635156408c91f5281befeb090284fc243d44bc4b74d783a9e	sha256
+qwen3VL4BAbliteratedComfyui_FP8.safetensors	4831356160	1cc1120f54f04736e4dee3b8b22744637332cb34e645a1e4c51196191861ae9d	sha256
+qwenImageVAE_BF16.safetensors	253806246	a70580f0213e67967ee9c95f05bb400e8fb08307e017a924bf3441223e023d1f	sha256

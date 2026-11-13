@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen2.5-7B-Instruct-abliterated-GGUF
+main commit at snapshot: af97ac7cd095193b54e7db7032895ae0d3f86651
+snapshot taken: 2026-11-13T14:01:07Z

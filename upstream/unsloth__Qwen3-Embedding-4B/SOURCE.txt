@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-Embedding-4B
+main commit at snapshot: 8edd3dda8d779908e835f772b7290680593edc7d
+snapshot taken: 2026-11-13T13:03:33Z

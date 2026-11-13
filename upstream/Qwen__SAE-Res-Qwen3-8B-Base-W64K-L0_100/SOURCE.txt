@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_100
+main commit at snapshot: f308c1df7c9746544f0af047fd00d6cf374627bd
+snapshot taken: 2026-11-13T13:51:43Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/nemotron-labs-unified-asr-0.6b
+main commit at snapshot: 023ce907267a09a308a5cb69239447cb3d0c1597
+snapshot taken: 2026-11-13T13:56:57Z

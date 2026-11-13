@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-MXFP8
+main commit at snapshot: acb538da38032a1daba9c411d2380d3812eab0a2
+snapshot taken: 2026-11-13T13:57:04Z

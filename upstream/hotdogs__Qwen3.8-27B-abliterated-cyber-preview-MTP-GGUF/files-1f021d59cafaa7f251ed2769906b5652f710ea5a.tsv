@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-abliterated-cyber-imatrix.dat	13642656	3744684e36efab8f1f7c8da6ceb59f221e61b81f5dd53f62ba33ce3528c61fa2	sha256
+Qwen3.8-27B-abliterated-cyber-preview-MTP-IQ3_M.gguf	12768331136	22779e1098615c2b324425d89c6771c220f2e154558277317b957981152f3402	sha256
+Qwen3.8-27B-abliterated-cyber-preview-MTP-IQ4_NL.gguf	16041567616	e0c61e3d6d997be9ac6763e83297dce55668f0f61d4d9d9493c975d5b8d9e42b	sha256
+Qwen3.8-27B-abliterated-cyber-preview-MTP-Q4_K_M.gguf	16810714496	a5e5080b2e9d33ae3b48278dae0ce78a0fb43482e52086e4560a1c1eafd771f4	sha256
+Qwen3.8-27B-abliterated-cyber-preview-MTP-Q6_K.gguf	22430999936	83c617195d6590c3bc0d9548868ba948e3724f46bcde2e1ca956225f4604f104	sha256
+Qwen3.8-27B-abliterated-cyber-preview-MTP-bf16.gguf	54657733760	4dc925732bea2bf0e609ff418915b68aa1804a1b18e3944dfeb3b18710c0bac9	sha256

@@ -1,0 +1,4 @@
+repo: https://huggingface.co/turboderp/LFM2.5-8B-A1B-exl3
+main commit at snapshot: 0343e3efafe9329f1a4a426b986db4eaa2e380e2
+lastModified: 2026-07-26T01:17:41.000Z
+snapshot taken: 2026-11-13T09:39:22Z

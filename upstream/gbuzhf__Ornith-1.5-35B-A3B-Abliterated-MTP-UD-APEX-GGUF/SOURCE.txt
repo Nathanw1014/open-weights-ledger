@@ -1,0 +1,3 @@
+repo: https://huggingface.co/gbuzhf/Ornith-1.5-35B-A3B-Abliterated-MTP-UD-APEX-GGUF
+main commit at snapshot: 04eb5f9915607c840716ae817717431f0ba6df07
+snapshot taken: 2026-11-13T14:02:18Z

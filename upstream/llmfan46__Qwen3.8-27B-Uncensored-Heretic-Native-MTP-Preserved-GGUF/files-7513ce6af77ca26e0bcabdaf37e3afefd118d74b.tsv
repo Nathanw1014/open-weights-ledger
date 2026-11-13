@@ -1,0 +1,11 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-BF16.gguf	54657753216	088e28019e7fdc8bf440d1f68e65027464cdf88c45aa8038fa1cb9cf7f65a062	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-Q3_K_L.gguf	15530262656	4b5b86a5ad8fe0dcfce51b16381d5e00ab2ec493b0730c43657fbfcea9bf385f	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-Q3_K_M.gguf	14471200896	16c5dcbfde37a253b82d46cc2519a8ec767e028b40e515253e3cf203c14647c2	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-Q4_K_M.gguf	17577504896	97298d4b0f99a3f4c46b2dd013abd0ca1628d68be4c3960817b39998a60f0eaf	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-Q4_K_S.gguf	16592089216	1567219b60ab29a62816e5b7cbfd24c823a11242a191b40451a40c765a9c6fd6	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-Q5_K_M.gguf	20110798976	cee79bfad5077685c969d943ff9a37fa6cf3de4ad81f4879fd73689121a4751b	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-Q5_K_S.gguf	19546779776	dc45c1e3c1602a6e1a456a5141acc88462ae70cd24d376b9c45cc7d0707c4061	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-Q6_K.gguf	22802423936	7ce0b67b6a972e4ecc31345055046ccba815608b89610dc3ff531315d4543f8a	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-Q8_0.gguf	30484799616	59b182661983873e697c1a5a324f5115a08ee3e35e8d8fe01b7ff9a7f7616d3d	sha256
+Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved-mmproj-BF16.gguf	931145888	0fe0a1d29608720236b06f54b313df5277fb724b89a09817f8900d76e5be58ca	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-i1-GGUF
+main commit at snapshot: 0e6e2a22728d3617f655899b191a9e81f11b8974
+snapshot taken: 2026-11-13T14:02:35Z

@@ -1,0 +1,17 @@
+# path	size	hash	kind (sha256 = LFS weight hash, git = git blob id)
+.gitattributes	1562	f15b49c2e62c6e52121f7b498c0b245512d97955	git
+README.md	17562	6d1c88611f8b9ee77ed263e374f8d69a431c3bdd	git
+assets/BEIR-bge-en-v1.5.png	56374	04c10ca35a93a9e7addcb758eada3ed4bd523629	git
+assets/BEIR-e5-mistral.png	40223	236d46eb6277ad60230de001dfd6a40d045b448c	git
+assets/CMTEB-retrieval-bge-zh-v1.5.png	51484	b02707868af9da608747fad12cde2b116e4a6c86	git
+assets/llama-index.png	106473	3bac2b657173d245738405767e31a2c790cdc064	git
+assets/miracl-bge-m3.png	52028	f6e542add093ce645f67e09f0eb758c4e0c688ed	git
+bge-reranker-v2-m3-FP16.gguf	1159776896	5df93be121c09c43432102ad2b9569d369ccb85c209ca7583e8ccd28f0e41b88	sha256
+bge-reranker-v2-m3-Q2_K.gguf	366467488	f12135b80de836cbf94c1169dc8efda57c81040c1dfd9dedc20709d2e1725e39	sha256
+bge-reranker-v2-m3-Q3_K_M.gguf	402749856	1b9a8990c7ebb14511aecbc9df90d1e956132be64d5ce62783431fa1abb339a3	sha256
+bge-reranker-v2-m3-Q4_0.gguf	422156704	6d9e23b0765d4e250b697657ddaef1ca0b1fd7d150d910940eb35f673590e267	sha256
+bge-reranker-v2-m3-Q4_K_M.gguf	438376864	e186a244ed455b4ab66ec64339ce7427a6ae13f5c0b5e544de96e50f0f8b3673	sha256
+bge-reranker-v2-m3-Q5_0.gguf	460036512	e232e93920b96cb144370deac915e00b8f2377ced7c40ee3ac7f6881a0f9f987	sha256
+bge-reranker-v2-m3-Q5_K_M.gguf	468392352	1a212007526c7083627eed92b39dd4472e90ff1374a03fb068733378220813ef	sha256
+bge-reranker-v2-m3-Q6_K.gguf	500283808	cc99d3e11bedd7f032e227f86217fc8bfc01dd7476ac4021742bcf8babc9a83d	sha256
+bge-reranker-v2-m3-Q8_0.gguf	635676416	a43c7c9b11a4c1517e5bf95151960e1621d1b72f7a493364b01e386cf1aaa1d3	sha256

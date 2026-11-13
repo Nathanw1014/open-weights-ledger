@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/granite-3.2-2b-instruct
+main commit at snapshot: b1ece2b87ba68d2cd48915ed39be1115c1824243
+snapshot taken: 2026-11-13T13:34:26Z

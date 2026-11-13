@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/flux-text-encoders
+main commit at snapshot: d2a4d7b8e362fb5f009c8918c76aefccaf0397c3
+snapshot taken: 2026-11-13T13:06:31Z

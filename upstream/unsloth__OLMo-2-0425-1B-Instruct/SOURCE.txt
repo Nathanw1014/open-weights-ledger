@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/OLMo-2-0425-1B-Instruct
+main commit at snapshot: 614e28057b8f25c2088c818ce761fedb3315d5cf
+snapshot taken: 2026-11-13T13:31:41Z

@@ -1,0 +1,26 @@
+[
+{
+"Path": "BiCodec/model.safetensors",
+"Sha256": "e9940cd48d4446e4340ced82d234bf5618350dd9f5db900ebe47a4fdb03867ec",
+"IsLFS": true,
+"CommittedDate": 1747332616
+},
+{
+"Path": "LLM/model.safetensors",
+"Sha256": "54825baf0a2f6076eb3c78fa1d22a95aee225f59070a8b295f8169db860eb109",
+"IsLFS": true,
+"CommittedDate": 1747332616
+},
+{
+"Path": "LLM/tokenizer.json",
+"Sha256": "9c8b057d6ca205a429cc3428b9fc815f0d6ee1d53106dd5e5b129ef9db2ff057",
+"IsLFS": true,
+"CommittedDate": 1747332615
+},
+{
+"Path": "wav2vec2-large-xlsr-53/pytorch_model.bin",
+"Sha256": "314340227371a608f71adcd5f0de5933824fe77e55822aa4b24dba9c1c364dcb",
+"IsLFS": true,
+"CommittedDate": 1747332616
+}
+]

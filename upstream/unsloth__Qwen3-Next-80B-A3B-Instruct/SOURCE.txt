@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Instruct
+main commit at snapshot: ffc75ca7f47e017fad8393f1525af77904a55122
+snapshot taken: 2026-11-13T13:32:43Z

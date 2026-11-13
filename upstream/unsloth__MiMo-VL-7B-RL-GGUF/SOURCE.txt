@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MiMo-VL-7B-RL-GGUF
+main commit at snapshot: 9a1d60e80d877e6ee044d2c3b92e95c1c35b04ab
+snapshot taken: 2026-11-13T13:15:47Z

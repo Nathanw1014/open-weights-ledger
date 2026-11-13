@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-Chat
+main commit at snapshot: 7fbf767583dfd7f18f11734626ce1fb311d6acb1
+snapshot taken: 2026-11-13T13:59:13Z

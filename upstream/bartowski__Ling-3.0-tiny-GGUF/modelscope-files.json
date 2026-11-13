@@ -1,0 +1,158 @@
+[
+{
+"Path": "Ling-3.0-tiny-IQ2_M.gguf",
+"Sha256": "fd7781053b0e47dbfbba7113200e7727478ef9b4113fc93c5e7968c3fcac55ce",
+"IsLFS": true,
+"CommittedDate": 1787049104
+},
+{
+"Path": "Ling-3.0-tiny-IQ3_M.gguf",
+"Sha256": "09fdd3647631a8cc7053beaff8cc46023bf443d131b6363b9a170307abe369cf",
+"IsLFS": true,
+"CommittedDate": 1787049156
+},
+{
+"Path": "Ling-3.0-tiny-IQ3_XS.gguf",
+"Sha256": "07ead227b5a6a31c167264b7bf72f29c40238cbe1d1a53791341b9984fca8948",
+"IsLFS": true,
+"CommittedDate": 1787049156
+},
+{
+"Path": "Ling-3.0-tiny-IQ3_XXS.gguf",
+"Sha256": "fa1d85222d5f893eca3c70fa262d45855babdbe9adadc1438c86d49dffc3d3d9",
+"IsLFS": true,
+"CommittedDate": 1787049221
+},
+{
+"Path": "Ling-3.0-tiny-IQ4_NL.gguf",
+"Sha256": "115b79a351f339941c6a01f073c2f76446b5118d97aa046a6847b5384bbaf21b",
+"IsLFS": true,
+"CommittedDate": 1787049221
+},
+{
+"Path": "Ling-3.0-tiny-IQ4_XS.gguf",
+"Sha256": "bce9e797ece66e7e8a082fe04aefd05c20b35445b785e13f7cc3355b98a5b9d0",
+"IsLFS": true,
+"CommittedDate": 1787049223
+},
+{
+"Path": "Ling-3.0-tiny-Q2_K.gguf",
+"Sha256": "ede601cd0ee9989e81374fac642cf453375b02f616ac9c2678c0855df75018e5",
+"IsLFS": true,
+"CommittedDate": 1787049223
+},
+{
+"Path": "Ling-3.0-tiny-Q2_K_L.gguf",
+"Sha256": "95742a235df46b80e1ed08ee4a3c4facf76161fbe4ce7a5b403600c17d0763cb",
+"IsLFS": true,
+"CommittedDate": 1787049225
+},
+{
+"Path": "Ling-3.0-tiny-Q3_K_L.gguf",
+"Sha256": "9672c0af2194667976b7defade2e004d158675894f710f8a3bb2aaa98e9adfba",
+"IsLFS": true,
+"CommittedDate": 1787049225
+},
+{
+"Path": "Ling-3.0-tiny-Q3_K_M.gguf",
+"Sha256": "62f7117aa4e6cbf8d366cabf99c75c72e62332d3ff8ea2f98f5688d3f513252f",
+"IsLFS": true,
+"CommittedDate": 1787049226
+},
+{
+"Path": "Ling-3.0-tiny-Q3_K_S.gguf",
+"Sha256": "0abd458e6ce1b701d259b77231aed19e24dbdf62ba1322d4bf8dd3bdc58555fe",
+"IsLFS": true,
+"CommittedDate": 1787049226
+},
+{
+"Path": "Ling-3.0-tiny-Q3_K_XL.gguf",
+"Sha256": "bef70268644e6e1b757eb032779e98c4d45159462d93ce90d0e66d1baab2eb32",
+"IsLFS": true,
+"CommittedDate": 1787049303
+},
+{
+"Path": "Ling-3.0-tiny-Q4_0.gguf",
+"Sha256": "c1a548fd60cfb5a46d6e5fd7635224dec473664c9320a656132106bf7ce23cfb",
+"IsLFS": true,
+"CommittedDate": 1787049303
+},
+{
+"Path": "Ling-3.0-tiny-Q4_1.gguf",
+"Sha256": "5a2c90c7ac50ec7197525e2d074fa7fa86bc308361c558c6da134b3ce5b622bc",
+"IsLFS": true,
+"CommittedDate": 1787049420
+},
+{
+"Path": "Ling-3.0-tiny-Q4_K_L.gguf",
+"Sha256": "38e0975a864515eecc05fa17718f7a5f8c915a2927419a17af1d3cdac210668b",
+"IsLFS": true,
+"CommittedDate": 1787049420
+},
+{
+"Path": "Ling-3.0-tiny-Q4_K_M.gguf",
+"Sha256": "5eb12d8150f502e5ef15c05f0a03aec72ef8b8319fbaa8b2e03b43754ce9f2c5",
+"IsLFS": true,
+"CommittedDate": 1787049422
+},
+{
+"Path": "Ling-3.0-tiny-Q4_K_S.gguf",
+"Sha256": "10dcbafca1283c2fc81618673fb4ab167146eda7577d1e914792ec613665d8a0",
+"IsLFS": true,
+"CommittedDate": 1787049422
+},
+{
+"Path": "Ling-3.0-tiny-Q5_K_L.gguf",
+"Sha256": "d3ee4c7bcb08b3001805d5ad440441c8dbd954faf02858bcd4c47c0f1768ef2f",
+"IsLFS": true,
+"CommittedDate": 1787049441
+},
+{
+"Path": "Ling-3.0-tiny-Q5_K_M.gguf",
+"Sha256": "7625ce18c72b29e616fffa9fdc49e1bc73f2f2ad1784704171cdba7c5c9a149c",
+"IsLFS": true,
+"CommittedDate": 1787049441
+},
+{
+"Path": "Ling-3.0-tiny-Q5_K_S.gguf",
+"Sha256": "cb336fd32ef9367e87ac9d4bdc2857720a9cbcef94a73ac75eb343407f878a9f",
+"IsLFS": true,
+"CommittedDate": 1787049442
+},
+{
+"Path": "Ling-3.0-tiny-Q6_K.gguf",
+"Sha256": "cb58a01ea433f00dfccf8851d7bb6cade18064499ba3256d3c043ff3073fc9b8",
+"IsLFS": true,
+"CommittedDate": 1787049442
+},
+{
+"Path": "Ling-3.0-tiny-Q6_K_L.gguf",
+"Sha256": "f0cddaa11527eb1e486cf957d929ff54e3691c0d6495d019a4132b7a85905a6a",
+"IsLFS": true,
+"CommittedDate": 1787049444
+},
+{
+"Path": "Ling-3.0-tiny-Q8_0.gguf",
+"Sha256": "628fde593836ab3fd291e93802c8699c7e4eb3e32ba2562e05ba7b906a93be5e",
+"IsLFS": true,
+"CommittedDate": 1787049444
+},
+{
+"Path": "Ling-3.0-tiny-bf16.gguf",
+"Sha256": "61c0a597cebd50945686076a38348eaa320e8ab17d4df4356704e41bf16e06c7",
+"IsLFS": true,
+"CommittedDate": 1787049521
+},
+{
+"Path": "Ling-3.0-tiny-calibration-v6.txt",
+"Sha256": "2209eeb41bbf59c25f40e0f5e38fe19008dd86fa749b1c04ad8dd1d6f9077701",
+"IsLFS": true,
+"CommittedDate": 1787049521
+},
+{
+"Path": "Ling-3.0-tiny-imatrix.gguf",
+"Sha256": "1471e235408b2649d79539cd54ffea9a3f73d2b8c52babb4b615ab7db99c5896",
+"IsLFS": true,
+"CommittedDate": 1787049523
+}
+]

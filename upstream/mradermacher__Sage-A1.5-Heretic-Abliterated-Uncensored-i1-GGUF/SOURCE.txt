@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Sage-A1.5-Heretic-Abliterated-Uncensored-i1-GGUF
+main commit at snapshot: 6e6a2e3e449d1a264a00cfab855714151216bc37
+snapshot taken: 2026-11-13T14:04:25Z

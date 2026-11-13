@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ornith-ai/Ornith-1.5-122B-MLX-8bit
+main commit at snapshot: 5e8df2d2e50478f221602f0997b8cbbec51f9c8a
+snapshot taken: 2026-11-13T13:54:41Z

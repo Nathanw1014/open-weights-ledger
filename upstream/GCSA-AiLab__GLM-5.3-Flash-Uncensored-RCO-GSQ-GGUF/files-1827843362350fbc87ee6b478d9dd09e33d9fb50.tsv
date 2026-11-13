@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Q4/GLM-5.3-Flash-Uncensored-GSQ-RCO-Q4.gguf	137073273280	49f3ccd0f62b622ff6f66bfe12c79b71787a360c22449594ded0b75c0cf4f3b4	sha256
+Q6/GLM-5.3-Flash-Uncensored-GSQ-RCO-Q6.gguf	234890472224	cf6ae21c2f03ec1cd7b4d83a4f7dbc942003f750c0d0bf5ca4e3fc45cd0ef3d0	sha256
+Q8/GLM-5.3-Flash-Uncensored-Q8_0.gguf	333201812736	c04d6b6ce20cdac11d9aa5fb37ebc555ebf1334223c1edcb28f91855115fe187	sha256

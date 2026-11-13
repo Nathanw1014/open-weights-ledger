@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/DeepScaleR-1.5B-Preview-unsloth-bnb-4bit
+main commit at snapshot: 64779b0cf27625e2bae690ffc02e6fe9561fd807
+snapshot taken: 2026-11-13T13:30:38Z

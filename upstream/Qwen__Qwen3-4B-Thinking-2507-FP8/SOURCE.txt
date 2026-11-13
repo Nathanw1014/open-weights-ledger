@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507-FP8
+main commit at snapshot: 953532f942706930ec4bb870569932ef63038fdf
+snapshot taken: 2026-11-13T13:46:46Z

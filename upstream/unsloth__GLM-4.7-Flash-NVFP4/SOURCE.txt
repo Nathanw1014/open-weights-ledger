@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-4.7-Flash-NVFP4
+main commit at snapshot: 98b0362133bda9ee3b1b875636636c07861f5947
+snapshot taken: 2026-11-13T13:22:46Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/KernelLLM-GGUF
+main commit at snapshot: 0672d2e80887e88320ee328dda77f55b4fa06bf6
+snapshot taken: 2026-11-13T13:18:56Z

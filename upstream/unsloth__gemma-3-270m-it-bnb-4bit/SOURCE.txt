@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-3-270m-it-bnb-4bit
+main commit at snapshot: 6e50b6747bf6a7d6316f5be992dccbb43234835b
+snapshot taken: 2026-11-13T13:24:09Z

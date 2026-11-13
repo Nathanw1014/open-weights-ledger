@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/MiniMax-H3-Image-FP8
+main commit at snapshot: 629012976341fc8d100f1c1d32689b7304e5b49a
+snapshot taken: 2026-11-13T13:13:41Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/t8star/flux.1-dev-abliterated-V2-GGUF
+main commit at snapshot: 21505a89e2fbab4976cc96e4b095c300eb3c2053
+snapshot taken: 2026-11-13T14:02:24Z

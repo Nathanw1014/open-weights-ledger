@@ -1,0 +1,2 @@
+checked 2026-11-13T09:35:20Z
+z-lab/Qwen3.8-27B-DFlash2-GGUF                                                                   7.1 GB  2 seeds  magnet:?xt=urn:btih:b074eb7309a4244054bab3d041134276a27b7af8&xt=urn:btmh:12206feaced7ac3420cb8a12b8e8b41827f92008a87186df574d76a9b7c43108a7c9&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Fz-lab%2FQwen3.8-27B-DFlash2-GGUF%2F2d9571f8ce46e151f61c6499c99dee6079e1d610%2F

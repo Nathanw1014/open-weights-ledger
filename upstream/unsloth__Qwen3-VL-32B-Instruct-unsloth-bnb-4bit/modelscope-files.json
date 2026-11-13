@@ -1,0 +1,62 @@
+[
+{
+"Path": "merges.txt",
+"Sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "model-00001-of-00007.safetensors",
+"Sha256": "b63cf1a7e2f8a37c857624ba0e46a82f00b63335a01381c386094d89cdd7a0ba",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "model-00002-of-00007.safetensors",
+"Sha256": "08719c6edfd097fa13b353238c498ce2296d5fc4a656a73a474c3ccc50ba03df",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "model-00003-of-00007.safetensors",
+"Sha256": "9cbc9647eb56604cea22a55130aeec56cb8d88788ee6c4acd13e877cb963b0e0",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "model-00004-of-00007.safetensors",
+"Sha256": "90bac9207fd3bebff378c734158caba97917f201872ba1f89e8619bc1cc4eac2",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "model-00005-of-00007.safetensors",
+"Sha256": "67b7ae64253d052db955262cac7fde312452d444dd36a799e20899208dff3225",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "model-00006-of-00007.safetensors",
+"Sha256": "ee73cccc6fb5ed597b0d29798db89e13b0190acf9f8a0e9b1dd4d024404095be",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "model-00007-of-00007.safetensors",
+"Sha256": "1fb439cb27a3f9e3c8f1af39d771ad51fa1b547f97137e33ccac47160f46a1c1",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+"IsLFS": true,
+"CommittedDate": 1761070584
+},
+{
+"Path": "vocab.json",
+"Sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+"IsLFS": true,
+"CommittedDate": 1761070584
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf
+main commit at snapshot: f01809e437fb3046ae9afd31d684556f9ae5dd46
+snapshot taken: 2026-11-13T14:06:24Z

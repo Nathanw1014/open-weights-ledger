@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-4.5-Air
+main commit at snapshot: 76256af5102bd45465a8f70d3554db5d2ff31ecf
+snapshot taken: 2026-11-13T13:34:14Z

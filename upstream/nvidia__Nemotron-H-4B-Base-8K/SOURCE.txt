@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-H-4B-Base-8K
+main commit at snapshot: faba3b731ad7ea5781b9518ae75fb610a94affcf
+snapshot taken: 2026-11-13T13:57:58Z

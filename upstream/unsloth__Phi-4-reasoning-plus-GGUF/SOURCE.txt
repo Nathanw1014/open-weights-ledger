@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Phi-4-reasoning-plus-GGUF
+main commit at snapshot: 80fff8542dc7b88dba725b660beefd80e91e80c9
+snapshot taken: 2026-11-13T13:09:32Z

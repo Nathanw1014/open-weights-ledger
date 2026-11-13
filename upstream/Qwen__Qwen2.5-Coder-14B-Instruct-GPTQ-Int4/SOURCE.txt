@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4
+main commit at snapshot: d435273c87c9fd984eb9d27ae89d4e12a4676052
+snapshot taken: 2026-11-13T13:48:25Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Biomanticus/Qwen3.5-4B-heretic-gguf
+main commit at snapshot: b63ff4662e4863cfa005c9cd8ed34b87ed44b7e1
+snapshot taken: 2026-11-13T14:07:47Z

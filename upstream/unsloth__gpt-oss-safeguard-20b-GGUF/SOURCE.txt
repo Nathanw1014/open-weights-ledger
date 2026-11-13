@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gpt-oss-safeguard-20b-GGUF
+main commit at snapshot: 8663c2039e7dab29d93bdf6d1827c9ce882721da
+snapshot taken: 2026-11-13T13:18:21Z

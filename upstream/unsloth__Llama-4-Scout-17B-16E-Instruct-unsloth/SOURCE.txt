@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth
+main commit at snapshot: 37bdacfa22d34303fe15978f14c53314ff3171b5
+snapshot taken: 2026-11-13T13:36:34Z

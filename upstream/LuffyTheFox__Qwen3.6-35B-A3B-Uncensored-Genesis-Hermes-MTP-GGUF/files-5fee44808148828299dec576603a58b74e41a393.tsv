@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Arakali.png	2459105	e0e111adfdba627d21a28df8fbefc68f35f94dc5392e4913f75fe5c4ddd383f8	sha256
+Hermes3.6-35B-A3B-Uncensored-Genesis-MTP-MXFP4.gguf	21543974336	f167e7d2c6661e01f3a57821aa8a411b51c94e28c7324ef566376c3e54daea74	sha256
+Hermes3.6-35B-A3B-Uncensored-Genesis-MTP-Q8_K_P.gguf	44502971840	50c7ee02ff1aa09977d517033564674ad8bebbe31d36e62dfae5c9c325d8f0d7	sha256
+Hermes3.6-35B-A3B-Uncensored-Genesis-MXFP4.gguf	20646017152	63e1b1d773e8113f82d578417f59be33c306cd7388dfa17fd2c19679fd603c10	sha256
+Hermes3.6-35B-A3B-Uncensored-Genesis-Q8_K_P.gguf	43605014656	5dddb98158669fdbe7db0fc92313e777ec23a7e7fa95aedd3adcbf49aa41236f	sha256
+mmproj-Hermes3.6-35B-A3B-Uncensored-Genesis-F16.gguf	899283072	ccab14fb79b1865b4014447f4aa559d28ec0780c429a0cf2b8e1d5d6cb785a60	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/cogito-v2-preview-llama-405B-GGUF
+main commit at snapshot: e0090ade832d074abbe8238a2f0a6e023dfae84a
+snapshot taken: 2026-11-13T13:28:29Z

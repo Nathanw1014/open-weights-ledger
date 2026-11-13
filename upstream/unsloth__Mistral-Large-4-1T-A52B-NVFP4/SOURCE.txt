@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Mistral-Large-4-1T-A52B-NVFP4
+main commit at snapshot: 76796702694a1c19bdea9735797f045f1a054f3a
+snapshot taken: 2026-11-13T13:40:48Z

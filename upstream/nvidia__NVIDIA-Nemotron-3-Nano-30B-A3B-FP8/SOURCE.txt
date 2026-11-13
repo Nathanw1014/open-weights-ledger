@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8
+main commit at snapshot: 9bee19446c0dfd01f356e10979d225b2a6621944
+snapshot taken: 2026-11-13T13:55:16Z

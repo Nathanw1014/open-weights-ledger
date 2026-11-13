@@ -1,0 +1,3 @@
+repo: https://huggingface.co/llmfan46/Qwen3.8-27B-Uncensored-Heretic-Native-MTP-Preserved-GGUF
+main commit at snapshot: 7513ce6af77ca26e0bcabdaf37e3afefd118d74b
+snapshot taken: 2026-11-13T14:07:54Z

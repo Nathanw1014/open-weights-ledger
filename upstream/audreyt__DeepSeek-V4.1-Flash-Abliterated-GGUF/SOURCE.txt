@@ -1,0 +1,3 @@
+repo: https://huggingface.co/audreyt/DeepSeek-V4.1-Flash-Abliterated-GGUF
+main commit at snapshot: 7832036cb557c6ccdacdff77ef4e6ea283e35f89
+snapshot taken: 2026-11-13T14:00:54Z

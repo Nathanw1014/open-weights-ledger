@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/medgemma-4b-pt
+main commit at snapshot: a5f1898cf26a35c4c5cd7323c3b6c756cbd91277
+snapshot taken: 2026-11-13T13:35:59Z

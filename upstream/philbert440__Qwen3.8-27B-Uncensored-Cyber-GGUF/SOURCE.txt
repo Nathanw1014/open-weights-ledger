@@ -1,0 +1,3 @@
+repo: https://huggingface.co/philbert440/Qwen3.8-27B-Uncensored-Cyber-GGUF
+main commit at snapshot: b2dc3ee9a0216898684d8d0607009626662724d4
+snapshot taken: 2026-11-13T14:09:06Z

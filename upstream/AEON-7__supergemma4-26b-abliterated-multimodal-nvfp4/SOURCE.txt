@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/supergemma4-26b-abliterated-multimodal-nvfp4
+main commit at snapshot: 5b89b15d265a4aaef6bc2f9e474ff0601d3e342b
+snapshot taken: 2026-11-13T14:03:50Z

@@ -1,0 +1,74 @@
+[
+{
+"Path": "merges.txt",
+"Sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model-00001-of-00008.safetensors",
+"Sha256": "43e84d97bd5564613fde480d8e75a6142edc63c10c3a7a98ac1bfa73f2d38d41",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model-00002-of-00008.safetensors",
+"Sha256": "a0116ddeddef1ea2fb2ef8b68459e67472932652a9df65a9a8425c8f0e52f8b7",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model-00003-of-00008.safetensors",
+"Sha256": "8e7ba3d6877bb2e740331267e75a548848b3462715586cb6d5f9703739098b8f",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model-00004-of-00008.safetensors",
+"Sha256": "3db64b3f8db36870a9bc5ea04ba288315b45f6f0c17efba176bd80f56db93137",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model-00005-of-00008.safetensors",
+"Sha256": "0fc380a44bcc0c5c8196d6961d277790d23470f8685b93819505e09b77f5f1d5",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model-00006-of-00008.safetensors",
+"Sha256": "6b1a7ca26dfc906a0ee00d99bab93e184caf07df363c1e127ad039cc072b3360",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model-00007-of-00008.safetensors",
+"Sha256": "e5534e89c86ef1758d7ad2041a4e37eb8ce9a9480c09f04300b6084f86d522fa",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model-00008-of-00008.safetensors",
+"Sha256": "e64fd8f228bb6b3b0bae10397350f78bc1aaf92687fa094880b310997927f4e2",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "model.safetensors.index.json",
+"Sha256": "8697bce7f8e9b441a5b65a11d776193f1f7b1f2d849b51749b6f2abeab10c7a7",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+"IsLFS": true,
+"CommittedDate": 1758520531
+},
+{
+"Path": "vocab.json",
+"Sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+"IsLFS": true,
+"CommittedDate": 1758520531
+}
+]

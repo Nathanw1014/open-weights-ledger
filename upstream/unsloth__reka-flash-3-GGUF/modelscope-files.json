@@ -1,0 +1,50 @@
+[
+{
+"Path": "reka-flash-3-BF16.gguf",
+"Sha256": "b768eb6d645a830b64a0f7c906856c197f8297b90901fe2fce32fb1c0946c4c8",
+"IsLFS": true,
+"CommittedDate": 1741976600
+},
+{
+"Path": "reka-flash-3-Q2_K.gguf",
+"Sha256": "2abf503046b469050ba5d27372862c8ae58b7d3018300a76198fa44aa6470180",
+"IsLFS": true,
+"CommittedDate": 1741976600
+},
+{
+"Path": "reka-flash-3-Q2_K_L.gguf",
+"Sha256": "362382b58d333dada62ce5179bfbca22a473501f83b10375485a66ab3f0dd28c",
+"IsLFS": true,
+"CommittedDate": 1741976600
+},
+{
+"Path": "reka-flash-3-Q3_K_M.gguf",
+"Sha256": "6f963350c983b41eb1018bd0530c72485f2a41d9dd824dc3dbc27d299dfb6279",
+"IsLFS": true,
+"CommittedDate": 1741976600
+},
+{
+"Path": "reka-flash-3-Q4_K_M.gguf",
+"Sha256": "abc4348fe1e6bf5d5527aad5672a05732f29022a199c6bf6f16fba992855c367",
+"IsLFS": true,
+"CommittedDate": 1741976600
+},
+{
+"Path": "reka-flash-3-Q5_K_M.gguf",
+"Sha256": "e045fb04b48fe2f354e595dadea0f81b18ec05e2eaa43568cf3df16dcc8f72ff",
+"IsLFS": true,
+"CommittedDate": 1741976600
+},
+{
+"Path": "reka-flash-3-Q6_K.gguf",
+"Sha256": "4aff6a6d51fbd62086960f954b025567675a9cfd4b97f8e1615affdef34033d0",
+"IsLFS": true,
+"CommittedDate": 1741976600
+},
+{
+"Path": "reka-flash-3-Q8_0.gguf",
+"Sha256": "2b445427887c83d1dccd34d2349742e7d14e1bfc29cb1e23080ed96e73238719",
+"IsLFS": true,
+"CommittedDate": 1741976600
+}
+]

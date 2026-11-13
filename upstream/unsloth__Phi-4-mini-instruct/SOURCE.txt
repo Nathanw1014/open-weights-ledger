@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Phi-4-mini-instruct
+main commit at snapshot: 75becc471c56fc34761ec998615ca6f8535c5a61
+snapshot taken: 2026-11-13T13:12:43Z

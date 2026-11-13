@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-CyberStrike-OffSec-35B-abliterated-Q4_K.gguf	21713462464	70d1a7f32ca0f563716c8c256628730b2912e56aaeb534d685d3a96e02704f88	sha256
+Huihui-CyberStrike-OffSec-35B-abliterated-Q5_K.gguf	25347531968	65b059f63208fca3a1d176704a9dfaa0fa4e84bdbc4585ee583692615e099d29	sha256
+Huihui-CyberStrike-OffSec-35B-abliterated-Q6_K.gguf	29208730816	873d9fc4c811a2bbdd4db286c9d60cf31605444a677661b1742a7b436476d09f	sha256
+Huihui-CyberStrike-OffSec-35B-abliterated-Q8_0.gguf	37802149056	046034b9d7394940d0ec9a5b82a1ef40f5991775c8b55beb193edb11bd057ffd	sha256
+Huihui-CyberStrike-OffSec-35B-abliterated-bf16.gguf	71066994176	98241b01ff73b85b8d8e88a6bac8ee12948b67ed3956e173bc68747f86f38e68	sha256
+mmproj-model-bf16.gguf	902822080	49f55be43591521d92edd9657d67c7a4dc294221f7fa290ad960c698045289d9	sha256

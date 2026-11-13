@@ -1,0 +1,62 @@
+[
+{
+"Path": "pytorch_model-00001-of-00010.bin",
+"Sha256": "f85037d904705766b58b76c5265a568591f288925a081488a0ec3f3f752c7fce",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00002-of-00010.bin",
+"Sha256": "fe54b166888161c8598615eec862e6ad2c86b3d3eaac501daa6f86d3b0174850",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00003-of-00010.bin",
+"Sha256": "4ce49783fa46b607f112df9d27e7be2f313041cd3f8414226f6d8bdbeae86f4c",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00004-of-00010.bin",
+"Sha256": "e64e1b5d87d41e2da7dd6b42ad5dd92feac963d01ab5481e86b4da198a670264",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00005-of-00010.bin",
+"Sha256": "5d1b139edfde201c5ff4b592b968bc2baf00cba4b42ecc5e858a1fc898d3c434",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00006-of-00010.bin",
+"Sha256": "206f37b9ee4747f53a5c66c1a388c7bcb8236315bec83e9ca105b350acae0781",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00007-of-00010.bin",
+"Sha256": "8cf880e42cb11a45985f8b1e2caa0ba9afa98ab13ce38be5150641bb4cbb85fd",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00008-of-00010.bin",
+"Sha256": "1f8c5659e3d3934ccc92519039168ca84c945dec227f8477fbcafd2426264156",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00009-of-00010.bin",
+"Sha256": "02b652b95c6dffc2754d2cc3d8166b35c542726a571b979fc2b59417c218f196",
+"IsLFS": true,
+"CommittedDate": 1692595549
+},
+{
+"Path": "pytorch_model-00010-of-00010.bin",
+"Sha256": "508bc4b5caab78e08d9961000cd00411f0e56f0f016828bcf9e78c132d960c24",
+"IsLFS": true,
+"CommittedDate": 1692595549
+}
+]

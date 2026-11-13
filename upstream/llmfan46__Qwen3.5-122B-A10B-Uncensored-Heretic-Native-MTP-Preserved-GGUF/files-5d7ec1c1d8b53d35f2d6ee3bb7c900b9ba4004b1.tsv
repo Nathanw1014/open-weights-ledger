@@ -1,0 +1,14 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+BF16/Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-BF16.gguf-00001-of-00002.gguf	199433983552	cd34cf8b299fbc690157156ae05b26da0a9854fb4ed753a41800b64cc70cc822	sha256
+BF16/Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-BF16.gguf-00002-of-00002.gguf	49928997216	2037bea22ba942431926faacad8f991fa7c3d8c122c22c9acfc19ef604dc5f85	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q2_K.gguf	52183048128	3587c35b789bf8b0e55b3a35d8288005c2f62a48122372f77d45f7103180477c	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q3_K_L.gguf	70000451520	f7916ec5283382f7bf4cc5bd9aca05396a8443c02f85f660dc89ad58e3d10b7c	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q3_K_M.gguf	65470603200	514dbe172e77c88ad3fe21e339618fcba75cd69c189ea30531ba714309d4b85b	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q3_K_S.gguf	60034785216	1824db8027eb167867b7f54b2a89462df93a3f6e376ebfaab54acb0567c47b63	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q4_K_M.gguf	85282201280	22327ee65b33e9f953f90bd0d3a0769a2219bf97903c9cf28f2c24a8ff8f6514	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q4_K_S.gguf	80903347904	9bf6bcfd524e074615eaf455cab560159582e76b47abf4311184d7aa1519cfa5	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q5_K_M.gguf	92498697920	a2d3d9746cd3a5b669df73847050b395a3348a67771d1b01aa6e5f35203cf231	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q5_K_S.gguf	89931783872	03859343c5da19113351db4701be37f50afa70177662c7a78b91a31ef436c875	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q6_K.gguf	105333268160	2acec8452c103f18c8ac9c2691e31413be900ec4d53d22b0c9c3b3228c86107f	sha256
+Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-Q8_0.gguf	135783521984	11b1c5e8f7cb61b7e9ac9068f9e294d765f8f6853591aab12fbb5572083eb1e4	sha256
+mmproj/Qwen3.5-122B-A10B-Uncensored-Heretic-Native-MTP-Preserved-mmproj-BF16.gguf	912263328	fbf8c7e46773e7f45a8a81245792120c3ce988a891e85b3b674ae4ee14615798	sha256

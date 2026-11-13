@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF
+main commit at snapshot: 23813717f7f9282b372c23c7207468a7a168fa68
+snapshot taken: 2026-11-13T14:06:46Z

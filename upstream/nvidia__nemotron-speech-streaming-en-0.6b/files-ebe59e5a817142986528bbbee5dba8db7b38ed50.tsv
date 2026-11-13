@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+figures/caching_schema.png	535197	a9e37c37b8a1031ed2be549c1087c4de792debe2928e66b66f1d0ae916428f03	sha256
+figures/inference_pipeline.png	258059	b5654d12c83d93db6296782284b878a5e582a7164920f733679d431eb079f79c	sha256
+figures/results_wer_and_scaling.png	76583	38e0483d0c56ec3d683060ca5def3a0eeb17898bbfc74497d0c9ec987440e636	sha256
+model.safetensors	2472413604	bddd8a7300826efd19cf7e01f1c7db8402bed6786fc4c7739632894f69c71473	sha256
+nemotron-speech-streaming-en-0.6b.nemo	2473041920	283638054c44f6794e74fe9af9048d78a6d9d6c058c12131856c7859a62ac9cd	sha256
+nemotron-speech-streaming-en-0.6b.q8_0.gguf	699872960	d9a01898d2a611c8764e23a1c2f45e70bbd5a425dc4de93692ac951dd603812d	sha256

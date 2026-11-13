@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Olmo-3.1-32B-Instruct
+main commit at snapshot: e543e1a7057070133919c1976fea346b2dccd239
+snapshot taken: 2026-11-13T13:40:21Z

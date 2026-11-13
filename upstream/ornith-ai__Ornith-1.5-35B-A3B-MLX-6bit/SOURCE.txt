@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-MLX-6bit
+main commit at snapshot: 585b7867b0517980293ece857b26d64e84491352
+snapshot taken: 2026-11-13T13:54:36Z

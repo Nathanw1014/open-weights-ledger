@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Magistral-Small-2506-unsloth-bnb-4bit
+main commit at snapshot: f0e35b5923c220748c996c385904330b9f74337b
+snapshot taken: 2026-11-13T13:38:52Z

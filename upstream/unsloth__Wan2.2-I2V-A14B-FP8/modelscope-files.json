@@ -1,0 +1,26 @@
+[
+{
+"Path": "Wan2.2-I2V-A14B-FP8-2.pt",
+"Sha256": "2250a69e94e464837b1fd71c00d801bdaab93d1be61619e774e4f282803ab14b",
+"IsLFS": true,
+"CommittedDate": 1785870030
+},
+{
+"Path": "Wan2.2-I2V-A14B-FP8.pt",
+"Sha256": "79dcf63ec7382f3af16d8f26f35f94a78cde010d78b169304d09646adf11f7da",
+"IsLFS": true,
+"CommittedDate": 1785870044
+},
+{
+"Path": "Wan2.2-I2V-A14B-INT8-2.pt",
+"Sha256": "7ffb11b6bc3f3f8a5832e32ca83ac7d0e80932c2ce22488669814173e1e13110",
+"IsLFS": true,
+"CommittedDate": 1785870047
+},
+{
+"Path": "Wan2.2-I2V-A14B-INT8.pt",
+"Sha256": "dc895614f3ff450f6979487efa9b5ef3313369c617ab2a6d5a432932b76f9c7d",
+"IsLFS": true,
+"CommittedDate": 1785870049
+}
+]

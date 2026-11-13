@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen-VL-Chat
+main commit at snapshot: f57cfbd358cb56b710d963669ad1bcfb44cdcdd8
+snapshot taken: 2026-11-13T13:47:11Z

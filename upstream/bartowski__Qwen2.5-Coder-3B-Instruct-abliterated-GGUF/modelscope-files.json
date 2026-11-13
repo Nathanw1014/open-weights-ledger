@@ -1,0 +1,152 @@
+[
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-IQ2_M.gguf",
+"Sha256": "d3ef184a78f92f9d9eb51030e13955ca3b2ab233fec369bb145deb29bd5109c8",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-IQ3_M.gguf",
+"Sha256": "c39024eac97267440fa91a79ce3ffd2699a1ee8137819749a3ab200542ffcd9c",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-IQ3_XS.gguf",
+"Sha256": "c32270cb3af67d4f44063e78aadb477b1438a58329f13d521ef035510913ada9",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-IQ4_XS.gguf",
+"Sha256": "24eb89bc55323b071199fce268cb6bde3847cd7368b463bc834b4ced38391fcb",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q2_K.gguf",
+"Sha256": "0317a9b6b369491efa29263440b0a76c76afb5aa85cd0996673a67376f718eb5",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q2_K_L.gguf",
+"Sha256": "5cb34c5ece03d12a695bbcf7d99b60d4098e9d0637a12b9fe3dc42cdd9a64795",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q3_K_L.gguf",
+"Sha256": "cff76774bd30d5265afbff4511bbd4444077f69dca295b3f3b1efc6bbe7113b2",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q3_K_M.gguf",
+"Sha256": "019caba6c381b2a43aade0adaa60b13124525cd9a648e9b0d067a59ea7746892",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q3_K_S.gguf",
+"Sha256": "133296c4e70e63c856abaf17bf75a76deb971f3ef0d5131ce418b76d3920c219",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q3_K_XL.gguf",
+"Sha256": "70c6e65ca0f3246e792817bb6a85b5ca661d25cc314dffd32b870b98cf69578c",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q4_0.gguf",
+"Sha256": "beab4eacbb506be75cc77abb86f12964d9e332eee2f371ee4f7c381df67da865",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q4_0_4_4.gguf",
+"Sha256": "be3b1dc417b5d3c80b9273ea5919fa8923d4c7374c08e8a8addf8cfa06669152",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q4_0_4_8.gguf",
+"Sha256": "33ad233957984cab61fa36e82bbb3cd18dfe8fd34d8e70afa2e77d710a810839",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q4_0_8_8.gguf",
+"Sha256": "1e216aaf99223a8be782705ddf3840f015fdb4972f4f6620d55f69644adfffb5",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q4_K_L.gguf",
+"Sha256": "1eaebe4a2ce1eeb5b018cacf56b6d1a64c19594ba03bcb2ed398875ff79033c8",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q4_K_M.gguf",
+"Sha256": "d5c108dfbdac44c738e45a84d5624716cfb8522d1410f46a7108167ee4bd0cac",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q4_K_S.gguf",
+"Sha256": "02f2fb9240ce4d9a2ea8dd403e4b0f36ca07ab15e448e9a341092f24b46b02cc",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q5_K_L.gguf",
+"Sha256": "5e3e7c6c95feb8109a9c8a00e992527c6590d7637a54275cf1785b19c59e9a0e",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q5_K_M.gguf",
+"Sha256": "d30cd85c9d20d40ae5252a6da05c00d6639369ad66228495ef62be769f03c77c",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q5_K_S.gguf",
+"Sha256": "26b71820e404c0cf32b36c0b7ce2ce2ed117fbb635647a250cf126b3fe00badb",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q6_K.gguf",
+"Sha256": "09c8c5426b325243f0c945d57cb34040e5323f6ff97037a4dcb84f5c58617b8b",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q6_K_L.gguf",
+"Sha256": "0f871ad6af54d1bf105351b93c2dfa1654741c88560d330a01f21ffd1e47f18d",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-Q8_0.gguf",
+"Sha256": "d9c88c42ac91d223f7106114f9bfff1bb99bea5a1e7a1d1268d16ffda722c09d",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated-f16.gguf",
+"Sha256": "f57aea94e139b82e1f745cd0f3e6fe487c5a40f73dfa34123079ded74ea55095",
+"IsLFS": true,
+"CommittedDate": 1732534221
+},
+{
+"Path": "Qwen2.5-Coder-3B-Instruct-abliterated.imatrix",
+"Sha256": "beeefca33a266d2af01ae50c995abd7df006e0948080f17286b8bd71ea06bb83",
+"IsLFS": true,
+"CommittedDate": 1732534221
+}
+]

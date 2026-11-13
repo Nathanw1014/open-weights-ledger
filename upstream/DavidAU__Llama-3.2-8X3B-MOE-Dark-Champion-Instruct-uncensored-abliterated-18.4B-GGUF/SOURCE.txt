@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF
+main commit at snapshot: 6bcdb4c85db1f48ddec0671203fb0d0308d9bfef
+snapshot taken: 2026-11-13T14:01:20Z

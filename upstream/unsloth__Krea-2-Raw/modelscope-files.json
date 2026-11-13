@@ -1,0 +1,170 @@
+[
+{
+"Path": "images/00.png",
+"Sha256": "2012df3238ac5d778084dc2118194cd8126802fda60ed5618818618b92dee2b9",
+"IsLFS": true,
+"CommittedDate": 1785955243
+},
+{
+"Path": "images/01.png",
+"Sha256": "9c54f2f896bf5169333201271d1a7545341a57f58b7df7d4e7479fcead59dbe5",
+"IsLFS": true,
+"CommittedDate": 1785955243
+},
+{
+"Path": "images/02.png",
+"Sha256": "9a26effd01f77b54c5e969255049d22c3fc5e89dd00030974b667dcecda27a83",
+"IsLFS": true,
+"CommittedDate": 1785955243
+},
+{
+"Path": "images/04.png",
+"Sha256": "4746a351d8d78fd7fa357c0cd0bb8498174ee55110562d50fc491ef639188b62",
+"IsLFS": true,
+"CommittedDate": 1785955243
+},
+{
+"Path": "images/05.png",
+"Sha256": "92157dddfa2296deb1ac495d7424814631830ccc05a5b0af702b0e6f81fdc865",
+"IsLFS": true,
+"CommittedDate": 1785955247
+},
+{
+"Path": "images/08.png",
+"Sha256": "2fa28c44adb768351c6b7f296d830e4404235663df631b1a2b3ca270963eadaf",
+"IsLFS": true,
+"CommittedDate": 1785955247
+},
+{
+"Path": "images/10.png",
+"Sha256": "a00df826a51dc875f42a239cb89b393c818dc7c117c77e2b6b0c848e88ffec14",
+"IsLFS": true,
+"CommittedDate": 1785955251
+},
+{
+"Path": "images/12.png",
+"Sha256": "6b2e1e8e7828b61facf4f212efae4d7298d1299ee588451443b7b1601b8711ce",
+"IsLFS": true,
+"CommittedDate": 1785955251
+},
+{
+"Path": "images/13.png",
+"Sha256": "660d49a60d0d5bbad84cf52f9e979ba86faeff11a1314cc26799397aa294f1e8",
+"IsLFS": true,
+"CommittedDate": 1785955251
+},
+{
+"Path": "images/18.png",
+"Sha256": "1ce424ae34a3c38f46fab54e11718f853dc3203137e506bed5df1a2535a5feed",
+"IsLFS": true,
+"CommittedDate": 1785955255
+},
+{
+"Path": "images/19.png",
+"Sha256": "52cfbe3168da69a19bf434c07f1935b72c27b760a5d7e34dfcdec542932ae673",
+"IsLFS": true,
+"CommittedDate": 1785955255
+},
+{
+"Path": "images/20.png",
+"Sha256": "bbc2eb8c65d7278966a31682a814434553bb3a627a2a6d0876291cdab3c108e8",
+"IsLFS": true,
+"CommittedDate": 1785955258
+},
+{
+"Path": "images/21.png",
+"Sha256": "9138d547e5cc28dee73f8bda8832dcdf0b715dab0f5a8e33bb3a4e09ff071731",
+"IsLFS": true,
+"CommittedDate": 1785955258
+},
+{
+"Path": "images/26.png",
+"Sha256": "21644f76910bc67a96bef98f7b88853b0558db623122ff680acc8b301a351fe2",
+"IsLFS": true,
+"CommittedDate": 1785955261
+},
+{
+"Path": "images/27.png",
+"Sha256": "2e1fe8497983f4802733ac19cd74127936a13b7f535b9367efbde4e66c08b035",
+"IsLFS": true,
+"CommittedDate": 1785955261
+},
+{
+"Path": "images/28.png",
+"Sha256": "bcc4a48e24f4696a705094d2180dfbaf67714bbf27d3fbf9fb7b8bfe23c2552f",
+"IsLFS": true,
+"CommittedDate": 1785955261
+},
+{
+"Path": "images/29.png",
+"Sha256": "4c0e4f1e50925b77ab0b48032645ee926bc3501fd78c0cdfab1b67f7c2a536b0",
+"IsLFS": true,
+"CommittedDate": 1785955261
+},
+{
+"Path": "images/32.png",
+"Sha256": "a8bd79d1a8f3a9d4ccf6ad0b31a194c0a46fa4d88b1950c4b5e234cfdc8e9e65",
+"IsLFS": true,
+"CommittedDate": 1785955264
+},
+{
+"Path": "images/33.png",
+"Sha256": "f77972b6bbe0c0a879dcf1cab560863edd1b042c00f3f42b16b17ee59496b37a",
+"IsLFS": true,
+"CommittedDate": 1785955264
+},
+{
+"Path": "images/35.png",
+"Sha256": "929b1b171273eb60741617c03165edcdfdb09787921d4fa377992f68268de65d",
+"IsLFS": true,
+"CommittedDate": 1785955539
+},
+{
+"Path": "images/header.jpg",
+"Sha256": "a14d37f423b13e4e0cc8f4806b4bea7373bba7ca3390ed826ab18fe3ae4f0d31",
+"IsLFS": true,
+"CommittedDate": 1785955539
+},
+{
+"Path": "raw.safetensors",
+"Sha256": "f99bb0ff8e362b77342bc4994e0c50906fe7ef7074864b181b7d48d2fa6d03d7",
+"IsLFS": true,
+"CommittedDate": 1785955539
+},
+{
+"Path": "text_encoder/model.safetensors",
+"Sha256": "8434db05292f95e0041589a7c82abeb39385be59c85b54ae11caa7b45e9f4f13",
+"IsLFS": true,
+"CommittedDate": 1785955541
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "be75606093db2094d7cd20f3c2f385c212750648bd6ea4fb2bf507a6a4c55506",
+"IsLFS": true,
+"CommittedDate": 1785955541
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00001-of-00003.safetensors",
+"Sha256": "aeed04b3fd933ff35ffb898548a585a32f2146ee6681700e2b50e4478d52d58a",
+"IsLFS": true,
+"CommittedDate": 1785955543
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00002-of-00003.safetensors",
+"Sha256": "e606797c9fbfeb820b9a0222823915ac1459d11a27caa84d53aba150c85f2b26",
+"IsLFS": true,
+"CommittedDate": 1785955543
+},
+{
+"Path": "transformer/diffusion_pytorch_model-00003-of-00003.safetensors",
+"Sha256": "9300cac5c4cdbc33bbccadf176c0e5a8314b6a4aabefae7a2781782d50d78e7d",
+"IsLFS": true,
+"CommittedDate": 1785955543
+},
+{
+"Path": "vae/diffusion_pytorch_model.safetensors",
+"Sha256": "ab1b61103959913d6c7e628cf793dbb2ca4726a40a3b3ae206c52b8e75bf6f08",
+"IsLFS": true,
+"CommittedDate": 1785955545
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/ideogram-4-nf4
+main commit at snapshot: bfd7bfc926cb6699ce5851bab1f894a7e001ee70
+snapshot taken: 2026-11-13T13:28:37Z

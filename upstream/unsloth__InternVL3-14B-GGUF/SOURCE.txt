@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/InternVL3-14B-GGUF
+main commit at snapshot: 0297c1d2775e26ee66145b7ef66b92e5357fb428
+snapshot taken: 2026-11-13T13:26:55Z

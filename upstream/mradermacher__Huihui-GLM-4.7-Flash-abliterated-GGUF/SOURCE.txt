@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-GLM-4.7-Flash-abliterated-GGUF
+main commit at snapshot: 2d925ab0fdaa279a87485f4786ca22661bf030b2
+snapshot taken: 2026-11-13T14:02:21Z

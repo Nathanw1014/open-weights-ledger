@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-4B-GGUF
+main commit at snapshot: 8e81be55c5aa3d63bb82b6ceec62d50805d9e1bb
+snapshot taken: 2026-11-13T13:09:13Z

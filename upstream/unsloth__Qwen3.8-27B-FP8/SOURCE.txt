@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3.8-27B-FP8
+main commit at snapshot: d51e38f6f2b5877bb91e06ba231e41ffc63bde6f
+snapshot taken: 2026-11-13T13:11:42Z

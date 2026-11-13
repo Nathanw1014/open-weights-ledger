@@ -1,0 +1,38 @@
+[
+{
+"Path": "Qwen2.5-Coder-32B-Instruct-Q2_K.gguf",
+"Sha256": "63a42f063eaff8f06b07cfaac43b6985d460522db2d094602846bdb6799fcf3d",
+"IsLFS": true,
+"CommittedDate": 1731532728
+},
+{
+"Path": "Qwen2.5-Coder-32B-Instruct-Q3_K_M.gguf",
+"Sha256": "e2385fe681f780ec804225b6d3143647887752400e5dd1c8fe8ce28e51abb57f",
+"IsLFS": true,
+"CommittedDate": 1731532728
+},
+{
+"Path": "Qwen2.5-Coder-32B-Instruct-Q4_K_M.gguf",
+"Sha256": "77691d25d120a4708c4b301784e3527d2738024b1cddb7ccc08b8bfdc018aaa3",
+"IsLFS": true,
+"CommittedDate": 1731532728
+},
+{
+"Path": "Qwen2.5-Coder-32B-Instruct-Q5_K_M.gguf",
+"Sha256": "2221eb5b73e0dde3bae2d699bf05050b451d619c675ab68235d731895764e9d9",
+"IsLFS": true,
+"CommittedDate": 1731532728
+},
+{
+"Path": "Qwen2.5-Coder-32B-Instruct-Q6_K.gguf",
+"Sha256": "c31bdf2a6d5510a46c34274a5030970fec78e83f558d0ca8636aa2d69b25279c",
+"IsLFS": true,
+"CommittedDate": 1731532728
+},
+{
+"Path": "Qwen2.5-Coder-32B-Instruct-Q8_0.gguf",
+"Sha256": "b4a94832d5a2a09410e7e9481860ad3cb150aaf95d4528f1aeb9c48e4f210ba0",
+"IsLFS": true,
+"CommittedDate": 1731532728
+}
+]

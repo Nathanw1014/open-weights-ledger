@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/all-MiniLM-L6-v2
+main commit at snapshot: 0f79ca30c044e92859f5852d3a29fb6e976741cd
+snapshot taken: 2026-11-13T13:18:57Z

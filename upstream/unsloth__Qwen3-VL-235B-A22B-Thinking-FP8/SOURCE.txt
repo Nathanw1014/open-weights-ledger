@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-235B-A22B-Thinking-FP8
+main commit at snapshot: f5b2c61fcb9ace5c4fff71fed15ef4ce0586f0fc
+snapshot taken: 2026-11-13T13:39:34Z

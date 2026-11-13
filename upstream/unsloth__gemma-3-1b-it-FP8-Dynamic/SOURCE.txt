@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-3-1b-it-FP8-Dynamic
+main commit at snapshot: 3d0e31350549f103afc6f138b6dda9186453a6c1
+snapshot taken: 2026-11-13T13:28:25Z

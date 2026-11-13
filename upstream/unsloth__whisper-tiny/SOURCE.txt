@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/whisper-tiny
+main commit at snapshot: 34457cb234c8624f23ac716000773b367000df6e
+snapshot taken: 2026-11-13T13:22:04Z

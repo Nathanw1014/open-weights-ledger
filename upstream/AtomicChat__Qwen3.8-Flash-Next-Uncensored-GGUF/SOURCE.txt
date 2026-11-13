@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/Qwen3.8-Flash-Next-Uncensored-GGUF
+main commit at snapshot: 2a6816c498bad48856126911fb558761ad22259b
+snapshot taken: 2026-11-13T14:09:55Z

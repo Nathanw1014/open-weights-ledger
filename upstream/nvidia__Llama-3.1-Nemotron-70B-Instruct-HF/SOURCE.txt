@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
+main commit at snapshot: 031d4042f36adc1a52cca51b331d25cbe3cf1022
+snapshot taken: 2026-11-13T13:56:12Z

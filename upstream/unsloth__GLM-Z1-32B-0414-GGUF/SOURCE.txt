@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/GLM-Z1-32B-0414-GGUF
+main commit at snapshot: 1a27b7404359fca3d63cfbef2f95cd7c43c2e945
+snapshot taken: 2026-11-13T13:18:25Z

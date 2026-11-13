@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Mixtral-8x7B-Instruct-v0.1
+main commit at snapshot: dbe5e5e9a41310e8b1a8528214f7f64f6929bc99
+snapshot taken: 2026-11-13T13:35:43Z

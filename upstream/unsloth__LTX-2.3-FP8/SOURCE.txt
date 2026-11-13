@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/LTX-2.3-FP8
+main commit at snapshot: 908abe01ef0e5594f606064a0cf894d5c05d250d
+snapshot taken: 2026-11-13T13:41:07Z

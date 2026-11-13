@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen3-4B-MLX-6bit
+main commit at snapshot: d73d5dba88e4b0356f224d778fdd88d973ec217f
+snapshot taken: 2026-11-13T13:52:21Z

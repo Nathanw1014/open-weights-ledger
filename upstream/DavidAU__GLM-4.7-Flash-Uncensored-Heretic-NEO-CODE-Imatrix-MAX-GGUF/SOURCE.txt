@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF
+main commit at snapshot: 6d82c375bcf12321111b923a447225e3c58c69d1
+snapshot taken: 2026-11-13T14:07:32Z

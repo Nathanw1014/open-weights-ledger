@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-14B
+main commit at snapshot: 7719d4f9edf310676aa7d628bbfe301c2c8b985e
+snapshot taken: 2026-11-13T13:59:06Z

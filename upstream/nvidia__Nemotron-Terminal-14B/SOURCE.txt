@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Terminal-14B
+main commit at snapshot: fa6f29a51305285c6a396049f5bb359ae505ef6c
+snapshot taken: 2026-11-13T13:59:06Z

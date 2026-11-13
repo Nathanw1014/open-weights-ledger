@@ -1,0 +1,1412 @@
+[
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00001-of-00030.gguf",
+"Sha256": "493d23e857dcf993158cac9f7afc25e520536ec844e94eddc3a01df9d8783122",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00002-of-00030.gguf",
+"Sha256": "fc143148516fe936a38185cabe17a9f51405a164ff173302d40e90fc2ce0e6d5",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00003-of-00030.gguf",
+"Sha256": "fb96f56f0a003849b87191158f0232138a7e96bc528bc3da8a751c81e054a7c0",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00004-of-00030.gguf",
+"Sha256": "c5799fbaebe860bfda21e7a9f3a33cba44cd4dcd4c34f3af0fb1d9439a5df44f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00005-of-00030.gguf",
+"Sha256": "b2b75457b48c6f3da30709eb9534dd5b857451cfa482528f36240d1b4126e127",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00006-of-00030.gguf",
+"Sha256": "d83f56e0d1d4f3c37cd8e39438d8fc5e5cf48c03847f35c091c06b6cfd0cc4fc",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00007-of-00030.gguf",
+"Sha256": "dcf30c1b0bdc1f811637851ed0d4911ef7f56ca307cad78768e61218a7a5124f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00008-of-00030.gguf",
+"Sha256": "0455543db4aee3eaca194541fbdf9aa646f1a63aadc9ce6a50378ceb01ccaa4f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00009-of-00030.gguf",
+"Sha256": "b9842f757dade25c57ca92646555eee67c301f435929f4f06fed2febe79d233b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00010-of-00030.gguf",
+"Sha256": "57679eb16d89060498ffd0181e62e4a51a9dc7d4d35d469dbf06bb1b9dbfe16e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00011-of-00030.gguf",
+"Sha256": "a2fccfba140f6b75b67a20b1e08e26c1740141fb66ddb13726cd34f5e8f7fb0a",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00012-of-00030.gguf",
+"Sha256": "b764f136ecdd1451ecde010f095c7dd6ca13ad068e75329be323c17b8d5b5339",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00013-of-00030.gguf",
+"Sha256": "cecb213860c9dde43358cdcb8708b71505122d4c90cdfc085ae9bf52f679db81",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00014-of-00030.gguf",
+"Sha256": "60be8d70a397bb002cd695add54efec2bd91fa8955bc90ccce1fd07d0240365d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00015-of-00030.gguf",
+"Sha256": "2bc894c9937e5c4d0a2932550bc196e9727ab0b5190043f63c1b93d400373cf6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00016-of-00030.gguf",
+"Sha256": "4660bc06fed6d818c63fc538885d04cd5fbb84eb1e2d714218b74561ce5313ef",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00017-of-00030.gguf",
+"Sha256": "3d0da5388434e6bde76ef7b3beb1056c7b432fc054a28611b8bec07500e3bc2c",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00018-of-00030.gguf",
+"Sha256": "1443d326fc1cf82e79b946848161052a96a83dca0e5e5bc4e98f0c381af019c6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00019-of-00030.gguf",
+"Sha256": "192b40154a26f68e82d54321a65b4aff93a282e0641ae8dd4381d085fedc18be",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00020-of-00030.gguf",
+"Sha256": "1e9e9b9696a8cf779752c5b82c04daf01b1cc42198efda793788471ac95dfdd8",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00021-of-00030.gguf",
+"Sha256": "0dd120d0664063d1046de114bee0623a04ba6f41c5c08c6c93b2e4be65542ea1",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00022-of-00030.gguf",
+"Sha256": "f75d3df99030fe8845e795597d66740c326f77179260e0d364041ab4456789a3",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00023-of-00030.gguf",
+"Sha256": "04ccb936a8e08a3841c54b8d7d6db12eb68dc086f81eb18e208cc89e3f155e42",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00024-of-00030.gguf",
+"Sha256": "7f719c3815ccb3e9c6e04382e46fd982aa89df522a05e1ce3f2793bd297e5170",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00025-of-00030.gguf",
+"Sha256": "b18e50809db37b63750c490df2ad430187f2f3d64131e28259a32be7360b529b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00026-of-00030.gguf",
+"Sha256": "0cb1163e7f034c4086c04a169b5e7ac7ff71bec0151db8aaabbd9c8babf6d2e9",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00027-of-00030.gguf",
+"Sha256": "fb47856654af5b67d674e605ded27f54aaf9b02a0d46d4478942faf3f53af126",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00028-of-00030.gguf",
+"Sha256": "5b7e8d2b96ecaa07b2c5642e4b336d397ed95dceb5b352a6c56a391ee28db22b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00029-of-00030.gguf",
+"Sha256": "0bdc44f78a5a4cff24e6e0aefe8b2c0a0ef8fa645831fb18bc6d8f1899c122db",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "BF16/cogito-671b-v2.1-BF16-00030-of-00030.gguf",
+"Sha256": "d3f185d95ffbbe3ab9e419c90a3f8b67cda15e8342d65af1550ad27678602819",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_NL/cogito-671b-v2.1-IQ4_NL-00001-of-00008.gguf",
+"Sha256": "bda071f7a476830708d07f31340f1e070497fbd4b7c6f510ca41644ef48ca68e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_NL/cogito-671b-v2.1-IQ4_NL-00002-of-00008.gguf",
+"Sha256": "1ac01a99c062422b6792ebe0b5e2ba61199b79a2dbca9cfd11ae1ec64d3a56a5",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_NL/cogito-671b-v2.1-IQ4_NL-00003-of-00008.gguf",
+"Sha256": "11c37992c4e031f4079ea0c1021c39ea6e5a2bc72a4badf2c7924e244422c4f0",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_NL/cogito-671b-v2.1-IQ4_NL-00004-of-00008.gguf",
+"Sha256": "8d03b6d9da41b1bf106963dd840835a5fd683c12469d2462d3c015b13f1a95fa",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_NL/cogito-671b-v2.1-IQ4_NL-00005-of-00008.gguf",
+"Sha256": "ac6f61e0b5f4f5ce888f565cc30bbf4e06a02690024bf1e305d9cb109fd04c5e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_NL/cogito-671b-v2.1-IQ4_NL-00006-of-00008.gguf",
+"Sha256": "b5654161824261587b6dcea7f9b38ceb46891ee600342e71f6c0456891964bb4",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_NL/cogito-671b-v2.1-IQ4_NL-00007-of-00008.gguf",
+"Sha256": "b6a94a3b99a05b3bd9dc33a3abdcf3ad6c9e73c21851dc81879bfb68c90538f2",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_NL/cogito-671b-v2.1-IQ4_NL-00008-of-00008.gguf",
+"Sha256": "099e3cd75c6fc73b15b9ac57afca7fda66fad6d4a03e99bb6a65adc91162cbe1",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_XS/cogito-671b-v2.1-IQ4_XS-00001-of-00008.gguf",
+"Sha256": "2f152fc85ccd81c8a14e56ba2bbce1d27e7ead05ec08261f7c6e04510bdb20df",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_XS/cogito-671b-v2.1-IQ4_XS-00002-of-00008.gguf",
+"Sha256": "3b0c8afd9b74d3c9c62ce5d5efe80e397e897f6b19a319572c6ecb1f6dcff17d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_XS/cogito-671b-v2.1-IQ4_XS-00003-of-00008.gguf",
+"Sha256": "69b75cb653d4ed620b88c341c1748bd4b42cbbf3f479e7db54b9451072e3f1fa",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_XS/cogito-671b-v2.1-IQ4_XS-00004-of-00008.gguf",
+"Sha256": "138010e7313731c054d35560fff176f7fce0ccfb4186b8d7b06fd67ef4a07b26",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_XS/cogito-671b-v2.1-IQ4_XS-00005-of-00008.gguf",
+"Sha256": "ae3e36bab7be1628afbd68b1eca6a7d60877817c42def7878acf3c2a006f65cc",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_XS/cogito-671b-v2.1-IQ4_XS-00006-of-00008.gguf",
+"Sha256": "3da91fb2034adc17f82779d144f4426e1a9152284f32b36fb4990f67c3815e19",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_XS/cogito-671b-v2.1-IQ4_XS-00007-of-00008.gguf",
+"Sha256": "760c3d173c4ca16e434f8794ed119042ac860ee9ad7786525058bb961ed4cca3",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "IQ4_XS/cogito-671b-v2.1-IQ4_XS-00008-of-00008.gguf",
+"Sha256": "3ed368d16025a700c7686766bc69d84630974f980805954cd2b7fdd34298e26d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K/cogito-671b-v2.1-Q2_K-00001-of-00005.gguf",
+"Sha256": "4eb0dc014cffca8b7df09caeaf7013e2d6d2b29ad7dbf99b7d516786084460af",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K/cogito-671b-v2.1-Q2_K-00002-of-00005.gguf",
+"Sha256": "f7a31ef87fc0a7eb16b2439afc24c3cb1fea6cf54a02507c243f51acf076cb5f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K/cogito-671b-v2.1-Q2_K-00003-of-00005.gguf",
+"Sha256": "29d49e1eecff48809a91a109ddd786635ee65e9874263d2f5eb4da42ed5c86c6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K/cogito-671b-v2.1-Q2_K-00004-of-00005.gguf",
+"Sha256": "b8f8245687ee225e973fd30acf4253ec5cb549df0df7253a247bb1aa6116a4e7",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K/cogito-671b-v2.1-Q2_K-00005-of-00005.gguf",
+"Sha256": "b4a204062c6f105ec0cfeaf84536e6a810b19f55e2c9bb9524446e8c4919ac45",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K_L/cogito-671b-v2.1-Q2_K_L-00001-of-00005.gguf",
+"Sha256": "aa71ea920b5549d3b816d30e0a3bdd98e59007fd862f9f0a0a4f2cfcde907c22",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K_L/cogito-671b-v2.1-Q2_K_L-00002-of-00005.gguf",
+"Sha256": "f7a31ef87fc0a7eb16b2439afc24c3cb1fea6cf54a02507c243f51acf076cb5f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K_L/cogito-671b-v2.1-Q2_K_L-00003-of-00005.gguf",
+"Sha256": "29d49e1eecff48809a91a109ddd786635ee65e9874263d2f5eb4da42ed5c86c6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K_L/cogito-671b-v2.1-Q2_K_L-00004-of-00005.gguf",
+"Sha256": "b8f8245687ee225e973fd30acf4253ec5cb549df0df7253a247bb1aa6116a4e7",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q2_K_L/cogito-671b-v2.1-Q2_K_L-00005-of-00005.gguf",
+"Sha256": "b4a204062c6f105ec0cfeaf84536e6a810b19f55e2c9bb9524446e8c4919ac45",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_M/cogito-671b-v2.1-Q3_K_M-00001-of-00007.gguf",
+"Sha256": "f122a45962f25aaf900ee54176a8f6dc76fcba50d584281fcdfa4344d41fd5ff",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_M/cogito-671b-v2.1-Q3_K_M-00002-of-00007.gguf",
+"Sha256": "a81d9f9a3b55bea2587969857cf3db463e99271b0bc4f8422cbe1613b5333441",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_M/cogito-671b-v2.1-Q3_K_M-00003-of-00007.gguf",
+"Sha256": "aa7e4c07efc9e1ecda553703bb80460972b189ecc53ff23f498b7d8017fc846d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_M/cogito-671b-v2.1-Q3_K_M-00004-of-00007.gguf",
+"Sha256": "0b7b4f7298d1b0dd674b3839732ce7043fbb06ff926a38aceca22c12d4f92cde",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_M/cogito-671b-v2.1-Q3_K_M-00005-of-00007.gguf",
+"Sha256": "1b12435600da5e9942440db3de2f2c59261476e3b9adeb6a4b30d2d6e9eea319",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_M/cogito-671b-v2.1-Q3_K_M-00006-of-00007.gguf",
+"Sha256": "cffdca72d922709f8a0df499643eec32ad06a8a86febaab49382df1afd3f2f57",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_M/cogito-671b-v2.1-Q3_K_M-00007-of-00007.gguf",
+"Sha256": "4418b502413f6e8c6786f2741114ad5431e674a0553ef94820c130f1af7c1a53",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_S/cogito-671b-v2.1-Q3_K_S-00001-of-00006.gguf",
+"Sha256": "fbe216275e2cf5f68abdcb34e9b8fefe74ca9a1e04d4ae4fdeb7fa265099eb7e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_S/cogito-671b-v2.1-Q3_K_S-00002-of-00006.gguf",
+"Sha256": "e92ea6168e8a4657eb105a50910c9729d74ccc3573bf8c2eafbac0f0abe31de5",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_S/cogito-671b-v2.1-Q3_K_S-00003-of-00006.gguf",
+"Sha256": "5e12fff58c84a7d203e9c2ebb8519b896fafcdda717d58c8d434d06e191b2662",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_S/cogito-671b-v2.1-Q3_K_S-00004-of-00006.gguf",
+"Sha256": "5d2274f280e7b7feaf3671bc8ddd20baf52da134107a02eb682a2ccdbba10338",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_S/cogito-671b-v2.1-Q3_K_S-00005-of-00006.gguf",
+"Sha256": "8515aaf76fa0b2267a8cd6561037f8d6020dbf5fa4dfbe99eaf265abcec3c032",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q3_K_S/cogito-671b-v2.1-Q3_K_S-00006-of-00006.gguf",
+"Sha256": "6f1950ee6b79ce992e5b6da384dc45d81cac4b752f55b51dbe4f1185be66efdb",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_0/cogito-671b-v2.1-Q4_0-00001-of-00008.gguf",
+"Sha256": "dfb9f8e50a2504df79e97852f24f701a24163b595b09b350f3f5a6497d27f2c6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_0/cogito-671b-v2.1-Q4_0-00002-of-00008.gguf",
+"Sha256": "f14ecc3364c8a4ec6d954ae8804d1f1ad727c72fad7702ff0239164fef2e6fbc",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_0/cogito-671b-v2.1-Q4_0-00003-of-00008.gguf",
+"Sha256": "09288b64e50a89787e1a9fb61cc65db93292022f9a45e4a4fb384076c4419086",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_0/cogito-671b-v2.1-Q4_0-00004-of-00008.gguf",
+"Sha256": "6e0e7c1e6cb584efbdcd67d727aabb0fb49af3766950a43514d9d4cc7c49fdb6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_0/cogito-671b-v2.1-Q4_0-00005-of-00008.gguf",
+"Sha256": "2134c102d5ce3b0d2573cc5510dd1443761dac517145d0782584a611a174314e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_0/cogito-671b-v2.1-Q4_0-00006-of-00008.gguf",
+"Sha256": "51ccc61daa8e44ddd17c186e9091dd32f442551cb3b5cc0d6629ab09967b9136",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_0/cogito-671b-v2.1-Q4_0-00007-of-00008.gguf",
+"Sha256": "6d97347dd4f8fe8eab09d7d6f16b4b74cca5d8e0162ba1496106b085938b7e5d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_0/cogito-671b-v2.1-Q4_0-00008-of-00008.gguf",
+"Sha256": "5e67fef393e4c724b470ef68601e5d1014cfed2207bc7e01b646ebdeb16b029d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00001-of-00009.gguf",
+"Sha256": "1772594f220d0533f89276c2cec7b822e8e2d84d7aea74661636d5dacfdfed94",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00002-of-00009.gguf",
+"Sha256": "7e81ffe2d39d9f1008cb686ba0a54d41eb5d6732e7526b71a016ca8794c0359e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00003-of-00009.gguf",
+"Sha256": "d59efbdd3129957b9b107e530e74e390d87204f49faa0275c30630708efb43a3",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00004-of-00009.gguf",
+"Sha256": "e0c641dfdd8e220f4340867aa4bd50c68cac8d5580f5f8b5f92ba22ca9070f0d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00005-of-00009.gguf",
+"Sha256": "be705375c39b256b841f260f328bcf998935a75d2197ccc991e982e92f192a95",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00006-of-00009.gguf",
+"Sha256": "d01047cfc7afa62f6a5a4e7545fd44dcb90c96ad0a7b8bd3cd93529719325b1f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00007-of-00009.gguf",
+"Sha256": "1ce2a4c968285300051b8c3a382a2402eec48f5e02de2111c8333acb8e66422b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00008-of-00009.gguf",
+"Sha256": "00660644e4c61a5e485d61aad1e9ec1861cb97909b3b7af052829f734c80c3ad",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_1/cogito-671b-v2.1-Q4_1-00009-of-00009.gguf",
+"Sha256": "d647ca4e7a8f142e9da3d6b9e91e8b2560b3bc0d980bbb07e446b496d9e44d2e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00001-of-00009.gguf",
+"Sha256": "07603960a3ca02a062eb0e902bea7b5fe286b699ee1ad823686649b4cb06472d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00002-of-00009.gguf",
+"Sha256": "d166d4212afaf8c02dd53cc6e23fe15e51d35193a7fa70daf984d939a8860a5a",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00003-of-00009.gguf",
+"Sha256": "f5938cc86ffd86ffde2922f863a41aa898be04f938f5d39755b5ea24aa661ba4",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00004-of-00009.gguf",
+"Sha256": "8474d37af22f276fb5d48dd14c06d920f8a3c9995dfd9fc0397ce2e75cdd7ed1",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00005-of-00009.gguf",
+"Sha256": "29b15a94ea3f99fee7b1c51a8997415cd864fe590c066cd8e618e07f9654464b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00006-of-00009.gguf",
+"Sha256": "5272bf6866f7622cab4cc137d4dfa8c341b597bba62c5f1d75bdfb7b865eabf3",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00007-of-00009.gguf",
+"Sha256": "a529af0f28b4579b177dde5b5cfbc95058a976bd54c632189961afbf24c90ab3",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00008-of-00009.gguf",
+"Sha256": "11068f51db2a32bc88bcf432e43626a620806ac9274cd385584b1f1dfe307a03",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_M/cogito-671b-v2.1-Q4_K_M-00009-of-00009.gguf",
+"Sha256": "c8a2ed668d61b4b4ab0c27aa00dd857c68f53a1b53b83293bc9b21c2ffa79bff",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_S/cogito-671b-v2.1-Q4_K_S-00001-of-00008.gguf",
+"Sha256": "5aa6205b5106a6e361ac23603b1db371c10fd3a36590606770472029224be142",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_S/cogito-671b-v2.1-Q4_K_S-00002-of-00008.gguf",
+"Sha256": "4a2b7dba037616c7a6132b3b7a6d82a64b1c62ce6a8653ea588d07c9ebb5fce9",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_S/cogito-671b-v2.1-Q4_K_S-00003-of-00008.gguf",
+"Sha256": "11c610ad956e001519fe2d7a0961c0a71cecac1304140ed8841da667d67b8351",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_S/cogito-671b-v2.1-Q4_K_S-00004-of-00008.gguf",
+"Sha256": "6948f4f7cc3e6ff737be1f254d085edcb549ed121868362c1bdb9d746761cbf9",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_S/cogito-671b-v2.1-Q4_K_S-00005-of-00008.gguf",
+"Sha256": "86ba204ced24b77db41c071c41871acdbd65fd622c6f188746c57067d4d6c14c",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_S/cogito-671b-v2.1-Q4_K_S-00006-of-00008.gguf",
+"Sha256": "534cf6bc713fccd4ab13fca406aab11e8a2c5c905c302a71d4d4c274931c2771",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_S/cogito-671b-v2.1-Q4_K_S-00007-of-00008.gguf",
+"Sha256": "f82266b685d58b875ab5a5fa1bb6ebfd52f293992f1787f4d0dce97a8cd3d9ce",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q4_K_S/cogito-671b-v2.1-Q4_K_S-00008-of-00008.gguf",
+"Sha256": "7251702244fa6de9e33ea9586dd15cee1e9fb744e9d080f4ffc38f3276f8773b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00001-of-00010.gguf",
+"Sha256": "139642833d0fb52695ab683a829ace116767ef6d12cdc6b83d82115c73b523cb",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00002-of-00010.gguf",
+"Sha256": "4500c7ff20f79a4ef6bddeceb12fc748396fc57e2d4a399a1b12c59c1107c1fb",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00003-of-00010.gguf",
+"Sha256": "36e4050eb29f0a70497d97425151239a26dc6ab11f5cfb01b1057d2268a7f22d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00004-of-00010.gguf",
+"Sha256": "f0ce7b68da7e2444b371e1bb380efbd13b0f43526449ef749442c40f073decd8",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00005-of-00010.gguf",
+"Sha256": "17c2bbfd65ed8ce6c7fbe6f83b54797ad1debe1e0e871a2731086d295ce6e4d6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00006-of-00010.gguf",
+"Sha256": "2a88d2e31d8dd3b7f683e2b9bcd24be6e9a1d6c7abe36b647a9c47af997b01d2",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00007-of-00010.gguf",
+"Sha256": "47153543630a3407c37630004bb2463951b73ade87f2236cfa0036febf7dfaa0",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00008-of-00010.gguf",
+"Sha256": "1a0b129d150978e3471353df32aad82d00c1c4f0cc0aed4cd0a7ab2d46108527",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00009-of-00010.gguf",
+"Sha256": "755929307879986132e24572adb26e939613f1bf9a5b979e9c7456759a05b20b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_M/cogito-671b-v2.1-Q5_K_M-00010-of-00010.gguf",
+"Sha256": "9de7dcaaf66d5b4f9b3f3d9f55fbf2b15188c5f1d8406e322b8c491c7b105e0b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00001-of-00010.gguf",
+"Sha256": "d2716685111882c2f0dc1ba22ab2bf86f14ed330d347250e67927f4a0dc9fc8b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00002-of-00010.gguf",
+"Sha256": "f7eb3c4ba6cff649eac735c92886261e9b4cd2f02bee8c40b61e1e45d6cc8835",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00003-of-00010.gguf",
+"Sha256": "eabf794adf68b42b8274d15ae325c3fdf7b07eb0fe05cd5af6717453e264600a",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00004-of-00010.gguf",
+"Sha256": "6ea62ab3f48de0bb98f01fa0d8b01ab23c085fb6c80221639f676ed47df3fb03",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00005-of-00010.gguf",
+"Sha256": "de2b24372313ca0683ce346df29b6c94fb3fca93f93dbf2f9aded21d0c00ce95",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00006-of-00010.gguf",
+"Sha256": "3f0a70a7307477a071cb09eb069a09c7530ed97dfb30ad4ed74c7fe41f1b672e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00007-of-00010.gguf",
+"Sha256": "3ed443b6aeaf4d4e29d5a87d693ce94153089961641df87a587322cce5c5b0be",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00008-of-00010.gguf",
+"Sha256": "9cc111613b237f1fc6f4affd4f0764efd87590fe84cfcde6674cace58e04a1f8",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00009-of-00010.gguf",
+"Sha256": "2d9ef7c34587bd90bb319d6cc5ab653a81a397452942e667c5fc8ac626198c56",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q5_K_S/cogito-671b-v2.1-Q5_K_S-00010-of-00010.gguf",
+"Sha256": "f2cdfc3fb3b2ea4cdf54945bdc66014a35fd1475b4a484d40b8200d841f7b3cb",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00001-of-00012.gguf",
+"Sha256": "175c021d25691045c8a703737a5b403382fee0fc6e7d3628e4f19797bfc903c6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00002-of-00012.gguf",
+"Sha256": "5a8a471b1e1e6e73a9bb2084a426bb857bdfc4e5b71642d757bdca7087ccba74",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00003-of-00012.gguf",
+"Sha256": "b61d688c8aa684a31bb1a482e1582b4af3778b49f818a597b98f9242bcf581d1",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00004-of-00012.gguf",
+"Sha256": "391ae35d5ec37c3d2a14753b7f33f47cf36fd55192222ab1d4e12c13ac971e59",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00005-of-00012.gguf",
+"Sha256": "70f5da70f3cd3d8a92bcb1cc52f6ec7fe8ed27be5877479028ffbf63747b3772",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00006-of-00012.gguf",
+"Sha256": "106c85196925552978572aadb283a0ba85f85e4e4560daf2b5c35006bea68213",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00007-of-00012.gguf",
+"Sha256": "e715a276b025f78130fcdfebd3e9de9a3f9a6a60e982240e83e94c461f715353",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00008-of-00012.gguf",
+"Sha256": "0bc69421192d06465567f11d1ff5c15a71104ac5d70dc84116c7260ce35e88ef",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00009-of-00012.gguf",
+"Sha256": "1dea57c51895f58786d59faf0eb0e84d756cd0150aee7a0fb886582a9b6cfedc",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00010-of-00012.gguf",
+"Sha256": "de3ffb5588e70fda3c3c99d417392042f5b3f526a9ed106ea9d23f2ab0fb0b6f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00011-of-00012.gguf",
+"Sha256": "1a4b8bff6a4f8b5b0da65a40756c6184b420401aef0fc447903bcf1ab2071ee5",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q6_K/cogito-671b-v2.1-Q6_K-00012-of-00012.gguf",
+"Sha256": "d21c1912f577933eceb9de3031c3947242688af2db4f192d4fc733191b4436bb",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00001-of-00015.gguf",
+"Sha256": "0bd86f98b456346581231d763d35f85c446387603f037e0b44e5b3a4f6fad054",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00002-of-00015.gguf",
+"Sha256": "55e314a760fefd8cc0f4d3dcaf7829bf1a6ca08e379df40204b274a01ad9f0c4",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00003-of-00015.gguf",
+"Sha256": "3913dae6e7f249d57f14e9956e516608e791ceeca7c33a2443fc11a6877ec847",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00004-of-00015.gguf",
+"Sha256": "6d0f04776daa2312b089fa5b3c0fc16e08fd98002824964e72df0686730280a8",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00005-of-00015.gguf",
+"Sha256": "510d2dd9215c054f98965989030ae10dfe934e00f75882aab87d52eaa3cab4d5",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00006-of-00015.gguf",
+"Sha256": "f6d1e1a8bf44486b0d5eef000ae36fc5ba21ee8807a77872b24f54e754710e02",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00007-of-00015.gguf",
+"Sha256": "1ba7b17fd550e4f8a922428d570fba143ce8dedccb8ed0bab4d0ec4b034354a9",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00008-of-00015.gguf",
+"Sha256": "070ed0a47426ed3511249f804eabbd8508859534e5dd41db21e3b9af40ee5c03",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00009-of-00015.gguf",
+"Sha256": "60976c88b2b26705406252bb03a17a402c1d218d2979f1c90c58288b3bf95a29",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00010-of-00015.gguf",
+"Sha256": "c378c5b699f92f74906af5047295c0d38ea62e63fa323e377735606a77dfbbff",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00011-of-00015.gguf",
+"Sha256": "d60bce2b2526a043515ed97f5fcd08300a5a2e28fc1dc32af9d32eccb2c0e398",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00012-of-00015.gguf",
+"Sha256": "432ed4cfcdd053ab9adf945b3b2e1df43917f5b0afe0861afa3f5df46cc89b53",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00013-of-00015.gguf",
+"Sha256": "6e0983f207a54ca6158d944919e946c4c44cb657828393cd02dd9d0219e30a87",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00014-of-00015.gguf",
+"Sha256": "a1332357189277084d17df4a5f0cf9f5c04c66b2a92cc0588deae6a8ef73e38d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "Q8_0/cogito-671b-v2.1-Q8_0-00015-of-00015.gguf",
+"Sha256": "b8a15839db98758f767c64f6ba15a8e1abead2d54c3fca72f28947bed80e43b2",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_M/cogito-671b-v2.1-UD-IQ1_M-00001-of-00005.gguf",
+"Sha256": "9d21af941039d625540ff6c12290bbcc93dcb4aceefbbdefce6db177bc6a950d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_M/cogito-671b-v2.1-UD-IQ1_M-00002-of-00005.gguf",
+"Sha256": "2a4ea23386a1e830bf56b5caa125dd0236217422e74241b33af4b678bbe89ef2",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_M/cogito-671b-v2.1-UD-IQ1_M-00003-of-00005.gguf",
+"Sha256": "ac117895544f1d5e5e575c5dbad3bd185ec05db59cb6f2e68cafa9141817c986",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_M/cogito-671b-v2.1-UD-IQ1_M-00004-of-00005.gguf",
+"Sha256": "5bd7251a6cccf4252a0f7514d8bf283453245c76c5ccce121dad7c05eb78929b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_M/cogito-671b-v2.1-UD-IQ1_M-00005-of-00005.gguf",
+"Sha256": "d13c0c71dcbb8a1c76dc73c5bcaf2ee5af6f7e719b30cb0caf3e307e12ebb329",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_S/cogito-671b-v2.1-UD-IQ1_S-00001-of-00004.gguf",
+"Sha256": "6e0e50f7c7d764e9ea50adf81b5a91c422175605cb4fb4aec653dfa1cd6db5ac",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_S/cogito-671b-v2.1-UD-IQ1_S-00002-of-00004.gguf",
+"Sha256": "dd8678057fcf2711415323be41f63f9e57098d6f781d1996c647d8eb88374b70",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_S/cogito-671b-v2.1-UD-IQ1_S-00003-of-00004.gguf",
+"Sha256": "142faf4d02f58344ecb62246f8877f3f2459e5ac7377081a30e6f6ff8525bb6d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ1_S/cogito-671b-v2.1-UD-IQ1_S-00004-of-00004.gguf",
+"Sha256": "7c83cbf4cd97dae277d28c1e8c8909a91c91083887fc90bbedc75039bbc46572",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_M/cogito-671b-v2.1-UD-IQ2_M-00001-of-00005.gguf",
+"Sha256": "772b6ade00d8691f13655f4c1e3ce25abcae230da970a321c626eefd4754de64",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_M/cogito-671b-v2.1-UD-IQ2_M-00002-of-00005.gguf",
+"Sha256": "b1668ad5c8aac76177bc28a5c8c9818afa93fb08e4637142f145c8c7492b1ced",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_M/cogito-671b-v2.1-UD-IQ2_M-00003-of-00005.gguf",
+"Sha256": "57006d78b48e38fb982c09a9b463e31ddc6072e1587a70cd9d2c3c0b70f40ece",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_M/cogito-671b-v2.1-UD-IQ2_M-00004-of-00005.gguf",
+"Sha256": "d0602c88d8465617d7de29e679fdc035c75a8cf1a6c4ed90008bd7fb03fbcc2f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_M/cogito-671b-v2.1-UD-IQ2_M-00005-of-00005.gguf",
+"Sha256": "9060af756824147ed83f8b963796ca46a9b9d12570b838d5c2b8e802cd2a21d2",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_XXS/cogito-671b-v2.1-UD-IQ2_XXS-00001-of-00005.gguf",
+"Sha256": "fb078c11200fc459a21ae8dd6b23b7aacee0ecd9f5230fb62c63559634c480f9",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_XXS/cogito-671b-v2.1-UD-IQ2_XXS-00002-of-00005.gguf",
+"Sha256": "747257cbdf0a143a8249185c2a2159ff88c99325cf084c59b34edcb3e7caf7d5",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_XXS/cogito-671b-v2.1-UD-IQ2_XXS-00003-of-00005.gguf",
+"Sha256": "d8b80ec81c50907ebd25dc7066c0636f2724cfb82fe6e2f6eab5076519529498",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_XXS/cogito-671b-v2.1-UD-IQ2_XXS-00004-of-00005.gguf",
+"Sha256": "8ec4d513ede6b86e664f92742b3dcdeb6f35eb023fbd8ab2f91fb1267db630f7",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ2_XXS/cogito-671b-v2.1-UD-IQ2_XXS-00005-of-00005.gguf",
+"Sha256": "b4062954676feb3cd1a0f8225b77687449cc7b5a7cf812f9fd11a0452ca99059",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ3_XXS/cogito-671b-v2.1-UD-IQ3_XXS-00001-of-00006.gguf",
+"Sha256": "2e37350e4b582d77a7c881eac5a1874cda9a7307a100f483b7a7362d07819551",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ3_XXS/cogito-671b-v2.1-UD-IQ3_XXS-00002-of-00006.gguf",
+"Sha256": "10c04c208f2b8be0e1126be97655c358b64dc4595ffb1e5309a348fb175c3e56",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ3_XXS/cogito-671b-v2.1-UD-IQ3_XXS-00003-of-00006.gguf",
+"Sha256": "e6380f1d34fba42fceb34672f6a6b692987454cf1f23b64356e91fd901df5260",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ3_XXS/cogito-671b-v2.1-UD-IQ3_XXS-00004-of-00006.gguf",
+"Sha256": "89a98b45354d78599efbb6b388c8a9ea5d9e6f7df8739b132781a7cef15fa49a",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ3_XXS/cogito-671b-v2.1-UD-IQ3_XXS-00005-of-00006.gguf",
+"Sha256": "b670199389f133b7a43f298a853d9b2cbfb10e13979faa3d142559b948ccde9e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-IQ3_XXS/cogito-671b-v2.1-UD-IQ3_XXS-00006-of-00006.gguf",
+"Sha256": "bb47718a3d7762d8c0888965fa5d8caaa69e055df8d9bd280b2ab28eded342fc",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q2_K_XL/cogito-671b-v2.1-UD-Q2_K_XL-00001-of-00006.gguf",
+"Sha256": "ad0f52aa05c2fdca572d753b0ad58a8cb3b35a2b61b2137a3ffd6907fa645dfc",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q2_K_XL/cogito-671b-v2.1-UD-Q2_K_XL-00002-of-00006.gguf",
+"Sha256": "f59c317d2d242f0f0b1416ebeed394e6472266514f8a4bcff4a4c4683968a139",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q2_K_XL/cogito-671b-v2.1-UD-Q2_K_XL-00003-of-00006.gguf",
+"Sha256": "497e37b5a706143fe2129d910a7cbcd7e7e2d4f7735971b9c1b9859ddec7998f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q2_K_XL/cogito-671b-v2.1-UD-Q2_K_XL-00004-of-00006.gguf",
+"Sha256": "6e49aaa612e90fde92c2c50362ee1a4aaa92d92a2d75a8fd155cb8bda0fefda6",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q2_K_XL/cogito-671b-v2.1-UD-Q2_K_XL-00005-of-00006.gguf",
+"Sha256": "2080fba166b5a7a46ac3bd834d8a2bc79a42cdd9d64d9971ab016c25dda29310",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q2_K_XL/cogito-671b-v2.1-UD-Q2_K_XL-00006-of-00006.gguf",
+"Sha256": "2d3a53d4d1a4f25f72da8177c0cc69b885fcf20dbe09290f771ef16b62ef0207",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q3_K_XL/cogito-671b-v2.1-UD-Q3_K_XL-00001-of-00006.gguf",
+"Sha256": "89b5cff652e473d0618073d11f75a7524c5ae286f2a094a50d34021235ca56ee",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q3_K_XL/cogito-671b-v2.1-UD-Q3_K_XL-00002-of-00006.gguf",
+"Sha256": "0c97abca205e3e482f79c6a7f5f32bc00ec731996fe762247b39dfc51cd11303",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q3_K_XL/cogito-671b-v2.1-UD-Q3_K_XL-00003-of-00006.gguf",
+"Sha256": "88558e472248977bd4d81122424ebd741f7e070a2fb0aa42c630cac0c04ed725",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q3_K_XL/cogito-671b-v2.1-UD-Q3_K_XL-00004-of-00006.gguf",
+"Sha256": "c7602dcf77ebdc0bb7a97858b1c054811357a0c8274d6905cb8fd0dbeff3051a",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q3_K_XL/cogito-671b-v2.1-UD-Q3_K_XL-00005-of-00006.gguf",
+"Sha256": "25546bd57da819537083a6196b72fab89b9d92f6796da0039276ae08517e2429",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q3_K_XL/cogito-671b-v2.1-UD-Q3_K_XL-00006-of-00006.gguf",
+"Sha256": "ed382d94451728ceea4b53003656ad4b3f2070ea3718f3683cdd56def6dff6db",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q4_K_XL/cogito-671b-v2.1-UD-Q4_K_XL-00001-of-00008.gguf",
+"Sha256": "bb1ff335ae0c3ccda7150fec4f187530f5c4c63af434131f8e79e514c8c4b515",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q4_K_XL/cogito-671b-v2.1-UD-Q4_K_XL-00002-of-00008.gguf",
+"Sha256": "195b3f292d2237df95cfbc267e12f5a5b954cda1c544b7cd1c9d092750a0f998",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q4_K_XL/cogito-671b-v2.1-UD-Q4_K_XL-00003-of-00008.gguf",
+"Sha256": "ab9cd7ee12eab96a9c6fe4b342819cb625282caae00019bfdbe7064921abd118",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q4_K_XL/cogito-671b-v2.1-UD-Q4_K_XL-00004-of-00008.gguf",
+"Sha256": "4c132f29ee82df720f9688a8057437692b97a2c62c9961fcb415f57a38bf6063",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q4_K_XL/cogito-671b-v2.1-UD-Q4_K_XL-00005-of-00008.gguf",
+"Sha256": "7e5264866535d0d30f161df836e50ed6fca2a86884da436863a811182a0a1296",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q4_K_XL/cogito-671b-v2.1-UD-Q4_K_XL-00006-of-00008.gguf",
+"Sha256": "79b51542862ce05f489d467cc57b007efd8f3c6acaa709cc73a0cced6f8cc395",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q4_K_XL/cogito-671b-v2.1-UD-Q4_K_XL-00007-of-00008.gguf",
+"Sha256": "17edf13b1d0863bf971c6a5f7737c4b2faec4aeeddf64f21e63c889098091fac",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q4_K_XL/cogito-671b-v2.1-UD-Q4_K_XL-00008-of-00008.gguf",
+"Sha256": "f1a8d4c9948b6d7f3b2f2600e5c138919b3d82dfb995f431ce6f7b3f40b1e2d0",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00001-of-00010.gguf",
+"Sha256": "e9b2833560f59096c9fb6127f85efbf92b0d450a8650936c22e6f0286daecb80",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00002-of-00010.gguf",
+"Sha256": "36d42b8c795f32b74ea3c4a2c1e6e15f3b4fb7a65a495f7bb62b8b43978acd34",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00003-of-00010.gguf",
+"Sha256": "d55602d470a373678428112e4659dc0ddc6d2462c6711f1fa6312b71b5b503bd",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00004-of-00010.gguf",
+"Sha256": "fb7b71263e017fb78634200e6d7090b3e49040d5458c9a0ffa9dda3f27a8a885",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00005-of-00010.gguf",
+"Sha256": "bdf82d9fca4c9509e83cd0506cc88ff581261b92e9708d3a683709867c5ab997",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00006-of-00010.gguf",
+"Sha256": "8fc5e047b9444e00435f033b538c1b3b39086b7aa97541e81516749b4e76aa4b",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00007-of-00010.gguf",
+"Sha256": "b7f3c01749075599e734b26de918d21a67c5e9d855cadac56b93d2c5a7150b48",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00008-of-00010.gguf",
+"Sha256": "f09a199f721f8e7affcc70b985f15459c41a0acc0795521addf01d4db5a88a55",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00009-of-00010.gguf",
+"Sha256": "ed44ae84f04bb8bf8c54bda3f6f1453e2c3a8021b78358fa2d04ea3e79272d8f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q5_K_XL/cogito-671b-v2.1-UD-Q5_K_XL-00010-of-00010.gguf",
+"Sha256": "550a666a52ecd1049cae7a58203ed22a9c4f184bcb72a2e67b3c7b5238141461",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00001-of-00012.gguf",
+"Sha256": "141ed705145f058ad36bf2cad7f54aba8d991b07a274a613a5faedffa7041b0f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00002-of-00012.gguf",
+"Sha256": "64d5b8c3b4673223f715a0f53e9e37aaf5786ed006aae8ce214145e087e599fb",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00003-of-00012.gguf",
+"Sha256": "520781f7745363b68acd13adf91779dfc833855f86285b892973a401f3909f81",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00004-of-00012.gguf",
+"Sha256": "edc0a2aafa879f2839d721b6290feddf16cc54dd0bbef075d111c97bf7b8b47e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00005-of-00012.gguf",
+"Sha256": "db2c82b2ebdf66eab8598662ba172376eab22cbc32019a0b96b8534378275cdb",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00006-of-00012.gguf",
+"Sha256": "47fa2301ee08b541cfe28b5b0f0f314b2b756d3c7f91e68655020a02fb626f73",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00007-of-00012.gguf",
+"Sha256": "63819f93879aa1648b9bb296cfabb2b5f09aad4bf6e285267503ba74be083f12",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00008-of-00012.gguf",
+"Sha256": "0c94b07d81016e1471e39227dcf982398f0d9c430b593f837b3083ea675fa256",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00009-of-00012.gguf",
+"Sha256": "60e8fc609d91364adcfe699959d50660bb401cb1addadf66b37773c1d354fca1",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00010-of-00012.gguf",
+"Sha256": "0701f7e18fde5ad8839dd6b530c3e43591ca417a164c874148811679a1adfc68",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00011-of-00012.gguf",
+"Sha256": "a2d41819ca7d6cd4bad8c40821105ab3d565c66654b459ee44d0f19df04b8017",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q6_K_XL/cogito-671b-v2.1-UD-Q6_K_XL-00012-of-00012.gguf",
+"Sha256": "3d80ed052f055a3a7db10bfc70707ca3c9878de8cfb9383a2f8fd014665d310d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00001-of-00016.gguf",
+"Sha256": "7e11e2a3e00d3da3f4e333ced3150452a176539467c2695d14f1c3f83b27b218",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00002-of-00016.gguf",
+"Sha256": "f32f1ec633914c1675042e826d1b1479458cae495344074e8a07a87e67377e99",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00003-of-00016.gguf",
+"Sha256": "e5bbd921b8d20f6b257b7f0c5027a21193534236df1d093ff646eb81d948e642",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00004-of-00016.gguf",
+"Sha256": "77416b0e4c46f56f6a593debce7aa8f46d6385be727618a2aec4a2f976acb2d3",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00005-of-00016.gguf",
+"Sha256": "4c7f46a8f1f7aa472191bf0fd2dd0d9a4bd040f2767852f6d5fb2ea305734d6d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00006-of-00016.gguf",
+"Sha256": "ac8c26ed8ba48bff7b74a5ec29cd2fc1328fa257aa84ceba5d79a47124b18a8e",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00007-of-00016.gguf",
+"Sha256": "56f32b5b57af3f93f50d00436bbc048388fa480b8b1a463e3504eab7e5593896",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00008-of-00016.gguf",
+"Sha256": "889db17b4d2f9f5fdc825a8ad6162da2ad8907b2311b19c9536eb66943cf6fd9",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00009-of-00016.gguf",
+"Sha256": "57090d2c4adfc6da994c90e3ef997e606901f29e4a6a213a3d546a0a6a1dd423",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00010-of-00016.gguf",
+"Sha256": "40d982d5c557d6fa17d1b198f530319a22a4291787f8246e06d3fabb16cdc881",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00011-of-00016.gguf",
+"Sha256": "eef1da068fcce5ac1ba2a4918ba72ccc890431a4df2d40c8887af24416374faf",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00012-of-00016.gguf",
+"Sha256": "b08e43ef01105eaec102dbefdec69b2216563d790c4b7d6e660bbaa1c0860b6f",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00013-of-00016.gguf",
+"Sha256": "2b85d6188503ee039bd5db849e82cd05ec9824ef8e40c43babb3a2fcbafdabda",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00014-of-00016.gguf",
+"Sha256": "624edc0aefe092d1012df525d4450ff350d9596df951ca10e0ab40c269cad058",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00015-of-00016.gguf",
+"Sha256": "ae1f6d577e9d719b031821d3a8cd666118250f6e70bb6216cf6ce97b30c94a7d",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "UD-Q8_K_XL/cogito-671b-v2.1-UD-Q8_K_XL-00016-of-00016.gguf",
+"Sha256": "dfc2a81eb4cea0e86469f228539fa419d71464d02dceb6c55880995eaa69b66c",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "cogito-671b-v2.1-UD-TQ1_0.gguf",
+"Sha256": "0aee00fde9f49b579043d027a85c6cbac0dc4ae2bc30df086fe40b0d66900dcb",
+"IsLFS": true,
+"CommittedDate": 1763934298
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "e917460da3ad78ed7ecdb055c49503623c4740b761a83c0bb56ea20da1b176d1",
+"IsLFS": true,
+"CommittedDate": 1763934298
+}
+]

@@ -1,0 +1,200 @@
+[
+{
+"Path": "BF16/cogito-v2-preview-llama-70B-BF16-00001-of-00003.gguf",
+"Sha256": "bbac3d39daacb9028ff104dd49f361574dc1ad7018abe24bd834284094cd8320",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "BF16/cogito-v2-preview-llama-70B-BF16-00002-of-00003.gguf",
+"Sha256": "348e76f2224ec63a82e489814b6c594f27eb7bc2038c301ff55e73cfed41eb52",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "BF16/cogito-v2-preview-llama-70B-BF16-00003-of-00003.gguf",
+"Sha256": "d697736ee721787310022285aba7d49a49e9d753f16f64b49bd0470e9ab5153b",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "Q6_K/cogito-v2-preview-llama-70B-Q6_K-00001-of-00002.gguf",
+"Sha256": "a990e127dcb5b4cd4a098731d4018ca24d75fb8073e6195aedf350d1bfa7f82b",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "Q6_K/cogito-v2-preview-llama-70B-Q6_K-00002-of-00002.gguf",
+"Sha256": "552e8f3cd793cdb82dca0551625a38944d08df85276b7aa7241115b344281c5e",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "Q8_0/cogito-v2-preview-llama-70B-Q8_0-00001-of-00002.gguf",
+"Sha256": "273b1115a2c660bd6d0e9d37d6ce74a805709cbf4e0c72b593b0620e2feeb2a1",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "Q8_0/cogito-v2-preview-llama-70B-Q8_0-00002-of-00002.gguf",
+"Sha256": "11703a1219cb1552d83050e87ad17b2716a5b934a37e46ea3ceb0af24d02eb76",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "UD-Q6_K_XL/cogito-v2-preview-llama-70B-UD-Q6_K_XL-00001-of-00002.gguf",
+"Sha256": "d99611f5487e6f9dafd4c6e5b2540dcfd1e305e088514e0e045302bda8ab57d9",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "UD-Q6_K_XL/cogito-v2-preview-llama-70B-UD-Q6_K_XL-00002-of-00002.gguf",
+"Sha256": "cf8f9f2d85ce13835cd0db1bcd72a1ae44b62e111376553715a4af6353a36ccc",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "UD-Q8_K_XL/cogito-v2-preview-llama-70B-UD-Q8_K_XL-00001-of-00002.gguf",
+"Sha256": "d64805f51224b2c7de8d6bd68e2034fd9f8cbbe299ad9eb5339c492ee1ff9f20",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "UD-Q8_K_XL/cogito-v2-preview-llama-70B-UD-Q8_K_XL-00002-of-00002.gguf",
+"Sha256": "55f842111791c75bb76bf9949f296ae1895fc2da6ba8f99c1cd0c6899d2d10d0",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-IQ4_NL.gguf",
+"Sha256": "0ad1fba4bc5b2321f40cef35912eda69c4a61fb4ed18a64cc4674232e18afcc5",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-IQ4_XS.gguf",
+"Sha256": "033405aeba5624ff37b3eebe232abd756b9dec2b7e83225e06780d06d396be20",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q2_K.gguf",
+"Sha256": "d08e38a2ad42171f26d659c8bbce5ae59b9e91cf68f5aa4c7183714a04007f6f",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q2_K_L.gguf",
+"Sha256": "8713664978251602bb3565d825d00b48cca2268a06429b293e19fe5b4bf5e568",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q3_K_M.gguf",
+"Sha256": "a728f66b1976bdadb7a48002a11113cb69d0e375dedab0744d2d08913de65608",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q3_K_S.gguf",
+"Sha256": "539be7610aa2195ec89d3bd8373fbb1f654433894e8258febf189913c42b4bea",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q4_0.gguf",
+"Sha256": "ab84478ff969c55aa51cd1aeab46d1b2be16860a22b2e6952fcedb891066f52f",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q4_1.gguf",
+"Sha256": "37baa4bbd85173b6f6cda01d61f6b35ace5219799172c99bca22224a069aa9f8",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q4_K_M.gguf",
+"Sha256": "4b4ee519db8e61353b585ada023de04707b21eb56236abff78e101e44ccdcbf9",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q4_K_S.gguf",
+"Sha256": "b89e91047dbf948087941ff2f8bca73877e7708bc310080530332ece7e7839ae",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q5_K_M.gguf",
+"Sha256": "fe2c134302cf7fb3b4244a5e86ad74150795846f27d8cb05cabf8a4853de3f96",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-Q5_K_S.gguf",
+"Sha256": "45f1ece10de997a2eef15a325fefe4ff27b9f6858bb524fea40d6097431a43e2",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-IQ1_M.gguf",
+"Sha256": "31a65599505441d3f96eb2e97008e5c73ae7f4aae6be53b6b66eb7ab7686e3df",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-IQ1_S.gguf",
+"Sha256": "9448109da37e017b4ea3f0ef14e88e1f9659c70ff3290d6517560cf18d7e94f5",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-IQ2_M.gguf",
+"Sha256": "337f9c2e9f9350f9e67ea0608203accd0f48babf264475bb7fec5f5a19f75cf0",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-IQ2_XXS.gguf",
+"Sha256": "267568fa9aaf673828b639ffaaf77a08035c8c4e29fc74e1d44bc20499544262",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-IQ3_XXS.gguf",
+"Sha256": "40accd187a14199a3912381277a5ce5548e05515e7a5cb9255cd0302a28eda64",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-Q2_K_XL.gguf",
+"Sha256": "c09bf47d2b0682492c6d89594d4113b601fc18bc594f76c373797e09895ce3f6",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-Q3_K_XL.gguf",
+"Sha256": "7d8dfe27cb81fc5f1c93f697d93b0e214235494a0a0f15b1748a22f167c3acb9",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-Q4_K_XL.gguf",
+"Sha256": "7d2020160c84c4c59ea8ea52c30b7725a67af6f1790ae9a962b4d26ae018b991",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "cogito-v2-preview-llama-70B-UD-Q5_K_XL.gguf",
+"Sha256": "ca682a92a7ecabe6ad5a653610c34c8755ae7a7c9bf22ceb2c60ffbf2cf40d2b",
+"IsLFS": true,
+"CommittedDate": 1754003822
+},
+{
+"Path": "imatrix_unsloth.dat",
+"Sha256": "56c270b749501f1bb28b8e70a8f5a23736ef666f5e7605ae81b03538e7b03247",
+"IsLFS": true,
+"CommittedDate": 1754003820
+}
+]

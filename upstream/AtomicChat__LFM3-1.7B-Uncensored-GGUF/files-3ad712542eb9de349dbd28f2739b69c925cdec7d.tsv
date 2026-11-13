@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+LFM3-1.7B-Uncensored-AD-Q4_K_M.gguf	1132208000	b22df65673b54ed326f18f74826d76f3b65dadc237ffd6306cd52be04544827d	sha256
+LFM3-1.7B-Uncensored-AD-Q6_K.gguf	1587969920	4a7d91c094b9a0f8ed094093f3a0eb3cfeeb46b9bd491e33115689fc5d658b22	sha256

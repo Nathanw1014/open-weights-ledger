@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Qwen/Qwen2-0.5B-Instruct-MLX
+main commit at snapshot: 759509dd0249685cbdeaa4e587679fabe366b918
+snapshot taken: 2026-11-13T13:49:44Z

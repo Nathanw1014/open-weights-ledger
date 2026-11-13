@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/PaddleOCR-VL
+main commit at snapshot: bb7df55b68fe8176a7d6737f7d9cb4562b81a06d
+snapshot taken: 2026-11-13T13:39:54Z

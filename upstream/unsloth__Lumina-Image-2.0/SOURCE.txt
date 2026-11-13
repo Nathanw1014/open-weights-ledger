@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Lumina-Image-2.0
+main commit at snapshot: 1a0db5cdffbdfd03db0deeba33969b2f59626938
+snapshot taken: 2026-11-13T13:13:20Z

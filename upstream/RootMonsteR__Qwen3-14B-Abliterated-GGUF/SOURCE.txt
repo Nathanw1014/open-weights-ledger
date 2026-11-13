@@ -1,0 +1,3 @@
+repo: https://huggingface.co/RootMonsteR/Qwen3-14B-Abliterated-GGUF
+main commit at snapshot: aad7bb258333fa83991acef39e31a97677eb711b
+snapshot taken: 2026-11-13T14:03:30Z

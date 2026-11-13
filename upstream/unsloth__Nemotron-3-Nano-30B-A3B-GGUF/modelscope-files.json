@@ -1,0 +1,152 @@
+[
+{
+"Path": "BF16/Nemotron-3-Nano-30B-A3B-BF16-00001-of-00002.gguf",
+"Sha256": "4d32424f86b406f1f31ecb964a301f1a74d73c5b9b8f5d4f4fa1af843e6fd2d6",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "BF16/Nemotron-3-Nano-30B-A3B-BF16-00002-of-00002.gguf",
+"Sha256": "1ef794f35eb2c9f944e12a567452d60209ee6159512c5428e29a03057db0368b",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-IQ4_NL.gguf",
+"Sha256": "8f4b73f1d0e2d0bd810117f3a6198e7c2d1151fdbdbb821c825dbe8872cf6af4",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-IQ4_XS.gguf",
+"Sha256": "0f2cbdc4f578b5a53f521bcb1a5f5297cd54ea72ebf6c8ce80b570cc5645bac1",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q2_K_L.gguf",
+"Sha256": "919b13e6ebb4d0820cc4135b581246aa0d85cafd4a9ba863c5ccd296cb176130",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q3_K_M.gguf",
+"Sha256": "a89484ce7a7f010f2c6dac09dcffb5691b741b119c46b514db88d7ff3adb48b0",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q3_K_S.gguf",
+"Sha256": "86b62cc37c27109c915880ee4617ebb5d75ccf82872302b8d2e22c2a7725d954",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q4_0.gguf",
+"Sha256": "32385f5c469d3a362758f942726d484362214345a9788f6b402d35c5eccb9da3",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q4_1.gguf",
+"Sha256": "deee86f97c2cdd46f4fc655007cee0b07aa289a4625183f28e545a6b15219206",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q4_K_M.gguf",
+"Sha256": "0e7f6e51fdd9039928749d07eed9e846dbfd97681646544c5406bcdd788e5940",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q4_K_S.gguf",
+"Sha256": "40eb44a5d66ade97d17285aa9f9861a75f48a3bf5c3234bbba3b8f6a8190a076",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q5_K_M.gguf",
+"Sha256": "fcee914fd611cf39a55f760da40eb15db7391cd75aa04bbc9eb762721c54ce92",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q5_K_S.gguf",
+"Sha256": "9b5cb206759732dd69d3546b01242d223c91ef9dff9e2b08a9b7a8359f52605a",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q6_K.gguf",
+"Sha256": "f19626879b433941214bdfe10d7a709ce3488bb7eeee03827f864fa39e6cd166",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-Q8_0.gguf",
+"Sha256": "433a9c0d39c6c3434204797b30991c4d147c0f25328690d60862ec39e2a92188",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-IQ2_M.gguf",
+"Sha256": "06cb36ab0df3cc32c9c06e9119927081beb29c8b23625296a2df7f025b64bb2b",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-IQ2_XXS.gguf",
+"Sha256": "3500699db2b7e8875954e4fa7745fbcda27b7b5746ed892df2757cfe06777e93",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-IQ3_XXS.gguf",
+"Sha256": "f96a1304d52ced76885c072b391be360ff4c6626e333b0b927c4d856ae0ccb3c",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-Q2_K_XL.gguf",
+"Sha256": "401ac37140bf460b4d9502972dc258ce758b2c67d61af979e9a03f1ee6c3d1a3",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-Q3_K_XL.gguf",
+"Sha256": "437fc6dcc7d6183addae6e1098f37ed57be2b9a8b26fda2c854ac764d07b2fc9",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-Q4_K_XL.gguf",
+"Sha256": "627f5b04aedc97f967332f331bd75b7a4ed2f33ca83e6ee74b44235cc1887890",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-Q5_K_XL.gguf",
+"Sha256": "4ed48afc452569c23c56f00bb13df7f7892c4c1f2ff8870d7c8661316c0c42c7",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-Q6_K_XL.gguf",
+"Sha256": "f19626879b433941214bdfe10d7a709ce3488bb7eeee03827f864fa39e6cd166",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "Nemotron-3-Nano-30B-A3B-UD-Q8_K_XL.gguf",
+"Sha256": "34e7f21c8994f046f07d1f75a70c0b9e186809c95959969cdf5d3284b0033681",
+"IsLFS": true,
+"CommittedDate": 1765827256
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "964219a48c1774c26cb7bd59a73ed1d430571039fa9571a0aaa211df0b39fff4",
+"IsLFS": true,
+"CommittedDate": 1765827256
+}
+]

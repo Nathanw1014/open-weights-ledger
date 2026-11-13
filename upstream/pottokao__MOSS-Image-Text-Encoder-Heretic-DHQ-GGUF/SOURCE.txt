@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pottokao/MOSS-Image-Text-Encoder-Heretic-DHQ-GGUF
+main commit at snapshot: 341623999c894198e877a3573b53d683e0301efd
+snapshot taken: 2026-11-13T14:08:48Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/medgemma-1.5-4b-it-bnb-4bit
+main commit at snapshot: 51ec2d15dbf38077f57fdad289a2512826fe3ee8
+snapshot taken: 2026-11-13T13:25:30Z

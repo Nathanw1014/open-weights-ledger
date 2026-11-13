@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Nanonets-OCR-s-GGUF
+main commit at snapshot: e1970a8d538c03d5bfd7ca05bdb1a87864a0a4fc
+snapshot taken: 2026-11-13T13:09:54Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/gemma-4-E4B-it-UD-MLX-4bit
+main commit at snapshot: 549bd405037d98ba91de026f851569932fd73d3b
+snapshot taken: 2026-11-13T13:10:56Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Mistral-Small-3.1-24B-Instruct-2503-GGUF
+main commit at snapshot: d63ca9416f5db4f54a78145fb9a025317a57289f
+snapshot taken: 2026-11-13T13:11:37Z

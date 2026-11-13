@@ -1,0 +1,170 @@
+[
+{
+"Path": "BF16/Seed-OSS-36B-Instruct-BF16-00001-of-00002.gguf",
+"Sha256": "fe5ef6b340ef5257c37ba4f70aae560d5aedeb59ad87f902935bd32c49b93c4c",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "BF16/Seed-OSS-36B-Instruct-BF16-00002-of-00002.gguf",
+"Sha256": "b0758ec7fd27741c671fcfe6cd09ae0e23f4eab29af08d60c61fe27afd74450e",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-IQ4_NL.gguf",
+"Sha256": "2d4d71e718f821ba8b8d6df930879edba4ee7c0949f4f74716f470b699dcc773",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-IQ4_XS.gguf",
+"Sha256": "6fa506f81ec020dd1de6e9a94585539cd7c5dd6928fb1379c35449805d12d688",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q2_K.gguf",
+"Sha256": "4777271727a7484cf99de53d77622864e4ec9aff875b00ecb4af5ae2bff04912",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q2_K_L.gguf",
+"Sha256": "99ab84e90bd65dbf64f916943eaa97fc69bcda98e6b4709c5df4323666a9290e",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q3_K_M.gguf",
+"Sha256": "c49f0aab126b660dc183dcd1685cc46cb46c450cf1edf348d9a154f886d14ee1",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q3_K_S.gguf",
+"Sha256": "57a3c3999a895436081f606698cdacf53b1c75e79b5d4cb921f9759ade4abb22",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q4_0.gguf",
+"Sha256": "a06c69e2e452ba003811190cfeacc4182408919566b2348de1ac8114e1c5c34d",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q4_1.gguf",
+"Sha256": "c966227c36eb9ffcc30f2d29a8d1eeab673afab6b0ed18bde5e43d32cc96ca78",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q4_K_M.gguf",
+"Sha256": "2d9f3c32a61f2668e012708be7ec04e753e35e366f87b9e4bce89f4d073cfc16",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q4_K_S.gguf",
+"Sha256": "59a215c7d9563434ed41ff9d94f83317f326f320be18fb38d0d226c48358ff09",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q5_K_M.gguf",
+"Sha256": "fdcc10228c8f9f57d39aa1d4dec603b7faa65ffc5cc37546328ddbe0a47d95c6",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q5_K_S.gguf",
+"Sha256": "f23a8b07fd8d05347c815b911a698260c15d66a971b327f93b2368e7a3763ace",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q6_K.gguf",
+"Sha256": "b1d260ba9db3eafc63a8dc2407fe7ae6022d640d9779d37e1c8c8b9986ad2f83",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-Q8_0.gguf",
+"Sha256": "f74d410906c6490be22ab74514ef8ff3de8499704e159186d707f5d43c08c7ec",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-IQ1_M.gguf",
+"Sha256": "d3c6635068630723d76da9328bec5c8df9df088efaef0d50adbaa03354ff12c5",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-IQ1_S.gguf",
+"Sha256": "e421d756887d71032a45f3c194ab0f21362bdb864573e47d69b3ea7893131b3d",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-IQ2_M.gguf",
+"Sha256": "2254c443de484e8fa81baa91c105943e7610e13e3df0011364eb36623f5eb31f",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-IQ2_XXS.gguf",
+"Sha256": "535d026e1f78fd5d2afd5239ae22e18d82985a91da0b785db9be0374afc8479a",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-IQ3_XXS.gguf",
+"Sha256": "45dd0b039ca1681be10dac7900f8e5a75d67b774190fe7319de3067854851e19",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-Q2_K_XL.gguf",
+"Sha256": "e4ccdea65290f30fdc674e2247c87ff1f6a80b7465c5891ba7a9551018e444b2",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-Q3_K_XL.gguf",
+"Sha256": "39c36bc95d8937d7210ea9a04624635057003e2861fa586f4fa31135d039a027",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-Q4_K_XL.gguf",
+"Sha256": "673f7b56ba9ff634e569e38b70c0b8cd52d60819062a1638fa3b3cb7d42e393b",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-Q5_K_XL.gguf",
+"Sha256": "3e16a256d9574fb6350ca8b6042c5c8ec97f070455b2db7de32f4dcca500cae8",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-Q6_K_XL.gguf",
+"Sha256": "955927f890df05023310f1dabaa54763f97befaac96b77fcd78ee88b4a68673b",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "Seed-OSS-36B-Instruct-UD-Q8_K_XL.gguf",
+"Sha256": "c6bfd3283e8083625c632ef1063e82f67dd08a2d62916b5c733f77490d8fd1ae",
+"IsLFS": true,
+"CommittedDate": 1756061958
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "93b6ec900e9a5bc525626adc0094be4629a284ae0dd5bf30a7dcf93122b66209",
+"IsLFS": true,
+"CommittedDate": 1756061958
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/feyospace-s1-OBLITERATED-cybersec-i1-GGUF
+main commit at snapshot: e63baa3f9a6b8eeb1e3abdf2730aad15f3226ffb
+snapshot taken: 2026-11-13T14:05:35Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-Qwen3.8-Flash-Next-abliterated-v2-GGUF
+main commit at snapshot: cbc7fba13f1939ac3fa42b18d77ccf43847d74ef
+snapshot taken: 2026-11-13T14:00:20Z

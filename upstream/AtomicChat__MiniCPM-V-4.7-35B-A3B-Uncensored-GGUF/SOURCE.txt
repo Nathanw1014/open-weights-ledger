@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/MiniCPM-V-4.7-35B-A3B-Uncensored-GGUF
+main commit at snapshot: e9a10697334708b3bec654bbf42429917c16271b
+snapshot taken: 2026-11-13T14:09:09Z

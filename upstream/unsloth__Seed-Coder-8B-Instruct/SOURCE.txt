@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Seed-Coder-8B-Instruct
+main commit at snapshot: 14641d9af4db9e36f0c271387f1b45d021a70762
+snapshot taken: 2026-11-13T13:32:56Z

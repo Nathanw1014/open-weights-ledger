@@ -1,0 +1,164 @@
+[
+{
+"Path": "GLM-4.1V-9B-Thinking-BF16.gguf",
+"Sha256": "c3fc3a3e76b3e3c4f781bf21f851cf44b48ba60d0d0d8a1551e92b1366e34d94",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-IQ4_NL.gguf",
+"Sha256": "f371d50ac173dd62f3b63139d0ffab5783d3ec3c317d56a1af3832360e80842e",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-IQ4_XS.gguf",
+"Sha256": "a78c7bbe58eba58b1e9ea435ca82ff0e1067bc99a4cb70da2455226b1f376f36",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q2_K.gguf",
+"Sha256": "2f32d43e88860a85df2c033d528236eb9df5ac81b34b4cb66802e37e6cb1cb72",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q2_K_L.gguf",
+"Sha256": "6473678ec07ad9caa03ce8c808de2264f6f8672a8b67b2edfd2a8048c8999ada",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q3_K_M.gguf",
+"Sha256": "143f6470f24f0e22b5ee50bdbbe99e2475f99c8c494c56c2ac5a1d3e6fe62db4",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q3_K_S.gguf",
+"Sha256": "a4967810ef41805c72fc089121e8368c3f1a1a5e21158b37488ea6bda69e29b7",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q4_0.gguf",
+"Sha256": "44fef67da729d5a51fd4aa018dd0aaa96ad2f79ca739c633e6de1b0ab96b287d",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q4_1.gguf",
+"Sha256": "3105868214bbe758f6905e54c3a14e67a9f3374f75a3dcc4ff22d05cd850c447",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q4_K_M.gguf",
+"Sha256": "b18f579c16b63600ec4d0b6eb558cd8d56c4b629fa6d58b64df48b9f0ea68c13",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q4_K_S.gguf",
+"Sha256": "ec31174ef8743a5b5309070c669b49b91ca2abaa549d9738258cf42aa5c0697d",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q5_K_M.gguf",
+"Sha256": "4dd0fbeb08e58c9d623557a1eda16664637113e72a5a78f7b3e7c0b90b580b81",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q5_K_S.gguf",
+"Sha256": "c27e77e393da963ccafd1487cc27c8447de616fbcc3b6a07216ce226bc50e3a9",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q6_K.gguf",
+"Sha256": "57a13716f3773b11b7a346417d5788b4700c56f7e9fbe86e248786de06e0f91d",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-Q8_0.gguf",
+"Sha256": "6134c136d9c5798ef0b5712692e58b1a1f08b998c89e99dd1247e63b8c511900",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-IQ1_M.gguf",
+"Sha256": "67f2d0b99d4f2c37422ef1bb8371e04173a82b784eb4a572fd9a8d51769d7fb4",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-IQ1_S.gguf",
+"Sha256": "a05ba81a9317915fef210a1938649a4bf4299186075b6fa9aabde8b4a0575fb9",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-IQ2_M.gguf",
+"Sha256": "4603d5a5b356183519f0c5e98f4750d47e4339671a78589b34e9810039c0ffcb",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-IQ2_XXS.gguf",
+"Sha256": "b7331cba69faaebd90488125bc79d7ebcf8c3207d5f7b40868c5e3857b1642c2",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-IQ3_XXS.gguf",
+"Sha256": "fe5671c1837096d0c83d9c45d9879bc7db662a3aac281d7a7e67e5b9e5c65381",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-Q2_K_XL.gguf",
+"Sha256": "c91fea1963356736529ecb92c53bedcbc7b27ba4a74d00d059a9032dbe64ab2a",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-Q3_K_XL.gguf",
+"Sha256": "1f1fbf162f1ea9e75aa4abd766b7211cd6b8d07749da737b0f14241cfadce5fc",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-Q4_K_XL.gguf",
+"Sha256": "b9d5a88822d0c24b4a0b64bb7fc5fd06d44fab1db00397f0147b49ac954dc217",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-Q5_K_XL.gguf",
+"Sha256": "ea5d805210a85892068238cfd0ae6f215b3071482f482d90b73096c58f4f995b",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-Q6_K_XL.gguf",
+"Sha256": "4c0f3096b01cad29f7ddf3ccd9476d49d12b7787f943c7109b51fc179738e14f",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "GLM-4.1V-9B-Thinking-UD-Q8_K_XL.gguf",
+"Sha256": "346aa814e4466eeb9deb514388dd6b9d098754a6b3660e5e69658101ebbfb5c6",
+"IsLFS": true,
+"CommittedDate": 1753470322
+},
+{
+"Path": "imatrix_unsloth.dat",
+"Sha256": "34a4ef7e4cc4dd54f0d07d79c683b5875d912ba91d976c09e9d52077fe3f7800",
+"IsLFS": true,
+"CommittedDate": 1753470321
+}
+]

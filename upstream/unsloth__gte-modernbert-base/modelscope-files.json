@@ -1,0 +1,68 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "3e85899d5728cb7de79781c0c3acfb91ccef9f875f1f7e0b3c9f3dd4b6a724ba",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "onnx/model.onnx",
+"Sha256": "947f31df7effaeec4edb57c50e4ed7e0f2034d9336063f92615b92e3e0d24d78",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "onnx/model_bnb4.onnx",
+"Sha256": "c78d4d5844bce41d2c7297c9f58205962fb9f1dd361b7ca84fdc8f7ef85f478d",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "onnx/model_fp16.onnx",
+"Sha256": "4e4d6c757d5f8c2c6147cf07b8900e9250cbbc1db3dcf961516dfa5b2b562ae5",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "onnx/model_int8.onnx",
+"Sha256": "bae96b276d342bf86eeee07c1bdbc0c75bb82bf4033941aab7fabc1e33ee3b44",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "onnx/model_q4.onnx",
+"Sha256": "5d1278a1ba749c06b82f9a2f65c2c1c5765d36f2eb88b4888de62ff12b0724a2",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "onnx/model_q4f16.onnx",
+"Sha256": "d91bf57590f030b9a3441a1024419026d5b74abc1dc15691efe88e301a8063d7",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "onnx/model_quantized.onnx",
+"Sha256": "bae96b276d342bf86eeee07c1bdbc0c75bb82bf4033941aab7fabc1e33ee3b44",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "onnx/model_uint8.onnx",
+"Sha256": "1c35c226d1ab27591d4cec0feb94d9f181ed7e4a11c76834b035802bd8eb0bfa",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "pytorch_model.bin",
+"Sha256": "dc59a5ad66327b309471bd8c42b59a937ebc66cb37679c3e39a6cdef58388d45",
+"IsLFS": true,
+"CommittedDate": 1769105769
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "6c8aaa9a542084f2457eab775d4eeb51f92a70c0fd9de28d5edb0ddec3c08d30",
+"IsLFS": true,
+"CommittedDate": 1769105769
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/feyospace-s1-OBLITERATED-i1-GGUF
+main commit at snapshot: 50faa9f1c38dd652e745edf84d09e1925020b02a
+snapshot taken: 2026-11-13T14:04:58Z

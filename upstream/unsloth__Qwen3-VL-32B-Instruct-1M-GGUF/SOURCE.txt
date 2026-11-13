@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Qwen3-VL-32B-Instruct-1M-GGUF
+main commit at snapshot: 2f404a9e60e88f82009f2843679665760a4d5e5a
+snapshot taken: 2026-11-13T13:16:23Z

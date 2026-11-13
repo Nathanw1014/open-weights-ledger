@@ -1,0 +1,2 @@
+checked 2026-11-13T09:34:49Z
+unsloth/Qwen3.8-27B-GGUF                                                                               480 GB   9 seeds  magnet:?xt=urn:btih:064225dc27e525357d81e59cc8a90e5971b582c8&tr=udp%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.pirateface.co%3A6969%2Fannounce&ws=https%3A%2F%2Fpirateface.co%2Fapi%2Fws%2Funsloth%2FQwen3.8-27B-GGUF%2F4ca720788d1e01f1bff70c033e0d0028fd02e502%2F

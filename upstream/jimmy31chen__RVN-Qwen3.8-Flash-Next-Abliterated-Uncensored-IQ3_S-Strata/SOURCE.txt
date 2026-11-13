@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jimmy31chen/RVN-Qwen3.8-Flash-Next-Abliterated-Uncensored-IQ3_S-Strata
+main commit at snapshot: 17876139539724fc6f0b0fbfdcf7b1daa494d045
+snapshot taken: 2026-11-13T14:00:30Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED
+main commit at snapshot: d8678bbb9e0d4f5729c115087485a4e25ba89d65
+snapshot taken: 2026-11-13T14:04:48Z

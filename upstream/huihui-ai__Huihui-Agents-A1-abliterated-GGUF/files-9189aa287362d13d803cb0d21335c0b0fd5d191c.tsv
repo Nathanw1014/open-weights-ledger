@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Agents-A1-abliterated-Q4_K.gguf	21166757536	5501d03bd44a5702baf446a63002cea17de3595a8c38d48f0a9353fb7ae9ce5d	sha256
+Agents-A1-abliterated-Q8_0.gguf	36903138976	545ca466baf27fd7d2d360d7f36a8b5a6378db4d23c851a902e3ef6ff5d491d7	sha256
+Agents-A1-abliterated-bf16.gguf	69376636896	46486182b396c2f4d94729597e1583cefedfce3faae818bd29f02ca207310071	sha256
+mmproj-model-bf16.gguf	902821824	cb9d31393d9b4c1cf0a96f3aad158518c0098e0748d43df9ddecf25b7859af67	sha256

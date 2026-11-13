@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/OpenHermes-2.5-Mistral-7B
+main commit at snapshot: 8ec3fc1a46933db0641d40594ddac3dc8921834a
+snapshot taken: 2026-11-13T13:27:36Z

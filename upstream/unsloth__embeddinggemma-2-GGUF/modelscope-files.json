@@ -1,0 +1,56 @@
+[
+{
+"Path": "embeddinggemma-2-BF16.gguf",
+"Sha256": "f315cbbb30dd487e44d501c8902abe88808755e43753a96beed1964f0a48aa4f",
+"IsLFS": true,
+"CommittedDate": 1791312436
+},
+{
+"Path": "embeddinggemma-2-F16.gguf",
+"Sha256": "0d4350867eddbb94af485501a3d07e9374c47779d88f8a39cd1abd6a8e2d0901",
+"IsLFS": true,
+"CommittedDate": 1791312437
+},
+{
+"Path": "embeddinggemma-2-Q8_0.gguf",
+"Sha256": "6f1bd4ac6c5df7444f9cca7ca36cafe6cfa34cd6f49fefb1e0b4be8143aed8bc",
+"IsLFS": true,
+"CommittedDate": 1791312439
+},
+{
+"Path": "embeddinggemma-2-UD-Q4_K_XL.gguf",
+"Sha256": "ea905fd08e8061db77a0031cbb5096d459d7cfd2bdd0ad2ba66e483f16719493",
+"IsLFS": true,
+"CommittedDate": 1791312441
+},
+{
+"Path": "embeddinggemma-2-UD-Q5_K_XL.gguf",
+"Sha256": "a9d7a3b7eb421113f05e964e10882676f10fff83811b7876d5bb983db7c7ac41",
+"IsLFS": true,
+"CommittedDate": 1791312442
+},
+{
+"Path": "embeddinggemma-2-UD-Q6_K_XL.gguf",
+"Sha256": "dc84f042bc3ffbe6122b3b38b2fb299d66f5f37b276c9d458db85d4a4f1e6ba3",
+"IsLFS": true,
+"CommittedDate": 1791312444
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "995aaa56e88b9b631f651861d659b728a625ccc02a238be37cff56cf11dc0032",
+"IsLFS": true,
+"CommittedDate": 1791312446
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "74bf65c860d292a1eebafd7ca85b44532a2528f03017f9204fe1695916d2c66f",
+"IsLFS": true,
+"CommittedDate": 1791312447
+},
+{
+"Path": "mmproj-Q8_0.gguf",
+"Sha256": "90e7b0238009e2954f856f2081dcf7f35af026b64c765e98f4777053e1754460",
+"IsLFS": true,
+"CommittedDate": 1791312449
+}
+]

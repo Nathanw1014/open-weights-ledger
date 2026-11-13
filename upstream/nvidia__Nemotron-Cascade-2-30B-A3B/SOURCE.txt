@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B
+main commit at snapshot: 6327cdbcf907e1c7cec9cb29fb6e6cebdf8feaf7
+snapshot taken: 2026-11-13T13:56:31Z

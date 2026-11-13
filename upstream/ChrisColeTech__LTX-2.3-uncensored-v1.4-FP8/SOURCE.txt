@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ChrisColeTech/LTX-2.3-uncensored-v1.4-FP8
+main commit at snapshot: 481bed5fe0ffa9def880c69afbf207a0099cb676
+snapshot taken: 2026-11-13T14:09:44Z

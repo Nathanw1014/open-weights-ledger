@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/AceMath-RL-Nemotron-7B
+main commit at snapshot: 2099899a83b3b984ea20e410d76909b3f123e431
+snapshot taken: 2026-11-13T13:59:09Z

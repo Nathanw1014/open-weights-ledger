@@ -1,0 +1,11 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.5-9B-Ultra-Uncensored-Heretic-BF16.gguf	17920696864	1e04b40c87fa4e51cb24157f948bf6b67e2d9ae93717f93450711c6ca2b02092	sha256
+Qwen3.5-9B-Ultra-Uncensored-Heretic-Q3_K_L.gguf	4717896224	13092b6439155d1e38ec22befbd0256012530cce3d0faa52dccaa4f6e98fcfc3	sha256
+Qwen3.5-9B-Ultra-Uncensored-Heretic-Q3_K_M.gguf	4509229600	164802b0cc341b026fab4afdbd0e320274968f1f4ceb001153d8cba36915b7b9	sha256
+Qwen3.5-9B-Ultra-Uncensored-Heretic-Q4_K_M.gguf	5527953952	8d463c63e2c8759ad263cba59f1fa7a0be9a7cacb59b0fd0a787b7daa31597ad	sha256
+Qwen3.5-9B-Ultra-Uncensored-Heretic-Q4_K_S.gguf	5342716448	4ee5ed4c5c80145980203824703c11444994182f4243334f8ba485f8733e57f3	sha256
+Qwen3.5-9B-Ultra-Uncensored-Heretic-Q5_K_M.gguf	6416720416	5b8a5a3506c58216a50d0cae5a675d8d5d521311cfeacddde82769eb59ac3846	sha256
+Qwen3.5-9B-Ultra-Uncensored-Heretic-Q5_K_S.gguf	6305309216	8055b102cf94e963504860923a5058122d6542af2f4085d0f440f89fde33e121	sha256
+Qwen3.5-9B-Ultra-Uncensored-Heretic-Q6_K.gguf	7359259168	19a6f0434fe184c879c7b4648c534cf6230480723705d9c8e64276d7dede7dfc	sha256
+Qwen3.5-9B-Ultra-Uncensored-Heretic-Q8_0.gguf	9527501344	5f4214f2e59e4f23001e2ddb74f1ffff97960427d151a4e72e1e6f7211ea736b	sha256
+Qwen3.5-9B-mmproj-BF16.gguf	921704896	d89c4bc142d02ed64aeed5c0a358bdead9109f21f4ada03a6b2df17a1aa94d9e	sha256

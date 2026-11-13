@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Phi-4-mini-reasoning
+main commit at snapshot: d4c0397bd1c84666d2758e22d72a43afb86d58a3
+snapshot taken: 2026-11-13T13:26:17Z

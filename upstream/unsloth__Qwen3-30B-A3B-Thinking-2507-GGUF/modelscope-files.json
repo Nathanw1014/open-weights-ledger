@@ -1,0 +1,176 @@
+[
+{
+"Path": "BF16/Qwen3-30B-A3B-Thinking-2507-BF16-00001-of-00002.gguf",
+"Sha256": "c7025e9b2ee9823e3e1df0761f3b47c563aae786257c32e29eb4b4f418ae975a",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "BF16/Qwen3-30B-A3B-Thinking-2507-BF16-00002-of-00002.gguf",
+"Sha256": "f1bf305ca1476e43bc7a5995b4527401c81c7b8da6fc55ea75675c7f6446f25b",
+"IsLFS": true,
+"CommittedDate": 1753902245
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-IQ4_NL.gguf",
+"Sha256": "22d69ec116f9f676527e863003e7d419399c789dbf5a409a92d62a1ee0e2ec7b",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-IQ4_XS.gguf",
+"Sha256": "c722e9557f0c78960fd6a1e28e30b3a14a57126d801c06065914a1c63fe407e5",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q2_K.gguf",
+"Sha256": "1a0eb6ae4d09ae4debb78471739d6755977d3b7f9041767581e4092ed9eeed6f",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q2_K_L.gguf",
+"Sha256": "5e4fc03288673ec450d86ccd51de43907a5a78678862136de4c489c7d63c67ac",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q3_K_M.gguf",
+"Sha256": "e1f6de07ca20c1491f6a4128cf8bd9aa3ea198e28b47e739b90fdced86ad4ff1",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q3_K_S.gguf",
+"Sha256": "3f82e11bb6a5ee899546ba1d89d7097421573013cbb5b495ec2e567e1001aabf",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q4_0.gguf",
+"Sha256": "8d1b28264d02c2538eb3c0b3021093af8d008c9c4d92bf6297f6d02c04d3359b",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q4_1.gguf",
+"Sha256": "95215ae8d1114cea0728b4ed668e7de7eca30a69c90c3a2ba1d6b11b4acd5711",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q4_K_M.gguf",
+"Sha256": "b7380c816fca5a03b746be3d42773fb9a1c4b3bb4b3a1f3d9c2aeb10a720cba6",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q4_K_S.gguf",
+"Sha256": "50b9f7bade44ac23e56bbede314d7c83c3a192d313525dcdff6a538f59f01c3b",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q5_K_M.gguf",
+"Sha256": "f8613e46b7a038797f7ed671876fe9ae2b891f6fa5f54437b4356e8270fac22c",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q5_K_S.gguf",
+"Sha256": "b31d299c07233950ca9336b9a24b81788040de601db6ba924aadf6f4222d453d",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q6_K.gguf",
+"Sha256": "081d05bb6b1f1eab06e3fe9d0b8b17931243df9ebd93de964144d4e86ef1b4c9",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-Q8_0.gguf",
+"Sha256": "6326967c7bad05e9820421a593d48e315416b214cef56f1ca3c1f9d9a6e0f1c6",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-IQ1_M.gguf",
+"Sha256": "3a979f83f43a8a0974937623d30303a3b4a39b0b2f4d4e668ad1977b7404fa38",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-IQ1_S.gguf",
+"Sha256": "dcc3729107911d55ec7607441e4cae1d6c3f1291a9d3d128067864e01b09d905",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-IQ2_M.gguf",
+"Sha256": "2a2d9ab35d6c68ca732933f35d0919c90fcb6fb103ceae0f477bb9b38f28d452",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-IQ2_XXS.gguf",
+"Sha256": "d2b5697a21154b5d36ac3e25e0c5d272d4f5230191ecb98b234ecfc6a9df3406",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-IQ3_XXS.gguf",
+"Sha256": "f7c5f3cd5349bdaa5a29ece6bfb71be66cca8e509f5c8c7b12db207b6ff971d5",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-Q2_K_XL.gguf",
+"Sha256": "2159f3d312b52849fa14670bce6db7b5b68cf706a77e23fb345b7954978669bc",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-Q3_K_XL.gguf",
+"Sha256": "490cf1f7bbb9d8c7e3f9b257d7f4ff77165da15532d08c1850fb2170240fbcb9",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-Q4_K_XL.gguf",
+"Sha256": "51a6e1bdf41bd26af07a4cfb45d2ed7eea3fe866c2019bb08d9ebdfc4826199b",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-Q5_K_XL.gguf",
+"Sha256": "519982a89bf2676c2ccc04f62eb94aa3220cb4a4414937bb7d7a25a50fc50ee9",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-Q6_K_XL.gguf",
+"Sha256": "82c699d34b2ef9e471b807f3f333b2d8d89fb5341847caacedd4f19a8193f716",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-Q8_K_XL.gguf",
+"Sha256": "49100c04062f6c61ab36ef33252f05f3734339808dbbb86808b344c0ee106f8e",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "Qwen3-30B-A3B-Thinking-2507-UD-TQ1_0.gguf",
+"Sha256": "5ace489e04159c69775befec1c6577e3c6247a1e77874398c0d06b8e049c2393",
+"IsLFS": true,
+"CommittedDate": 1754003499
+},
+{
+"Path": "imatrix_unsloth.dat",
+"Sha256": "82cc3dc86f7617e6884c762dd0b5e7de5c40d2efc15e4d0c85afeddef8931ca5",
+"IsLFS": true,
+"CommittedDate": 1753902244
+}
+]

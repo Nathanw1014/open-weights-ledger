@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Ministral-3-14B-Reasoning-2512-GGUF
+main commit at snapshot: 2d687ca0523d4d87469835433b53642dfae83152
+snapshot taken: 2026-11-13T13:09:49Z

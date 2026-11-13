@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-unsloth-bnb-4bit
+main commit at snapshot: 8eb7999dc1d92775e7b5f75754a29c3fbdb32723
+snapshot taken: 2026-11-13T13:07:06Z

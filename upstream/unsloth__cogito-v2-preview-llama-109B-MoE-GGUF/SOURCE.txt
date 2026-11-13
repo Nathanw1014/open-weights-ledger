@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/cogito-v2-preview-llama-109B-MoE-GGUF
+main commit at snapshot: 08e6eda7f1b8fdb5f4f9ca565893e85b6a7f9325
+snapshot taken: 2026-11-13T13:19:31Z

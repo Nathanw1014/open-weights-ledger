@@ -1,0 +1,158 @@
+[
+{
+"Path": "Jan-nano-128k-BF16.gguf",
+"Sha256": "b1d38e8eed3d56f1b767792506c8d6629be3abfbdcd840b3be0e61b1faf4d60e",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-IQ4_NL.gguf",
+"Sha256": "aa0bcdedceade0ffc932564aae98890426fc2eab35236b79c89211f476e18ddd",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-IQ4_XS.gguf",
+"Sha256": "1d3abf5286b664d364998314b20c952da0c4c752dd86912ee338eebe2cd75dc5",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q2_K.gguf",
+"Sha256": "000209888b8b68ea09c17e65560a035dcec03358260455b5b4b179c8fd79ec5c",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q2_K_L.gguf",
+"Sha256": "000209888b8b68ea09c17e65560a035dcec03358260455b5b4b179c8fd79ec5c",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q3_K_M.gguf",
+"Sha256": "3900eaa640c2019b669cac9f072e71ab4b00c8fddb6db38ccb26eaf0f82153dd",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q3_K_S.gguf",
+"Sha256": "686ea1cc7a9b50fc2d7b44c4108703171e6749b5ac33dcad342f54580ceefd88",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q4_0.gguf",
+"Sha256": "986e71e0cb738132ca2812055e7b2e4dee4670ebe4a52d24454f818caf84d765",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q4_1.gguf",
+"Sha256": "3c0b92f04787f02f05f260961d974528e35fa0bffc3cb0e63cadb698e4e3eb9c",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q4_K_M.gguf",
+"Sha256": "78ed675e0062e6eef86ddb3e91f021dca3691c924151bc2bc5e01e8e6484c125",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q4_K_S.gguf",
+"Sha256": "4f98d1d91a9058e4b5da8086d8786e4ea331638c598403e43176c553c2b039e7",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q5_K_M.gguf",
+"Sha256": "367fbbdc2a9fa1ee9672326d37502fc790dadd07a383ee1c3d798bf35a69892d",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q5_K_S.gguf",
+"Sha256": "63db2f7384b50557f482ffe6ffeb4e54728b9a4b16ec9b7247729719efc2fe35",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q6_K.gguf",
+"Sha256": "c2c84eec59c139d025db9055ed22e02d678828c86d00b0e1dbb93687d2fd6b3a",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-Q8_0.gguf",
+"Sha256": "a2f209d3655de54d9499c273acb3c926884f8198c905e0ec0e0bf0596f691e1c",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-IQ1_M.gguf",
+"Sha256": "40c6c48ea5279c4c3417aeb90e719faab212100b2f6f03aa73755edc6e0710ac",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-IQ1_S.gguf",
+"Sha256": "ea33b31fb05818aea9202958bf327db1addb141a50f28eb56870cbe13172612e",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-IQ2_M.gguf",
+"Sha256": "4128aa48b7e9935356bd8aca8ee69c375d75085f16c2cdbf0c3b30e0a615251d",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-IQ2_XXS.gguf",
+"Sha256": "f833e6d355ab1135f6499a38cda00051b473cfb285a214f8ca2268baa6fd2084",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-IQ3_XXS.gguf",
+"Sha256": "38d35ad68bf83af51b8a7eb236aa189c18bac739a2374cfdfc32e2e0590ed8d8",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-Q2_K_XL.gguf",
+"Sha256": "a4864d16ffeed61a9db7a4e80cb587291bd9c18e9877e8508ba5fa362793b144",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-Q3_K_XL.gguf",
+"Sha256": "bb71cec74a4684dd4e6cc56ce068fa4444a7c81390a8d08f4fb2851398dab996",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-Q4_K_XL.gguf",
+"Sha256": "b449711efeafa9a66cee608f7e9d66f4a3d8efc9a8234c149b8d6bee04f3fa4b",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-Q5_K_XL.gguf",
+"Sha256": "d5bbe1dae74a7acf8a3688033f02153c4f07b4c9f272d75dc0297c9af065574e",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-Q6_K_XL.gguf",
+"Sha256": "a1de0f243271f2d36aae87a2df3c0caa1bdd8011d8dbdbff9400a58465875f48",
+"IsLFS": true,
+"CommittedDate": 1750875905
+},
+{
+"Path": "Jan-nano-128k-UD-Q8_K_XL.gguf",
+"Sha256": "c2ad6dee5664253ee14c2b5268835593280dcfde8c8ca7efffd847b8a05229fb",
+"IsLFS": true,
+"CommittedDate": 1750875905
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX
+main commit at snapshot: a92a9d3492320048ca96924262d158f75ab5ce8b
+snapshot taken: 2026-11-13T14:10:08Z

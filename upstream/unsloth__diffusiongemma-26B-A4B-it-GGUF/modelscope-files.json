@@ -1,0 +1,32 @@
+[
+{
+"Path": "diffusiongemma-26B-A4B-it-BF16.gguf",
+"Sha256": "f2820bac05ab7e66836390afa575b2c8883cdb80804a52e3ed59b3e608713205",
+"IsLFS": true,
+"CommittedDate": 1783196721
+},
+{
+"Path": "diffusiongemma-26B-A4B-it-Q4_K_M.gguf",
+"Sha256": "24523b6c833c9ce9f5f34f9b333ab1517d73d6f1e76a103645353114c8028bc5",
+"IsLFS": true,
+"CommittedDate": 1783196721
+},
+{
+"Path": "diffusiongemma-26B-A4B-it-Q5_K_M.gguf",
+"Sha256": "87295262f43ca5390ea32f15d9240988384e2366b77551436d55796ac2ad2530",
+"IsLFS": true,
+"CommittedDate": 1783196721
+},
+{
+"Path": "diffusiongemma-26B-A4B-it-Q6_K.gguf",
+"Sha256": "fdfb8cf4f4d77d0e6910d861c5f5abf60aad4bd30ff340e4ab2a535a28ed64d7",
+"IsLFS": true,
+"CommittedDate": 1783196721
+},
+{
+"Path": "diffusiongemma-26B-A4B-it-Q8_0.gguf",
+"Sha256": "dd43baf2fb49a842ea7c106a7f3ce8d2e862e7d28d798d1d86bf94b48e50a607",
+"IsLFS": true,
+"CommittedDate": 1783196721
+}
+]

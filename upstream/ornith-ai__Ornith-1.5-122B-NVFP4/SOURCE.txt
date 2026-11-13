@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ornith-ai/Ornith-1.5-122B-NVFP4
+main commit at snapshot: f049036f794622db10bb69855bf9819207334626
+snapshot taken: 2026-11-13T13:54:15Z

@@ -1,0 +1,8 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+FLUX-3-Image-Klein-pup-Uncensored-AD-IQ3_S.gguf	4683540192	72376000b585aa23a436719fd955857d73edbfeec228c814c9faec7a3fa15c1b	sha256
+FLUX-3-Image-Klein-pup-Uncensored-AD-IQ4_XS.gguf	5508064992	f9840a45310fd96ebdd60adce8ecb9910faa8adc5701d46367995e2a08dd7179	sha256
+FLUX-3-Image-Klein-pup-Uncensored-AD-Q5_K_M.gguf	6571124448	f52e8190f6a0c422be6721f0a280d6b19bb5a79fb4d44e0baa3f693c8d6e253f	sha256
+FLUX-3-Image-Klein-pup-Uncensored-BF16.gguf	17920697792	139368acd1086c588e0a1c2df969e2f26c29151e16351001426cc7693396ae7e	sha256
+FLUX-3-Image-Klein-pup-Uncensored-LoRA.gguf	3155520	71100ebe0be0c776b8eefb71052bbf932a626a790012954774fb43b7e57c35d6	sha256
+FLUX-3-Image-Klein-pup-Uncensored-Q8_0.gguf	9527502560	13ac6780bf4362b37aaca13bfc2bb8b6f4f2221668f756f539c5f1cdea483318	sha256
+mmproj-FLUX-3-Image-Klein-pup-Uncensored-F16.gguf	918165984	7cf58b59dd8a4d2928bedf2f5e83e4c1b4e6825a40df61dc202c5acab6be998b	sha256

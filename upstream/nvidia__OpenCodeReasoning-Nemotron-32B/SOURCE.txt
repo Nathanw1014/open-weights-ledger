@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B
+main commit at snapshot: f6bc2d50652b2393d8e94e78b5b198c190cab399
+snapshot taken: 2026-11-13T13:59:03Z

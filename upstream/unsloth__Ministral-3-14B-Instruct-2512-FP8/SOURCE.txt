@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Ministral-3-14B-Instruct-2512-FP8
+main commit at snapshot: 8ec02e1e4f64fa55df63abd182b75c5663fbc659
+snapshot taken: 2026-11-13T13:25:50Z

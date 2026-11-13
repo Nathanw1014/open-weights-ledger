@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-27B-OBLITERATED-Mythos-Class-Agentic-GGUF
+main commit at snapshot: 2b26f567bd9e4ee31e071ffb46b5807b61049e25
+snapshot taken: 2026-11-13T14:04:58Z
