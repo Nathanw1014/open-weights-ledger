@@ -1,3 +1,3 @@
 repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4
-main commit at snapshot: 64b4039a3468bef85c6744c1e24d5a80801fe965
-snapshot taken: 2026-11-13T13:56:25Z
+main commit at snapshot: 17065a6849266dd478221735be7747689a0a4331
+snapshot taken: 2026-11-13T18:41:50Z

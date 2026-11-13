@@ -10620,8 +10620,8 @@
 "family": "Nemotron",
 "label": "",
 "pinned": false,
-"sha": "f6c832e6963ddb74f62c75813a3e8c74b1af67b1",
-"snapshot": "2026-11-13T13:56:10Z",
+"sha": "ee517dd388a9b348890ae1e00dacc5eb4d0c750d",
+"snapshot": "2026-11-13T18:41:51Z",
 "status": 200,
 "via": "author:nvidia search:Nemotron"
 },
@@ -10642,8 +10642,8 @@
 "family": "Nemotron",
 "label": "",
 "pinned": false,
-"sha": "acb538da38032a1daba9c411d2380d3812eab0a2",
-"snapshot": "2026-11-13T13:57:11Z",
+"sha": "f57fc2d5353e0a3847ae0544c33e5601672f4065",
+"snapshot": "2026-11-13T18:41:51Z",
 "status": 200,
 "via": "author:nvidia search:Nemotron"
 },
@@ -10653,8 +10653,8 @@
 "family": "Nemotron",
 "label": "",
 "pinned": false,
-"sha": "64b4039a3468bef85c6744c1e24d5a80801fe965",
-"snapshot": "2026-11-13T13:56:27Z",
+"sha": "17065a6849266dd478221735be7747689a0a4331",
+"snapshot": "2026-11-13T18:41:52Z",
 "status": 200,
 "via": "author:nvidia search:Nemotron"
 },
