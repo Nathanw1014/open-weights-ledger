@@ -1,0 +1,3 @@
+repo: https://huggingface.co/tatianyi/Qwen3.8-Flash-Next-Uncensored-Halogen
+main commit at snapshot: 0d8496a9725d9f6edc1a04ce91c381e521d9e372
+snapshot taken: 2026-11-13T14:52:39Z

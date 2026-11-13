@@ -1,0 +1,68 @@
+[
+{
+"Path": "qwen38-flash-next-ht43.hgn",
+"Sha256": "12e8e91b06dfd3bad4b68cdd275138733da64542a254612b116e8bd9fe77fdd8",
+"IsLFS": true,
+"CommittedDate": 1790943513
+},
+{
+"Path": "qwen38-flash-next-mtp.hgn",
+"Sha256": "0f50e9626df98168e7c6e0cc264e2a92b5184dd885a175a06628d979b5edceeb",
+"IsLFS": true,
+"CommittedDate": 1789354958
+},
+{
+"Path": "qwen38-flash-next-ngram.hgn",
+"Sha256": "3450acada94e19aabad88bd49b45eb70304820949c2240fc178067b20ae5dffe",
+"IsLFS": true,
+"CommittedDate": 1790771379
+},
+{
+"Path": "qwen38-flash-next-v2.hgn",
+"Sha256": "71246c6ab3fc1de2cf06326f18e275fe9c2a18366d646ed3357d194c884fc687",
+"IsLFS": true,
+"CommittedDate": 1790771379
+},
+{
+"Path": "qwen38-flash-next-vision.hgn",
+"Sha256": "d62e0ae553fe88afd3833733d4a4c669f34d20fd8dfce4b9610525bed2134b10",
+"IsLFS": true,
+"CommittedDate": 1789354960
+},
+{
+"Path": "qwen38-flash-next-w4b.hgn",
+"Sha256": "9c116bbc01f77b7a15464c1a124eb3325b286089b8a2a6f2856c9b246a235bd6",
+"IsLFS": true,
+"CommittedDate": 1789356528
+},
+{
+"Path": "qwen38-flash-next-w4b.overlay-speed.hgn",
+"Sha256": "f49c8d14fa972c1db5115c714981e399585a6a98106a1a055d9e77026bb6de4c",
+"IsLFS": true,
+"CommittedDate": 1789356530
+},
+{
+"Path": "qwen38-flash-next-w4b.overlay.hgn",
+"Sha256": "1cdfc3a9f988955bfe9a71bb808d393030abbf9f99d34ffa1ef93815a49b39ab",
+"IsLFS": true,
+"CommittedDate": 1789356532
+},
+{
+"Path": "tokenizer/merges.txt",
+"Sha256": "a9d356d7bdf1ef4949e3e748e95b8e10ad9d4e2e838eddc38a0a7b6b94d1db8d",
+"IsLFS": true,
+"CommittedDate": 1789356536
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "0997f410c57a1f4e53b09e4be8f4a172d90edd9564368fb0847030937229b9f3",
+"IsLFS": true,
+"CommittedDate": 1789356537
+},
+{
+"Path": "tokenizer/vocab.json",
+"Sha256": "ce99b4cb2983d118806ce0a8b777a35b093e2000a503ebde25853284c9dfa003",
+"IsLFS": true,
+"CommittedDate": 1789356540
+}
+]

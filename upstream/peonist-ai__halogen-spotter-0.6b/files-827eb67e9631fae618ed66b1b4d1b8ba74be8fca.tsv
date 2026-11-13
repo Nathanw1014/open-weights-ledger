@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+checkpoint/model.safetensors	2384104008	285b90030a2fb0cd41d2fe1baea375dc25c3fcc52b4f2e7e5df8f2e5dc8653dc	sha256
+checkpoint/tokenizer.json	11422654	aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4	sha256
+halogen-npu.hnpw	813581112	cb7943256d7184da26378182ccee1ab4ef116a66e8a0313d46ee386a2e831f16	sha256
+halogen-spotter-0.6b.hnpw	813581112	ddf3fe003b710a80d1df80a5e6b0f66c3ffdcbbed304f8a4e88bb39c04f8676c	sha256
+lora-03000.safetensors	40410824	81747df83e9a7200d63c749e2e743caa4270feee208165599296361610c991d4	sha256
+tokenizer/tokenizer.json	11422654	aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Halogenn/qwen-image-loras
+main commit at snapshot: fcbab29110a4c1f1f4cdda7aecf0e3d2ea580cf5
+snapshot taken: 2026-11-13T14:52:32Z

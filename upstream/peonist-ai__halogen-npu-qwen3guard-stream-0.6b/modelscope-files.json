@@ -1,0 +1,20 @@
+[
+{
+"Path": "heads.npz",
+"Sha256": "ad426b23dcd257fc1350b0b5b9311f3f1348ede6928ea69417067ac5ece58c41",
+"IsLFS": true,
+"CommittedDate": 1791955625
+},
+{
+"Path": "qwen3guard-stream-0.6b.hnpw",
+"Sha256": "3304508136b6435632c00042606fb0d0204869374abf8daacb734f7ce7c776d9",
+"IsLFS": true,
+"CommittedDate": 1791955625
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+"IsLFS": true,
+"CommittedDate": 1791955625
+}
+]

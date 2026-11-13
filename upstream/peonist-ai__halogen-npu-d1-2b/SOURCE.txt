@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peonist-ai/halogen-npu-d1-2b
+main commit at snapshot: 76c2a527c6b5b2ba0bb90012eb3e9e4db29df95e
+snapshot taken: 2026-11-13T14:52:21Z

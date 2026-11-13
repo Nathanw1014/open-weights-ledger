@@ -1,0 +1,74 @@
+[
+{
+"Path": "devices/consts.hnpb",
+"Sha256": "5ae638bf2c2c0f9547d76a8935925f3ff60e3d1fe38d92917ce80b3440a2db5e",
+"IsLFS": true,
+"CommittedDate": 1792584690
+},
+{
+"Path": "devices/fold.bin",
+"Sha256": "d7271ecee19ad4c551205481a6e78589b93eb8f57d95414f681c543df158ebf6",
+"IsLFS": true,
+"CommittedDate": 1791743180
+},
+{
+"Path": "devices/u0.elf",
+"Sha256": "bd257019b1ce252069fdab5bc8f99df05b0621d54e773eee785e71fed255ce43",
+"IsLFS": true,
+"CommittedDate": 1792584693
+},
+{
+"Path": "devices/u1.elf",
+"Sha256": "6f486464b98e5384257b6f27f77a2d10cbb3066ecf8436c4b05ffddfec672e73",
+"IsLFS": true,
+"CommittedDate": 1792584695
+},
+{
+"Path": "devices/u2.elf",
+"Sha256": "19751271143499b57247d0bc6cf444c6836e7c0e3c9a8a833d3d738f81c34462",
+"IsLFS": true,
+"CommittedDate": 1792584696
+},
+{
+"Path": "devices/u3.elf",
+"Sha256": "caf01dd3d49fb660078fffd366982d69992d7138f10354b2084f1df0cf67c8f4",
+"IsLFS": true,
+"CommittedDate": 1792584698
+},
+{
+"Path": "devices/u4.elf",
+"Sha256": "609403f1a578ab91739a65dc1eadf8b7d083a90ca4c63f2b2f2d7582b39cad9e",
+"IsLFS": true,
+"CommittedDate": 1792584700
+},
+{
+"Path": "enc/u0.elf",
+"Sha256": "83727d0beb113ce3212ec0b183a1e237b804c14b99038c991830598dfb925204",
+"IsLFS": true,
+"CommittedDate": 1792584706
+},
+{
+"Path": "enc/u1.elf",
+"Sha256": "d39a2eac45a286a9ab7b6c2734ba5298ea84c9ec803d6890504415f1258b9246",
+"IsLFS": true,
+"CommittedDate": 1792584708
+},
+{
+"Path": "enc/weights.hnpw",
+"Sha256": "aba64116f568a217555088270422314ec7d52a3fb809d955a74ba49a8f1d342f",
+"IsLFS": true,
+"CommittedDate": 1791743190
+},
+{
+"Path": "qwen3-asr-0.6b.hnpw",
+"Sha256": "99a13222f7bb94c9eb0ea21c5245ce3b8110835c27b113be4cce1339622bcf05",
+"IsLFS": true,
+"CommittedDate": 1791743194
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "df2d00266ff92c5a4c7689a3f6b659546303679a3306d85160dbcea64c9d773d",
+"IsLFS": true,
+"CommittedDate": 1791743194
+}
+]

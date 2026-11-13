@@ -51,3 +51,11 @@ search:abliterated top:200
 search:obliterated top:60
 search:heretic top:100
 search:uncensored top:100
+
+# Engine-specific model builds (label: = collection shown on the dashboard)
+author:peonist-ai label:Halogen
+search:halogen-qwen top:40 label:Halogen
+search:halogen-swift top:20 label:Halogen
+search:halogen-HGN top:20 label:Halogen
+search:Uncensored-Halogen top:20 label:Halogen
+search:gufo top:30 label:Gufo

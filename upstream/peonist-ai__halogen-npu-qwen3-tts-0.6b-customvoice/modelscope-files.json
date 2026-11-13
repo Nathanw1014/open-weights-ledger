@@ -1,0 +1,98 @@
+[
+{
+"Path": "devices/consts.hnpb",
+"Sha256": "8d979554d2ed9906b8f40ac7a4c838fc1bff6cef501f44c84d0a3be080dadd0e",
+"IsLFS": true,
+"CommittedDate": 1792693600
+},
+{
+"Path": "devices/pf/consts.hnpb",
+"Sha256": "7025797c43cbe18d5773fda2aea0c02817b350c417ec67eedaef95b51a8792e0",
+"IsLFS": true,
+"CommittedDate": 1792693601
+},
+{
+"Path": "devices/pf/u0.elf",
+"Sha256": "476027878722ed6f34f48306991ce8c3f8f96477162565403cca88f1c545d076",
+"IsLFS": true,
+"CommittedDate": 1792693601
+},
+{
+"Path": "devices/pf/u1.elf",
+"Sha256": "f99e239446f74c2c3cf9d95913619196eb9e02f06cc3d8fe500a3238cc1155ae",
+"IsLFS": true,
+"CommittedDate": 1792693603
+},
+{
+"Path": "devices/pf/u2.elf",
+"Sha256": "80746e16fa804a25be308e36447403ea329b2bace7117f98206d03c2b1892157",
+"IsLFS": true,
+"CommittedDate": 1792693603
+},
+{
+"Path": "devices/pf/u3.elf",
+"Sha256": "8744dc8adac2f87e62024c2005910c070311ab201e1950b752292a7571a9b1f1",
+"IsLFS": true,
+"CommittedDate": 1792693603
+},
+{
+"Path": "devices/pf/u4.elf",
+"Sha256": "efedae2175e861f85e270a00695ea2780a0f8b1b13ca4f99e07ed4fb5a2e6eea",
+"IsLFS": true,
+"CommittedDate": 1792693605
+},
+{
+"Path": "devices/pf/weights.hnpw",
+"Sha256": "107beca64aa4195fe995e954df9abafce7ea42bb1181bce03ecd92c7b54affc9",
+"IsLFS": true,
+"CommittedDate": 1792693605
+},
+{
+"Path": "devices/u0.elf",
+"Sha256": "d35e81329c6eb7d1ae72804b81dc5d76d7e2ff07dc55768fca26888be616e4ea",
+"IsLFS": true,
+"CommittedDate": 1792693605
+},
+{
+"Path": "devices/u1.elf",
+"Sha256": "95d037d9f364831fcb4604285146c0e77750d64bbe22dd0136b53f1e6c3a4551",
+"IsLFS": true,
+"CommittedDate": 1792693607
+},
+{
+"Path": "hf/merges.txt",
+"Sha256": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+"IsLFS": true,
+"CommittedDate": 1792693609
+},
+{
+"Path": "hf/model.safetensors",
+"Sha256": "bc3c7e785eb961179c25450d1acff03f839e0002f2f3a5aeb67b5735c0fa2adb",
+"IsLFS": true,
+"CommittedDate": 1792693609
+},
+{
+"Path": "hf/speech_tokenizer/model.safetensors",
+"Sha256": "836b7b357f5ea43e889936a3709af68dfe3751881acefe4ecf0dbd30ba571258",
+"IsLFS": true,
+"CommittedDate": 1792693612
+},
+{
+"Path": "hf/vocab.json",
+"Sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+"IsLFS": true,
+"CommittedDate": 1792693614
+},
+{
+"Path": "qwen3-tts-0.6b-customvoice.hnpw",
+"Sha256": "4f2790d4293a0fdd1c4c3d32433a9d1ee1dc6f403afe82ad171cb7dbbf0140bf",
+"IsLFS": true,
+"CommittedDate": 1792693614
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "11451ba634be80e206ab41c839fb299401ccdd286fd4b40207fa4021b432b930",
+"IsLFS": true,
+"CommittedDate": 1792693614
+}
+]

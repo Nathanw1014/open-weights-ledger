@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Swift-1.5-Flash-Next-Abliterated-MTP-Q4exps.gguf	1580706016	36a3206910696047569748c49eef8ac3f3f646c267f8537a546cc5c327d62aa0	sha256
+Swift-1.5-Flash-Next-Abliterated-Q8dense-Q41down.gguf	106825776704	52a6af79767f268b687bac588cf73acca146ce94bc3d297f0e34bcd42be89c7e	sha256
+mmproj-Swift-1.5-Flash-Next-BF16.gguf	907543520	cd1140f4abba943ce8d9fa92fed8407e389954d26907efde7b72153c75bd8a60	sha256

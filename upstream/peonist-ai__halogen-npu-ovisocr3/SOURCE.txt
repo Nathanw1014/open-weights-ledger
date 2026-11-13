@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peonist-ai/halogen-npu-ovisocr3
+main commit at snapshot: 588f22c6909e7c69d440072d96bb0d646f4f1998
+snapshot taken: 2026-11-13T14:52:26Z

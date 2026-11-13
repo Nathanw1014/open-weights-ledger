@@ -1,0 +1,3 @@
+repo: https://huggingface.co/eemin/halogen-qwen3.8-flash-next-copy
+main commit at snapshot: c01ee535259d193b7efdf06a7fa211fa83e16c50
+snapshot taken: 2026-11-13T14:52:36Z

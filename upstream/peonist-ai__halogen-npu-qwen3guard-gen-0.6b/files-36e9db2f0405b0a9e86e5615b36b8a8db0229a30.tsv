@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+halogen.jpg	250572	96542c8f6d06e01c896c94d50d98fa5da66a7140825a2956db090f306b24ac0f	sha256
+qwen3guard-gen-0.6b.hnpw	813581112	59d8ffc439ae5d3a2bb60c67c14a538e3456c8bfc53923ea260c232a6fac41f4	sha256
+tokenizer/tokenizer.json	11422654	aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4	sha256

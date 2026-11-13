@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HalogenFlo/qwen-2.5b-full-finetuned
+main commit at snapshot: 13a5defca12d231dcc69cc8adee8feef6f97627b
+snapshot taken: 2026-11-13T14:52:30Z

@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+expert_patch.bin	23634906176	bd8fd465a91eaecc787354f403b51d480412412ca7f49ebf775d02db2a500363	sha256
+qwen38-flash-next-w4b.overlay.hgn	3506116544	3ca81653e40e11929dc971d44ec716b6f13db2eaaf9d44790d6ebae3a6d4083d	sha256

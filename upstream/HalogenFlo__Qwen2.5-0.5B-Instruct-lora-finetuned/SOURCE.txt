@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HalogenFlo/Qwen2.5-0.5B-Instruct-lora-finetuned
+main commit at snapshot: 7e17ce7660bde570f8e25f213240b0833cf387fc
+snapshot taken: 2026-11-13T14:52:32Z

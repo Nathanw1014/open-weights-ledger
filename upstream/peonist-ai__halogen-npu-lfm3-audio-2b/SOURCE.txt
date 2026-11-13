@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peonist-ai/halogen-npu-lfm3-audio-2b
+main commit at snapshot: f9d6f60252b612989384e17ad4f15fd6e8120a58
+snapshot taken: 2026-11-13T14:52:22Z

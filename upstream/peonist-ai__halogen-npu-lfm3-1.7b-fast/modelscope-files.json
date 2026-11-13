@@ -1,0 +1,44 @@
+[
+{
+"Path": "devices/consts.hnpb",
+"Sha256": "e4a75b321e4f3c2108bce4534e1be66fc006e36ddf80bdbcaba1465d2e807f8c",
+"IsLFS": true,
+"CommittedDate": 1793424359
+},
+{
+"Path": "devices/u0.elf",
+"Sha256": "df1727d0faa6a85ad565143ec17506a503f1ea03db55207c9335d78776ae1c59",
+"IsLFS": true,
+"CommittedDate": 1793424363
+},
+{
+"Path": "devices/u1.elf",
+"Sha256": "16a74a4b8bf8ccaf05a826b5e2eef0ef3c0ebc4d16055211851abfc30e163e64",
+"IsLFS": true,
+"CommittedDate": 1793424365
+},
+{
+"Path": "devices/u2.elf",
+"Sha256": "07a56c358e70c5c6e7bc2a28377f63ed542cd91cc9dae57411c4dcaa997822ef",
+"IsLFS": true,
+"CommittedDate": 1793424368
+},
+{
+"Path": "devices/u3.elf",
+"Sha256": "9cd3c291490862c4cb0531a34cfb0e065c6e1c57f4db46d933c78d2990a21bc6",
+"IsLFS": true,
+"CommittedDate": 1793424370
+},
+{
+"Path": "devices/u4.elf",
+"Sha256": "0e92e18dce7716ae6733a99ab3e098da034c7790aabdfa042ce8e23730462f5e",
+"IsLFS": true,
+"CommittedDate": 1793424373
+},
+{
+"Path": "devices/u5.elf",
+"Sha256": "9971f7bbedae69f1383a6f9c04c37278debb117c164963b441b658f235f8e6c9",
+"IsLFS": true,
+"CommittedDate": 1793424376
+}
+]

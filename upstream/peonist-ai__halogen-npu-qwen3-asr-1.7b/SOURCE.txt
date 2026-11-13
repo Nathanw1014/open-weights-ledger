@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peonist-ai/halogen-npu-qwen3-asr-1.7b
+main commit at snapshot: cf36ee5ad5aebe647dd9d40768cd1371c8d40560
+snapshot taken: 2026-11-13T14:52:04Z

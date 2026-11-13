@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+calibration/tokens.npy	2097280	b4ca6aca3002949cd8bee8302095a7a667347bb9070c64ff6d10fdac80149c62	sha256
+qwen38-flash-next-ht43-abliterated.hgn	57618253792	e74a0d272d74f5f41c54b00b16eb62be5d691130097cbf965b90be429cd7a1fd	sha256
+qwen38-flash-next-v2-abliterated.hgn	66687678432	b5bd925fa2b44343be4a2cd328cae6b57ce7ffa2fe2cc56281717377e5a1ce8a	sha256

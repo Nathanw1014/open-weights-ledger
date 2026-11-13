@@ -1,0 +1,38 @@
+[
+{
+"Path": "vis/u0.elf",
+"Sha256": "3f28c614ef9d778d8bb8828ea5e9f8b5048ba285c07782cbb7a04471c0e88717",
+"IsLFS": true,
+"CommittedDate": 1793770021
+},
+{
+"Path": "vis/u1.elf",
+"Sha256": "01f8a6dc22e47c6cfcce02f6f2a1e9cd4bf7e0d6b381d5a60d7dab2316976c5f",
+"IsLFS": true,
+"CommittedDate": 1793770024
+},
+{
+"Path": "vis/u2.elf",
+"Sha256": "54f50e6da1af97de702e029b2465c3b428ea776f50a8d93a4fda4375a4d7f89a",
+"IsLFS": true,
+"CommittedDate": 1793770026
+},
+{
+"Path": "vis/u3.elf",
+"Sha256": "5cd8eeb7b219620f235d512f6fb5a97b65e7548150e7be136f637171c7f94a71",
+"IsLFS": true,
+"CommittedDate": 1793770028
+},
+{
+"Path": "vis/u4.elf",
+"Sha256": "41140c994de7071f1cf235c46d464673a8c5df245f9530dc7ddfe591870cb801",
+"IsLFS": true,
+"CommittedDate": 1793770030
+},
+{
+"Path": "vis/u5.elf",
+"Sha256": "4a4d469478ff58eef02d619e2f96fcf2d87d57ef1eb10b07a9bc54747d3ac20a",
+"IsLFS": true,
+"CommittedDate": 1793770033
+}
+]

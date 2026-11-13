@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-Flash-Next-Uncensored-Q4_K_XL-Gufo-00001-of-00003.gguf	39698073280	e1809213d8a5716c10390f22be03ed64c64eb032d9494e55db0c5884fbce8dfd	sha256
+Qwen3.8-Flash-Next-Uncensored-Q4_K_XL-Gufo-00002-of-00003.gguf	47730622112	0863288d400a06242754da1062554b9c7d5651890949491a0ca6becab74b4b4a	sha256
+Qwen3.8-Flash-Next-Uncensored-Q4_K_XL-Gufo-00003-of-00003.gguf	23696243488	04c515d44c7d859eb0c859ffe66c77f9b9edfb5abca2f1a00daa0f31d7f5d8e3	sha256

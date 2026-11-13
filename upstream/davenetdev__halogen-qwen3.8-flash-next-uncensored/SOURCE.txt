@@ -1,0 +1,3 @@
+repo: https://huggingface.co/davenetdev/halogen-qwen3.8-flash-next-uncensored
+main commit at snapshot: b3257382df15598971a2c541223bc1c57b1d9a92
+snapshot taken: 2026-11-13T14:52:26Z

@@ -48,7 +48,7 @@ mrow = {r["repo"]: r for r in meta}
 repos = []
 for k in names:
     v, a, mr = state[k], agg[k], mrow.get(k, {})
-    repos.append(dict(repo=k, uploader=k.split("/")[0], family=v.get("family") or mr.get("family", "Other"), abliterated=bool(v.get("abl")), downloads=v.get("downloads", 0), pinned=bool(v.get("pinned")),
+    repos.append(dict(repo=k, uploader=k.split("/")[0], family=v.get("family") or mr.get("family", "Other"), abliterated=bool(v.get("abl")), label=v.get("label", ""), downloads=v.get("downloads", 0), pinned=bool(v.get("pinned")),
                       status=v.get("status", 200), main=v.get("sha", ""), checked=v.get("snapshot", ""), current=a["current"], confirmed=a["confirmed"], versions=a["versions"], superseded=a["superseded"], removed=a["removed"],
                       modelscope=k in has_ms, pirateface=pf.get(k), pirateface_checked=k in pf_checked, last=last.get(k, "")))
 ev = [dict(time=e["time"], repo=e["repo"], event=e["event"], detail=e["detail"]) for e in evs]

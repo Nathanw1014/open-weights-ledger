@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Quat3rnion/halogen-swift1.5-qwen3.8-flash-next-v2-abliterated
+main commit at snapshot: c6fbcc022a47134dd04ddf952f3622605145b355
+snapshot taken: 2026-11-13T14:52:43Z

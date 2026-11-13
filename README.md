@@ -42,6 +42,7 @@ or paste the hash into the dashboard.
 ## How it works
 
 - `watchlist.txt`: what to track. `org/repo`, `author:NAME`, `author:NAME search:TERM`, or `search:TERM top:N`.
+  A rule can end with `label:NAME` to put its repos in a named collection (for example an engine's own model builds).
   A repo, once seen, stays tracked so its disappearance is noticed.
 - `tools/scrape-hf.py`: anonymous. Lists each publisher in one call, and for any repo whose main commit moved,
   clones its history without weights and reads every weight hash from it. It also checks that commits recorded

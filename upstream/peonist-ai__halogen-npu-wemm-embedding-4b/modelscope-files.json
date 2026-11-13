@@ -1,0 +1,32 @@
+[
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "40e444c744512f423da4c8443c47c21e22ff76056ba4e9796a81c04c13a9daf0",
+"IsLFS": true,
+"CommittedDate": 1791955742
+},
+{
+"Path": "vis/u0.elf",
+"Sha256": "ceb09ac171e1eed3f33a63523f8aeda238267fea2220413addf0429a38812913",
+"IsLFS": true,
+"CommittedDate": 1792584832
+},
+{
+"Path": "vis/u1.elf",
+"Sha256": "2a7a6cbd6649fd4e2ad28f0ad369538f982585a0984e356478d1d7fca603e9b4",
+"IsLFS": true,
+"CommittedDate": 1792584832
+},
+{
+"Path": "vis/weights.hnpw",
+"Sha256": "2acbb5ed0177e625614e83c73f74b08292317f1ab3a99f7b0a8400c2077c3648",
+"IsLFS": true,
+"CommittedDate": 1791955752
+},
+{
+"Path": "wemm-embedding-4b.hnpw",
+"Sha256": "38bc8fb6f5666a3d8e8288af1be282a7a51b97aa579067ba8d87c163bfce06bb",
+"IsLFS": true,
+"CommittedDate": 1791955849
+}
+]

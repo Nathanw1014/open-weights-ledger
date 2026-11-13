@@ -6,6 +6,7 @@ Track Hugging Face repos (anonymous). watchlist.txt lines:
   author:NAME                      every repo of a publisher
   author:NAME search:TERM          a publisher's repos matching TERM
   search:TERM top:N                the N most downloaded repos matching TERM
+Any rule may end with label:NAME, a free-form collection label for the repos it finds (shown as a filter on the dashboard).
 A repo, once seen, stays tracked (ledger/state.json) so its disappearance is noticed.
 
 When a repo is new or its main commit moved, its history is cloned without weights and
@@ -34,7 +35,10 @@ def load_watch():
         res = hfapi.listing(author=kv.get("author"), search=kv.get("search"), top=int(kv["top"]) if "top" in kv else None)
         if res is None: ok = False; print("listing failed:", l, flush=True); continue
         print(f"watch rule '{l}': {len(res)} repos", flush=True)
-        for m in res: found.setdefault(m["id"], dict(m, via=l))
+        for m in res:
+            e = found.setdefault(m["id"], dict(m, via=l))
+            # a search is fuzzy: only label a search hit when the label word is in the repo name itself
+            if kv.get("label") and ("search" not in kv or kv["label"].lower() in m["id"].split("/", 1)[1].lower()): e.setdefault("label", kv["label"].replace("_", " "))
     return list(dict.fromkeys(pinned)), found, ok
 
 def read_pointers(bare, blobs):
@@ -128,9 +132,9 @@ def main():
         os.replace(LED + ".tmp", LED)
         json.dump(state, open(STATE + ".tmp", "w"), indent=0, sort_keys=True); os.replace(STATE + ".tmp", STATE)
         with open(REPOS + ".tmp", "w") as f:
-            f.write("repo\tuploader\tfamily\tabliterated\tdownloads\tstatus\tmain\tpinned\tvia\n")
+            f.write("repo\tuploader\tfamily\tabliterated\tlabel\tdownloads\tstatus\tmain\tpinned\tvia\n")
             for r in sorted(state, key=str.lower):
-                s = state[r]; f.write("\t".join(str(x) for x in (r, r.split("/")[0], s.get("family", ""), "yes" if s.get("abl") else "no", s.get("downloads", ""), s.get("status", ""), s.get("sha", ""), "yes" if s.get("pinned") else "no", s.get("via", ""))) + "\n")
+                s = state[r]; f.write("\t".join(str(x) for x in (r, r.split("/")[0], s.get("family", ""), "yes" if s.get("abl") else "no", s.get("label", ""), s.get("downloads", ""), s.get("status", ""), s.get("sha", ""), "yes" if s.get("pinned") else "no", s.get("via", ""))) + "\n")
         os.replace(REPOS + ".tmp", REPOS)
 
     pinned, found, listed_ok = load_watch()
@@ -139,7 +143,7 @@ def main():
         s = state.setdefault(repo, {}); m = found.get(repo)
         s["pinned"] = repo in pinned; s["family"] = classify.family(repo)
         if m:
-            s["via"] = m["via"]; s["downloads"] = m.get("downloads", 0); s["abl"] = classify.abliterated(repo, m.get("tags") or [])
+            s["via"] = m["via"]; s["label"] = m.get("label", ""); s["downloads"] = m.get("downloads", 0); s["abl"] = classify.abliterated(repo, m.get("tags") or [])
             sha, gated, st = m.get("sha"), m.get("gated"), 200
         else:
             s.setdefault("abl", classify.abliterated(repo))

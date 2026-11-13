@@ -1,0 +1,3 @@
+repo: https://huggingface.co/empyrealworks/Swift-1.5-Flash-Next-Abliterated-Gufo-GGUF
+main commit at snapshot: a0fd28e3d04758ff45400d2af7c0d318a631c35e
+snapshot taken: 2026-11-13T14:52:48Z

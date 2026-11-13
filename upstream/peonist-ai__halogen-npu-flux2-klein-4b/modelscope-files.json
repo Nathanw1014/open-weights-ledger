@@ -1,0 +1,98 @@
+[
+{
+"Path": "devices/consts.hnpb",
+"Sha256": "d368febd8a2ab4774e34874e38118d54d043b57b4a23edf2d7953c8af67ce69f",
+"IsLFS": true,
+"CommittedDate": 1792584697
+},
+{
+"Path": "devices/taef2.safetensors",
+"Sha256": "701d31c0ecbef3b609fe236e2e3a65ffb17f3a94237acdd771e8ea3194df557a",
+"IsLFS": true,
+"CommittedDate": 1791397637
+},
+{
+"Path": "devices/u0.elf",
+"Sha256": "b2b37baf020cc720725a108483b23f0d02e19b918e3c7fe21924f7e794ccb6a1",
+"IsLFS": true,
+"CommittedDate": 1792584703
+},
+{
+"Path": "devices/u1.elf",
+"Sha256": "20cfa67d819430e9aa05695be2c011b702de50cf785c4dfa8e4f43c42aa5a560",
+"IsLFS": true,
+"CommittedDate": 1792584705
+},
+{
+"Path": "devices/u10.elf",
+"Sha256": "0c7591a16fc3021340a970a29376f10db46d84971b692c90b27eeef2f0a07925",
+"IsLFS": true,
+"CommittedDate": 1792584708
+},
+{
+"Path": "devices/u11.elf",
+"Sha256": "89dc6135d4f9067225f6e51d20bab849f52c9ba24129d715df50f411c13c9fa7",
+"IsLFS": true,
+"CommittedDate": 1792584712
+},
+{
+"Path": "devices/u2.elf",
+"Sha256": "da1fb250327aa503929391dc7fa4860d02bb6bfeb3af7fc86aecb05218325748",
+"IsLFS": true,
+"CommittedDate": 1792584714
+},
+{
+"Path": "devices/u3.elf",
+"Sha256": "edc33cf3a16e6079c0c8fd985384c74fe7e615172c474c4701eded59dc684118",
+"IsLFS": true,
+"CommittedDate": 1792584717
+},
+{
+"Path": "devices/u4.elf",
+"Sha256": "d14bbe688f8273e6c84ebef14ca49bdb3b031e66aa848d9efb8e4f8f86f2948b",
+"IsLFS": true,
+"CommittedDate": 1792584719
+},
+{
+"Path": "devices/u5.elf",
+"Sha256": "ffbe9c92f56774335dfbf0252ceebe323b61ecb6ebf4de3b8ed8dd42e8c936da",
+"IsLFS": true,
+"CommittedDate": 1792584721
+},
+{
+"Path": "devices/u6.elf",
+"Sha256": "cdea1b210565c043acbe99dccff74d698b1bd54042ad0d155a836ed046a2796f",
+"IsLFS": true,
+"CommittedDate": 1792584723
+},
+{
+"Path": "devices/u7.elf",
+"Sha256": "a852041773f61631d57010f543a236c459b9b85fa11e18c940fd5e5063933e46",
+"IsLFS": true,
+"CommittedDate": 1792584725
+},
+{
+"Path": "devices/u8.elf",
+"Sha256": "45fee971234e589189e7f23aa9be93fc6d0b33b636ca17f223ed9c7b3a97e2a4",
+"IsLFS": true,
+"CommittedDate": 1792584727
+},
+{
+"Path": "devices/u9.elf",
+"Sha256": "11011732eef9047b0d5933d62ba483a2c09422192e59a3c00edd326ab38213a5",
+"IsLFS": true,
+"CommittedDate": 1792584730
+},
+{
+"Path": "flux2-klein-4b.hnpw",
+"Sha256": "913caa1f5508be42edc8790ed5229c58128798276e4a8c1f5b36a49b52172608",
+"IsLFS": true,
+"CommittedDate": 1791720502
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+"IsLFS": true,
+"CommittedDate": 1791397706
+}
+]

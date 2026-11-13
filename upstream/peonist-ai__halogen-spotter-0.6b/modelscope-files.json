@@ -1,0 +1,50 @@
+[
+{
+"Path": "checkpoint/merges.txt",
+"Sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+"IsLFS": true,
+"CommittedDate": 1793903250
+},
+{
+"Path": "checkpoint/model.safetensors",
+"Sha256": "285b90030a2fb0cd41d2fe1baea375dc25c3fcc52b4f2e7e5df8f2e5dc8653dc",
+"IsLFS": true,
+"CommittedDate": 1793903286
+},
+{
+"Path": "checkpoint/tokenizer.json",
+"Sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+"IsLFS": true,
+"CommittedDate": 1793903290
+},
+{
+"Path": "checkpoint/vocab.json",
+"Sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+"IsLFS": true,
+"CommittedDate": 1793903295
+},
+{
+"Path": "halogen-npu.hnpw",
+"Sha256": "cb7943256d7184da26378182ccee1ab4ef116a66e8a0313d46ee386a2e831f16",
+"IsLFS": true,
+"CommittedDate": 1793903299
+},
+{
+"Path": "halogen-spotter-0.6b.hnpw",
+"Sha256": "ddf3fe003b710a80d1df80a5e6b0f66c3ffdcbbed304f8a4e88bb39c04f8676c",
+"IsLFS": true,
+"CommittedDate": 1793903301
+},
+{
+"Path": "lora-03000.safetensors",
+"Sha256": "81747df83e9a7200d63c749e2e743caa4270feee208165599296361610c991d4",
+"IsLFS": true,
+"CommittedDate": 1793903303
+},
+{
+"Path": "tokenizer/tokenizer.json",
+"Sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+"IsLFS": true,
+"CommittedDate": 1793903306
+}
+]

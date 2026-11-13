@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peonist-ai/halogen-spotter-0.6b
+main commit at snapshot: 827eb67e9631fae618ed66b1b4d1b8ba74be8fca
+snapshot taken: 2026-11-13T14:52:25Z

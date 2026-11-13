@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Felladrin/halogen-qwen3.5-0.8b
+main commit at snapshot: e7bad6d2d627836b9ff76b5c1dfed5c34bd98a6d
+snapshot taken: 2026-11-13T14:52:37Z

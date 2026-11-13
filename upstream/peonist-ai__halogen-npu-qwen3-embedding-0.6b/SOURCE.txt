@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peonist-ai/halogen-npu-qwen3-embedding-0.6b
+main commit at snapshot: 8fd44c9f18861618a509bea75c51ff8a37e3bd5d
+snapshot taken: 2026-11-13T14:51:50Z

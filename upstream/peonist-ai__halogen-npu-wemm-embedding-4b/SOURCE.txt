@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peonist-ai/halogen-npu-wemm-embedding-4b
+main commit at snapshot: 38f1379199b3ae5286a589c9cf02ec5ca6288004
+snapshot taken: 2026-11-13T14:52:05Z

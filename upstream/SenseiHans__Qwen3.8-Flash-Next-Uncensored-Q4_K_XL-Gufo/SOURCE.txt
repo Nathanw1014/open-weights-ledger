@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SenseiHans/Qwen3.8-Flash-Next-Uncensored-Q4_K_XL-Gufo
+main commit at snapshot: 504cc8b537c7cc51e780e6823518ef398d7bb87c
+snapshot taken: 2026-11-13T14:52:46Z

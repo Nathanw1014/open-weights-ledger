@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Ae55667/halogen-qwen3.8-flash-next-abliterated
+main commit at snapshot: 1e0cacaefe9f95e080eb32f1841a3175f24a0d8f
+snapshot taken: 2026-11-13T14:52:37Z
