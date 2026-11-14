@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ibm-granite/granite-4.1-3b-GGUF
+main commit at snapshot: ab4701481089b58a082ef63cc1cee738887293ff
+snapshot taken: 2026-11-14T03:53:22Z

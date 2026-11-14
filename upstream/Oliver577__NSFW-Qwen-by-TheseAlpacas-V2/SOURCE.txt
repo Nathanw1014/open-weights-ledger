@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Oliver577/NSFW-Qwen-by-TheseAlpacas-V2
+main commit at snapshot: 7c7002be374e75a7b41148ebbae15162c98b2cea
+snapshot taken: 2026-11-14T03:53:41Z

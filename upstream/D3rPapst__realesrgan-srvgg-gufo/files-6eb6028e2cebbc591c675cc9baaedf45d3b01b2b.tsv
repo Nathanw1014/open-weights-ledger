@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+realesr-animevideov3.safetensors	2490040	c5a3177446372b9181f99a4015fffcecfbbb67b3e8507aca716391d8c66a7c9e	sha256
+realesr-general-wdn-x4v3.safetensors	4861400	29edd79d26ee6f7290736c8c76be7c6a163709e1f96520ee4457abdd122d8328	sha256
+realesr-general-x4v3.safetensors	4861400	6b217ff50258cc7823169f074d2af7fa52d03bb8c9da615cb16b439576bde838	sha256

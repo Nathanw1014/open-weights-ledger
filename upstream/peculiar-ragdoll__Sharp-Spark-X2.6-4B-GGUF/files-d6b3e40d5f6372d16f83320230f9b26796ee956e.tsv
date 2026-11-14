@@ -1,0 +1,8 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Sharp-Spark-X2.6-4B-Q4_K_XL.gguf	2677963872	7785d531fa69408496d929f85fdb06f858c2417c1a7b2ba7cf0a22fafc182240	sha256
+Sharp-Spark-X2.6-4B-Q5_K_XL.gguf	3246365792	f723c24dc6270b82f68ea849df849988fb8033931a4d3e79edc23d82a3cdc215	sha256
+Sharp-Spark-X2.6-4B-Q6_K_XL.gguf	3612425312	66cba01df2e2228aedce3f4592efeff69a495ef7ce2e176fc3d902793fbf8eb3	sha256
+Spark-X2.6-4B-cyber.imatrix.gguf	3572672	bd96ee0ebfd756af269ff533c0031ad441e0a582e79eaf7d2fd9396f88e34e39	sha256
+assets/sharpspark26_banner.png	471055	4ec9158ff81e0cb319e256d9d2a6f94137d5ef0c16b8afb61dce5666c7669a25	sha256
+assets/sharpspark26_mmlu_board.png	382719	2a6add05b934ab9923b1b0c293e14b26cfd6af271110ea1613eb8d1a3b22d57b	sha256
+assets/sharpspark26_swe_board.png	456088	2d191a8084803c69bd3e0707f35a696f05e8545589a527f3fd34fa21bc35e451	sha256

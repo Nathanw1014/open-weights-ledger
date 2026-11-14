@@ -19,19 +19,20 @@ HDR = ["repo", "pinned_commit", "infohash", "size", "seeds", "checked_at"]
 NOW = lambda: time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
 age_h = lambda ts: (time.time() - time.mktime(time.strptime(ts, '%Y-%m-%dT%H:%M:%SZ')) + time.timezone) / 3600 if ts else 1e9
 
-def lookup(repo):
-    """-> dict for the repo's torrent, {} if Pirate Face has none, None on failure."""
-    q = "+".join(urllib.parse.quote(t, safe=".") for t in re.findall(r"[A-Za-z0-9.]+", repo.replace("/", " ")))
+def fetch(q):
+    """-> response text for a Pirate Face search, None on failure."""
     for i in range(4):
         try:
             with urllib.request.urlopen(urllib.request.Request(f"https://pirateface.co/s/{q}", headers={"User-Agent": "curl/8"}), timeout=40) as r:
-                text = r.read().decode("utf-8", "replace")
-            break
+                return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
             if e.code == 429 or e.code >= 500: time.sleep(30 * (i + 1)); continue
             return None
         except Exception: time.sleep(10 * (i + 1))
-    else: return None
+    return None
+
+def parse(repo, text):
+    """-> torrent dict if the repo is listed in this response, {} if the response is a clean no-match, None if unclear."""
     for line in text.splitlines():
         p = line.split()
         if p and p[0] == repo and "magnet:" in line:
@@ -40,7 +41,21 @@ def lookup(repo):
             sz = re.search(r"\s(\d[\d.]*\s[KMGT]?B)\s", line); sd = re.search(r"(\d+) seeds", line)
             return dict(pinned_commit=pin.group(1) if pin else "", infohash=" ".join(f"{k}:{v}" for k, v in ih),
                         size=sz.group(1) if sz else "", seeds=sd.group(1) if sd else "")
-    return {} if ("No torrents match" in text or text.strip() == "" or all(l.split()[:1] != [repo] for l in text.splitlines())) else None
+    return {} if ("No torrents match" in text or all(l.split()[:1] != [repo] for l in text.splitlines() if l.strip())) and text.strip() else None
+
+def lookup(repo):
+    """-> dict for the repo's torrent, {} if Pirate Face has none, None on failure.
+    The exact org/repo query is tried first: the loose token search sometimes answers "No torrents match" for a
+    listed repo, which once logged hundreds of false PF-TORRENT-REMOVED events. {} needs both queries to say no."""
+    exact = urllib.parse.quote(repo, safe="")
+    tokens = "+".join(urllib.parse.quote(t, safe=".") for t in re.findall(r"[A-Za-z0-9.]+", repo.replace("/", " ")))
+    out = {}
+    for q in (exact, tokens):
+        text = fetch(q)
+        res = parse(repo, text) if text is not None else None
+        if res: return res
+        if res is None: out = None
+    return out
 
 def main():
     full = "--all" in sys.argv
@@ -77,4 +92,4 @@ def main():
             for e in events: f.write("\t".join(e) + "\n"); print(*e[1:], flush=True)
     print(f"pirate face: checked {len(todo) - failed}, failed {failed}, repos with a torrent {sum(1 for r in rows.values() if r['infohash'])} of {len(rows)}, events {len(events)}")
     return 1 if failed > max(5, len(todo) // 20) else 0
-sys.exit(main())
+if __name__ == "__main__": sys.exit(main())

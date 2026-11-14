@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+ThinkingCap-gemma-4-26B-A4B-it-IQ4_XS.gguf	13597177152	c84bb3c8b997cc7c8fbd5922f3abb362f92ebf5d290654a90bcef5a10c021085	sha256
+ThinkingCap-gemma-4-26B-A4B-it-MXFP4_MOE.gguf	16551048512	5fc218edb5663cdacac4f56af30022706c292eb5c99afc06897c4c14e76b80d2	sha256
+ThinkingCap-gemma-4-26B-A4B-it-Q4_K_M.gguf	17010980160	a8886c823fdc09694db766ba0e86eaf75e2a54ae676071ef73630868cc94c77b	sha256
+ThinkingCap-gemma-4-26B-A4B-it-Q6_K.gguf	23295391040	82cefd31fd4b8c469399db2bb015ded75e58a588be21ad8a11b90225a128b877	sha256
+ThinkingCap-gemma-4-26B-A4B-it-Q8_0.gguf	26859861056	48fadbcf38a2fe1191f7865769435bc26e5ca5ad00d482c7e157e71953aec3e0	sha256
+ThinkingCap-gemma-4-26B-A4B-it-imatrix.gguf	56941536	f54d3b5da79ccd7555658b6d9766be840fd694841ff5c806c9964e1885157612	sha256
+gemma_cap_header.png	2016099	8c5c14ce7eee434dca4d5b2188261b58b8232710ae123dc7ffb9646c055494b5	sha256
+mmproj-ThinkingCap-gemma-4-26B-A4B-it-f16.gguf	1193058784	4030b92de0d559d7a0cde19659761adc3d8454f06503adb8dac425acfd67c239	sha256

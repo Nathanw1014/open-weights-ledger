@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Maximilian228/Qwen3.8-Flash-Next-NVFP4-Q8-Mix-Strata
+main commit at snapshot: a416f1b62c94773dced85c99a371a0949c240e87
+snapshot taken: 2026-11-14T03:53:35Z

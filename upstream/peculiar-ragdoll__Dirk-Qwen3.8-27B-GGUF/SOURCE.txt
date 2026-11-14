@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF
+main commit at snapshot: c4d587fbcd64d0e2c768465706cfa0705d91f2fa
+snapshot taken: 2026-11-14T03:53:15Z

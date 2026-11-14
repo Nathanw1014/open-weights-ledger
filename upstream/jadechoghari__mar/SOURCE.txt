@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jadechoghari/mar
+main commit at snapshot: a89a6d383f64d686dd08f5438a706ef48fe44540
+snapshot taken: 2026-11-14T03:54:00Z

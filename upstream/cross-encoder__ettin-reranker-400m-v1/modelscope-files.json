@@ -1,0 +1,104 @@
+[
+{
+"Path": "2_Dense/model.safetensors",
+"Sha256": "c8f99555ed4aad347dca99afeb5609ba2f803c0b54592a9f3ef26ad60ac9d4c2",
+"IsLFS": true,
+"CommittedDate": 1779215333
+},
+{
+"Path": "3_LayerNorm/model.safetensors",
+"Sha256": "c3bc9839299b6c8b7d473279ef9e1ec1a5d70d63581383b963e51df692676817",
+"IsLFS": true,
+"CommittedDate": 1779215333
+},
+{
+"Path": "4_Dense/model.safetensors",
+"Sha256": "83ab91e7f5f697783a49c5864bd552844fa06b5dc6b80e795823c2a5e932b311",
+"IsLFS": true,
+"CommittedDate": 1779215347
+},
+{
+"Path": "model.safetensors",
+"Sha256": "4b8364853f7ed939d93d3ae8b4ead502db7b86b7a67ed2046907166477d947c2",
+"IsLFS": true,
+"CommittedDate": 1779215381
+},
+{
+"Path": "onnx/model.onnx",
+"Sha256": "84214794ca332b6c1c98cf3e33d4d92e515489deb1081d56250d78ccd5575e65",
+"IsLFS": true,
+"CommittedDate": 1779215381
+},
+{
+"Path": "onnx/model_O1.onnx",
+"Sha256": "8f8285bad465faec90d81bbf8104e7a480c26ec7c0b881d61339dd1c07b9d41f",
+"IsLFS": true,
+"CommittedDate": 1779215393
+},
+{
+"Path": "onnx/model_O2.onnx",
+"Sha256": "95e5e52bcf411b67cee84720a674afcd1c801a5a5090b99c3fff08a70d0d44c9",
+"IsLFS": true,
+"CommittedDate": 1779215393
+},
+{
+"Path": "onnx/model_O3.onnx",
+"Sha256": "c2488f31392c286351c8310ae39543999bb442a5be180d00372aa40a63f5227e",
+"IsLFS": true,
+"CommittedDate": 1779215393
+},
+{
+"Path": "onnx/model_O4.onnx",
+"Sha256": "3bb7ed0c58676b8d8d6990d4b8b156433b40ccafadd3ac6f77b55a5e4973f18a",
+"IsLFS": true,
+"CommittedDate": 1779215406
+},
+{
+"Path": "onnx/model_qint8_arm64.onnx",
+"Sha256": "3bdb2a2e93334a52dab7de123649b4f369cd92d27af77ba1dd4b6a62a523f92a",
+"IsLFS": true,
+"CommittedDate": 1779215406
+},
+{
+"Path": "onnx/model_qint8_avx512.onnx",
+"Sha256": "3bdb2a2e93334a52dab7de123649b4f369cd92d27af77ba1dd4b6a62a523f92a",
+"IsLFS": true,
+"CommittedDate": 1779215406
+},
+{
+"Path": "onnx/model_qint8_avx512_vnni.onnx",
+"Sha256": "3bdb2a2e93334a52dab7de123649b4f369cd92d27af77ba1dd4b6a62a523f92a",
+"IsLFS": true,
+"CommittedDate": 1779215430
+},
+{
+"Path": "onnx/model_quint8_avx2.onnx",
+"Sha256": "c6359d81c93fcb4a5bc2e3dec9b043c9e85e17a21225eacbf9d71227e6cd428e",
+"IsLFS": true,
+"CommittedDate": 1779215430
+},
+{
+"Path": "openvino/openvino_model.bin",
+"Sha256": "d765d6cc7fac1b1cde2deb846fe932056d7228ec666337dcae812ced48101ff9",
+"IsLFS": true,
+"CommittedDate": 1779215430
+},
+{
+"Path": "openvino/openvino_model_qint8_quantized.bin",
+"Sha256": "a9229cd31caf32c6eb8aca7d54054762d3811ac5deb90edef165ed0d36c30780",
+"IsLFS": true,
+"CommittedDate": 1779215443
+},
+{
+"Path": "openvino/openvino_model_qint8_quantized.xml",
+"Sha256": "c7b9dc6dff64b1041d00a0553873ef2e05f411318fff9a2495445fd5968a5b0c",
+"IsLFS": true,
+"CommittedDate": 1779215443
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "28c5e078e4c52aa37cf0e6de1a212878f3dbd58dd1c70466298efe0b6b86db35",
+"IsLFS": true,
+"CommittedDate": 1779215455
+}
+]

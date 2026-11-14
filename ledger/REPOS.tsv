@@ -26,10 +26,12 @@ agentionai/Qwen3.8-Flash-Next-Gyro-GGUF	agentionai	Qwen3.8 Flash-Next	no		142266
 ahmed-amedo/Qwen3.8-27B-OBLITERATED	ahmed-amedo	Qwen3.8	yes		1154	200	c56845d2f2c5b8f87b9b2d81a5eb3f9a39cf8f22	no	search:obliterated top:60
 AhmedPPL/Huihui-Qwen3.8-Flash-Next-abliterated-v2-GGUF	AhmedPPL	Qwen3.8 Flash-Next	yes		12246	200	4921b104f2e7bdabd702722a06a99c9b0bee6138	no	search:abliterated top:200
 Aimeeluvssya/gemma-4-E4B-it-OBLITERATED	Aimeeluvssya	Gemma 4	yes		10885	200	675881940063f8d34883431fcc6f96e593aab3d6	no	search:obliterated top:60
+aj9o9/Qwen3.8-27B-DSpine-b16-GGUF	aj9o9	Qwen3.8	no		16281	200	e27cc7dfe121a0c9327eb36a7cce82a0dfa9e3e6	yes	
 ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-Dynamic-MTP-GGUF	ajgazin	Qwen3.8	yes		62586	200	540448475b2a84843fa2a54fcfd9c888de8a99ca	no	search:uncensored top:100
 alesha-pro/GLM-5.3-Flash-abliterated-Maya-M-GGUF	alesha-pro	GLM	yes		15536	200	3518a2d20e5a2ea8d9468718745dca5f72aed5f1	no	search:abliterated top:200
 alesha-pro/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Coder-Strata-GGUF	alesha-pro	Qwen3.8 Flash-Next	yes		21139	200	b8186202470558c2a7901327b135dd3482d2186b	no	search:abliterated top:200
 alesha-pro/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF	alesha-pro	Qwen3.8 Flash-Next	yes		350184	200	d4af3be5701549435e0770d625f79dd2def1358f	no	search:abliterated top:200
+Alissonerdx/Molmo2-8B-Minimax-H3	Alissonerdx	MiniMax	no		14581	200	17737a900190616c787f69c1180d49b9363739ae	yes	
 Anbeeld/Qwen3-Coder-30B-A3B-DFlash-GGUF	Anbeeld	Qwen3 Coder	no		367	200	313e1f5ac2144a583057a4e864e46b7780ce4c11	yes	
 Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF	Andycurrent	Gemma 3	yes		16033	200	38eaddc2791eb42fafd4fd54205653c6cde70c86	no	search:heretic top:100
 ArRENCEAI/DeepSeek-R1-Distill-Qwen-1.5B-OBLITERATED	ArRENCEAI	Qwen1.5	yes		1448	200	431d7d0c09be9d969b2816a4fdd41fecb3fc9479	no	search:obliterated top:60
@@ -43,6 +45,7 @@ AtomicChat/MiniCPM-V-4.7-35B-A3B-Uncensored-GGUF	AtomicChat	Other	yes		395679	20
 AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF	AtomicChat	Qwen Image	yes		645281	200	881a778e306c44920e42536def3e52c3a3ecc7cd	no	search:uncensored top:100
 AtomicChat/Qwen3-Coder-30B-A3B-DFlash-GGUF	AtomicChat	Qwen3 Coder	no		231	200	22a0c8f320ad784a89dac14f03b8afedcdb14d45	yes	
 AtomicChat/Qwen3.8-Flash-Next-Uncensored-GGUF	AtomicChat	Qwen3.8 Flash-Next	yes		73987	200	2a6816c498bad48856126911fb558761ad22259b	no	search:uncensored top:100
+AtomicChat/Ripple-65B-Preview-GGUF	AtomicChat	Other	no		103769	200	df550a7178a87bbfb6ee2bdbd37603c553d536ee	yes	
 audreyt/DeepSeek-V4.1-Flash-Abliterated-GGUF	audreyt	DeepSeek V4	yes		71069	200	7832036cb557c6ccdacdff77ef4e6ea283e35f89	no	search:abliterated top:200
 axi0mX/Qwen3.8-Flash-Next-Uncensored-GGUF	axi0mX	Qwen3.8 Flash-Next	yes		126275	200	652bba2d64b02f460d818b452efbaf71a3a0d640	no	search:uncensored top:100
 axiomofmind/Moss-image-nsfw-uncensored-lora	axiomofmind	Other	yes		80688	200	5f24e258ebb2a7d8aa77ee4940504dd57b54d5b9	no	search:uncensored top:100
@@ -52,8 +55,10 @@ azukivc/Qwen3.8-27B-Uncensored-GGUF	azukivc	Qwen3.8	yes		135096	200	057fb9791591
 Bahushruth/Qwen3.6-35B-A3B-abliterated-v4	Bahushruth	Qwen3.6	yes		391190	200	1c28f5014d7e9c20170af40e5aa028679fb30bfb	no	search:abliterated top:200
 Bahushruth/Qwen3.6-35B-A3B-abliterated-v4-GGUF	Bahushruth	Qwen3.6	yes		16700	200	b8a9ab20c8bde880621a7bab65073c0078ef33f7	no	search:abliterated top:200
 Barding-Defense/Qwen3.8-27B-huihui-abliterated-NVFP4-NInfer	Barding-Defense	Qwen3.8	yes		16585	200	228612d2a1f48c9e1b6f5e102f369c133c0f6eec	no	search:abliterated top:200
+bartowski/bottlecapai_ThinkingCap-gemma-4-26B-A4B-it-GGUF	bartowski	Gemma 4	no		7975	200	de1c1771eec0996c68fbd92021de1f5a86cee5ac	yes	
 bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF	bartowski	Qwen32	yes		25228	200	f64fae610c817babb03adb0fa17f072f701245f5	no	search:abliterated top:200
 bartowski/gemma-2-2b-it-abliterated-GGUF	bartowski	Gemma 2	yes		34873	200	11124c8787de96de70c3d5cb8d5d49c420ebcdf8	no	search:abliterated top:200
+bartowski/google_gemma-4-26B-A4B-it-GGUF	bartowski	Gemma 4	no		113963	200	10f3b41bcf8d3047f4e136e7197ffc2dd1654c9d	yes	
 bartowski/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-GGUF	bartowski	DeepSeek (other)	yes		14177	200	f0ca85f1168b657ee38cc065649b67325c4f1a00	no	search:abliterated top:200
 bartowski/huihui-ai_Qwen3-14B-abliterated-GGUF	bartowski	Qwen3	yes		53819	200	623c0f3fc42a4699d4583fb16e022942c003d1b7	no	search:abliterated top:200
 bartowski/huihui-ai_Qwen3-Coder-Next-abliterated-GGUF	bartowski	Qwen3 Coder	yes		36067	200	4b24fbac95c8496ceb09c3e95d15f9f9d11427d4	no	search:abliterated top:200
@@ -64,6 +69,7 @@ bartowski/Meta-Llama-3.1-8B-Instruct-abliterated-GGUF	bartowski	Llama 3	yes		146
 bartowski/mlabonne_Qwen3-14B-abliterated-GGUF	bartowski	Qwen3	yes		32495	200	e42ad8d737563dc9c98f4cadf69b076394cec802	no	search:abliterated top:200
 bartowski/mlabonne_Qwen3-4B-abliterated-GGUF	bartowski	Qwen3	yes		12259	200	22253b429533b604f50239136fc6b03300bd9ac6	no	search:abliterated top:200
 bartowski/mlabonne_Qwen3-8B-abliterated-GGUF	bartowski	Qwen3	yes		33663	200	0e66e6f836c802246b69941780ec8ef32670dc09	no	search:abliterated top:200
+bartowski/NousResearch_Arete-27B-GGUF	bartowski	Other	no		68180	200	9762c8502a79bd2b8634735d75f426b9febe092c	yes	
 bartowski/orcarouter_Qwen3.8-27B-Uncensored-GGUF	bartowski	Qwen3.8	yes		209578	200	87d37daf5e5eb72a926d8b413e08809a57f1a120	no	search:uncensored top:100
 bartowski/Qwen2.5-7B-Instruct-GGUF	bartowski	Qwen2.5	no		287754	200	8911e8a47f92bac19d6f5c64a2e2095bd2f7d031	yes	
 bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF	bartowski	Qwen2.5 Coder	yes		60533	200	91e7d17796389c79de80776bbd947afa81c1e34d	no	search:abliterated top:200
@@ -77,22 +83,33 @@ BoldingBuilds/Abliterated-MiMo-V2.6-Distill-Qwen-9B-GGUF	BoldingBuilds	Qwen9	yes
 BoldingBuilds/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-Abliterated-24GB-GGUF	BoldingBuilds	Nemotron	yes		16025	200	b6360e7379899484c800116f6bcf85448fc4925b	no	search:abliterated top:200
 BoldingBuilds/orcarouter_GLM-5.3-Flash-Uncensored-GGUF	BoldingBuilds	GLM	yes		45509	200	8a31ca66485373f9d5c002f5400b2aecaff84dfe	no	search:uncensored top:100
 BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PQ2_0-MTP-GGUF	BoldingBuilds	Other	yes		46146	200	80e0c80dcd3cc5412b78bd5cd0a4dc352348c232	no	search:abliterated top:200
+bottlecapai/ThinkingCap-gemma-4-26B-A4B-it-GGUF	bottlecapai	Gemma 4	no		16298	200	bb52b322579d218a9931261d6c9cd7403d80eb96	yes	
 brainnxdomain/Hemmingway-1-Heretic-MTP-V3-Final-GGUF	brainnxdomain	Other	yes		16619	200	b34efe64c33ae2081b76ca1fc9dc0b45e3013829	no	search:heretic top:100
 brainnxdomain/Qwen3.8-Flash-Next-Uncensored-Gufo-GGUF	brainnxdomain	Qwen3.8 Flash-Next	yes	Gufo	156	gated		no	search:gufo top:30 label:Gufo
 Bucoid/Qwen3.8-27B-Heretic-Ara-16GB-VRAM-IQ4-XS-MTP-GGUF	Bucoid	Qwen3.8	yes		23941	200	d54ccececdc99aea47de641912d600835a98428f	no	search:heretic top:100
 bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF	bullerwins	Gemma 4	yes		27097	200	60f5df7ccfde03291d895e3b689072073cfe9e6a	no	search:abliterated top:200
+Cactus-Compute/mirage	Cactus-Compute	Other	no		18959	200	3d03cee88c0acbe4e71b94b567ab14e6e55f40c9	yes	
 caentzminger/Qwen3.8-4B-Distill-Obliterated-GGUF	caentzminger	Qwen3.8	yes		1486	200	65502b8a189176313f89e3c364fcf53e9a3e4c1e	no	search:obliterated top:60
 cbert33/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-FP8-KV-Calibrated	cbert33	Qwen3.8	yes		59948	200	be66eb9b193b4aa9879bc13c391e8960a46f762b	no	search:heretic top:100
 cc1244578151/Qwen3.8-Flash-Next-Abliterated-Uncensored-GGUF	cc1244578151	Qwen3.8 Flash-Next	yes		31604	200	66ea093f07a9da2954255172f9644d293d1e2c14	no	search:abliterated top:200
 chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized	chatrlabs	Qwen Image	yes		68096	200	36d4b08d490fd8827a0dc5e02ac6a066a37a12c7	no	search:uncensored top:100
+ChenDY/NitroFusion2	ChenDY	Other	no		14927	200	31614c6fc9ef01ebb74d5ca99b830b277d876b02	yes	
 ChrisColeTech/LTX-2.3-uncensored-v1.4-FP8	ChrisColeTech	Other	yes		97324	200	481bed5fe0ffa9def880c69afbf207a0099cb676	no	search:uncensored top:100
 ChrisColeTech/LTX-2.5-uncensored-v1.1-FP8	ChrisColeTech	Other	yes		114119	200	592aaa11f13a7e480169455aa885f58c42d89766	no	search:uncensored top:100
 ChrisColeTech/qwen-image-edit-uncensored-GGUF	ChrisColeTech	Qwen Image	yes		72233	200	e457782c5687631f44e457134d7bbbb7daf6f072	no	search:uncensored top:100
 cognitivers/Qwen3.8-27B-OBLITERATED-12GB-GGUF	cognitivers	Qwen3.8	yes		1940	200	1b7f95ec8a072969bc27f46326ef77188fb1f72d	no	search:obliterated top:60
+Comfy-Org/RelayVSR	Comfy-Org	Other	no		127445	200	202c35eb0a5bb64b7017d5a09ea9acea87b7a081	yes	
 criscar22/Qwen2.5-Coder-7B-Instruct-abliterated	criscar22	Qwen2.5 Coder	yes		12940	200	0936e32925dc0d7dd0e65c117c86112c4873a23b	no	search:abliterated top:200
+cross-encoder/ettin-reranker-400m-v1	cross-encoder	Other	no		3150	200	5dca36282a5d85f368d2544002513a29159b4c9e	yes	
 culturerevolt/gemma-4-12b-heretic-abliterated-GGUF	culturerevolt	Gemma 4	yes		100417	200	ca1e60be3a69f79a699ff85c9c3f97a1614e5617	no	search:abliterated top:200
 cygnal/Qwen3.8-Flash-Next-Heretic2-IQ4XS-NGQ4-GGUF	cygnal	Qwen3.8 Flash-Next	yes		24533	200	b7a350f3ba4c29962cefe9e69af225f142cda9bc	no	search:heretic top:100
 cyjin-yl/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF	cyjin-yl	Qwen3.8	yes		313385	200	d82fb040934e0a491600a49477114d005accf59f	no	search:uncensored top:100
+D3rPapst/ace-step-1.5-gufo	D3rPapst	Other	no	Gufo	0	200	54c799b9f22cf0493eec75cde0308a6d6664f536	no	search:gufo top:30 label:Gufo
+D3rPapst/moss-music-8b-gufo	D3rPapst	Other	no	Gufo	0	200	5b7ab20662e491d2e4fb5030cfb77c6d8dd54185	no	search:gufo top:30 label:Gufo
+D3rPapst/realesrgan-srvgg-gufo	D3rPapst	Other	no	Gufo	0	200	6eb6028e2cebbc591c675cc9baaedf45d3b01b2b	no	search:gufo top:30 label:Gufo
+D3rPapst/rife-ifnet-gufo	D3rPapst	Other	no	Gufo	0	200	35e15f37034180c6b78f7b330ec69e14d1ef7692	no	search:gufo top:30 label:Gufo
+D3rPapst/trellis2-gufo	D3rPapst	Other	no	Gufo	0	200	2fc0757e6f47160df21c2737ff85675a461c93b5	no	search:gufo top:30 label:Gufo
+D3rPapst/triposg-gufo	D3rPapst	Other	no	Gufo	0	200	cb181774b3fb36debc4a29480d28ec4d4bdb1914	no	search:gufo top:30 label:Gufo
 darrellbest/Qwen3.5-9B-Heretic-GGUF	darrellbest	Qwen3.5	yes		15246	200	e3b3d721343f3bedb938adea3c22ca8363cb3d6c	no	search:heretic top:100
 darrellbest/Qwen3.8-27B-Heretic-GGUF	darrellbest	Qwen3.8	yes		15279	200	cf98d11e4b9c0d94f170f1023f0b71e7241d655b	no	search:heretic top:100
 davenetdev/halogen-qwen3.8-flash-next-uncensored	davenetdev	Qwen3.8 Flash-Next	yes	Halogen	286	200	b3257382df15598971a2c541223bc1c57b1d9a92	no	search:halogen-qwen top:40 label:Halogen
@@ -115,6 +132,7 @@ deadbydawn101/RavenXAiLabs-Chaos-Agent-Qwen3.8-27B-Frontier-Intelligence-Injecte
 deadbydawn101/RavenXAiLabs-Chaos-Agent-Qwen3.8-27B-Frontier-Intelligence-Injected-OBLITERATED-MLX	deadbydawn101	Qwen3.8	yes		1237	200	20303f01410ecf92ae492061773362ef3c266c6e	no	search:obliterated top:60
 dealignai/Nanbeige4.3-33B-UNCENSORED-GGUF	dealignai	Other	yes		43895	200	48e83e05611ef35d343ae5232f0078d85ff516e3	no	search:uncensored top:100
 dealignai/Ornith-1.5-35B-A3B-UNCENSORED-GGUF	dealignai	Ornith 1.5	yes		52653	200	38ab997c00045ce9fb858b16d7d914193f9e9917	no	search:uncensored top:100
+deep-principle/Hydrogen-1.0-NVFP4	deep-principle	Other	no		11049	200	a96c2b9d359396b625a38e848c29d3d0ae5daf1e	yes	
 dima6312/Flint-40B-A2.5B-abliterated-GGUF	dima6312	Other	yes		32086	200	1be756925ce786f5d7eb10725195764a46d596fc	no	search:abliterated top:200
 drowzeys/keys-DeepSeekV4-Flash-GA-0731-Dspark-Abliterated-Anchored-Tensors	drowzeys	DeepSeek V4	yes		37434	gated		no	search:abliterated top:200
 DRV58/Qwen3.6-27B-OBLITERATED	DRV58	Qwen3.6	yes		1698	200	f991aebd1c0d3928906f29b6ed4a13337f2d458f	no	search:obliterated top:60
@@ -125,6 +143,7 @@ emiltsoi/Ternary-Bonsai-2-27B-Uncensored-Heretic-NInfer	emiltsoi	Other	yes		2376
 empyrealworks/Swift-1.5-Flash-Next-Abliterated-Gufo-GGUF	empyrealworks	Qwen3.8 Flash-Next	yes	Gufo	163	200	a0fd28e3d04758ff45400d2af7c0d318a631c35e	no	search:gufo top:30 label:Gufo
 failspy/Meta-Llama-3-8B-Instruct-abliterated-v3	failspy	Llama 3	yes		418197	200	85a25be002841fe738a5267b6806473f36f86715	no	search:abliterated top:200
 Felladrin/halogen-qwen3.5-0.8b	Felladrin	Qwen3.5	no	Halogen	0	200	e7bad6d2d627836b9ff76b5c1dfed5c34bd98a6d	no	search:halogen-qwen top:40 label:Halogen
+freakyskittle/CYBER-FROST-3.8-GGUF	freakyskittle	Other	no		13951	200	3653d81a87ec580d63dbe32fac4a8e87d7156930	yes	
 FrostWolfAI/Spark-X2.6-4B-abliterated-GGUF	FrostWolfAI	Other	yes		17976	200	7b6b5379aba823cbdbd4c82e737e1086b7ad22f0	no	search:abliterated top:200
 fyb1214/Huihui-Qwen3.8-27B-Abliterated-Swift-1.5-GSQ-RCO-NInfer	fyb1214	Qwen3.8	yes		57444	200	d63cfae481cc6cae344e60f3f7a0ca301dfcbfd1	no	search:abliterated top:200
 gbuzhf/Ornith-1.5-35B-A3B-Abliterated-MTP-UD-APEX-GGUF	gbuzhf	Ornith 1.5	yes		30539	200	04eb5f9915607c840716ae817717431f0ba6df07	no	search:abliterated top:200
@@ -156,6 +175,9 @@ HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive	HauhauCS	Qwen3.6	yes		13
 HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF	HauhauCS	Qwen3.8	yes		1792224	200	993a5971fda8f30dd1b7eb2654792ba4415c7460	no	search:uncensored top:100
 HeYujie/Qwen3.5-35B-A3B-abliterated-GGUF	HeYujie	Qwen3.5	yes		14413	200	c584b125c827ac29c62dc95cb46d0343b5a490ff	no	search:abliterated top:200
 hipfire-models/qwen3.8-27b	hipfire-models	Qwen3.8	no		0	200	f3f240897aaf84affb5d6be64567d5a62949baff	yes	
+Horizon-Labs/multilingual-reranker-small	Horizon-Labs	Other	no		3350	200	23139fec6f1f448cdf89a5ac2d2c6bf5e8c7b398	yes	
+Horizon-Labs/prompt-injection-guard-small	Horizon-Labs	Other	yes		4330	200	2efc2ed5abecd21eb45c2506d231a65d6e392b85	yes	
+Horizon-Labs/punctuation-restoration-small	Horizon-Labs	Other	no		4142	200	a1818fae73a1d09b5496e67747dda7bd667b79a8	yes	
 hotdogs/Qwen3.8-27B-abliterated-cyber-preview-MTP-GGUF	hotdogs	Qwen3.8	yes		22456	200	1f021d59cafaa7f251ed2769906b5652f710ea5a	no	search:abliterated top:200
 huihui-ai/Huihui-Agents-A1-abliterated-GGUF	huihui-ai	Other	yes		18154	200	9189aa287362d13d803cb0d21335c0b0fd5d191c	no	search:abliterated top:200
 huihui-ai/Huihui-CyberStrike-OffSec-35B-abliterated-GGUF	huihui-ai	Other	yes		95950	200	f028c0a21105244b4aa7a8e50675062ad747ac2c	no	search:abliterated top:200
@@ -190,23 +212,32 @@ huihui-ai/Huihui-Qwen3.8-Flash-Next-abliterated-v2-GGUF	huihui-ai	Qwen3.8 Flash-
 huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUF	huihui-ai	Other	yes		63808	200	a56bb66534a758a99991ae502316b07c18950941	no	search:abliterated top:200
 huihui-ai/Qwen2.5-VL-3B-Instruct-abliterated	huihui-ai	Qwen2.5	yes		21095	200	a0d1323db855b5989928f1e4845733c52b2d817c	no	search:abliterated top:200
 huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated	huihui-ai	Qwen2.5	yes		308686	200	fa935a7958b3669b194c7ba4d1cfcebbe222641d	no	search:abliterated top:200
+ibm-granite/granite-4.1-3b-GGUF	ibm-granite	Granite	no		13852	200	ab4701481089b58a082ef63cc1cee738887293ff	yes	
 igorls/gemma-4-12B-it-heretic-GGUF	igorls	Gemma 4	yes		24617	200	f307c17c8c1a5095bfdb6cb94f18cb6f2c9f122c	no	search:heretic top:100
+Ihor/gliner-biomed-large-v1.0	Ihor	Other	no		3310	200	f79771210ab2111a2081ef31620fdb7342f602e9	yes	
+inclusionAI/Ming-flash-omni-Preview	inclusionAI	Other	no		3554	200	49d299f1746f07354b5d737683d3b61e8fe04df7	yes	
 incoai/Qwen3.8-Flash-Next-DFlash2-GGUF	incoai	Qwen3.8 Flash-Next	no		7646	200	4f5a39be8f0a9e9a573ac9824251830a8f4096d9	yes	
 irwanworld/Irwan-LightOnOCR-3-0.8B-abliterated	irwanworld	Other	yes		13676	200	d79664b4dfb44a99dd789b2c8ad1865f86a6ef90	no	search:abliterated top:200
 IstroSec/ThinkingCap-Qwen3.8-27B-abliterated-NVFP4A16	IstroSec	Qwen3.8	yes		55479	200	292eb286fa4281081e7564143d154c7493bbf421	no	search:abliterated top:200
+IsValorum/Clover-35B-A3B-Preview-APEX-I-MiniPlus-V2.1-GGUF	IsValorum	Other	no		2635	200	2939d6f24685ceb5cc2b8dcc6f4e1f73f206cfd4	yes	
 IsValorum/Occamy-1.0-APEX-I-MiniPlus-V2.1-Abliterated-GGUF	IsValorum	Other	yes		17157	200	3d5f182478fe3e80681931936524baddbc0094d2	no	search:abliterated top:200
 IsValorum/Qwen3.8-35B-A3B-Distill-MTP-APEX-I-MiniPlus-V2.1-Abliterated-GGUF	IsValorum	Qwen3.8	yes		113045	200	cc30332c425ece39188f457476902fa6ad1938a4	no	search:abliterated top:200
 Jackrong/Qwopus3.6-35B-A3B-v1	Jackrong	Qwopus	no		204	200	6950bd2020d3ce7fcb7927c58c1db56c07ac750e	yes	
 Jackrong/Qwopus3.6-35B-A3B-v1-GGUF	Jackrong	Qwopus	no		5888	200	a74a4cc1ef47f61329313384b34dd1b8994b94d4	yes	
+jadechoghari/mar	jadechoghari	Other	no		1897	200	a89a6d383f64d686dd08f5438a706ef48fe44540	yes	
+jcbtc/Qwen3.8-Flash-CIRU-STRIX-IU4	jcbtc	Qwen3.8	no		899	200		yes	
 jegreene/Swift-1.5-Qwen3.8-27B-heretic-GSQ-RCO-GGUF	jegreene	Qwen3.8	yes		1182829	200	34252ecfc8a553ec89b29cf98193f158e97af2ab	no	search:heretic top:100
 jimmy31chen/RVN-Qwen3.8-Flash-Next-Abliterated-Uncensored-IQ3_S-Strata	jimmy31chen	Qwen3.8 Flash-Next	yes		363762	200	17876139539724fc6f0b0fbfdcf7b1daa494d045	no	search:abliterated top:200
 JonathanColetti/Qwen3.8-27B-Uncensored-GGUF	JonathanColetti	Qwen3.8	yes		2327780	200	45d0fc0ad6cfcf9eeee6008ddaea925536409b18	no	search:uncensored top:100
 jukofyork/Qwen3-Coder-Instruct-DRAFT-0.75B-GGUF	jukofyork	Qwen3 Coder	no		283	200	07e59a562b865181360f93ca2087ceaa097dc949	yes	
 KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF	KasugaiSakura	Qwen Image	yes		74251	200	240ef1d68f778115f8ff69965eca9ad6d3ccdcf1	no	search:uncensored top:100
 KilltheSniper/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF	KilltheSniper	Qwen3.8 Flash-Next	yes		13046	200	42c3ea8fb145c624ffb53e12b0b80567ff464282	no	search:abliterated top:200
+KRLabsOrg/lettucedect-610m-eurobert-de-v1	KRLabsOrg	Other	no		2176	200	c5169f2f1b7f85751feedaa7f16af22548ef9ef8	yes	
 Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF	Kujira	Other	yes		386884	200	c1d826d73831efcb819d9d64c625f0fab56ae8fc	no	search:abliterated top:200
+LatitudeGames/Wayfarer-2-12B-GGUF	LatitudeGames	Other	no		2399	200	63a5cee127f9fe66cb4ff9dbff309bf15d31069b	yes	
 lavendercomputing/Ornith-1.5-35B-A3B-Heretic-MTP-APEX-GSQ-RCO-GGUF	lavendercomputing	Ornith 1.5	yes		47712	200	d6ab91cb3afc1c4f2b12e8f4e802f5540ee76910	no	search:heretic top:100
 lenalibon/Meta-Llama-3-8B-Instruct-heretic-mlabonne	lenalibon	Llama 3	yes		43950	200	1079bfd1ba00040e48ea7144e01d58513c59c355	no	search:heretic top:100
+LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF	LessThanThreeAI	Qwen3.8	yes		58397	200	e55216fa4cc583519d72fcf45bf795a1c7a2dff9	yes	
 LiquidAI/LFM2.5-8B-A1B-DSpark-GGUF	LiquidAI	LFM	no		3099	200	7ba04ee5ff05a4baf2681fe5ddda6d736581ccdf	yes	
 LiquidAI/LFM2.5-8B-A1B-GGUF	LiquidAI	LFM	no		117321	200	49c14831707011e64d70b2ebd8462ba08d608434	yes	
 llmfan46/gemma-4-12B-coder-fable5-composer2.5-v1-uncensored-heretic-GGUF	llmfan46	Gemma 4	yes		18660	200	35d793874eea086b67bbe9d056aff6aed82f9f0d	no	search:heretic top:100
@@ -226,7 +257,9 @@ llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GPTQ-Int4	llmfa
 llmfan46/Qwen3.8-27B-Uncensored-Heretic-Native-MTP-Preserved-GGUF	llmfan46	Qwen3.8	yes		21182	200	7513ce6af77ca26e0bcabdaf37e3afefd118d74b	no	search:heretic top:100
 LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-MTP-GGUF	LuffyTheFox	Qwen3.6	yes		321866	200	5fee44808148828299dec576603a58b74e41a393	no	search:uncensored top:100
 lukey03/Qwen3.5-9B-abliterated-GGUF	lukey03	Qwen3.5	yes		140622	200	dac35c6385d79a6a9fe113d7a3b730348791d37f	no	search:abliterated top:200
+maritaca-ai/S5-nano-GGUF	maritaca-ai	Other	no		3636	200	892d3b6ce018802d74fed1650e712e5fcd5a42b5	yes	
 Maximilian228/Huihui-Qwen3.8-Flash-Next-abliterated-NVFP4-GPTQ-Strata	Maximilian228	Qwen3.8 Flash-Next	yes		22336	200	2d02e144558904c6211e12a83a411a661cae5be8	no	search:abliterated top:200
+Maximilian228/Qwen3.8-Flash-Next-NVFP4-Q8-Mix-Strata	Maximilian228	Qwen3.8 Flash-Next	no		11538	200	a416f1b62c94773dced85c99a371a0949c240e87	yes	
 meta-models/Muse-Glimmer-30B	meta-models	Muse Glimmer	no		159160	200	cec94fcfd6512f2cfe708138c32533b346ea4f69	no	author:meta-models
 meta-models/Muse-Glimmer-30B-assistant	meta-models	Muse Glimmer	no		218667	200	c676cce91658f9568aaf264a416211e2782735b7	no	author:meta-models
 meta-models/Muse-Glimmer-30B-ExecuTorch-PTE	meta-models	Muse Glimmer	no		4119	200	fc6fa93cdefeddc93abd7abf883e99279af7ea51	no	author:meta-models
@@ -335,6 +368,7 @@ mradermacher/Qwen3-VL-8B-GLM-4.7-Flash-Heretic-Uncensored-Thinking-GGUF	mraderma
 mradermacher/Qwen3-VL-8B-Instruct-abliterated-GGUF	mradermacher	Qwen3	yes		539091	200	913604f6b4e56b0d0475706f3df7a6eb8c4dd415	no	search:abliterated top:200
 mradermacher/Qwen3-VL-8B-Instruct-abliterated-v2.0-GGUF	mradermacher	Qwen3	yes		31865	200	94de1fa01defc173334ac7f103d5fa2e49c1da7a	no	search:abliterated top:200
 mradermacher/Qwen3.5-122B-A10B-abliterated-GGUF	mradermacher	Qwen3.5	yes		17196	200	4209245d9dfdcb4e998b4ae008edcd7699f6f296	no	search:abliterated top:200
+mradermacher/Qwen3.5-122B-A10B-abliterated-v1-GGUF	mradermacher	Qwen3.5	yes		6794	200	75b5adaca28d5c76b8b906009de7f63b0108f12a	yes	
 mradermacher/Qwen3.5-9B-abliterated-GGUF	mradermacher	Qwen3.5	yes		51387	200	93c9960e54e262c7aa5f423a503e92a17c2f39b7	no	search:abliterated top:200
 mradermacher/Qwen3.5-9B-Claude-4.6-HighIQ-INSTRUCT-HERETIC-UNCENSORED-GGUF	mradermacher	Qwen3.5	yes		17270	200	0f1ae866bd40b47ad6272ff5ae7ceb1c05769eba	no	search:heretic top:100
 mradermacher/Qwen3.5-9B-obliterated-fp16-GGUF	mradermacher	Qwen3.5	yes		1700	200	2630c597678a29f5373503bf7489ea7c08d35958	no	search:obliterated top:60
@@ -357,6 +391,7 @@ mradermacher/Qwen3.8-cyber-RedTeam-Surgical-Abliterated-GGUF	mradermacher	Qwen3.
 mradermacher/Qwen3.8-Flash-Next-Uncensored-GGUF	mradermacher	Qwen3.8 Flash-Next	yes		351725	200	3aa3ff434a0dc2b9dd6886fe12da134756229f74	no	search:uncensored top:100
 mradermacher/Qwen3.8-Flash-Next-Uncensored-i1-GGUF	mradermacher	Qwen3.8 Flash-Next	yes		188327	200	27694ee82244cdac3539501330e9bbde98d5d8b8	no	search:uncensored top:100
 mradermacher/Sage-A1.5-Heretic-Abliterated-Uncensored-i1-GGUF	mradermacher	Other	yes		12357	200	6e6a2e3e449d1a264a00cfab855714151216bc37	no	search:abliterated top:200
+mradermacher/ThinkingCap-gemma-4-26B-A4B-it-i1-GGUF	mradermacher	Gemma 4	no		10663	200	b5080a8d7e49feadd95574fdc608896c0a689283	yes	
 mradermacher/WhiteRabbitNeo-2.5-Qwen-2.5-Coder-7B-OBLITERATED-i1-GGUF	mradermacher	Qwen2.5 Coder	yes		1149	200	823c47fe890cd42ad0e43afe0a5dfa31d98792ba	no	search:obliterated top:60
 mrfakename/DeepSeek-V4.1-Flash-1017-abliterated	mrfakename	DeepSeek V4	yes		13184	200	517efab9ccfef7f714dbd7d679f181a86f43ccf9	no	search:abliterated top:200
 mrfakename/DeepSeek-V4.1-Flash-1017-abliterated-GGUF	mrfakename	DeepSeek V4	yes		28954	200	b82300670252bda21f520037ec692dccada41d85	no	search:abliterated top:200
@@ -600,6 +635,7 @@ OBLITERATUS/Qwen3-4B-OBLITERATED	OBLITERATUS	Qwen3	yes		1512	200	cb128950ea934b5
 OBLITERATUS/qwen3-4b-structured-output-merged-stage-a-OBLITERATED	OBLITERATUS	Qwen3	yes		5154	200	9fca8324ba3d696746a0b7c443a691a751809f13	no	search:obliterated top:60
 OBLITERATUS/Qwen3.6-27B-OBLITERATED	OBLITERATUS	Qwen3.6	yes		4124	200	b85c6304150be44ee02ab130a733f65bc562bbc6	no	search:obliterated top:60
 OBLITERATUS/Qwen3.8-27B-OBLITERATED	OBLITERATUS	Qwen3.8	yes		543708	200	a58c3b53b3ce71551eafde2ed5ec8df48e0f4ff8	no	search:obliterated top:60
+Oliver577/NSFW-Qwen-by-TheseAlpacas-V2	Oliver577	Qwen (other)	no		6348	200	7c7002be374e75a7b41148ebbae15162c98b2cea	yes	
 OpenYourMind/OpenYourMind-NVIDIA-Nemotron-3-Ultra-550B-A55B-abliterated-uncensored-NVFP4	OpenYourMind	Nemotron	yes		12229	200	5f8146976889ba6f0ff2c3f1e29543bfbb0c94a2	no	search:abliterated top:200
 OpenYourMind/Qwopus3.5-122B-A10B-Kimi-K2.6-destill-healed-abliterated-GGUF	OpenYourMind	Qwopus	yes		12462	200	c6d259243ac0fa7a51668266fb8fd7b0b4424fd6	no	search:abliterated top:200
 orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF	orcarouter	DeepSeek V4	yes		36471	gated		no	search:abliterated top:200
@@ -648,6 +684,9 @@ ornith-ai/Ornith-1.5-9B-NVFP4	ornith-ai	Ornith 1.5	no		1123712	200	155f200d85ad5
 OS-Software/Qwen3.8-27B-Uncensored-Heretic-v3-GGUF	OS-Software	Qwen3.8	yes		26341	200	d7cee59f6329d44588320f02bafb2c1bb19fa5b7	no	search:heretic top:100
 OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-GGUF	OS-Software	Other	yes		103442	200	5ab50fd49410941a8d4f97912303b1c7d458ffa2	no	search:heretic top:100
 OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-v2-GGUF	OS-Software	Other	yes		62615	200	6db27547a8f25667cdb43a28d15cc5d33937b7dc	no	search:heretic top:100
+owao/Sabi-Noema-GGUF	owao	Other	no		10416	200	4b6cfc0fbf7aa0f5e4a140d9f13bfc76e8a6cf53	yes	
+peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF	peculiar-ragdoll	Qwen3.8	no		1395297	200	c4d587fbcd64d0e2c768465706cfa0705d91f2fa	yes	
+peculiar-ragdoll/Sharp-Spark-X2.6-4B-GGUF	peculiar-ragdoll	Other	no		6362	200	d6b3e40d5f6372d16f83320230f9b26796ee956e	yes	
 PeetPedro/qwen4_exp-8b-obliterated-abliterated-kompress-ultra	PeetPedro	Qwen4	yes		1483	200	5317566e4aca1837bd7542c70b3728f83854a09c	no	search:obliterated top:60
 peonist-ai/halogen-npu-d1-2b	peonist-ai	Other	no	Halogen	0	200	76c2a527c6b5b2ba0bb90012eb3e9e4db29df95e	no	author:peonist-ai label:Halogen
 peonist-ai/halogen-npu-d3-lite	peonist-ai	Other	no	Halogen	0	200	8919811a106cd7071defc9f284261a589b021266	no	author:peonist-ai label:Halogen
@@ -690,6 +729,7 @@ prem-research/DeepSeek-V4-Flash-0731-abliterated	prem-research	DeepSeek V4	yes		
 prism-ml/Ternary-Bonsai-2-27B-gguf	prism-ml	Other	no		1522102	200	839bd57023c1558945afea70a74fa83c054f35f9	yes	
 prithivMLmods/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-MTP-GGUF	prithivMLmods	Qwen3.5	yes		17909	200	84b3b063952e004f9ee39e73e5faa1995965c619	no	search:heretic top:100
 prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2-GGUF	prithivMLmods	Qwen3	yes		17265	200	cc4130ded656c7e6300d617bb107eed4dedac152	no	search:abliterated top:200
+prithivMLmods/Qwen3.5-4B-3D-Coder-MTP-Repacked	prithivMLmods	Qwen3.5	no		6522	200	53ab160b036d12819b7eb7a5f694d5945a47d4c9	yes	
 prithivMLmods/Qwen3.5-9B-Uncensored-ComfyUI	prithivMLmods	Qwen3.5	yes		45837	200	63fd25142847beb87204a15a7da795fb27c13c0b	no	search:uncensored top:100
 pyrodog/DeepSeek-V4.1-Flash-UNCENSORED-DwarfStar-Q2	pyrodog	DeepSeek V4	yes		104611	200	9464e2973a092e1acb50dc0bb17ee9b67ca594a4	no	search:uncensored top:100
 QuantFactory/Llama-3.2-3B-Instruct-abliterated-GGUF	QuantFactory	Llama 3	yes		14515	200	120d74373f679f9d9e0463b435dfd3fb802d9eb0	no	search:abliterated top:200
@@ -1172,6 +1212,8 @@ rcmorano/badtheorylabs-Tinfield-1-halogen-HGN	rcmorano	Other	no	Halogen	0	200	53
 rdhorner/gemma-4-E4B-it-OBLITERATED-GGUF	rdhorner	Gemma 4	yes		1739	200	91e4ea02f9e0818e934226464a9953daf8fa7212	no	search:obliterated top:60
 richardyoung/Qwen2.5-7B-Instruct-abliterated-GGUF	richardyoung	Qwen2.5	yes		12222	200	c0b0093f825b6f3bf68ebcf16af6de15f61d04ed	no	search:abliterated top:200
 richardyoung/Qwen3-14B-abliterated-GGUF	richardyoung	Qwen3	yes		14367	200	6ca7f3c8b53021e5a6b869e21ce4acc771639e0b	no	search:abliterated top:200
+ricursiveAI/Ripple-65B-Preview-DFlash2	ricursiveAI	Other	no		3859	200	35609b3be3dd08a822b3ba1257c1ea5dd6f87632	yes	
+ricursiveAI/Ripple-65B-Preview-NVFP4	ricursiveAI	Other	no		3991	200	2789217ba87d93e8d032fad25217c4c63a0e1d5b	yes	
 Rioky/Mistral-Small-4-119B-2603-heretic-i1-gguf	Rioky	Mistral	yes		20688	200	0fb0a30f7f452054aa08509c2c1dafb07bdf1baf	no	search:heretic top:100
 RoadToNowhere/Qwen3-32B-abliterated-Q4_K_M-GGUF	RoadToNowhere	Qwen3	yes		46519	200	36a6a1be225e6728acaec150ae944cf24491f684	no	search:abliterated top:200
 RootMonsteR/Qwen3-14B-Abliterated-GGUF	RootMonsteR	Qwen3	yes		16273	200	aad7bb258333fa83991acef39e31a97677eb711b	no	search:abliterated top:200
@@ -1194,6 +1236,7 @@ SonoIo/Gufo	SonoIo	Other	no	Gufo	0	200	e88b8ffcc87dbad5ddfc56a1ebee3e99dc1b4aca	
 soyaakinohara/qwen3.8-27b-abliterated-3.69bpw-12GB-MTP.gguf	soyaakinohara	Qwen3.8	yes		57185	200	8cf3088b8c1fdf1121fed4d52fbc46b71e3f7874	no	search:abliterated top:200
 soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf	soyaakinohara	Other	yes		595941	200	f01809e437fb3046ae9afd31d684556f9ae5dd46	no	search:heretic top:100
 spiritfather/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-heretic-ara-i1-GGUF	spiritfather	Nemotron	yes		20449	200	28261d680b80c4c5c2724d5f0a3ebb74e2f41b4f	no	search:heretic top:100
+summerAIO/Diffusion-Qwen3.8-27B	summerAIO	Qwen3.8	no		1534	200	d5587a6b8ac1577c502878799bbbcf398220ce9b	yes	
 SyndicateLabs/Qwen3.8-27B-OBLITERATED-GGUF	SyndicateLabs	Qwen3.8	yes		2446	200	0cd3e5e3325f342520f374a5a3d858eed49a7476	no	search:obliterated top:60
 t8star/flux.1-dev-abliterated-V2-GGUF	t8star	Other	yes		27956	200	21505a89e2fbab4976cc96e4b095c300eb3c2053	no	search:abliterated top:200
 tatianyi/Qwen3.8-Flash-Next-Uncensored-Halogen	tatianyi	Qwen3.8 Flash-Next	yes	Halogen	0	200	0d8496a9725d9f6edc1a04ce91c381e521d9e372	no	search:halogen-qwen top:40 label:Halogen
@@ -2711,6 +2754,7 @@ wangzhang/Qwen3.6-35B-A3B-abliterated-GGUF	wangzhang	Qwen3.6	yes		38150	200	8709
 WaveCut/Huihui-Qwen3.8-27B-abliterated-NInfer-v3	WaveCut	Qwen3.8	yes		17057	200	493a6485c71ad294fca25c3ac9e2c6f9fd696b5a	no	search:abliterated top:200
 webmp3/Sakura-MiniMax-H3-Uncensored-GGUF	webmp3	MiniMax	yes		86970	200	50c85ff58e248d933dd17bc2b13c6d5aca6190ae	no	search:uncensored top:100
 wy2pay/Qwen3.8-Flash-Next-abliterated-GGUF-IQ4XS	wy2pay	Qwen3.8 Flash-Next	yes		15740	200	6c3bc492fc1983fbd065cb0745f07a61c7f5f698	no	search:abliterated top:200
+xtools-at/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic	xtools-at	Qwen3.5	yes		12595	200	75f3680f191c436681a5b74cf65de3b6b8894768	yes	
 xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic	xtools-at	Qwen3.5	yes		21586	200	fbccdc6adf70a1981e8f40e91a8370e428e4f998	no	search:heretic top:100
 YuYu1015/Huihui-Qwen3-30B-A3B-Instruct-2507-abliterated-NVFP4	YuYu1015	Qwen3	yes		158410	200	af962b8fc79a02d68f9c96a7bb70df0c3395159b	no	search:abliterated top:200
 z-lab/Qwen3.8-27B-DFlash2-GGUF	z-lab	Qwen3.8	no		506737	200	2d9571f8ce46e151f61c6499c99dee6079e1d610	yes	

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF
+main commit at snapshot: e55216fa4cc583519d72fcf45bf795a1c7a2dff9
+snapshot taken: 2026-11-14T03:53:16Z

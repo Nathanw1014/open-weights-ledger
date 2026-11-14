@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ChenDY/NitroFusion2
+main commit at snapshot: 31614c6fc9ef01ebb74d5ca99b830b277d876b02
+snapshot taken: 2026-11-14T03:53:34Z

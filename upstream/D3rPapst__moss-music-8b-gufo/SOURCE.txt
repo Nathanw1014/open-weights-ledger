@@ -1,0 +1,3 @@
+repo: https://huggingface.co/D3rPapst/moss-music-8b-gufo
+main commit at snapshot: 5b7ab20662e491d2e4fb5030cfb77c6d8dd54185
+snapshot taken: 2026-11-14T03:54:08Z

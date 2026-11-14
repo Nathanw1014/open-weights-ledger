@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/ThinkingCap-gemma-4-26B-A4B-it-i1-GGUF
+main commit at snapshot: b5080a8d7e49feadd95574fdc608896c0a689283
+snapshot taken: 2026-11-14T03:53:25Z

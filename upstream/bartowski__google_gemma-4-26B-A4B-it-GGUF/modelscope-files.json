@@ -1,0 +1,200 @@
+[
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ2_M.gguf",
+"Sha256": "88c25a0e8ecc975b90bcf3766301d5e565a5378ed04fbdd04c8049d87eab43a5",
+"IsLFS": true,
+"CommittedDate": 1785192132
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ2_S.gguf",
+"Sha256": "df0581fac422331ae375a9ca86b0f81010fa16dae29c05eb3403b0b9314a5185",
+"IsLFS": true,
+"CommittedDate": 1785192132
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ2_XS.gguf",
+"Sha256": "8bb3371e964ccb5ec98fd3c5bf95707b8f711a5fcec09932c67abfafd0fc88ad",
+"IsLFS": true,
+"CommittedDate": 1785192134
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ2_XXS.gguf",
+"Sha256": "2f3685099756ae2cde65c6328be73e5406b602803f2186536dce3ae06ea83c77",
+"IsLFS": true,
+"CommittedDate": 1785192134
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ3_M.gguf",
+"Sha256": "b08876e7eb0adc0dcac8f2d24ec064c62fd2cbd1813514516ad669e75fefecf6",
+"IsLFS": true,
+"CommittedDate": 1785192552
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ3_XS.gguf",
+"Sha256": "4dcbe01bfe42b186c226aa65306bc179ea51da18faeac465c721d8b83ccd0039",
+"IsLFS": true,
+"CommittedDate": 1785192552
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ3_XXS.gguf",
+"Sha256": "61a9be08df2dd3ee5e98b23f1f548530c05ec89e02647a650f2ad447fcc83998",
+"IsLFS": true,
+"CommittedDate": 1785192553
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ4_NL.gguf",
+"Sha256": "a4092d039b489536066deb4314c3303ea45041f776d19938f64dada478a29dcf",
+"IsLFS": true,
+"CommittedDate": 1785192553
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-IQ4_XS.gguf",
+"Sha256": "86f0f6ca5f622bca4506f7849eee3459d0cac867b919630132145efd452ee8b9",
+"IsLFS": true,
+"CommittedDate": 1785192554
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q2_K.gguf",
+"Sha256": "c9247d1f76eef1abd14aea173df4229bb7c298bece7d13e0cf4acd893dd754e4",
+"IsLFS": true,
+"CommittedDate": 1785192554
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q2_K_L.gguf",
+"Sha256": "87f966c3f2e226017acc32b72f68111691e0bb9a2e8b64eaf6c30baadad94be8",
+"IsLFS": true,
+"CommittedDate": 1785192556
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q3_K_L.gguf",
+"Sha256": "2a74593c43e06245f86577f2d1e27a268d91be655993f70dfd64cb556214b347",
+"IsLFS": true,
+"CommittedDate": 1785192556
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q3_K_M.gguf",
+"Sha256": "4826221b7a285284b65222537f58ebfc6880290ff5441e13bfb1a7ca4d65df21",
+"IsLFS": true,
+"CommittedDate": 1785192700
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q3_K_S.gguf",
+"Sha256": "302d143948006836721f735da401582a85751f4d8fe55ea6ac54300809204bae",
+"IsLFS": true,
+"CommittedDate": 1785192700
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q3_K_XL.gguf",
+"Sha256": "3e7b3be5116a1cc6321953f6f11d97d242482fd4a69cecd01e88eebff7d0dee2",
+"IsLFS": true,
+"CommittedDate": 1785193574
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q4_0.gguf",
+"Sha256": "a6be80ed54a90d47e5c0ef6f1cf087c1162edc327781ff3ce9a2018b2d66f6ef",
+"IsLFS": true,
+"CommittedDate": 1785193574
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q4_1.gguf",
+"Sha256": "b345da64474d693acdf9d9b36bf7f2960a7f94ae1ff4327fc6450d135a3a1da9",
+"IsLFS": true,
+"CommittedDate": 1785193576
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q4_K_L.gguf",
+"Sha256": "3020b31690b47dd8ff4902332fcf6d9ac02bd749ff45f971bca3bddd20b8c25e",
+"IsLFS": true,
+"CommittedDate": 1785193576
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q4_K_M.gguf",
+"Sha256": "a07f72221e8e3f77455ab0d7f7652d01a9f63c262b954aa6932a53275a0e895a",
+"IsLFS": true,
+"CommittedDate": 1785193577
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q4_K_S.gguf",
+"Sha256": "2700522f644211990d7082f480e7f564a05b4613e93e54d7e274be7e727e5916",
+"IsLFS": true,
+"CommittedDate": 1785193577
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q5_K_L.gguf",
+"Sha256": "90a2843d12d3290d7eddc48d0fa1a4bdb5409a354b0a10731931d6289ae60c9b",
+"IsLFS": true,
+"CommittedDate": 1785193702
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q5_K_M.gguf",
+"Sha256": "6b4f8074239f72543997a950ff6ae4509553c599f5b432748309ff3438416493",
+"IsLFS": true,
+"CommittedDate": 1785193702
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q5_K_S.gguf",
+"Sha256": "36a23a99694d21c04c66978ee59ae64281f3804cd7cee9bd252c88fe6812e5a6",
+"IsLFS": true,
+"CommittedDate": 1785193703
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q6_K.gguf",
+"Sha256": "dd9f8a9f4646258bd97e1241899ecd875ad51572bcf6de44d09dab30662983f1",
+"IsLFS": true,
+"CommittedDate": 1785193703
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q6_K_L.gguf",
+"Sha256": "00d6e37ef6965e35db4a108d9178f889b9ad4c2428b94c8778b9231c0d26ef7e",
+"IsLFS": true,
+"CommittedDate": 1785193796
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-Q8_0.gguf",
+"Sha256": "1bb7fdb37fbd542ba972b3eb83ae87752bb9063aff560402e0e2f64235c85226",
+"IsLFS": true,
+"CommittedDate": 1785193796
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-bf16/google_gemma-4-26B-A4B-it-bf16-00001-of-00002.gguf",
+"Sha256": "4d82522edff064ee9305dd078f7e37bb8ed31d0ebb2773791ca103a2fb5b53fb",
+"IsLFS": true,
+"CommittedDate": 1777893068
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-bf16/google_gemma-4-26B-A4B-it-bf16-00002-of-00002.gguf",
+"Sha256": "3f2790e5db81b60f45cab2a7fbd5d531a08f7a6f8360bd03c851164f43a3c4c9",
+"IsLFS": true,
+"CommittedDate": 1775249783
+},
+{
+"Path": "google_gemma-4-26B-A4B-it-imatrix.gguf",
+"Sha256": "f097e6358d8737cdfffc0e233cc3edd7e0cf43324edb593854809458a8078c58",
+"IsLFS": true,
+"CommittedDate": 1776592727
+},
+{
+"Path": "mmproj-google_gemma-4-26B-A4B-it-bf16.gguf",
+"Sha256": "b3ee6c97d5a5bb1ae9eb93bf14c1d1b51a0179a45ac1076b195931814c759e1e",
+"IsLFS": true,
+"CommittedDate": 1775249783
+},
+{
+"Path": "mmproj-google_gemma-4-26B-A4B-it-f16.gguf",
+"Sha256": "41cdabd1e8066e983ee6c288eb0117777376223ee0279cadcd67b2295e4d975f",
+"IsLFS": true,
+"CommittedDate": 1775249783
+},
+{
+"Path": "mtp-google_gemma-4-26B-A4B-it-Q4_0.gguf",
+"Sha256": "06c138f179f4bf91a9780a7ca7024da1459c8b4b99ae61e5fd7663ec1b07656e",
+"IsLFS": true,
+"CommittedDate": 1785193797
+},
+{
+"Path": "mtp-google_gemma-4-26B-A4B-it-Q8_0.gguf",
+"Sha256": "318f22f2142ac43d512084b7d844641d69b71543a8dbf1b8d4dc24212f8715cb",
+"IsLFS": true,
+"CommittedDate": 1785193797
+}
+]

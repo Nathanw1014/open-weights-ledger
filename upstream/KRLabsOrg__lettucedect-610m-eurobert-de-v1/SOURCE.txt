@@ -1,0 +1,3 @@
+repo: https://huggingface.co/KRLabsOrg/lettucedect-610m-eurobert-de-v1
+main commit at snapshot: c5169f2f1b7f85751feedaa7f16af22548ef9ef8
+snapshot taken: 2026-11-14T03:53:59Z

@@ -1,0 +1,62 @@
+[
+{
+"Path": "Qwen3.8-27B-Humanlike-Chat-BF16-00001-of-00002.gguf",
+"Sha256": "e82adee3d7ca40d90cc88ff141bc06e73d707d8681a7b1368bcc564f57e1da66",
+"IsLFS": true,
+"CommittedDate": 1791032971
+},
+{
+"Path": "Qwen3.8-27B-Humanlike-Chat-BF16-00002-of-00002.gguf",
+"Sha256": "e509538cd5bb767437cc65055579985b82b5c57eb6e83942b5bdff6844f76924",
+"IsLFS": true,
+"CommittedDate": 1791032973
+},
+{
+"Path": "Qwen3.8-27B-Humanlike-Chat-IQ4_XS.gguf",
+"Sha256": "e3e58618dda3d8ba283bf1020339fd1b17b9bcd31a344797733634a8ecb51fce",
+"IsLFS": true,
+"CommittedDate": 1791032976
+},
+{
+"Path": "Qwen3.8-27B-Humanlike-Chat-Q4_K_M.gguf",
+"Sha256": "0ce585403ce20cb0a77e2636cd4aeb9b1a48b88487c6b0dbce11e71ac12a6193",
+"IsLFS": true,
+"CommittedDate": 1791032978
+},
+{
+"Path": "Qwen3.8-27B-Humanlike-Chat-Q5_K_M.gguf",
+"Sha256": "678d816f40ab723bb01bdcc95487ecd763e61098a91c012009203cf431f626dd",
+"IsLFS": true,
+"CommittedDate": 1791032980
+},
+{
+"Path": "Qwen3.8-27B-Humanlike-Chat-Q6_K.gguf",
+"Sha256": "f97e3d712613f0f2d97e7590511f524800ade57d70e5a5c8d6bc3452b2231183",
+"IsLFS": true,
+"CommittedDate": 1791032982
+},
+{
+"Path": "Qwen3.8-27B-Humanlike-Chat-Q8_0.gguf",
+"Sha256": "41226a5023819696db229d4ab99cb2bce3a56da6929a8250de5fbeaa6afa2fef",
+"IsLFS": true,
+"CommittedDate": 1791032984
+},
+{
+"Path": "imatrix/imatrix.gguf",
+"Sha256": "e20ecdd9ef7373e69eaaa7e1638c00904119c6e2589349b765431095d3e771e5",
+"IsLFS": true,
+"CommittedDate": 1791032999
+},
+{
+"Path": "lora/Qwen3.8-27B-Humanlike-Chat-2.0-LoRA-r320-F16.gguf",
+"Sha256": "cad17c24f1805f235683bbd5b9e844ee3eb2986262b6db65d8782de073ab0eb2",
+"IsLFS": true,
+"CommittedDate": 1791033001
+},
+{
+"Path": "mmproj/mmproj-BF16.gguf",
+"Sha256": "c9a09064683620bea3d3bfed5d4462e1a97a7d2fff7e5045d6862a0a85eeb5b5",
+"IsLFS": true,
+"CommittedDate": 1791554760
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/LatitudeGames/Wayfarer-2-12B-GGUF
+main commit at snapshot: 63a5cee127f9fe66cb4ff9dbff309bf15d31069b
+snapshot taken: 2026-11-14T03:53:58Z

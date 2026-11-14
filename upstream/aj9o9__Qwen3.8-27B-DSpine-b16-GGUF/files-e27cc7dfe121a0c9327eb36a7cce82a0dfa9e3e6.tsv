@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-DSpine-b16-BF16.gguf	4061850656	ae8b72aefb2a6bc41feb8472c8f5f38adecd2d4cda865ee9ce10e657223bc35b	sha256
+Qwen3.8-27B-DSpine-b16-Q4_K_M.gguf	1257892896	0c6c984ac18611288d7b8f497bc347c4921e8231b1b6abf28650481eaf35ff55	sha256
+Qwen3.8-27B-DSpine-b16-Q8_0.gguf	2201447456	daec74997a21dd80a03760934496bd4c618dfe4a9e4fbd69e9b3a778b4c0ec95	sha256
+benchmark.png	413197	be5b8ed4de67c90ceedc77770e17421f43b644b1746c6b10c314d1a94198d39b	sha256

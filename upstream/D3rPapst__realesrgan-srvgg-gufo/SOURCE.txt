@@ -1,0 +1,3 @@
+repo: https://huggingface.co/D3rPapst/realesrgan-srvgg-gufo
+main commit at snapshot: 6eb6028e2cebbc591c675cc9baaedf45d3b01b2b
+snapshot taken: 2026-11-14T03:54:04Z

@@ -2719,123 +2719,74 @@ time	repo	event	detail
 2026-11-13T18:41:51Z	nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16	MAIN-MOVED	f6c832e6963ddb74f62c75813a3e8c74b1af67b1 -> ee517dd388a9b348890ae1e00dacc5eb4d0c750d
 2026-11-13T18:41:51Z	nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-MXFP8	MAIN-MOVED	acb538da38032a1daba9c411d2380d3812eab0a2 -> f57fc2d5353e0a3847ae0544c33e5601672f4065
 2026-11-13T18:41:52Z	nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4	MAIN-MOVED	64b4039a3468bef85c6744c1e24d5a80801fe965 -> 17065a6849266dd478221735be7747689a0a4331
-2026-11-13T18:44:17Z	huihui-ai/Huihui-CyberStrike-OffSec-35B-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:764b5737e8fa8fba0f0456b20122d94ff2dc559e (pinned to f028c0a21105244b4aa7a8e50675062ad747ac2c) is no longer listed
-2026-11-13T18:44:19Z	huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:0a540c298f0edcabf1c13a0078d97f307fe6156b (pinned to a8dfba9c1e43bdf324ee2c7787ed01c70975ffb4) is no longer listed
-2026-11-13T18:44:21Z	huihui-ai/Huihui-DeepSeek-V4-Flash-abliterated-ds4-GGUF	PF-TORRENT-REMOVED	torrent btih:f1c07c89e853d421b4c129e9f52e6ada0d44b3e2 (pinned to f06f59bce3c36b3282b75c9fe2621c83c9399d10) is no longer listed
-2026-11-13T18:44:23Z	huihui-ai/Huihui-DeepSeek-V4-Flash-Vision-Exp-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:382d7a902895d07c9f0c991e6a2ba759374b2931 (pinned to 7f6d7641fb2ad4489919ea06513888d598e2837b) is no longer listed
-2026-11-13T18:44:24Z	huihui-ai/Huihui-DeepSeek-V4.1-Flash-1017-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:4b52d493f1b3eda6cb901710295167d1b5f8d3e8 (pinned to 03e7238809a269ee27361ee707c38a1826a7eaee) is no longer listed
-2026-11-13T18:44:26Z	huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:9f6ccf7149014b3e6561768dae7cb02a0e7d4995 (pinned to 2c26f29ecd20b540e66d1f62b5121fb8d251b50b) is no longer listed
-2026-11-13T18:44:28Z	huihui-ai/Huihui-gemma-4-26B-A4B-it-qat-q4_0-unquantized-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:4cb22caf1fc730f7c1a68e55f401b359cbaa5081 (pinned to 6cd6fd4d423acb18e05f1f808958d14db5226ac1) is no longer listed
-2026-11-13T18:44:32Z	huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:2aaba62bcf820a29e28abeac6f2508404e704600 (pinned to d160d1da4559a91762999bd0124f85387c880344) is no longer listed
-2026-11-13T18:44:36Z	huihui-ai/Huihui-Qwen3-8B-abliterated-v2	PF-TORRENT-REMOVED	torrent btih:9f65b7628d4b5ea2ddff80cd704e40a48b9f755c (pinned to 7d89db76029281fd8f3e6698a8e30738608105a9) is no longer listed
-2026-11-13T18:44:37Z	huihui-ai/Huihui-Qwen3-Coder-30B-A3B-Instruct-abliterated	PF-TORRENT-REMOVED	torrent btih:64e3580566050c20edd598c792f923741a8d4d5f (pinned to b84c58d52ac44041774fe9542e1943e4d971b5f4) is no longer listed
-2026-11-13T18:44:39Z	huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated	PF-TORRENT-REMOVED	torrent btih:c3bc31c9a2a45c9c3c81e8a823e0d6b600e5e95b (pinned to b47a0690b22eaf1d9a63874d967a03781c90f9cf) is no longer listed
-2026-11-13T18:44:41Z	huihui-ai/Huihui-Qwen3.5-27B-abliterated	PF-TORRENT-REMOVED	torrent btih:43d38173486776f4860596b259fdaa57e2dbee62 (pinned to 77b8a75fe4c784db0cc43b84368007d98f15838a) is no longer listed
-2026-11-13T18:44:43Z	huihui-ai/Huihui-Qwen3.5-4B-abliterated	PF-TORRENT-REMOVED	torrent btih:45736239842925c8b867bcf468cd1fe687211430 (pinned to 5581467dfd52bf338c782006a6cdce05c42594be) is no longer listed
-2026-11-13T18:44:45Z	huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated-MTP-GGUF	PF-TORRENT-REMOVED	torrent btih:8c4bb34ade0428637f5be359e3db5f604176c7d2 (pinned to acd5abe0c5ebd064f3863ca7d4bba2d924ec6544) is no longer listed
-2026-11-13T18:44:47Z	huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-MTP-GGUF	PF-TORRENT-REMOVED	torrent btih:22005b0533fe7c7cd9e67065b6f3099e2c24d692 (pinned to a7e3b416f83559fb234f3f1f6b31c8d2367a7af2) is no longer listed
-2026-11-13T18:44:49Z	huihui-ai/Huihui-Qwen3.8-27B-abliterated	PF-TORRENT-REMOVED	torrent btih:43a74e6c910bc1504414d0697f3d5c14f2a8eaac (pinned to 739e3c5b89849f6c238ce1e5b70008612ae42cdd) is no longer listed
-2026-11-13T18:44:52Z	huihui-ai/Huihui-Qwen3.8-27B-Coder390-EfficientThink-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:2fda6909c3bef70745000ade1b66d1c9a643453c (pinned to a0b17c71d9943529aefe88b83f494bf01c6b4d68) is no longer listed
-2026-11-13T18:44:59Z	incoai/Qwen3.8-Flash-Next-DFlash2-GGUF	PF-TORRENT-REMOVED	torrent btih:2d50f23ec8323e9846469f09e106b8b61fe0457a (pinned to 4f5a39be8f0a9e9a573ac9824251830a8f4096d9) is no longer listed
-2026-11-13T18:50:40Z	Qwen/Qwen2-7B-Instruct-AWQ	PF-TORRENT-REMOVED	torrent btih:0e393639fe41dbdc8d31d97a7affa2a45338f5ab (pinned to f7621c98023fa293e743c692981a3c8f5b564b86) is no longer listed
-2026-11-13T18:50:42Z	Qwen/Qwen2-7B-Instruct-MLX	PF-TORRENT-REMOVED	torrent btih:a82702478d8ffbe3e712c798f37c0f284d406ec4 (pinned to 4a487f1aa9fc3addeffd4e6a4b3946e1e82dcaaa) is no longer listed
-2026-11-13T18:50:43Z	Qwen/Qwen2-Audio-7B	PF-TORRENT-REMOVED	torrent btih:d05f6e1e5b1cde3ca4032c39a4cda7fe56ef8e3c (pinned to dd84470756e6277a71d4d7188773a43cde92696e) is no longer listed
-2026-11-13T18:50:45Z	Qwen/Qwen2-Math-1.5B	PF-TORRENT-REMOVED	torrent btih:32c1e30bf7f196478973be0cebc83c09ca4f3f57 (pinned to a257a714105a2c4a79c898201cfd907bc9b02138) is no longer listed
-2026-11-13T18:50:47Z	Qwen/Qwen2-Math-1.5B-Instruct	PF-TORRENT-REMOVED	torrent btih:d564ad35608d522dfab51b1f172238b3544ccc10 (pinned to 19bd485b6474f7263545b4d5a1c29d78bcbf3a4f) is no longer listed
-2026-11-13T18:50:49Z	Qwen/Qwen2-Math-7B	PF-TORRENT-REMOVED	torrent btih:abb9899566bfd1931b63a79fd1c6585ae7b3b697 (pinned to 47a44ff4136da8960adbab02b2326787086bcf6c) is no longer listed
-2026-11-13T18:50:51Z	Qwen/Qwen2-VL-2B	PF-TORRENT-REMOVED	torrent btih:f451454fdb88141be22bcdfd6cd9ed76728ba571 (pinned to d3a53f2484fce9d62fff115a5ddfc833f873bfde) is no longer listed
-2026-11-13T18:50:53Z	Qwen/Qwen2-VL-2B-Instruct	PF-TORRENT-REMOVED	torrent btih:2ae9503a63c057823b0711c89707ce6cd20818d7 (pinned to 895c3a49bc3fa70a340399125c650a463535e71c) is no longer listed
-2026-11-13T18:50:55Z	Qwen/Qwen2.5-1.5B-Instruct-GPTQ-Int4	PF-TORRENT-REMOVED	torrent btih:b4f819b1971f291607cc674bee355a39c9d9d855 (pinned to 4f5a0e31008e2966e8f787964bcc4e1105e03dc3) is no longer listed
-2026-11-13T18:50:56Z	Qwen/Qwen2.5-1.5B-Instruct-GPTQ-Int8	PF-TORRENT-REMOVED	torrent btih:ed7583d7895b2c60bb4546d6b338a8cfff41f7b7 (pinned to a4d4d713148f198ad81770c44a6fb14426ce7479) is no longer listed
-2026-11-13T18:51:09Z	Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4	PF-TORRENT-REMOVED	torrent btih:badb3b790b8071df4fc00ca97601f161762843de (pinned to c83e67dfb2664f5039fd4cd99e206799e27dd800) is no longer listed
-2026-11-13T18:51:11Z	Qwen/Qwen2.5-32B-Instruct-GPTQ-Int8	PF-TORRENT-REMOVED	torrent btih:a75abee100da97be9f951b4fb1d967323260d15f (pinned to eddc13f573fd3648cc8a4741fdf1b70e8d6fc5c1) is no longer listed
-2026-11-13T18:51:13Z	Qwen/Qwen2.5-7B	PF-TORRENT-REMOVED	torrent btih:8340d2e938cd75e0d45a1f3c0a23799718bd18ac (pinned to d149729398750b98c0af14eb82c78cfe92750796) is no longer listed
-2026-11-13T18:51:15Z	Qwen/Qwen2.5-7B-Instruct	PF-TORRENT-REMOVED	torrent btih:81ed64cdea094a85d5b6df0725288750b650d6c8 (pinned to a09a35458c702b33eeacc393d103063234e8bc28) is no longer listed
-2026-11-13T18:51:27Z	Qwen/Qwen2.5-VL-32B-Instruct	PF-TORRENT-REMOVED	torrent btih:b9abf8fa87f4dd1c33a2ac8da32d031d2514b5bc (pinned to 7cfb30d71a1f4f49a57592323337a4a4727301da) is no longer listed
-2026-11-13T18:51:28Z	Qwen/Qwen2.5-VL-32B-Instruct-AWQ	PF-TORRENT-REMOVED	torrent btih:c3b21abfdb411467acd24596faeb664a5cf27fc0 (pinned to 66c370b74a18e7b1e871c97918f032ed3578dfef) is no longer listed
-2026-11-13T18:51:30Z	Qwen/Qwen2.5-VL-7B-Instruct	PF-TORRENT-REMOVED	torrent btih:bcd8c2611c916e4f6973d3ec84ae87c922a39019 (pinned to cc594898137f460bfe9f0759e9844b3ce807cfb5) is no longer listed
-2026-11-13T18:51:34Z	Qwen/Qwen3-0.6B	PF-TORRENT-REMOVED	torrent btih:7158ba0f294cdd7da7f4d4f7a496c6162a63a622 (pinned to c1899de289a04d12100db370d81485cdf75e47ca) is no longer listed
-2026-11-13T18:51:36Z	Qwen/Qwen3-0.6B-Base	PF-TORRENT-REMOVED	torrent btih:8340d1d8f826dd66bed9583cd4f763c3be83f589 (pinned to da87bfb608c14b7cf20ba1ce41287e8de496c0cd) is no longer listed
-2026-11-13T18:51:37Z	Qwen/Qwen3-0.6B-FP8	PF-TORRENT-REMOVED	torrent btih:5797fddafa8d28277f48d7fcdf184884297ce1dd (pinned to e5be08033360965ceca7b0ffd72d521a51331ce0) is no longer listed
-2026-11-13T18:51:39Z	Qwen/Qwen3-0.6B-GGUF	PF-TORRENT-REMOVED	torrent btih:98509545a4b912a4b955953848ea1f2ed900edf2 (pinned to 23749fefcc72300e3a2ad315e1317431b06b590a) is no longer listed
-2026-11-13T18:51:41Z	Qwen/Qwen3-0.6B-GPTQ-Int8	PF-TORRENT-REMOVED	torrent btih:61491b65c5f69c3475204b6c6037c05d467a4988 (pinned to d3f20e7e71825fe57ad32705b396e9e156279107) is no longer listed
-2026-11-13T18:51:43Z	Qwen/Qwen3-0.6B-MLX-6bit	PF-TORRENT-REMOVED	torrent btih:ace9a1e856fd0c656aa6482cb1da45bf978afec8 (pinned to 3818e758c8ed9ec596a5e0c4c426fb81f7c0be18) is no longer listed
-2026-11-13T18:51:45Z	Qwen/Qwen3-0.6B-MLX-8bit	PF-TORRENT-REMOVED	torrent btih:cf3a22b1034ccbaf05f5e8fd657c56afdc4a43c1 (pinned to e53d3ae02ebc79eac17f1fa9e23a2b65ce227893) is no longer listed
-2026-11-13T18:51:47Z	Qwen/Qwen3-0.6B-MLX-bf16	PF-TORRENT-REMOVED	torrent btih:03868a587c337f75178bdaaaf70158da9e7863aa (pinned to bc82a1060abf25e90be9782b12c00fa55d9bf542) is no longer listed
-2026-11-13T18:51:49Z	Qwen/Qwen3-1.7B	PF-TORRENT-REMOVED	torrent btih:ebc17645194c91a2fa5b95310419bcca1d46a1d0 (pinned to 70d244cc86ccca08cf5af4e1e306ecf908b1ad5e) is no longer listed
-2026-11-13T18:51:51Z	Qwen/Qwen3-1.7B-Base	PF-TORRENT-REMOVED	torrent btih:d527c93fddd683e30f42bd37ea9c7ff6e67ba27b (pinned to ea980cb0a6c2ae4b936e82123acc929f1cec04c1) is no longer listed
-2026-11-13T18:51:52Z	Qwen/Qwen3-1.7B-FP8	PF-TORRENT-REMOVED	torrent btih:3b90ff9cacb9f2bad6a4340059b3e1d5d09fe994 (pinned to 1641e6c1b620b7ed7e8711b443990429a23b1b99) is no longer listed
-2026-11-13T18:51:54Z	Qwen/Qwen3-14B	PF-TORRENT-REMOVED	torrent btih:ffbfa2798581f0bfeed14d913ddf75815a7fce31 (pinned to 40c069824f4251a91eefaf281ebe4c544efd3e18) is no longer listed
-2026-11-13T18:51:56Z	Qwen/Qwen3-14B-AWQ	PF-TORRENT-REMOVED	torrent btih:f25547cc889d4edf35a44669e2b1481142625831 (pinned to 31c69efc29464b6bb0aee1398b5a7b50a99340c3) is no longer listed
-2026-11-13T18:51:58Z	Qwen/Qwen3-14B-Base	PF-TORRENT-REMOVED	torrent btih:ab61823f7edbc1af4491e3c2a31a3dda1dff6ade (pinned to 0b0bd3732e2c374d483664439ea334928b65f304) is no longer listed
-2026-11-13T18:52:00Z	Qwen/Qwen3-30B-A3B-Instruct-2507-FP8	PF-TORRENT-REMOVED	torrent btih:2be1647bf04df450a23854e33b6dc0288a55137a (pinned to 5a5a776300a41aaa681dd7ff0106608ef2bc90db) is no longer listed
-2026-11-13T18:52:07Z	Qwen/Qwen3-32B-AWQ	PF-TORRENT-REMOVED	torrent btih:e92d5fd2a42f4d4d2ff2f2b8da4be1cc5d4b7cf9 (pinned to 0499c3ac83fdef8810b907a23894ba91e95eddd8) is no longer listed
-2026-11-13T18:52:08Z	Qwen/Qwen3-32B-FP8	PF-TORRENT-REMOVED	torrent btih:91d32a811b8e7ef49bff7d533d6d5e7241aec739 (pinned to aa55da1ecc13d006e8b8e4f54579b1ea8c3db2df) is no longer listed
-2026-11-13T18:52:10Z	Qwen/Qwen3-32B-GGUF	PF-TORRENT-REMOVED	torrent btih:36d97f057d3b9887ee3907a81d58eb72c350ae31 (pinned to 938a7432affaec9157f883a87164e2646ae17555) is no longer listed
-2026-11-13T18:52:12Z	Qwen/Qwen3-4B-Base	PF-TORRENT-REMOVED	torrent btih:ee5f2fa9780b0d114f38b0ad8e4c3842705ee904 (pinned to 906bfd4b4dc7f14ee4320094d8b41684abff8539) is no longer listed
-2026-11-13T18:52:14Z	Qwen/Qwen3-4B-FP8	PF-TORRENT-REMOVED	torrent btih:2c40f91e1697d27ee143710fe0efed5d2178c584 (pinned to 96b30dc13593a244a5e59e84687309f53c375cfa) is no longer listed
-2026-11-13T18:52:20Z	Qwen/Qwen3-4B-MLX-6bit	PF-TORRENT-REMOVED	torrent btih:ed7ba0b7eaa0375f677ef0a5c7a8bfa9ed1ad298 (pinned to d73d5dba88e4b0356f224d778fdd88d973ec217f) is no longer listed
-2026-11-13T18:52:27Z	Qwen/Qwen3-8B-AWQ	PF-TORRENT-REMOVED	torrent btih:d6597a7acd22fc560582a32eabe0e92570c3abaa (pinned to 4da05a8edb55c6046cce958586c33b61da07bb79) is no longer listed
-2026-11-13T18:52:31Z	Qwen/Qwen3-8B-GGUF	PF-TORRENT-REMOVED	torrent btih:d310893433806f1489ffe6feed7bfbb94e2ee21b (pinned to 7c41481f57cb95916b40956ab2f0b139b296d974) is no longer listed
-2026-11-13T18:52:38Z	Qwen/Qwen3-ASR-0.6B-hf	PF-TORRENT-REMOVED	torrent btih:dcb294fdd31a2e7e7c10dcfeb74283ab89b4ed6f (pinned to 7f1569a48a89f3e3f4dc3a5c9d28bddd903bc76c) is no longer listed
-2026-11-13T18:52:40Z	Qwen/Qwen3-ASR-1.7B	PF-TORRENT-REMOVED	torrent btih:9bed3af9ed9360b23ec3d4b81f796ca86ac4914e (pinned to 7278e1e70fe206f11671096ffdd38061171dd6e5) is no longer listed
-2026-11-13T18:53:02Z	SC117/Ornith-1.5-35B-A3B-Heretic-MTP-APEX-GGUF	PF-TORRENT-REMOVED	torrent btih:c453375486e44d8e861cfe3a3aaaa8e79ab9d0e8 (pinned to f85f0cc68d86d8620ee1826f41701dd99a1e3829) is no longer listed
-2026-11-13T18:53:04Z	SC117/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-GGUF	PF-TORRENT-REMOVED	torrent btih:80cf25fa88727d8059d31ee07aba45133f5fea54 (pinned to 313e55f61a045dd18ac023d28fe845ee35988a5d) is no longer listed
-2026-11-13T18:53:06Z	SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF	PF-TORRENT-REMOVED	torrent btih:eb6136e38af3d0fdf5e20ccfc93ec429098e1de3 (pinned to eec4e10a2c29b440a2ae85591fa11569ce752963) is no longer listed
-2026-11-13T18:53:08Z	SC117/Spark-X2.6-4B-abliterated-FIT-GGUF	PF-TORRENT-REMOVED	torrent btih:97be5e1ac356a90f0bed38f1dfca6c435bcc41c0 (pinned to 553e60db1f336797dedbf740c0e7db7b751bc614) is no longer listed
-2026-11-13T18:53:10Z	shawnw3i/Huihui-Qwen3.6-27B-abliterated-AWQ-MTP	PF-TORRENT-REMOVED	torrent btih:d0a0dfd6a704ad3f882cc98e1b3f9f193c5cdfe3 (pinned to ed099273cf30ad72a88116d759856f147b7bcbff) is no longer listed
-2026-11-13T18:53:12Z	soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf	PF-TORRENT-REMOVED	torrent btih:8b783c114e0fa758a9fe87ab7d473ecb26685bca (pinned to f01809e437fb3046ae9afd31d684556f9ae5dd46) is no longer listed
-2026-11-13T18:53:14Z	SyndicateLabs/Qwen3.8-27B-OBLITERATED-GGUF	PF-TORRENT-REMOVED	torrent btih:839605b2dd0863de5556efd4f5459db841629c42 (pinned to 0cd3e5e3325f342520f374a5a3d858eed49a7476) is no longer listed
-2026-11-13T18:53:18Z	Thunder13240/Ornith-1.5-9B-heretic-GGUF	PF-TORRENT-REMOVED	torrent btih:b2e72f9b7cc0628b31a6063b13b7f3267d522c03 (pinned to a2e7bbe174b637fafb28ecccce8c8355307f5cd4) is no longer listed
-2026-11-13T18:53:21Z	ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF	PF-TORRENT-REMOVED	torrent btih:36495218c8b0edc8ea3f4a6049de6fa0ce91e6f5 (pinned to 1e664931451831589ce16389a55e0d5605dd4bc5) is no longer listed
-2026-11-13T18:53:24Z	unsloth/all-mpnet-base-v2	PF-TORRENT-REMOVED	torrent btih:3e094de5131b8fb6e12e5805104ceeed75bb78e3 (pinned to d0a69f4c91dd1649c3bf964d5e4de9cfa69cb9b7) is no longer listed
-2026-11-13T18:53:26Z	unsloth/Beam-1.0-501B-A23B-GGUF	PF-TORRENT-REMOVED	torrent btih:9841206437d3a3f9f8f55d01993db140422e0799 (pinned to 4cc80272381734e2b16b34c1af3362c7268a0ebc) is no longer listed
-2026-11-13T18:53:28Z	unsloth/bge-m3	PF-TORRENT-REMOVED	torrent btih:70298df427404b229e7ebe81e59e12303988502a (pinned to 57cb1c17d3cb917401c50b204393ee455359a565) is no longer listed
-2026-11-13T18:53:40Z	unsloth/DeepSeek-R1-BF16	PF-TORRENT-REMOVED	torrent btih:c479820e5da1923d40100a69f11ebecdd2c950c7 (pinned to 7d1258fb7f49406f05eba49394f79e76308ab9ce) is no longer listed
-2026-11-13T18:53:44Z	unsloth/DeepSeek-R1-Distill-Qwen-1.5B-unsloth-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:7478b920fda9b5b3ec3abf63c003c2de5851a1cd (pinned to c93b549ceae3f8137b567af565c2b204b3045091) is no longer listed
-2026-11-13T18:53:48Z	unsloth/DeepSeek-R1-GGUF	PF-TORRENT-REMOVED	torrent btih:3c379aa34cb8e3966881015a66c550803f27f7c4 (pinned to 4dab99fdb3fea560e5a402b49c6ef11e025321a8) is no longer listed
-2026-11-13T18:53:51Z	unsloth/DeepSeek-V3.2-GGUF	PF-TORRENT-REMOVED	torrent btih:c7af3ce4bd7523f08a8968bb76b571c5ba5dcc8f (pinned to a787696863bafd5c736955ef81cc869a0bf6178a) is no longer listed
-2026-11-13T18:53:53Z	unsloth/DeepSeek-V4-Flash-0731-GGUF	PF-TORRENT-REMOVED	torrent btih:4911f8357f467cac1f7b671083706ad8738ff20f (pinned to fbbb5b93fb787c21338159b0af3318bb3f4d9768) is no longer listed
-2026-11-13T18:53:55Z	unsloth/DeepSeek-V4-Flash-GGUF	PF-TORRENT-REMOVED	torrent btih:24f5ecd9f816bfde0f5543210a4728b4a9245137 (pinned to e3aa0d6a5fa4f820d9e132ac1fd1d01e1b2b49e0) is no longer listed
-2026-11-13T18:53:59Z	unsloth/DeepSeek-V4-Pro-0813-GGUF	PF-TORRENT-REMOVED	torrent btih:5084ee5ce95f7b5c22881f7006009b9df61be120 (pinned to 6d053616d152293da72569f56b861466f10ace7d) is no longer listed
-2026-11-13T18:54:00Z	unsloth/DeepSeek-V4.1-Flash-1017	PF-TORRENT-REMOVED	torrent btih:57c883ba98184b01d254a8f8345876c41beffe3b (pinned to c02aad1faf63a89fc0b6fb301810a74d92cbaf19) is no longer listed
-2026-11-13T18:54:22Z	unsloth/gemma-4-12B-it-qat-GGUF	PF-TORRENT-REMOVED	torrent btih:a961845c5e465d707029a67f21bfb7b243808748 (pinned to 980b060c40a8539ac159e0501a3e0f66a6365af3) is no longer listed
-2026-11-13T18:54:24Z	unsloth/gemma-4-26B-A4B-it-GGUF	PF-TORRENT-REMOVED	torrent btih:c34c87b37c40b5db832603dab22f3dc926f76aa8 (pinned to c099eb48e663fd284577b04978a94ffccb261841) is no longer listed
-2026-11-13T18:54:25Z	unsloth/gemma-4-26B-A4B-it-NVFP4	PF-TORRENT-REMOVED	torrent btih:b037e7e9bdfdfe87903d52d639781fd1ddf01917 (pinned to 20df0542b1a86ce19f495ac2eca2c7c12bce82f9) is no longer listed
-2026-11-13T18:54:31Z	unsloth/gemma-4-31B-it-qat-GGUF	PF-TORRENT-REMOVED	torrent btih:cc7186a5a66a0e2be9517e40a5c216017ef93a02 (pinned to 43cc1aeb31adf47ec06a854507ce552cd9862e6f) is no longer listed
-2026-11-13T18:54:35Z	unsloth/gemma-4-E2B-it-GGUF	PF-TORRENT-REMOVED	torrent btih:91653415113858b0c45a9ab84b276ba08b066aed (pinned to 0314792d7f1f7e229411f620751375812bb9faf2) is no longer listed
-2026-11-13T18:54:37Z	unsloth/gemma-4-E2B-it-qat-GGUF	PF-TORRENT-REMOVED	torrent btih:775f6d6ccf95bb20da1fd2c2676eb9c003a4af9c (pinned to 66a399f68ddd113b06dff02fca9523e55465d11d) is no longer listed
-2026-11-13T18:54:39Z	unsloth/gemma-4-E2B-it-qat-mobile-GGUF	PF-TORRENT-REMOVED	torrent btih:fb0de1fe9ec1ad2f651cf516e713189c2a1afc19 (pinned to 46af839dc23aceb4b965ab640dae7fc1bea39bba) is no longer listed
-2026-11-13T18:54:41Z	unsloth/gemma-4-E2B-it-unsloth-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:9e51d21ccf825e837d634153a3c24213b6c5af52 (pinned to 0ae102ac289cc3f17500a607ad817849778b8ba7) is no longer listed
-2026-11-13T18:54:53Z	unsloth/GLM-4-9B-0414-GGUF	PF-TORRENT-REMOVED	torrent btih:a3e8095e00e3c17e9174ec674dcb287d33e60d5d (pinned to 40a17a0c8f24664ddd851dafd03935553c25a57e) is no longer listed
-2026-11-13T18:55:05Z	unsloth/GLM-4.7-Flash-FP8-Dynamic	PF-TORRENT-REMOVED	torrent btih:3c576096315c4da0542405e5bbc56342c8b7f716 (pinned to 1174de1393d38e3d30c2882b98eb54fd8c1e9d1f) is no longer listed
-2026-11-13T18:55:07Z	unsloth/GLM-4.7-Flash-GGUF	PF-TORRENT-REMOVED	torrent btih:02d20d62c729a6230431a5fb775adcfddb7a619f (pinned to 0d32489ecb9db6d2a4fc93bd27ef01519f95474d) is no longer listed
-2026-11-13T18:55:09Z	unsloth/GLM-4.7-Flash-REAP-23B-A3B-GGUF	PF-TORRENT-REMOVED	torrent btih:fe30cc1984646d65e2d5609e4bed21727fd946f0 (pinned to 983a65c63bc7bd37353e5246abc8005b3f72d5ec) is no longer listed
-2026-11-13T18:55:28Z	unsloth/inkling-GGUF	PF-TORRENT-REMOVED	torrent btih:14e60b30e33117d4f9e183954a37eae66a450474 (pinned to d3e9ffca48751dbe8b59dab5cfa364621257c682) is no longer listed
-2026-11-13T18:55:34Z	unsloth/MiMo-V2-Flash-GGUF	PF-TORRENT-REMOVED	torrent btih:add76a6f865fde719da91d2a4b708b8d5717f5ec (pinned to 04c761fbebcf4f3239b1cfdafec85533dcc0dea3) is no longer listed
-2026-11-13T18:55:36Z	unsloth/MiniMax-M2-GGUF	PF-TORRENT-REMOVED	torrent btih:1e7795efe2dc7fdd1632b1c8514b2c08ab1f8359 (pinned to 06e952eab9e8e136847e9df067a0032582696778) is no longer listed
-2026-11-13T18:55:37Z	unsloth/Ministral-3-14B-Instruct-2512-GGUF	PF-TORRENT-REMOVED	torrent btih:0870979ccfef300df465acdcefa75f1476739524 (pinned to 9b948841b705cc11285ff274b84ba6c885908b19) is no longer listed
-2026-11-13T18:56:32Z	unsloth/Phi-4-reasoning-plus-GGUF	PF-TORRENT-REMOVED	torrent btih:5b8a1e4d5d937cde4a2d5bae271c083355009730 (pinned to 80fff8542dc7b88dba725b660beefd80e91e80c9) is no longer listed
-2026-11-13T18:56:34Z	unsloth/Qwen-AgentWorld-35B-A3B-GGUF	PF-TORRENT-REMOVED	torrent btih:c73d11d1d2ef179e21ce4001cb33f54d0e449893 (pinned to 3a305abf5cfd119ee999dfe929c433746edd8d63) is no longer listed
-2026-11-13T18:56:38Z	unsloth/Qwen-Image-ComfyUI	PF-TORRENT-REMOVED	torrent btih:bd4b5e2330d173d0925fb525e8c961a4ae4ad7c1 (pinned to 02996b5342e6b5b91bf53b890d4239b8e07ef0fa) is no longer listed
-2026-11-13T18:56:40Z	unsloth/Qwen-Image-Edit-2509-GGUF	PF-TORRENT-REMOVED	torrent btih:038d7e5f494d287c9a8911a34eb4a267f40c5afe (pinned to 3decb31546939b71d83fa74f92c3903797e63eae) is no longer listed
-2026-11-13T18:56:41Z	unsloth/Qwen-Image-Edit-2511-GGUF	PF-TORRENT-REMOVED	torrent btih:61e24706971ffaf6d2a5be5f00230021ae6b71bb (pinned to 0d33d9692b4b26212297240d87b0d4719aa4fd06) is no longer listed
-2026-11-13T18:56:43Z	unsloth/Qwen-Image-GGUF	PF-TORRENT-REMOVED	torrent btih:ff38f9fc24c3485914b941ff5f6ec1c3411b5f72 (pinned to 4a068a306246797dd58755239b8dcfc3d11971eb) is no longer listed
-2026-11-13T18:56:45Z	unsloth/Qwen-Image-Layered-GGUF	PF-TORRENT-REMOVED	torrent btih:afcd1ad135f7e1819d675ab4f347a9f8522400ca (pinned to 762a51bed1f76aec1d8fc9546ca9f705454393fa) is no longer listed
-2026-11-13T18:56:47Z	unsloth/Qwen2-0.5B	PF-TORRENT-REMOVED	torrent btih:e4539b3af1d157dce907cc524b040b687576bdaa (pinned to 9c2de7470cf6bbe95a9869c5c7cd933dda2ddbc7) is no longer listed
-2026-11-13T18:56:58Z	unsloth/Qwen2.5-0.5B-Instruct	PF-TORRENT-REMOVED	torrent btih:a12c728f8c03a04c5298fef877a8c6f0388f846d (pinned to ae616882a38b36759fc46ac3fd6769498833b913) is no longer listed
-2026-11-13T18:57:00Z	unsloth/Qwen2.5-0.5B-Instruct-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:69c387cb176052ad23bb1ab8d1984f549d5ab708 (pinned to 216d96b52c97a3c8294776df8477592f6828981c) is no longer listed
-2026-11-13T18:57:02Z	unsloth/Qwen2.5-0.5B-Instruct-unsloth-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:378c730e0da159cbcab2eb84ced1d65d6a680aa0 (pinned to 10413c288cb9629acdf60b3e0229f3ba75efe413) is no longer listed
-2026-11-13T18:57:04Z	unsloth/Qwen2.5-0.5B-unsloth-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:3bad56cf5c6990656e9db36023faf24e069b31a4 (pinned to 78aa76add6b52793c6efcc89e832a169873df796) is no longer listed
-2026-11-13T18:57:05Z	unsloth/Qwen2.5-1.5B	PF-TORRENT-REMOVED	torrent btih:202241b088f8f66f4bfd90b309837574ca4dc243 (pinned to 1582479a65dd3252951448feee6868d2cfda6452) is no longer listed
-2026-11-13T18:57:07Z	unsloth/Qwen2.5-1.5B-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:267cbb6b270502890a28593b4b3819ce3f8e5c12 (pinned to be384e0f310aebeb08439f9ffbfff7d89b5a9ca8) is no longer listed
-2026-11-13T18:57:37Z	unsloth/Qwen2.5-Coder-0.5B-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:1ab7bbc3c408b0ea779dd3c52c13d1b814fba6dd (pinned to 6a59d74d1eaf2f3687e7caa03723f01ace6cdafb) is no longer listed
-2026-11-13T18:59:13Z	unsloth/Qwen3-VL-2B-Instruct-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:c06d5b248fbb2cb4f71344e81cea1ed81cbc3320 (pinned to 282a5c75135453e12f17eff5f2ee5c5729d0b2ae) is no longer listed
-2026-11-13T18:59:15Z	unsloth/Qwen3-VL-2B-Instruct-GGUF	PF-TORRENT-REMOVED	torrent btih:543623eb229c8b8ce6a7993bf16bba577f33454f (pinned to 8dcb98e52a1d1d02dce9249e5ab15bae8121c666) is no longer listed
-2026-11-13T18:59:20Z	unsloth/Qwen3-VL-4B-Instruct	PF-TORRENT-REMOVED	torrent btih:ff21be27023fec7738b8f09546f9f6a8e6e006d3 (pinned to 252d592b59b0233b226875a44ac135cfa1d3f755) is no longer listed
-2026-11-13T18:59:30Z	unsloth/Qwen3-VL-8B-Instruct-unsloth-bnb-4bit	PF-TORRENT-REMOVED	torrent btih:9ce412d1a2e3254a8a3fb862d584afda4d931dab (pinned to b5b904c3fcdc7541adf2a2bb219b0ed95288c794) is no longer listed
-2026-11-13T18:59:32Z	unsloth/Qwen3.5-0.8B	PF-TORRENT-REMOVED	torrent btih:d17c8e8aab0ce3e181ed3fcb7b4a154fd9f9166b (pinned to 23c69c53358a07516b5827588b3fdb12ae78fd65) is no longer listed
-2026-11-13T18:59:34Z	unsloth/Qwen3.5-0.8B-Base	PF-TORRENT-REMOVED	torrent btih:cb91b4d2ee56499ef37a73c7e42fdf149c2d5c95 (pinned to 44bc982576bf30f0a9440303598859d92604ea5d) is no longer listed
-2026-11-13T18:59:35Z	unsloth/Qwen3.5-0.8B-GGUF	PF-TORRENT-REMOVED	torrent btih:328b37dbc9b1c5469a17dec6cfc874b5eea6f3b1 (pinned to 6ab461498e2023f6e3c1baea90a8f0fe38ab64d0) is no longer listed
-2026-11-13T18:59:37Z	unsloth/Qwen3.5-27B-GGUF	PF-TORRENT-REMOVED	torrent btih:eda3c15568c98a7928d5d0d1aeac901a8db7f98d (pinned to 3221f178a6b842d04f1fb42f1c413534adcc0a6a) is no longer listed
 2026-11-13T19:05:08Z	llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GGUF	PF-TORRENT-ADDED	torrent btih:861f5f583700d127b729680aaf7346e28ae546bb, pinned to fa96dc904fe4dafb415ca707afab30aee2d2e703, 1 seeds
+2026-11-14T03:53:17Z	peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF	NEW-REPO	main c4d587fbcd64d0e2c768465706cfa0705d91f2fa, 20 weight files, 78 hash versions in history
+2026-11-14T03:53:18Z	bartowski/google_gemma-4-26B-A4B-it-GGUF	NEW-REPO	main 10f3b41bcf8d3047f4e136e7197ffc2dd1654c9d, 33 weight files, 142 hash versions in history
+2026-11-14T03:53:19Z	LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF	NEW-REPO	main e55216fa4cc583519d72fcf45bf795a1c7a2dff9, 15 weight files, 70 hash versions in history
+2026-11-14T03:53:20Z	AtomicChat/Ripple-65B-Preview-GGUF	NEW-REPO	main df550a7178a87bbfb6ee2bdbd37603c553d536ee, 17 weight files, 17 hash versions in history
+2026-11-14T03:53:21Z	freakyskittle/CYBER-FROST-3.8-GGUF	NEW-REPO	main 3653d81a87ec580d63dbe32fac4a8e87d7156930, 11 weight files, 20 hash versions in history
+2026-11-14T03:53:23Z	Comfy-Org/RelayVSR	NEW-REPO	main 202c35eb0a5bb64b7017d5a09ea9acea87b7a081, 4 weight files, 9 hash versions in history
+2026-11-14T03:53:24Z	bottlecapai/ThinkingCap-gemma-4-26B-A4B-it-GGUF	NEW-REPO	main bb52b322579d218a9931261d6c9cd7403d80eb96, 8 weight files, 8 hash versions in history
+2026-11-14T03:53:24Z	ibm-granite/granite-4.1-3b-GGUF	NEW-REPO	main ab4701481089b58a082ef63cc1cee738887293ff, 15 weight files, 15 hash versions in history
+2026-11-14T03:53:27Z	owao/Sabi-Noema-GGUF	NEW-REPO	main 4b6cfc0fbf7aa0f5e4a140d9f13bfc76e8a6cf53, 10 weight files, 20 hash versions in history
+2026-11-14T03:53:27Z	Alissonerdx/Molmo2-8B-Minimax-H3	NEW-REPO	main 17737a900190616c787f69c1180d49b9363739ae, 15 weight files, 43 hash versions in history
+2026-11-14T03:53:28Z	mradermacher/ThinkingCap-gemma-4-26B-A4B-it-i1-GGUF	NEW-REPO	main b5080a8d7e49feadd95574fdc608896c0a689283, 24 weight files, 24 hash versions in history
+2026-11-14T03:53:32Z	bartowski/bottlecapai_ThinkingCap-gemma-4-26B-A4B-it-GGUF	NEW-REPO	main de1c1771eec0996c68fbd92021de1f5a86cee5ac, 26 weight files, 26 hash versions in history
+2026-11-14T03:53:33Z	xtools-at/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic	NEW-REPO	main 75f3680f191c436681a5b74cf65de3b6b8894768, 4 weight files, 5 hash versions in history
+2026-11-14T03:53:33Z	mradermacher/Qwen3.5-122B-A10B-abliterated-v1-GGUF	NEW-REPO	main 75b5adaca28d5c76b8b906009de7f63b0108f12a, 11 weight files, 11 hash versions in history
+2026-11-14T03:53:36Z	ChenDY/NitroFusion2	NEW-REPO	main 31614c6fc9ef01ebb74d5ca99b830b277d876b02, 33 weight files, 33 hash versions in history
+2026-11-14T03:53:37Z	Cactus-Compute/mirage	NEW-REPO	main 3d03cee88c0acbe4e71b94b567ab14e6e55f40c9, 3 weight files, 5 hash versions in history
+2026-11-14T03:53:37Z	Maximilian228/Qwen3.8-Flash-Next-NVFP4-Q8-Mix-Strata	NEW-REPO	main a416f1b62c94773dced85c99a371a0949c240e87, 8 weight files, 8 hash versions in history
+2026-11-14T03:53:39Z	bartowski/NousResearch_Arete-27B-GGUF	NEW-REPO	main 9762c8502a79bd2b8634735d75f426b9febe092c, 29 weight files, 29 hash versions in history
+2026-11-14T03:53:42Z	Oliver577/NSFW-Qwen-by-TheseAlpacas-V2	NEW-REPO	main 7c7002be374e75a7b41148ebbae15162c98b2cea, 2 weight files, 2 hash versions in history
+2026-11-14T03:53:43Z	prithivMLmods/Qwen3.5-4B-3D-Coder-MTP-Repacked	NEW-REPO	main 53ab160b036d12819b7eb7a5f694d5945a47d4c9, 29 weight files, 29 hash versions in history
+2026-11-14T03:53:45Z	deep-principle/Hydrogen-1.0-NVFP4	NEW-REPO	main a96c2b9d359396b625a38e848c29d3d0ae5daf1e, 54 weight files, 54 hash versions in history
+2026-11-14T03:53:47Z	cross-encoder/ettin-reranker-400m-v1	NEW-REPO	main 5dca36282a5d85f368d2544002513a29159b4c9e, 15 weight files, 15 hash versions in history
+2026-11-14T03:53:47Z	inclusionAI/Ming-flash-omni-Preview	NEW-REPO	main 49d299f1746f07354b5d737683d3b61e8fe04df7, 61 weight files, 61 hash versions in history
+2026-11-14T03:53:48Z	peculiar-ragdoll/Sharp-Spark-X2.6-4B-GGUF	NEW-REPO	main d6b3e40d5f6372d16f83320230f9b26796ee956e, 7 weight files, 7 hash versions in history
+2026-11-14T03:53:49Z	Horizon-Labs/prompt-injection-guard-small	NEW-REPO	main 2efc2ed5abecd21eb45c2506d231a65d6e392b85, 4 weight files, 11 hash versions in history
+2026-11-14T03:53:51Z	Horizon-Labs/multilingual-reranker-small	NEW-REPO	main 23139fec6f1f448cdf89a5ac2d2c6bf5e8c7b398, 4 weight files, 10 hash versions in history
+2026-11-14T03:53:52Z	Horizon-Labs/punctuation-restoration-small	NEW-REPO	main a1818fae73a1d09b5496e67747dda7bd667b79a8, 4 weight files, 7 hash versions in history
+2026-11-14T03:53:53Z	ricursiveAI/Ripple-65B-Preview-DFlash2	NEW-REPO	main 35609b3be3dd08a822b3ba1257c1ea5dd6f87632, 1 weight files, 1 hash versions in history
+2026-11-14T03:53:55Z	maritaca-ai/S5-nano-GGUF	NEW-REPO	main 892d3b6ce018802d74fed1650e712e5fcd5a42b5, 5 weight files, 5 hash versions in history
+2026-11-14T03:53:57Z	ricursiveAI/Ripple-65B-Preview-NVFP4	NEW-REPO	main 2789217ba87d93e8d032fad25217c4c63a0e1d5b, 6 weight files, 12 hash versions in history
+2026-11-14T03:53:57Z	IsValorum/Clover-35B-A3B-Preview-APEX-I-MiniPlus-V2.1-GGUF	NEW-REPO	main 2939d6f24685ceb5cc2b8dcc6f4e1f73f206cfd4, 1 weight files, 1 hash versions in history
+2026-11-14T03:53:58Z	aj9o9/Qwen3.8-27B-DSpine-b16-GGUF	NEW-REPO	main e27cc7dfe121a0c9327eb36a7cce82a0dfa9e3e6, 4 weight files, 4 hash versions in history
+2026-11-14T03:54:00Z	KRLabsOrg/lettucedect-610m-eurobert-de-v1	NEW-REPO	main c5169f2f1b7f85751feedaa7f16af22548ef9ef8, 2 weight files, 2 hash versions in history
+2026-11-14T03:54:01Z	LatitudeGames/Wayfarer-2-12B-GGUF	NEW-REPO	main 63a5cee127f9fe66cb4ff9dbff309bf15d31069b, 26 weight files, 26 hash versions in history
+2026-11-14T03:54:01Z	jadechoghari/mar	NEW-REPO	main a89a6d383f64d686dd08f5438a706ef48fe44540, 5 weight files, 12 hash versions in history
+2026-11-14T03:54:03Z	Ihor/gliner-biomed-large-v1.0	NEW-REPO	main f79771210ab2111a2081ef31620fdb7342f602e9, 4 weight files, 4 hash versions in history
+2026-11-14T03:54:04Z	D3rPapst/rife-ifnet-gufo	NEW-REPO	main 35e15f37034180c6b78f7b330ec69e14d1ef7692, 2 weight files, 2 hash versions in history
+2026-11-14T03:54:06Z	D3rPapst/triposg-gufo	NEW-REPO	main cb181774b3fb36debc4a29480d28ec4d4bdb1914, 1 weight files, 1 hash versions in history
+2026-11-14T03:54:06Z	summerAIO/Diffusion-Qwen3.8-27B	NEW-REPO	main d5587a6b8ac1577c502878799bbbcf398220ce9b, 14 weight files, 14 hash versions in history
+2026-11-14T03:54:08Z	D3rPapst/realesrgan-srvgg-gufo	NEW-REPO	main 6eb6028e2cebbc591c675cc9baaedf45d3b01b2b, 3 weight files, 3 hash versions in history
+2026-11-14T03:54:09Z	D3rPapst/moss-music-8b-gufo	NEW-REPO	main 5b7ab20662e491d2e4fb5030cfb77c6d8dd54185, 2 weight files, 2 hash versions in history
+2026-11-14T03:54:10Z	D3rPapst/trellis2-gufo	NEW-REPO	main 2fc0757e6f47160df21c2737ff85675a461c93b5, 6 weight files, 6 hash versions in history
+2026-11-14T03:54:14Z	D3rPapst/ace-step-1.5-gufo	NEW-REPO	main 54c799b9f22cf0493eec75cde0308a6d6664f536, 10 weight files, 10 hash versions in history
+2026-11-14T03:56:44Z	Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-IQ2_XXS-GGUF	PF-TORRENT-UPDATED	pinned 7cd42ba35d96db00d89feef3582a6e63214a56be -> 99acb20f7c83a37d7f0ea6082e924f3d61615d72; btih:75d80f8f250f75885cb49397cb2f57ca401c47e4 -> btih:ddec1824660109e24d8579329d1b74d7033124a2
+2026-11-14T03:57:49Z	DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF	PF-TORRENT-UPDATED	pinned 6bcdb4c85db1f48ddec0671203fb0d0308d9bfef -> 81bd8f8cbdd9a23eee93dd931a313614c29cb5d1; btih:9d272f1c3bd26998d5d1b00ddb69f6b25b13b4db -> btih:0e1b973a1957fbacee1af7c40e3f5d04c1aa9e05
+2026-11-14T03:57:59Z	DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF	PF-TORRENT-UPDATED	pinned c64d9b9e1ee38ad10f2806b1ba7e6125636a47d6 -> 4e27a31558d0abc987bc57c1c9e31d6f4a3005e2; btih:4fc947e38e80f20ac25a77590ea150d9e319e472 -> btih:385fdd10bb20a4647533ebdd780f92b68b291983
+2026-11-14T03:58:03Z	DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF	PF-TORRENT-UPDATED	pinned b9bce7e859c9b5047aca884e5bff76f8a0443de1 -> ceb55042229d17dcf45df52ad84698339e63d4c5; btih:73d7d2758c26c416f827c69ec9538abf0a6d9da1 -> btih:3c4dc6eb8b422351044c0b31ab17ed53f53f62d9
+2026-11-14T03:59:06Z	huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF	PF-TORRENT-UPDATED	pinned 1c69098e9c32db6dc06fc48f1d6cc75ad07da89e -> 8f1b52408a2f6e317535190c9386f776cacf0079; btih:890a2f3b9dda4ec7fcaa3322c06ecf00434c713e -> btih:975566b4867488c2ac455cdc8c37e32837851949
+2026-11-14T04:01:35Z	nvidia/Nemotron-3.5-Parse	PF-TORRENT-UPDATED	pinned 62cb1e4ba153d113ff64aaf2be6e068c377cf53c -> 62cb1e4ba153d113ff64aaf2be6e068c377cf53c; btih:b4cea890254476818b3fcfda2f15cf9a19496ec3 -> btih:80788e6efac5d917b343f77195009d5c13200c73
+2026-11-14T04:17:34Z	Qwen/Qwen-Image-Layered	PF-TORRENT-ADDED	torrent btih:da691d8f0a0e18e819a8b803cf3c440a05b91603, pinned to 8f0ca708dfff6ba1dd5f2d85d78f8c108a040bcf, 0 seeds
+2026-11-14T04:19:30Z	Qwen/Qwen2-1.5B-Instruct-GPTQ-Int4	PF-TORRENT-ADDED	torrent btih:fd5a37eaa9efada62338ddc8b6aadc90aaa773fc, pinned to b2e2d7e4336e61901d421296d0a1f418b1a93ae7, 2 seeds
+2026-11-14T04:19:55Z	Qwen/Qwen2-7B-Instruct-GGUF	PF-TORRENT-ADDED	torrent btih:4a37e2183b91144a779fbb81fbceb0c2de70eed1, pinned to c3024c6fff0a02d52119ecee024bbb93d4b4b8e4, 0 seeds
+2026-11-14T04:20:01Z	Qwen/Qwen2-Audio-7B-Instruct	PF-TORRENT-ADDED	torrent btih:782b05e726474e228b9664607d5d8217e778f8e5, pinned to 0a095220c30b7b31434169c3086508ef3ea5bf0a, 0 seeds
+2026-11-14T04:20:10Z	Qwen/Qwen2-VL-2B-Instruct-AWQ	PF-TORRENT-ADDED	torrent btih:4cd78bbaa8576651a02c4a6655471667b21b67db, pinned to 4f6ea6d22fcf0f8c1ed64d1d2a3d722d4d7bbcea, 2 seeds
+2026-11-14T04:20:12Z	Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4	PF-TORRENT-ADDED	torrent btih:259fb667bece6c2734bb9d12d81f0272e6497bd5, pinned to 531c1cb12987e4f4cebdf8df41e08d1c570be0ed, 5 seeds
+2026-11-14T04:20:38Z	Qwen/Qwen2.5-0.5B-Instruct	PF-TORRENT-ADDED	torrent btih:7fb388ce23a40e6e00533ee87fdecd68e7afaf0d, pinned to 7ae557604adf67be50417f59c2c2f167def9a775, 3 seeds
+2026-11-14T04:20:40Z	Qwen/Qwen2.5-0.5B-Instruct-AWQ	PF-TORRENT-ADDED	torrent btih:3c58261ad7df60381dd53b81ca933f54e25e7280, pinned to db09cd27ead7fee40cdee309693cf83601b9c899, 2 seeds
+2026-11-14T04:20:42Z	Qwen/Qwen2.5-0.5B-Instruct-GGUF	PF-TORRENT-ADDED	torrent btih:b33eecf6649839b267bc32e04ea2f4a9a9f7156a, pinned to 9217f5db79a29953eb74d5343926648285ec7e67, 1 seeds
+2026-11-14T04:20:57Z	Qwen/Qwen2.5-14B-Instruct-GGUF	PF-TORRENT-ADDED	torrent btih:33d71504d9512df4b7b5bb98eb7074ef6b5d556e, pinned to b466e1f8c07172155743e8e1307507d8a4f91fbd, 1 seeds
+2026-11-14T04:21:04Z	Qwen/Qwen2.5-32B-Instruct-AWQ	PF-TORRENT-ADDED	torrent btih:967690e07761b1ede515b4941ffd36da039f2879, pinned to 5c7cb76a268fc6cfbb9c4777eb24ba6e27f9ee6c, 1 seeds
+2026-11-14T04:21:36Z	Qwen/Qwen2.5-7B-Instruct-GPTQ-Int4	PF-TORRENT-ADDED	torrent btih:c0b3adfed146d18692bc16bf115ba90472a5d91f, pinned to e9c932ac1893a49ae0fc497ad6e1e86e2e39af20, 8 seeds
+2026-11-14T04:21:42Z	Qwen/Qwen2.5-Coder-0.5B-Instruct	PF-TORRENT-ADDED	torrent btih:c4bb2d2e5ed5ff9f2eaf1b67f0a0c9c6fbec3f1a, pinned to ea3f2471cf1b1f0db85067f1ef93848e38e88c25, 1 seeds
+2026-11-14T04:21:47Z	Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF	PF-TORRENT-ADDED	torrent btih:e1c26a35d385118eda1d89d491e79c4a2b8d6e12, pinned to ebb2015119c907b064c512bf053e945850b5875f, 2 seeds
+2026-11-14T04:21:49Z	Qwen/Qwen2.5-Coder-0.5B-Instruct-GPTQ-Int4	PF-TORRENT-ADDED	torrent btih:25547172127811eff4536054e33e497545c3dd6d, pinned to a19dcad47e5d876891fe8af6fe56703ce611be9d, 0 seeds
+2026-11-14T04:21:53Z	Qwen/Qwen2.5-Coder-1.5B	PF-TORRENT-ADDED	torrent btih:0d6161a63c5a83d86a0feef1e6f831292fc8f83e, pinned to df3ce67c0e24480f20468b6ef2894622d69eb73b, 1 seeds
+2026-11-14T04:21:56Z	Qwen/Qwen2.5-Coder-1.5B-Instruct	PF-TORRENT-ADDED	torrent btih:3c2690be9e63d7197239d057b1408396d79ac941, pinned to 2e1fd397ee46e1388853d2af2c993145b0f1098a, 12 seeds
+2026-11-14T04:22:00Z	Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF	PF-TORRENT-ADDED	torrent btih:0b7c54e97fef910575c92974f8cd88d713401962, pinned to f86cb2c1fa58255f8052cc32aeede1b7482d4361, 1 seeds
+2026-11-14T04:22:02Z	Qwen/Qwen2.5-Coder-1.5B-Instruct-GPTQ-Int4	PF-TORRENT-ADDED	torrent btih:06662bcaf1b710d61772a35e84f1388d70f1af5c, pinned to d45c7545dc428f013534f8bfd0441b3afffc0006, 0 seeds
+2026-11-14T04:22:07Z	Qwen/Qwen2.5-Coder-14B	PF-TORRENT-ADDED	torrent btih:29044884405a73d82fd41cce2af9343b6832d3a4, pinned to f2ad5164aade432d6d56c24bb71589184d5d613d, 0 seeds
+2026-11-14T04:22:15Z	Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4	PF-TORRENT-ADDED	torrent btih:6102bbe3bc93caa616389248e592f7d75d5eb6d7, pinned to d435273c87c9fd984eb9d27ae89d4e12a4676052, 0 seeds

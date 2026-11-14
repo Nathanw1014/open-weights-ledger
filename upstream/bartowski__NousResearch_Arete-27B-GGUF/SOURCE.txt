@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF
+main commit at snapshot: 9762c8502a79bd2b8634735d75f426b9febe092c
+snapshot taken: 2026-11-14T03:53:37Z

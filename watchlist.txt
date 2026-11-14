@@ -59,3 +59,43 @@ search:halogen-swift top:20 label:Halogen
 search:halogen-HGN top:20 label:Halogen
 search:Uncensored-Halogen top:20 label:Halogen
 search:gufo top:30 label:Gufo
+
+# Named in Pirate Face community torrents post, 2026-11-14
+peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF
+bartowski/google_gemma-4-26B-A4B-it-GGUF
+LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF
+AtomicChat/Ripple-65B-Preview-GGUF
+Comfy-Org/RelayVSR
+freakyskittle/CYBER-FROST-3.8-GGUF
+bottlecapai/ThinkingCap-gemma-4-26B-A4B-it-GGUF
+ibm-granite/granite-4.1-3b-GGUF
+Alissonerdx/Molmo2-8B-Minimax-H3
+mradermacher/ThinkingCap-gemma-4-26B-A4B-it-i1-GGUF
+owao/Sabi-Noema-GGUF
+xtools-at/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic
+bartowski/bottlecapai_ThinkingCap-gemma-4-26B-A4B-it-GGUF
+mradermacher/Qwen3.5-122B-A10B-abliterated-v1-GGUF
+Cactus-Compute/mirage
+Maximilian228/Qwen3.8-Flash-Next-NVFP4-Q8-Mix-Strata
+ChenDY/NitroFusion2
+bartowski/NousResearch_Arete-27B-GGUF
+deep-principle/Hydrogen-1.0-NVFP4
+prithivMLmods/Qwen3.5-4B-3D-Coder-MTP-Repacked
+Oliver577/NSFW-Qwen-by-TheseAlpacas-V2
+cross-encoder/ettin-reranker-400m-v1
+inclusionAI/Ming-flash-omni-Preview
+peculiar-ragdoll/Sharp-Spark-X2.6-4B-GGUF
+Horizon-Labs/prompt-injection-guard-small
+Horizon-Labs/multilingual-reranker-small
+Horizon-Labs/punctuation-restoration-small
+ricursiveAI/Ripple-65B-Preview-DFlash2
+maritaca-ai/S5-nano-GGUF
+ricursiveAI/Ripple-65B-Preview-NVFP4
+IsValorum/Clover-35B-A3B-Preview-APEX-I-MiniPlus-V2.1-GGUF
+aj9o9/Qwen3.8-27B-DSpine-b16-GGUF
+LatitudeGames/Wayfarer-2-12B-GGUF
+jcbtc/Qwen3.8-Flash-CIRU-STRIX-IU4
+KRLabsOrg/lettucedect-610m-eurobert-de-v1
+jadechoghari/mar
+Ihor/gliner-biomed-large-v1.0
+summerAIO/Diffusion-Qwen3.8-27B

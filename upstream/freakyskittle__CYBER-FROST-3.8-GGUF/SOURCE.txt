@@ -1,0 +1,3 @@
+repo: https://huggingface.co/freakyskittle/CYBER-FROST-3.8-GGUF
+main commit at snapshot: 3653d81a87ec580d63dbe32fac4a8e87d7156930
+snapshot taken: 2026-11-14T03:53:20Z

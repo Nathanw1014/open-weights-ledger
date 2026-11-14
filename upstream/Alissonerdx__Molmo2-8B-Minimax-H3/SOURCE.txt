@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Alissonerdx/Molmo2-8B-Minimax-H3
+main commit at snapshot: 17737a900190616c787f69c1180d49b9363739ae
+snapshot taken: 2026-11-14T03:53:24Z

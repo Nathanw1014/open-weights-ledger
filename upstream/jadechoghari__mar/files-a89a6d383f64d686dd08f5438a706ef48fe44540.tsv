@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+kl16.safetensors	265856244	ae6e66b66cce64248cace5aa6cf8bdb3e834947801cbf7e059028592e2b1de31	sha256
+mar-base.safetensors	831736456	d8735425f563a88bd7aabc5ff8ac43d2b3dbb0777b8dc4e0dbcb1abfb6c5cb07	sha256
+mar-huge.safetensors	3769676360	cac36cd25a1bee61c9f0aa705748fd5b17eb8833048dfb6cc3bedb7b6412c08d	sha256
+mar-large.safetensors	1913355128	558ed22f240aad7a4c6fd1add604a58b30610c8ae62a9d608fa8fefb3846bb45	sha256
+model.safetensors	831736456	d8735425f563a88bd7aabc5ff8ac43d2b3dbb0777b8dc4e0dbcb1abfb6c5cb07	sha256

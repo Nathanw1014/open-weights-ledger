@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ricursiveAI/Ripple-65B-Preview-DFlash2
+main commit at snapshot: 35609b3be3dd08a822b3ba1257c1ea5dd6f87632
+snapshot taken: 2026-11-14T03:53:50Z

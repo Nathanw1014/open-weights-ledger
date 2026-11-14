@@ -1,0 +1,92 @@
+[
+{
+"Path": "granite-4.1-3b-Q2_K.gguf",
+"Sha256": "6e921ed273da3b918a14fd6ffb381f7476c423f1fd68bb8437e7882089a6667b",
+"IsLFS": true,
+"CommittedDate": 1778220611
+},
+{
+"Path": "granite-4.1-3b-Q3_K_L.gguf",
+"Sha256": "5af908d7b8343ae3a316c1854750365ff9efce195d948bf635a71752f9d8c75b",
+"IsLFS": true,
+"CommittedDate": 1778220623
+},
+{
+"Path": "granite-4.1-3b-Q3_K_M.gguf",
+"Sha256": "43db9c8da5360eaeef0039cdc28aefdf43ede98ddf36ec7edfd6d4ee89f36403",
+"IsLFS": true,
+"CommittedDate": 1778220635
+},
+{
+"Path": "granite-4.1-3b-Q3_K_S.gguf",
+"Sha256": "8528be0ca2c5e9bc586ec52845bec0fdca0243723768c4fbb24390efa2f65af4",
+"IsLFS": true,
+"CommittedDate": 1778220647
+},
+{
+"Path": "granite-4.1-3b-Q4_0.gguf",
+"Sha256": "d7e739eb4572c43d20dd6536c12fa29e1fc81b8f48e64048265d558e0441cb0e",
+"IsLFS": true,
+"CommittedDate": 1778220668
+},
+{
+"Path": "granite-4.1-3b-Q4_1.gguf",
+"Sha256": "4dc7a1c9d96a1732c246e3931f11cf991cbe5b444ca77dba448d746794c109d3",
+"IsLFS": true,
+"CommittedDate": 1778220680
+},
+{
+"Path": "granite-4.1-3b-Q4_K_M.gguf",
+"Sha256": "662b0626cd58f443baea23559b469df6576a81d349649c59413b36a9fb32eb29",
+"IsLFS": true,
+"CommittedDate": 1778220691
+},
+{
+"Path": "granite-4.1-3b-Q4_K_S.gguf",
+"Sha256": "ed5b17192313b021f0579561d9c471419e7e62ec490986364e3d9d63ea36a08a",
+"IsLFS": true,
+"CommittedDate": 1778220703
+},
+{
+"Path": "granite-4.1-3b-Q5_0.gguf",
+"Sha256": "8a8d613c85fedc9e61aecb6ae2130a02630db0da86a4959d58f6ccbbc526d704",
+"IsLFS": true,
+"CommittedDate": 1778220715
+},
+{
+"Path": "granite-4.1-3b-Q5_1.gguf",
+"Sha256": "8ad602bde555b9df030d4b7cfd779e4d5931e68563ea506ca1c0acbbc31dd827",
+"IsLFS": true,
+"CommittedDate": 1778220727
+},
+{
+"Path": "granite-4.1-3b-Q5_K_M.gguf",
+"Sha256": "f7724d259f29b0edf147144ac530ca26f91c97af8274249f933073c461678a3c",
+"IsLFS": true,
+"CommittedDate": 1778220739
+},
+{
+"Path": "granite-4.1-3b-Q5_K_S.gguf",
+"Sha256": "f96e8ed3b8193e6576fc5774fef119532f696467967306a41d41e7493b08fd18",
+"IsLFS": true,
+"CommittedDate": 1778220751
+},
+{
+"Path": "granite-4.1-3b-Q6_K.gguf",
+"Sha256": "7c769f7fe34c4d0756e06beff8badb41879d748c0e6f0aa773f2db53016a57d8",
+"IsLFS": true,
+"CommittedDate": 1778220763
+},
+{
+"Path": "granite-4.1-3b-Q8_0.gguf",
+"Sha256": "c31f09b9fd19bc51440f100f54fe5ac3d5deb26ef79ec93c38e4a14873c42a80",
+"IsLFS": true,
+"CommittedDate": 1778220775
+},
+{
+"Path": "granite-4.1-3b-bf16.gguf",
+"Sha256": "e5fc3d677f42a9cba091ea6084cf619bd434ff5ac56b893d3bf5d4f604581091",
+"IsLFS": true,
+"CommittedDate": 1778221052
+}
+]

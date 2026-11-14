@@ -1,0 +1,26 @@
+[
+{
+"Path": "diffusion_models/relayvsr_x2_lightx2v_int8_convrot.safetensors",
+"Sha256": "240e75e0c17cf2845d559b25254a230ff7458f81449d7a8c5e7e3fb8275c7b3c",
+"IsLFS": true,
+"CommittedDate": 1793979171
+},
+{
+"Path": "diffusion_models/relayvsr_x4_int8_convrot.safetensors",
+"Sha256": "21303b3c5f9ab4e1fd3fe00df5dd2e0b343f0cf2e3d269e03a9872000a313a2e",
+"IsLFS": true,
+"CommittedDate": 1793905229
+},
+{
+"Path": "vae/relayvsr_flash_vae_x2_fp32.safetensors",
+"Sha256": "b5bb0339acb5b52545911ea29a51b4c5b805776a779222b5a14591571f42e21c",
+"IsLFS": true,
+"CommittedDate": 1793905229
+},
+{
+"Path": "vae/relayvsr_flash_vae_x4_fp32.safetensors",
+"Sha256": "7b8b8c99275fd5c4501b0589cc7b4c4506456a5df83160ef4e207e147b30f714",
+"IsLFS": true,
+"CommittedDate": 1793905229
+}
+]

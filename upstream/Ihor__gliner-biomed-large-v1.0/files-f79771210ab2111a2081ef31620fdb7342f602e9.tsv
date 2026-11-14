@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+pytorch_model.bin	1912078950	7e3591fd58c3ee7ebe9a957fafeba6e635634e16ab5fa9329b6ad80d330ad8f9	sha256
+rng_state.pth	14244	9ed11b66a45d5d27da550d15fce8e14b77ceb06d1f0cfeb9513795fb99cb5724	sha256
+scheduler.pt	1064	e115debc88a308ec6141837d91ce27474371bbc4ba1ac15e0c651b86a69e4cd3	sha256
+spm.model	2464616	c679fbf93643d19aab7ee10c0b99e460bdbc02fedf34b92b05af343b4af586fd	sha256

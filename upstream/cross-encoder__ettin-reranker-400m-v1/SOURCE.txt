@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cross-encoder/ettin-reranker-400m-v1
+main commit at snapshot: 5dca36282a5d85f368d2544002513a29159b4c9e
+snapshot taken: 2026-11-14T03:53:44Z

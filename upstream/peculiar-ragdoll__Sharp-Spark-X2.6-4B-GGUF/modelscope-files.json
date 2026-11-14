@@ -1,0 +1,26 @@
+[
+{
+"Path": "Sharp-Spark-X2.6-4B-Q4_K_XL.gguf",
+"Sha256": "7785d531fa69408496d929f85fdb06f858c2417c1a7b2ba7cf0a22fafc182240",
+"IsLFS": true,
+"CommittedDate": 1793817727
+},
+{
+"Path": "Sharp-Spark-X2.6-4B-Q5_K_XL.gguf",
+"Sha256": "f723c24dc6270b82f68ea849df849988fb8033931a4d3e79edc23d82a3cdc215",
+"IsLFS": true,
+"CommittedDate": 1793817730
+},
+{
+"Path": "Sharp-Spark-X2.6-4B-Q6_K_XL.gguf",
+"Sha256": "66cba01df2e2228aedce3f4592efeff69a495ef7ce2e176fc3d902793fbf8eb3",
+"IsLFS": true,
+"CommittedDate": 1793817732
+},
+{
+"Path": "Spark-X2.6-4B-cyber.imatrix.gguf",
+"Sha256": "bd96ee0ebfd756af269ff533c0031ad441e0a582e79eaf7d2fd9396f88e34e39",
+"IsLFS": true,
+"CommittedDate": 1793817734
+}
+]

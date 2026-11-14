@@ -1,0 +1,50 @@
+[
+{
+"Path": "ThinkingCap-gemma-4-26B-A4B-it-IQ4_XS.gguf",
+"Sha256": "c84bb3c8b997cc7c8fbd5922f3abb362f92ebf5d290654a90bcef5a10c021085",
+"IsLFS": true,
+"CommittedDate": 1792780738
+},
+{
+"Path": "ThinkingCap-gemma-4-26B-A4B-it-MXFP4_MOE.gguf",
+"Sha256": "5fc218edb5663cdacac4f56af30022706c292eb5c99afc06897c4c14e76b80d2",
+"IsLFS": true,
+"CommittedDate": 1792780917
+},
+{
+"Path": "ThinkingCap-gemma-4-26B-A4B-it-Q4_K_M.gguf",
+"Sha256": "a8886c823fdc09694db766ba0e86eaf75e2a54ae676071ef73630868cc94c77b",
+"IsLFS": true,
+"CommittedDate": 1792780919
+},
+{
+"Path": "ThinkingCap-gemma-4-26B-A4B-it-Q6_K.gguf",
+"Sha256": "82cefd31fd4b8c469399db2bb015ded75e58a588be21ad8a11b90225a128b877",
+"IsLFS": true,
+"CommittedDate": 1792781149
+},
+{
+"Path": "ThinkingCap-gemma-4-26B-A4B-it-Q8_0.gguf",
+"Sha256": "48fadbcf38a2fe1191f7865769435bc26e5ca5ad00d482c7e157e71953aec3e0",
+"IsLFS": true,
+"CommittedDate": 1792781151
+},
+{
+"Path": "ThinkingCap-gemma-4-26B-A4B-it-imatrix.gguf",
+"Sha256": "f54d3b5da79ccd7555658b6d9766be840fd694841ff5c806c9964e1885157612",
+"IsLFS": true,
+"CommittedDate": 1792781153
+},
+{
+"Path": "gemma_cap_header.png",
+"Sha256": "8c5c14ce7eee434dca4d5b2188261b58b8232710ae123dc7ffb9646c055494b5",
+"IsLFS": true,
+"CommittedDate": 1792781156
+},
+{
+"Path": "mmproj-ThinkingCap-gemma-4-26B-A4B-it-f16.gguf",
+"Sha256": "4030b92de0d559d7a0cde19659761adc3d8454f06503adb8dac425acfd67c239",
+"IsLFS": true,
+"CommittedDate": 1792781158
+}
+]

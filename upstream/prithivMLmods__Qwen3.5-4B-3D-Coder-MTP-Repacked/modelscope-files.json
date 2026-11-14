@@ -1,0 +1,110 @@
+[
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.BF16.gguf",
+"Sha256": "9155c3f6831299717fd36db4d20a3e19569406311d62a9e75b41155d493cc121",
+"IsLFS": true,
+"CommittedDate": 1793644842
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.Q3_K_L.gguf",
+"Sha256": "29632bb76f5ac28208db568c141fbb13bc4ef28a74255d3c05cbb46e82bd47c8",
+"IsLFS": true,
+"CommittedDate": 1793644842
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.Q3_K_M.gguf",
+"Sha256": "8eb39cbd4fb73af58f12d0b3d698abe265f0e966c1a0fd3e8c8d9f1b346dfc18",
+"IsLFS": true,
+"CommittedDate": 1793644842
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.Q4_K_M.gguf",
+"Sha256": "e04186006a91d006d5219af7b274b55581f076472d9d234e17d3643d82a4108d",
+"IsLFS": true,
+"CommittedDate": 1793644842
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.Q4_K_S.gguf",
+"Sha256": "dd40334ed4ae6483757c111918142a181ccaced75df6b2258f5e815db75a6827",
+"IsLFS": true,
+"CommittedDate": 1793644844
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.Q5_K_M.gguf",
+"Sha256": "f6df331b72ee59eb09132b58fe17d45d693a1a89f34a84daeefb9913434fd96b",
+"IsLFS": true,
+"CommittedDate": 1793644844
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.Q5_K_S.gguf",
+"Sha256": "7996266ece76c054edd1964f314f5e1c84a059c8c7ce9cf4c514705f5dd8b728",
+"IsLFS": true,
+"CommittedDate": 1793644844
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.Q6_K.gguf",
+"Sha256": "e99907ac4cf9870eb49ab1c1f43648351cbf8b94caebab8f4b3894eb87f30842",
+"IsLFS": true,
+"CommittedDate": 1793644844
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.Q8_0.gguf",
+"Sha256": "ffaaa6678a04ebb0d2f5246588322b7d4ae77a5bb08987eac86e06289b28fecc",
+"IsLFS": true,
+"CommittedDate": 1793644844
+},
+{
+"Path": "GGUF/Qwen3.5-4B-3D-Coder-MTP.mmproj-bf16.gguf",
+"Sha256": "51924d869985c61d34dd03a79757f839759bf2d59b07538730ed3c9965604f8b",
+"IsLFS": true,
+"CommittedDate": 1793644846
+},
+{
+"Path": "Qwen3.5-4B-3D-Coder_Technical_Report.pdf",
+"Sha256": "49758364b633bd6c119848839dd5fc1b29368e978532c5e97498cf66db13c728",
+"IsLFS": true,
+"CommittedDate": 1793644846
+},
+{
+"Path": "images/gallery/sakura-temple-garden.svg",
+"Sha256": "62a88a0b312a09fcceb7282a5316882c3635138809266c2cd821bf9342a319fd",
+"IsLFS": true,
+"CommittedDate": 1793644855
+},
+{
+"Path": "images/gallery/sunset-village.svg",
+"Sha256": "4de16b04e5f03f9096385f22ff252c8ab0c839d486de99f232ffb3cd5d1aed70",
+"IsLFS": true,
+"CommittedDate": 1793644855
+},
+{
+"Path": "model-00001-of-00004.safetensors",
+"Sha256": "601678ca49b7dde960f8a6f219d4c3bb050280cd751c7e4f478e76c47b45cfb0",
+"IsLFS": true,
+"CommittedDate": 1793644885
+},
+{
+"Path": "model-00002-of-00004.safetensors",
+"Sha256": "bd1f955f864a7700507ef753afeb02fa8f5503208336d4a14cf672dd0d2deeec",
+"IsLFS": true,
+"CommittedDate": 1793644897
+},
+{
+"Path": "model-00003-of-00004.safetensors",
+"Sha256": "021dca39ce1100891b7c6452dd996c7abb2a7cd573f92319806a573d64a8d4db",
+"IsLFS": true,
+"CommittedDate": 1793644897
+},
+{
+"Path": "model-00004-of-00004.safetensors",
+"Sha256": "f65654b29b5480c1c15fe0c198b36f61f54a3cf5e85f48f447a366e4fad8fa3c",
+"IsLFS": true,
+"CommittedDate": 1793644897
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "a5cd9732badce41de57e6efce8302930ded1c1188c5f81feb2bd6c24c4a1941f",
+"IsLFS": true,
+"CommittedDate": 1793644914
+}
+]

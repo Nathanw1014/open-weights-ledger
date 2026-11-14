@@ -1,0 +1,32 @@
+[
+{
+"Path": "S5-nano-BF16.gguf",
+"Sha256": "565c6441c8c5297500f0bfc5d0cf14053b6e80e90976a5bd6586b56715cd8f1f",
+"IsLFS": true,
+"CommittedDate": 1794192901
+},
+{
+"Path": "S5-nano-Q4_K_M.gguf",
+"Sha256": "c7040c0770c427d06eb22643e41f061a1bc30e267f07dbcad5a9861b4564003b",
+"IsLFS": true,
+"CommittedDate": 1794192907
+},
+{
+"Path": "S5-nano-Q8_0.gguf",
+"Sha256": "f82c0edcb4fa74dc2db7246ef0532f23288943f9f88ec4066b77b1cba307354f",
+"IsLFS": true,
+"CommittedDate": 1794192912
+},
+{
+"Path": "S5-nano-imatrix.gguf",
+"Sha256": "f1171709b4ad1a9ed63c52116bfc0cadac3afe3904415ee25888d20a5f5eac64",
+"IsLFS": true,
+"CommittedDate": 1794316335
+},
+{
+"Path": "mmproj-S5-nano-F16.gguf",
+"Sha256": "726bf445dc3a32ffa392ac4918060023b16e43090bef02c257722ecd6f343d71",
+"IsLFS": true,
+"CommittedDate": 1794192931
+}
+]

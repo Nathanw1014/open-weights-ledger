@@ -1,0 +1,104 @@
+[
+{
+"Path": "Dirk-Qwen3.8-27B-UD-IQ2_S.gguf",
+"Sha256": "2dfb4d79ad4097573109abc7cc44201844d3e3a3fa59d73a3cc103064993be7a",
+"IsLFS": true,
+"CommittedDate": 1794492175
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-IQ2_XS.gguf",
+"Sha256": "2666ef16e991d49f5ce36b295e019e2430519c12bf0b5362a08dc52d4abcc5d5",
+"IsLFS": true,
+"CommittedDate": 1794492185
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-IQ3_S.gguf",
+"Sha256": "eaf096b8758408d360766c8336e42058ca4a2299880639b5907d71459d00c78c",
+"IsLFS": true,
+"CommittedDate": 1794492187
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-IQ3_XXS.gguf",
+"Sha256": "07131b0867d0b188919720d2072faa3139256c13fb354ba2c5e53b5805a3f5b3",
+"IsLFS": true,
+"CommittedDate": 1794492213
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-IQ4_XS.gguf",
+"Sha256": "c76dee7707c82d2dbfdca96ae3b00b82bd79edb3c2801c628a1b43335b1566a9",
+"IsLFS": true,
+"CommittedDate": 1794492218
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q2_K_XL.gguf",
+"Sha256": "337a77955ffa0e06ae1a40eabcef5ec654fdb8e447e9dcb60703e0f1648c239f",
+"IsLFS": true,
+"CommittedDate": 1794492222
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q3_K_XL.gguf",
+"Sha256": "83453feb9664fa39176d5f36ce5506f442bc8d09991c1fc1616a614632e432af",
+"IsLFS": true,
+"CommittedDate": 1794492225
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q4_K_M.gguf",
+"Sha256": "5901b4f69468776f3c9d44e764e5f7a4e9e4c436c807f6baac3dba5d69334446",
+"IsLFS": true,
+"CommittedDate": 1794492333
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q4_K_S.gguf",
+"Sha256": "94f1358c1133ab5902d04fcb7c4b8ec8e1dc1d23d7fe09c58d4dc521ab22a493",
+"IsLFS": true,
+"CommittedDate": 1794492576
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q4_K_XL.gguf",
+"Sha256": "711530303357f26d02539354f44bf60685045607d065ca78e83b84e112dd25be",
+"IsLFS": true,
+"CommittedDate": 1794492612
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q5_K_XL.gguf",
+"Sha256": "22e930b85f421e72f7be727b6e20d7329ae7f986100946ebd492c3eec464d94a",
+"IsLFS": true,
+"CommittedDate": 1794492901
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q6_K.gguf",
+"Sha256": "f4f7f033dd9260a24c343879f349cf8b9bc8b760d8136ab35e3800d0f60d8ba6",
+"IsLFS": true,
+"CommittedDate": 1794492903
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q6_K_XL.gguf",
+"Sha256": "b449de1e717bfd5651b32a91c935e23990010df34910b439438bed6dde0c6b0c",
+"IsLFS": true,
+"CommittedDate": 1794492906
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q8_K_L.gguf",
+"Sha256": "12bfa26a2ed0a6686d96e1b1a000fa161f35a45af8bab8d0e01141e80f2e1011",
+"IsLFS": true,
+"CommittedDate": 1794492990
+},
+{
+"Path": "Dirk-Qwen3.8-27B-UD-Q8_K_XL.gguf",
+"Sha256": "98312534b556f750c636b638d2bfe498a2f305609f7b6ab53e5edb9abff9f964",
+"IsLFS": true,
+"CommittedDate": 1794492992
+},
+{
+"Path": "assets/card_swe_bounds.png",
+"Sha256": "4c4e7cb87eb85b58506c0a451abcb25f502d3472b2ada7770c99cf8cd5fd18a8",
+"IsLFS": true,
+"CommittedDate": 1787057953
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "cbb841a9ee0636b2ec172f5bb8df2ea8dfeb01e90fe7c6126581d662a0b4e43e",
+"IsLFS": true,
+"CommittedDate": 1786733813
+}
+]

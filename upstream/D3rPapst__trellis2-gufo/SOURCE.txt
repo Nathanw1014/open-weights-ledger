@@ -1,0 +1,3 @@
+repo: https://huggingface.co/D3rPapst/trellis2-gufo
+main commit at snapshot: 2fc0757e6f47160df21c2737ff85675a461c93b5
+snapshot taken: 2026-11-14T03:54:07Z

@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+moss-music-8b.audio.gguf	1724490048	653e9ae67f35ba5ed3d4df8b34381ca03aea92c16d92449a131d4f1a8a65763e	sha256
+moss-music-8b.llm-Q8_0.gguf	8709518144	eeeb19b6f78342cc93708564f1fba18be49d5e7ca060c83f8db44782e6a49807	sha256
