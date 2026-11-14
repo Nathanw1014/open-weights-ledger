@@ -1,0 +1,3 @@
+repo: https://huggingface.co/huihui-ai/Huihui-GLM-5.3-abliterated-GGUF
+main commit at snapshot: d91866dea60cef8f1ecbf14619c6b28b965f6cbb
+snapshot taken: 2026-11-14T18:38:43Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/gemma-4-26B-A4B-it-ultra-uncensored-heretic-GGUF
+main commit at snapshot: 91631fceca9e32832197b8f5d9b3fcb2078ae921
+snapshot taken: 2026-11-14T18:38:55Z

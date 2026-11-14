@@ -1,0 +1,15 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen2.5-VL-7B-Abliterated-Caption-it.IQ4_XS.gguf	4250298528	70c7b499b4a8870c61264d3f7c4754ea877376cb6303d74349ab8f386b6c3028	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q2_K.gguf	3015940256	de9596badb46d05678667896f09d61c1325fd6e72e884cac6a6290b52e39bfee	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q3_K_L.gguf	4088459424	dd6692ea1d6962c19662858ef436420b58c131aa1e051d0e33df7b87ea873543	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q3_K_M.gguf	3808391328	8cb6ca97ac76b3ae620173207dc213af304a9659aff31d054aeceb6b1dbf3e52	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q3_K_S.gguf	3492368544	ad8d21f1fc9fa2bd507eef0d078c34a9159606bc93833c143f89422479eb6c04	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q4_K_M.gguf	4683073696	8ec61993c22adbc0475a4b4e08d38f95b23e1636d2b010cedf04e82a47bf0404	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q4_K_S.gguf	4457769120	739197d5faa3d1c037e1a96a7146613c18f69c5d1bdc0b7f839ba05ba86412b7	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q5_K_M.gguf	5444831392	b48a51ef6b1f24476f8eadeb11349f4571e75c361d99fc2d4d44c9da4a540434	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q5_K_S.gguf	5315176608	3904726a93575c07f060799a1752d3f0e7bdf9f77eb86af1c3170a3ffb589010	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q6_K.gguf	6254198944	33e898b6f64a0ec532ad22aa84cec6d2f94072b669c5f1cb673d578ae8d84b5d	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.Q8_0.gguf	8098525344	abca2052c87ba7c0ca8cfbb73aef69d2455f8e2683234231075d5466a2b02148	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.f16.gguf	15237853344	b0f9125684c200465f30a5781d9b38a93b9e241cf484771eefd0f00a4f2f74de	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.mmproj-Q8_0.gguf	853120864	dc69886e043982e8ba21782d2ad23a79728de6667a01b4e1b1e64ebdf406323e	sha256
+Qwen2.5-VL-7B-Abliterated-Caption-it.mmproj-f16.gguf	1354164064	375a1bc1af68dbf862bfbdfe6ef18b42873256df7144176d6d7a59aa44f6d48d	sha256

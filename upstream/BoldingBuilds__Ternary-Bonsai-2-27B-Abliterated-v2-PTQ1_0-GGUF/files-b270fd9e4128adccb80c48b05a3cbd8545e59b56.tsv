@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ternary-Bonsai-2-27B-Abliterated-v2-PTQ1_0.gguf	5946648928	0ac61a3c54f2599aefa40144196ce5e0b7acf3a87b3ae74d65540b91e0c4cf12	sha256
+Ternary-Bonsai-2-27B-mmproj-Q8_0.gguf	629246976	6807ede61d570bb86ba34b756a0fa109edc33668604de867c6ea6d8f1d631903	sha256

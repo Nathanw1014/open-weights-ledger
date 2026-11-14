@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+mmproj-BF16.gguf	931145920	b0d8d89e9c9c90e0fb8ca74742d9d9bd7cc0f966a29b6f8c14227000ea6bd89e	sha256
+model-mtp-restored.safetensors	849400392	4eea6f7a252f83433b8af65cbac0b653d781b58d73d17c7fc32e4765fa50762e	sha256
+model.safetensors	18788385784	82ed48585db09ec694afcb620d5b1ba1f01db36e599ce748c84fb07d77f4ef4e	sha256
+tokenizer.json	19989343	87a7830d63fcf43bf241c3c5242e96e62dd3fdc29224ca26fed8ea333db72de4	sha256

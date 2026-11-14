@@ -1,0 +1,3 @@
+repo: https://huggingface.co/BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PTQ1_0-GGUF
+main commit at snapshot: b270fd9e4128adccb80c48b05a3cbd8545e59b56
+snapshot taken: 2026-11-14T18:38:48Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/EternalDragon/G4-MeroMero-26B-A4B-Heretic2
+main commit at snapshot: 881b9313abc7fbae39b3df777c3678558657ef72
+snapshot taken: 2026-11-14T18:38:51Z

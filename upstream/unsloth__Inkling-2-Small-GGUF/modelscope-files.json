@@ -1,0 +1,704 @@
+[
+{
+"Path": "BF16/Inkling-2-Small-BF16-00001-of-00011.gguf",
+"Sha256": "8b6a53e6c82b9a9f4f261b75c5a7d65e234d5db1e71267b2bc845805758134ee",
+"IsLFS": true,
+"CommittedDate": 1794602454
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00002-of-00011.gguf",
+"Sha256": "da91e29c156aaf5ebc71dfa4f589e93ac3224a523a31b42acf1e53ebe1c2e1ae",
+"IsLFS": true,
+"CommittedDate": 1794602454
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00003-of-00011.gguf",
+"Sha256": "57b2593e5016564491cd9362c78d114eeb7fdfb31c41c4c1fc9d41c66158d94d",
+"IsLFS": true,
+"CommittedDate": 1794602454
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00004-of-00011.gguf",
+"Sha256": "7f804fad2c3c440aea7f71fd4da39c94b32c7865ceb39d9f1a8e39b636fcf5a9",
+"IsLFS": true,
+"CommittedDate": 1794602454
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00005-of-00011.gguf",
+"Sha256": "0a2401e417cbc131a5eaa889113e58c178341d6becffa22e83dbb6f0b2ef9baf",
+"IsLFS": true,
+"CommittedDate": 1794602454
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00006-of-00011.gguf",
+"Sha256": "224dc2b6305987b0866ff951e1d3326f2d6451da6f1cf19f859a6a67d67ab215",
+"IsLFS": true,
+"CommittedDate": 1794602454
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00007-of-00011.gguf",
+"Sha256": "e36749421f257382304ca8c9bab2e19750fef12e973823851d046b4c227cdee4",
+"IsLFS": true,
+"CommittedDate": 1794603388
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00008-of-00011.gguf",
+"Sha256": "777099cdcb3fd0703fc6afec1c392362c02e7c7af87909b810aed70c7153f6e1",
+"IsLFS": true,
+"CommittedDate": 1794603388
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00009-of-00011.gguf",
+"Sha256": "797d35ec47ed8386e4b863664fdc518de9da912514143edd520cd211ed88ee8a",
+"IsLFS": true,
+"CommittedDate": 1794603388
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00010-of-00011.gguf",
+"Sha256": "8c7397935ded78ba91fe376875fffbc4bb120d2d9c80358030cf4556ed6dcdeb",
+"IsLFS": true,
+"CommittedDate": 1794603388
+},
+{
+"Path": "BF16/Inkling-2-Small-BF16-00011-of-00011.gguf",
+"Sha256": "0b2178ddc7baf8807bf4f895fa757795726a8ed7643417c2b9149098f3295db4",
+"IsLFS": true,
+"CommittedDate": 1794603388
+},
+{
+"Path": "GGUF_shard_rewrite/BF16/Inkling-2-Small-BF16-00010-of-00011.gguf_file",
+"Sha256": "75e16eb22897e9f9d410a755ee4b94aa93b9a06a6ff59a8347352b58d6f7d173",
+"IsLFS": true,
+"CommittedDate": 1794669003
+},
+{
+"Path": "GGUF_shard_rewrite/BF16/Inkling-2-Small-BF16-00011-of-00011.gguf_file",
+"Sha256": "fa0621398c8970f8132c97e901e95edf6872b73c19d4eb1339e9bf9d384d3cf9",
+"IsLFS": true,
+"CommittedDate": 1794669003
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00001-of-00005.gguf_file",
+"Sha256": "d34f4a63c9c3ca135b898f35d221dc727a879070e1ac383c7fcda5b5a19a2bfb",
+"IsLFS": true,
+"CommittedDate": 1794669003
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00002-of-00005.gguf_file",
+"Sha256": "a584249ecd5d333a19ade33ef82e6294fcb9b16c2e78a90226e09b8220dc3873",
+"IsLFS": true,
+"CommittedDate": 1794669003
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00003-of-00005.gguf_file",
+"Sha256": "794bdf5946a75375c31bd4f68548338da5dfad08172fe84d2657ac03cf098eb2",
+"IsLFS": true,
+"CommittedDate": 1794669003
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00004-of-00005.gguf_file",
+"Sha256": "656302da3200ec7515fcd2b69ab9da4668c6f9c67489057348533941b5b2915a",
+"IsLFS": true,
+"CommittedDate": 1794669327
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00005-of-00005.gguf_file",
+"Sha256": "c8b0af3af3326e5d297725570277b9892af63ac347f98d695927901e9b9d30f6",
+"IsLFS": true,
+"CommittedDate": 1794669327
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00001-of-00005.gguf_file",
+"Sha256": "5f3ae4ac82efed35d34c644a09a8a3f5eb942cc686ccf1b08d0ce677a47cfe03",
+"IsLFS": true,
+"CommittedDate": 1794669327
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00002-of-00005.gguf_file",
+"Sha256": "19b197c8c81a31d02c5409ce392ddd3bf1584d910942e2dc399ba033c503dc9a",
+"IsLFS": true,
+"CommittedDate": 1794669327
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00003-of-00005.gguf_file",
+"Sha256": "0357bfe92126a63be70cdabc9f852bbdbdc181ae2ebc040ca3b5876e1bd3a853",
+"IsLFS": true,
+"CommittedDate": 1794669327
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00004-of-00005.gguf_file",
+"Sha256": "1a82555a6a2f2e6c996ade4bccff267bbafe2524428cbc62752144a6352dd889",
+"IsLFS": true,
+"CommittedDate": 1794670620
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00005-of-00005.gguf_file",
+"Sha256": "33e69c30c265e327cefc6ec64b04cbafcb70d8630474ba28ef6bbe3d04e433d5",
+"IsLFS": true,
+"CommittedDate": 1794670620
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00001-of-00005.gguf_file",
+"Sha256": "9db5547c09a38ec690c07aaa758a3fc923e6cae44dd6363da04918bb85137349",
+"IsLFS": true,
+"CommittedDate": 1794670620
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00002-of-00005.gguf_file",
+"Sha256": "aa04097accd70192d8334a8b78bc55d597b0c61c45418efd32d08c368408f07a",
+"IsLFS": true,
+"CommittedDate": 1794670620
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00003-of-00005.gguf_file",
+"Sha256": "d9a115e9b2f42d2504cf03e1dfc138b919ff3cf16ccba2ab67282d252be75b7a",
+"IsLFS": true,
+"CommittedDate": 1794670620
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00004-of-00005.gguf_file",
+"Sha256": "384db4caccc3be72c7cd75f32c740d8b928671d81300099f161a184493564ff5",
+"IsLFS": true,
+"CommittedDate": 1794670689
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00005-of-00005.gguf_file",
+"Sha256": "cfff2d0ef83d898f1286c68e52ec0cde28b9f8e02414888039a43a7982d12226",
+"IsLFS": true,
+"CommittedDate": 1794670689
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00001-of-00006.gguf_file",
+"Sha256": "1df384b1bb5bd6d6bf0f4a41870b36120dc7966d4c87e6fbf39f3302be54dea9",
+"IsLFS": true,
+"CommittedDate": 1794670689
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00002-of-00006.gguf_file",
+"Sha256": "db45eaba997e37122125683b3abaf792a85ceaf93ad5510b937323735a8f2ef1",
+"IsLFS": true,
+"CommittedDate": 1794670689
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00003-of-00006.gguf_file",
+"Sha256": "f401aada8b3f564fa9098ee024c6989a61ea4fd3c6d79e8b2a1ef76accd1a7e2",
+"IsLFS": true,
+"CommittedDate": 1794670689
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00004-of-00006.gguf_file",
+"Sha256": "6397562b487020fffce73faf0dd9759a5898c10da1397494fa8b426366932075",
+"IsLFS": true,
+"CommittedDate": 1794672145
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00005-of-00006.gguf_file",
+"Sha256": "196b683a6fdc331cd2859f2ab7e7f5e583ec38890c7f6d031514f8b202e9dd18",
+"IsLFS": true,
+"CommittedDate": 1794672145
+},
+{
+"Path": "GGUF_shard_rewrite/UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00006-of-00006.gguf_file",
+"Sha256": "16a486a8ff5064df8fee0c28426c267eca403733141ffdb1994b98323a009006",
+"IsLFS": true,
+"CommittedDate": 1794672145
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00001-of-00006.gguf_file",
+"Sha256": "f2f08c4d808919b38e05a47edacadc6ceaccd24af829b09ec3d6a2a0a471e608",
+"IsLFS": true,
+"CommittedDate": 1794672145
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00002-of-00006.gguf_file",
+"Sha256": "0aecc400e1f5184373fb8c7cebea48684c3fd3a976c75b399b701881a03b082e",
+"IsLFS": true,
+"CommittedDate": 1794672145
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00003-of-00006.gguf_file",
+"Sha256": "817455bc1290fa0f34bd23a6af4261418d41ea20e7e6949f17d3f482cce49c38",
+"IsLFS": true,
+"CommittedDate": 1794672150
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00004-of-00006.gguf_file",
+"Sha256": "1fb9b06595905a28d5407ed9bfe37092dfc4762fe43aa83329d14d65f8e65933",
+"IsLFS": true,
+"CommittedDate": 1794672150
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00005-of-00006.gguf_file",
+"Sha256": "8df67d73180f99cc0d8cc82bca0cb50c1d259c4ae76fdb192d5ee42e952e749f",
+"IsLFS": true,
+"CommittedDate": 1794672150
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00006-of-00006.gguf_file",
+"Sha256": "df70ea85f7308b2ab555b17d4876e7c0cbc963c4365df17f46d14c7a82927b66",
+"IsLFS": true,
+"CommittedDate": 1794672150
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00001-of-00007.gguf_file",
+"Sha256": "97dbd6be5a41873f213f701a6488247aaa8629c471e574a7a247c62c83520092",
+"IsLFS": true,
+"CommittedDate": 1794672150
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00002-of-00007.gguf_file",
+"Sha256": "b45f0b22bf9824e2952bcfef3f11ed24f1f47786e93a2f6f67f015163f9cac59",
+"IsLFS": true,
+"CommittedDate": 1794673494
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00003-of-00007.gguf_file",
+"Sha256": "9c91e33c964194c62beb7f89f66c31d2fd6a38430ca835f82d8a4e3693cb5be8",
+"IsLFS": true,
+"CommittedDate": 1794673494
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00004-of-00007.gguf_file",
+"Sha256": "486aaa3c9e3e5334ac02a6ce723b2eff20f6e2a3e2996a47302c379ccbaa7722",
+"IsLFS": true,
+"CommittedDate": 1794673494
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00005-of-00007.gguf_file",
+"Sha256": "0c12adae6439f9eb531d5df934945bf9874e8903e02d318d70a6439b4c11f87d",
+"IsLFS": true,
+"CommittedDate": 1794673494
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00006-of-00007.gguf_file",
+"Sha256": "123b32b3c63b6137b49f7ccde7d8f62bd28ca4ae65e75e4f2d2fda7f3fb68a74",
+"IsLFS": true,
+"CommittedDate": 1794673494
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00007-of-00007.gguf_file",
+"Sha256": "b79117d04727f376064ad7e94f271f91bb086b38270774e9a32e6309f68ebba5",
+"IsLFS": true,
+"CommittedDate": 1794673747
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00001-of-00009.gguf_file",
+"Sha256": "19b2c9d2221a06ad0d6d57b98965a9d85a454de8990062116e638f86075bac47",
+"IsLFS": true,
+"CommittedDate": 1794673747
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00002-of-00009.gguf_file",
+"Sha256": "edff97ce46a4172ef2d9e7de3663f13c2de76fdd9605b60957e0249ce1cbb657",
+"IsLFS": true,
+"CommittedDate": 1794673747
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00003-of-00009.gguf_file",
+"Sha256": "d2faaebbeeaa8a52c2e235658e177ddf77ba8e5ec986966682ca31eefd3202de",
+"IsLFS": true,
+"CommittedDate": 1794673747
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00004-of-00009.gguf_file",
+"Sha256": "c9553ebe3e793696c97991ba0ae404cdb8846b74c23850636068a6bc3c847168",
+"IsLFS": true,
+"CommittedDate": 1794673747
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00005-of-00009.gguf_file",
+"Sha256": "7bba270a8dd8e9924ba0078ee41ed413e8e77f80a6f2835c2a5c334641cda043",
+"IsLFS": true,
+"CommittedDate": 1794674753
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00006-of-00009.gguf_file",
+"Sha256": "684c434c572e24a5fdd7028334e52212862a55a6bd39ac3c9c8e94dafe4a855e",
+"IsLFS": true,
+"CommittedDate": 1794674753
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00007-of-00009.gguf_file",
+"Sha256": "355ec2146a2d07a93a16e4da6aee7c436b18191f3c8d0d86ac9ae97d0ff1ac44",
+"IsLFS": true,
+"CommittedDate": 1794674753
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00008-of-00009.gguf_file",
+"Sha256": "6c2e61a16c30e880fa7d041dd3e1aaea80b2ad5af1fdf17f50e9c26aac9060a1",
+"IsLFS": true,
+"CommittedDate": 1794674753
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00009-of-00009.gguf_file",
+"Sha256": "82f7d5d495c1c941df4d9bd47e808e40c9bcb82a58fc4b6139b6306a151a2640",
+"IsLFS": true,
+"CommittedDate": 1794674753
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00001-of-00009.gguf_file",
+"Sha256": "bf9da0bd2bf24125b11bba3d529ceffa9973e5190322bf8724ae6acf171ecf3a",
+"IsLFS": true,
+"CommittedDate": 1794674839
+},
+{
+"Path": "GGUF_shard_rewrite/UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00002-of-00009.gguf_file",
+"Sha256": "2d6245524272cceb6edcca54b3f556673f208596798406ad3130f33a285d33ee",
+"IsLFS": true,
+"CommittedDate": 1794674839
+},
+{
+"Path": "GGUF_shard_rewrite/mmproj-BF16.gguf_file",
+"Sha256": "a461752dd124db843e3032ab6d669d83886e658be152c9e18535045bdda99a54",
+"IsLFS": true,
+"CommittedDate": 1794674839
+},
+{
+"Path": "GGUF_shard_rewrite/mmproj-F16.gguf_file",
+"Sha256": "412e106edbf06fcb9f94442ae72b82d4ef500623374f87e13beb8cdfd6e41176",
+"IsLFS": true,
+"CommittedDate": 1794674839
+},
+{
+"Path": "GGUF_shard_rewrite/mmproj-F32.gguf_file",
+"Sha256": "5b43db11981478c2918e75b6193ab53e79f10cfdedcd30616fa811c140316438",
+"IsLFS": true,
+"CommittedDate": 1794674839
+},
+{
+"Path": "UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00001-of-00005.gguf",
+"Sha256": "aed43e3da65715cd7c99c593d0363097dbbeaeb3860c00a8cfd2102daa923df6",
+"IsLFS": true,
+"CommittedDate": 1794603388
+},
+{
+"Path": "UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00002-of-00005.gguf",
+"Sha256": "5c25b6cd6a5eb1c3613bb1cb8bc572604767e852fb412e03ad40adafede8ae56",
+"IsLFS": true,
+"CommittedDate": 1794604334
+},
+{
+"Path": "UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00003-of-00005.gguf",
+"Sha256": "836eb7c5de97ca22c58c1cce9177db950c91c4b28677242c0d478c468b4edef2",
+"IsLFS": true,
+"CommittedDate": 1794604334
+},
+{
+"Path": "UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00004-of-00005.gguf",
+"Sha256": "6591a4ad05dfba8434bdcc178add5ed382df439c4325af18faeb1ea0df4e8699",
+"IsLFS": true,
+"CommittedDate": 1794604334
+},
+{
+"Path": "UD-IQ1_M/Inkling-2-Small-UD-IQ1_M-00005-of-00005.gguf",
+"Sha256": "34a61861c2206d9244a107a032eb0f9af979bcf1d0ea4ac7ba058cbc61abfea9",
+"IsLFS": true,
+"CommittedDate": 1794604334
+},
+{
+"Path": "UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00001-of-00005.gguf",
+"Sha256": "4d613fc2e8703260074b131809d806608f2bd3d7c4d5582a48f193439bbb0331",
+"IsLFS": true,
+"CommittedDate": 1794604334
+},
+{
+"Path": "UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00002-of-00005.gguf",
+"Sha256": "0d1c13320d2a95d71024017f42ee3f82f4222344156796b328ba6e963b511726",
+"IsLFS": true,
+"CommittedDate": 1794604334
+},
+{
+"Path": "UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00003-of-00005.gguf",
+"Sha256": "1444cf8b57daee9b92d239093fcb61b5191add08b6a4adff38ff4f98bbe06dfd",
+"IsLFS": true,
+"CommittedDate": 1794604334
+},
+{
+"Path": "UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00004-of-00005.gguf",
+"Sha256": "65172d58bf868900599a0c24c39c34d4523510b6885a5c7b62d7e072e55048e1",
+"IsLFS": true,
+"CommittedDate": 1794605358
+},
+{
+"Path": "UD-IQ1_S/Inkling-2-Small-UD-IQ1_S-00005-of-00005.gguf",
+"Sha256": "989cdc6aab4fdc213bd5118a8a50660a8925b214fd9346bbacaa42ff52a051ba",
+"IsLFS": true,
+"CommittedDate": 1794605358
+},
+{
+"Path": "UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00001-of-00005.gguf",
+"Sha256": "e3840eed6b9121865068de7b834f6766aed2c4f699842b32c916bc7f6fe46027",
+"IsLFS": true,
+"CommittedDate": 1794605358
+},
+{
+"Path": "UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00002-of-00005.gguf",
+"Sha256": "6c858bfdb828b28b2cb0056f155efd847e67ccd5579ebaea933fb6b52f804703",
+"IsLFS": true,
+"CommittedDate": 1794605358
+},
+{
+"Path": "UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00003-of-00005.gguf",
+"Sha256": "bb3131ba4e30a25eb3a2849e718c6509f1c88e7d37ae37cce26994b4e8ab56a3",
+"IsLFS": true,
+"CommittedDate": 1794605358
+},
+{
+"Path": "UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00004-of-00005.gguf",
+"Sha256": "c78f0df5d7e0e7d667668f6f70c29c2c9dc058cde54760cb05ecf76805b9f03e",
+"IsLFS": true,
+"CommittedDate": 1794605358
+},
+{
+"Path": "UD-IQ2_XXS/Inkling-2-Small-UD-IQ2_XXS-00005-of-00005.gguf",
+"Sha256": "60d659d61be30e9b0d85ed5c149714968029c4a1a767843d077f0149323fb922",
+"IsLFS": true,
+"CommittedDate": 1794605358
+},
+{
+"Path": "UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00001-of-00006.gguf",
+"Sha256": "e8454f29009cbb91ab6627ae29309ac81a3a9535bdacf1f7b5c94660df21ea67",
+"IsLFS": true,
+"CommittedDate": 1794606495
+},
+{
+"Path": "UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00002-of-00006.gguf",
+"Sha256": "6fea4ff5cab1e0872f601f2d797de0a63a58f99baa109d59cc5477a33a88b101",
+"IsLFS": true,
+"CommittedDate": 1794606495
+},
+{
+"Path": "UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00003-of-00006.gguf",
+"Sha256": "052a9209477734888ed885b6d934fd8a57001f040978092af886605792ae0da0",
+"IsLFS": true,
+"CommittedDate": 1794606495
+},
+{
+"Path": "UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00004-of-00006.gguf",
+"Sha256": "bf4e6004aef2a1bec1d95d1c2be959fdaba4f6b1a1e1e574e48c088625b20361",
+"IsLFS": true,
+"CommittedDate": 1794606495
+},
+{
+"Path": "UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00005-of-00006.gguf",
+"Sha256": "a6dc1880e1feb97fcb6469c57a57d1ead45dd9186c50c735e1eac11bd40bd61a",
+"IsLFS": true,
+"CommittedDate": 1794606495
+},
+{
+"Path": "UD-IQ3_XXS/Inkling-2-Small-UD-IQ3_XXS-00006-of-00006.gguf",
+"Sha256": "8183b735cd5958461665736b40382e66c1d81219a318ce3fd3c247b2a0d31880",
+"IsLFS": true,
+"CommittedDate": 1794606495
+},
+{
+"Path": "UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00001-of-00006.gguf",
+"Sha256": "f2144c4788cd6f887a7f09a76623dce0a4a9ed72a11060a350dee2049dcf18b1",
+"IsLFS": true,
+"CommittedDate": 1794606495
+},
+{
+"Path": "UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00002-of-00006.gguf",
+"Sha256": "8bafcda2d9061f31c340eb5fb113e308f1f6675f6ccf5de77e2d7101305a8651",
+"IsLFS": true,
+"CommittedDate": 1794607433
+},
+{
+"Path": "UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00003-of-00006.gguf",
+"Sha256": "69aa330919178299d4ff6737ae9328cf2e6fe17ed2b516acb6633373db77b4c3",
+"IsLFS": true,
+"CommittedDate": 1794607433
+},
+{
+"Path": "UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00004-of-00006.gguf",
+"Sha256": "eea8c43b3abf279e9f5b7f0746819abf50e5f93b441b6551ddce2cbe11b7ec50",
+"IsLFS": true,
+"CommittedDate": 1794607433
+},
+{
+"Path": "UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00005-of-00006.gguf",
+"Sha256": "c8f8d75302b4ad7bd10ecfb4895300f13e9fe595fad49d0133542554a44b6eb5",
+"IsLFS": true,
+"CommittedDate": 1794607433
+},
+{
+"Path": "UD-Q2_K_XL/Inkling-2-Small-UD-Q2_K_XL-00006-of-00006.gguf",
+"Sha256": "4e70b8fe1637c85269e616fe570057935c5d9340a9e4b3128c163dad21d1122a",
+"IsLFS": true,
+"CommittedDate": 1794607433
+},
+{
+"Path": "UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00001-of-00007.gguf",
+"Sha256": "4e45d039e431d7f24fe2a001b06a5908f019b54f046bfc0ce133bcd156cb0204",
+"IsLFS": true,
+"CommittedDate": 1794607433
+},
+{
+"Path": "UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00002-of-00007.gguf",
+"Sha256": "c6e89e22c2fb89e766cb2e5f2e788b1353544198aad115c03fb84adc2fc07c9b",
+"IsLFS": true,
+"CommittedDate": 1794607433
+},
+{
+"Path": "UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00003-of-00007.gguf",
+"Sha256": "37d75821714934909d90bdc7cdfd6329c99add282679e636140c7b5da20af126",
+"IsLFS": true,
+"CommittedDate": 1794608557
+},
+{
+"Path": "UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00004-of-00007.gguf",
+"Sha256": "2d7dce9c679e4822f1a5f6048a22325493c6aab9d229aeb6e3b03359bb8c9577",
+"IsLFS": true,
+"CommittedDate": 1794608557
+},
+{
+"Path": "UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00005-of-00007.gguf",
+"Sha256": "36f1baa4c0b6564f5ebf2e01441a58b267962909bde41122888d7956790b981c",
+"IsLFS": true,
+"CommittedDate": 1794608557
+},
+{
+"Path": "UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00006-of-00007.gguf",
+"Sha256": "7b4c481e075288fd675311ef2e3eb51dea423b59c664be3ba67b17eaf3d6f8d8",
+"IsLFS": true,
+"CommittedDate": 1794608557
+},
+{
+"Path": "UD-Q3_K_XL/Inkling-2-Small-UD-Q3_K_XL-00007-of-00007.gguf",
+"Sha256": "4f30e99aabb80876eadb88a0fe2e669b0de71e7d24398ca544d5a0be45a01af7",
+"IsLFS": true,
+"CommittedDate": 1794608557
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00001-of-00009.gguf",
+"Sha256": "93db563952688c999039dae5ee584d6444fd6b41bb4e8bd8897f95907ab4b939",
+"IsLFS": true,
+"CommittedDate": 1794608557
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00002-of-00009.gguf",
+"Sha256": "8db3d486d97b5e0b9d9f311e08f04721738e8281e1dea094a2c588178f878617",
+"IsLFS": true,
+"CommittedDate": 1794608557
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00003-of-00009.gguf",
+"Sha256": "4cf5db9b1f11db833d8111814ae9be5e117b81f21010d51a0602a54455ddb390",
+"IsLFS": true,
+"CommittedDate": 1794609573
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00004-of-00009.gguf",
+"Sha256": "36460015cc64559f9a8f32211c7843f504d0de5429ba0d46568260d4cd76011b",
+"IsLFS": true,
+"CommittedDate": 1794609573
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00005-of-00009.gguf",
+"Sha256": "36bd1b2f27bf5e97951378fa704557b4df88dac95f77969c6eea195670b9e04e",
+"IsLFS": true,
+"CommittedDate": 1794609573
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00006-of-00009.gguf",
+"Sha256": "324576a13474141aa6fd3fe5e69da4e83da211491bda6c308b54710e9b80599a",
+"IsLFS": true,
+"CommittedDate": 1794609573
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00007-of-00009.gguf",
+"Sha256": "d0ace8cb342af4c76ed23e9b51bf2e41bb01696fa2741751920044bc5d0020e7",
+"IsLFS": true,
+"CommittedDate": 1794609573
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00008-of-00009.gguf",
+"Sha256": "7e2eb09d0af8a0499639c0e02a7bc9d5163d925e3490bce11b848cf6b19611bb",
+"IsLFS": true,
+"CommittedDate": 1794609573
+},
+{
+"Path": "UD-Q4_K_XL/Inkling-2-Small-UD-Q4_K_XL-00009-of-00009.gguf",
+"Sha256": "3803c0d4c2c7175ef0ecd9ec0a1d3682fab14f7fea44fce4b6fb8c7d79c62428",
+"IsLFS": true,
+"CommittedDate": 1794609573
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00001-of-00009.gguf",
+"Sha256": "2817d3ea448cf67a28c7a26733e10675ce87ad8a744ad02eaaa132225b8ece66",
+"IsLFS": true,
+"CommittedDate": 1794610441
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00002-of-00009.gguf",
+"Sha256": "8db3d486d97b5e0b9d9f311e08f04721738e8281e1dea094a2c588178f878617",
+"IsLFS": true,
+"CommittedDate": 1794610441
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00003-of-00009.gguf",
+"Sha256": "4cf5db9b1f11db833d8111814ae9be5e117b81f21010d51a0602a54455ddb390",
+"IsLFS": true,
+"CommittedDate": 1794610441
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00004-of-00009.gguf",
+"Sha256": "36460015cc64559f9a8f32211c7843f504d0de5429ba0d46568260d4cd76011b",
+"IsLFS": true,
+"CommittedDate": 1794610441
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00005-of-00009.gguf",
+"Sha256": "36bd1b2f27bf5e97951378fa704557b4df88dac95f77969c6eea195670b9e04e",
+"IsLFS": true,
+"CommittedDate": 1794610441
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00006-of-00009.gguf",
+"Sha256": "324576a13474141aa6fd3fe5e69da4e83da211491bda6c308b54710e9b80599a",
+"IsLFS": true,
+"CommittedDate": 1794610441
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00007-of-00009.gguf",
+"Sha256": "a9ac123df6878dd95ebe235c36a2bdf376d68e30ff032fdc750d16f6490062f9",
+"IsLFS": true,
+"CommittedDate": 1794610441
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00008-of-00009.gguf",
+"Sha256": "0997e162a9c01ac59b5831e1787219880c2b14a53a0b6f6b50839a27fff7836d",
+"IsLFS": true,
+"CommittedDate": 1794610782
+},
+{
+"Path": "UD-Q8_K_XL/Inkling-2-Small-UD-Q8_K_XL-00009-of-00009.gguf",
+"Sha256": "bbbecd74b1f36e2999ae4762a033c48d4212a3399874c509e1a5deb30c819d29",
+"IsLFS": true,
+"CommittedDate": 1794610782
+},
+{
+"Path": "imatrix_unsloth.gguf_file",
+"Sha256": "bfdef1a2419fa144a6728707158c54f68bae0ad63773edb252ebd3ba09ad0aa3",
+"IsLFS": true,
+"CommittedDate": 1794610782
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "deb0c77642f3f0d750453f0df72c68f64b912d7758163076897eaf0ba9d26c36",
+"IsLFS": true,
+"CommittedDate": 1794610782
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "f381d5f2109875f8a5a6398620b0ff7b9440bc0c530d256d5219b8e29cfc180d",
+"IsLFS": true,
+"CommittedDate": 1794610784
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "8c9d07d9b3aaf2a98890f72c69c123ddf55d19082c0a564443230c0f8e8d9d3c",
+"IsLFS": true,
+"CommittedDate": 1794610784
+}
+]

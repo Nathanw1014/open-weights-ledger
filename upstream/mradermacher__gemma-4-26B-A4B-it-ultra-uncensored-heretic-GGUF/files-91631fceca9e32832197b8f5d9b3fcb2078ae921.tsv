@@ -1,0 +1,14 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.IQ4_XS.gguf	14063804640	250a2fb3437b74bd27d3760164d05bab6a47324cdad52db8422f6a8d9628cd2a	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q2_K.gguf	10582733024	fc3971fae2f9008a4d6d5fa6356745ac60ed47a4c65baa97d1137f89e930d2fc	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q3_K_L.gguf	13824484064	d51fa973374b8e6c39eafc8960e81ea540e6814f1b75957059420c6a8253a9df	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q3_K_M.gguf	13286729440	d22e5ad421b328c0099ab142047c1ccac80723144bfa41eb906895d60c741081	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q3_K_S.gguf	12222405344	90ec50f77284e102c5844a90608f240710f7517c23e7ecfb5bb886104fa46c09	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q4_K_M.gguf	16796011744	b34e74e0ecb6a2fdba80d2aadb6e294c92957c4b182da898abb794294346cd2d	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q4_K_S.gguf	15464820960	7d99216e9312f42b79c076d2abf1cdc490057814ee0e027f90edc9ce713782d1	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q5_K_M.gguf	19132886240	4c132d99eaf575352fb1a706e6aa260c8b65646ec0fb0af5864351c8b851559e	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q5_K_S.gguf	17986729184	16dc8e04dd02df0ccdb1b3e2d324a24210044518527ddd5176ce287432ca8747	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q6_K.gguf	22638395104	e4c38e73b587b26271cd689e7c4ec7c4b8a29d45149b3f2c12755972a204e095	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.Q8_0.gguf	26859855072	370d56ad8e66a56e02570413cffa6c5fdd69a88e1b2ef2419b99711173d342ab	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.mmproj-Q8_0.gguf	806408544	b9dd7e71eb78b44c4c9d3a0aa6173a1e022c2c4f58aa0fd03807be3f8cba4353	sha256
+gemma-4-26B-A4B-it-ultra-uncensored-heretic.mmproj-f16.gguf	1193058912	1a2efda341be8c833ce2a0c28a1cbb8f3afed22d30f9e322856c740c6afdef4a	sha256
