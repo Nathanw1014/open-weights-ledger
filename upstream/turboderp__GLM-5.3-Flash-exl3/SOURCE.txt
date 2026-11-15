@@ -1,0 +1,3 @@
+repo: https://huggingface.co/turboderp/GLM-5.3-Flash-exl3
+main commit at snapshot: ef396bc0a701837028bb8a3b314c8ff2cf254b0d
+snapshot taken: 2026-11-15T02:36:05Z

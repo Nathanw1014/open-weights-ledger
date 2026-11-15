@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/clef-4bit
+main commit at snapshot: b973b6f405d02f8e9b83208c7e82ddf43a742eb6
+snapshot taken: 2026-11-15T02:32:39Z

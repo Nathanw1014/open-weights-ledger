@@ -1,0 +1,3 @@
+repo: https://huggingface.co/EleutherAI/gpt-2-wikitext-chunks-epsroot-1e-6-bs64
+main commit at snapshot: a1da18bbb22f6c5d038b6ee7aa7088496fcc55f3
+snapshot taken: 2026-11-15T02:22:22Z

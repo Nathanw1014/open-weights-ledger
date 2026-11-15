@@ -1,0 +1,3 @@
+repo: https://huggingface.co/FastFlowLM/GPT-OSS-20B-NPU2
+main commit at snapshot: 5c6a9c780204e40a6a2c0d387f474598c72bbff6
+snapshot taken: 2026-11-15T02:22:26Z

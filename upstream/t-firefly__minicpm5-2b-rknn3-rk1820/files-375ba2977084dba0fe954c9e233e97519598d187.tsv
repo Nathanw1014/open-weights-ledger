@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+MiniCPM5-2B.embed.bin	534773760	5e720b334ed68a4949481837d004be9afdee9ef08c32cceb005d215b5dd82918	sha256
+MiniCPM5-2B.rknn	55884040	5e133851f59c7f2c98ef25c6d35b3847daa18d4bc3bd4aa10d3a4bdaa44ac437	sha256
+MiniCPM5-2B.weight	1450897920	8daf4d21ccf9e71ad537209ce88fa7881011f2984b8f72f81cab260f59e93c8d	sha256

@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+assets/dflash2-figure.png	286889	6d8dcc9a9472bddb644c881fe83050b5343d09bf5ffb0912e5598e55fe671e99	sha256
+model.safetensors	3848817896	67fc76d68dc5a9415511a4f394ef744d67510cd20e93b37cc2cc7d28e4bab65c	sha256

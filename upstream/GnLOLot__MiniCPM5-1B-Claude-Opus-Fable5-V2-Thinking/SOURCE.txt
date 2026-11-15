@@ -1,0 +1,3 @@
+repo: https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking
+main commit at snapshot: ae621032de21e5229215e5b882dd5534049b4eda
+snapshot taken: 2026-11-15T02:22:36Z

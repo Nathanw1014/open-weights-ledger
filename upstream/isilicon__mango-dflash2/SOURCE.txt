@@ -1,0 +1,3 @@
+repo: https://huggingface.co/isilicon/mango-dflash2
+main commit at snapshot: fe2e9183acfa95548bce39f930682d9c5b6386c6
+snapshot taken: 2026-11-15T02:30:35Z

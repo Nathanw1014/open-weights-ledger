@@ -1,0 +1,38 @@
+[
+{
+"Path": "merges.txt",
+"Sha256": "a9d356d7bdf1ef4949e3e748e95b8e10ad9d4e2e838eddc38a0a7b6b94d1db8d",
+"IsLFS": true,
+"CommittedDate": 1787510656
+},
+{
+"Path": "model-00001-of-00003.safetensors",
+"Sha256": "2e0b42535aeb13d040cac7a2eb7b968f302a3e1b84fc129c60e84d6bee5e2321",
+"IsLFS": true,
+"CommittedDate": 1787510840
+},
+{
+"Path": "model-00002-of-00003.safetensors",
+"Sha256": "66d0a8ee4ecfaedc8b6fe403f8906c439bc5e94a756d0a37585a3b7dbe089d9e",
+"IsLFS": true,
+"CommittedDate": 1787510841
+},
+{
+"Path": "model-00003-of-00003.safetensors",
+"Sha256": "084c4c45e36d3a40228f79e934f0bc8da295e2d0d1c30d35089abbabdf4fb6a6",
+"IsLFS": true,
+"CommittedDate": 1787510843
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "e56427d66f44411c2dec1288b236f6d2c3eeafd611d1d0e2e92ad9301616e1e7",
+"IsLFS": true,
+"CommittedDate": 1787510848
+},
+{
+"Path": "vocab.json",
+"Sha256": "ce99b4cb2983d118806ce0a8b777a35b093e2000a503ebde25853284c9dfa003",
+"IsLFS": true,
+"CommittedDate": 1787510852
+}
+]

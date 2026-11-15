@@ -1,0 +1,3 @@
+repo: https://huggingface.co/andyman5002/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 3c2e626ec90a4c118eddb628bfb46977db23cf8e
+snapshot taken: 2026-11-15T02:27:18Z

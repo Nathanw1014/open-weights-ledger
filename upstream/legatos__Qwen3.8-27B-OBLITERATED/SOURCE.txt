@@ -1,0 +1,3 @@
+repo: https://huggingface.co/legatos/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: eb8b615e9d23720d4518402aec1938e87980f54a
+snapshot taken: 2026-11-15T02:31:17Z

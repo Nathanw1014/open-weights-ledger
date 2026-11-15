@@ -1,0 +1,3 @@
+repo: https://huggingface.co/kaist-ai/mistral-orpo-capybara-7k
+main commit at snapshot: 24c1172060658a1923c9b454796857e2cc59fbeb
+snapshot taken: 2026-11-15T02:31:03Z

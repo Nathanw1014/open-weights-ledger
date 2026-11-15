@@ -1,0 +1,3 @@
+repo: https://huggingface.co/hitsfmdj/Qwen3.8-27B-GGUF-4.2BPW-16GB
+main commit at snapshot: ea3d173495aed296060611189d320ed49cd6d676
+snapshot taken: 2026-11-15T02:30:01Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ashokdevatwal/tractorgpt-gpt2
+main commit at snapshot: 7309e9b2c4133614377b1c89fe186953ef8ae463
+snapshot taken: 2026-11-15T02:27:25Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jarrodwatts/Qwen3.8-27B-Astra-Stop
+main commit at snapshot: 27c08370eb1d95c90229345915c44b068785dc41
+snapshot taken: 2026-11-15T02:30:46Z

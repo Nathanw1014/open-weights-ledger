@@ -1,0 +1,3 @@
+repo: https://huggingface.co/isilicon/mango-glm53flash-bolding-iq2xxs-20261029
+main commit at snapshot: e1a14c21be7e4c21b57f81606b07f3874bfa7532
+snapshot taken: 2026-11-15T02:30:38Z

@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+ELISARCyberAIEdge7B-LoRA.gguf	5131421441	13f867e7956614b48bb76458975768a5dae7a4490b7873864bd7b04ddf8174fd	sha256
+elisar_full_f16.gguf	167803488	e79442ab4f4d3a9be08222b6e6d2311873ee9822527fe8feb2128a5bf13d0e23	sha256
+elisar_merged.gguf	167803392	bc8fd24274fcf773bdd076b8f9713c02555793a3c00ebcdc288c06c0041b42e0	sha256

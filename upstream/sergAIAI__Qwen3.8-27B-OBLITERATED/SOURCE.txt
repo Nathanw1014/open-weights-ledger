@@ -1,0 +1,3 @@
+repo: https://huggingface.co/sergAIAI/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: a909589ea7a0ce5dd0253767392217f0f6d9dbe5
+snapshot taken: 2026-11-15T02:35:16Z

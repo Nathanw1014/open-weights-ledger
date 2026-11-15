@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2-medium_closed-question
+main commit at snapshot: 8f652d115f2ce25b714eddeffb7deb2bc2695941
+snapshot taken: 2026-11-15T02:26:20Z

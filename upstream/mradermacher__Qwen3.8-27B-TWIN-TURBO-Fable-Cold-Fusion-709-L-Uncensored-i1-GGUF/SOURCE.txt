@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-i1-GGUF
+main commit at snapshot: 231bd881924c451ad02165662d79deda52a12227
+snapshot taken: 2026-11-15T02:33:04Z

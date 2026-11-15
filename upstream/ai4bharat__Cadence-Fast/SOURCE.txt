@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ai4bharat/Cadence-Fast
+main commit at snapshot: 8971c5011e4fba5dcfbcac52744587d7da605534
+snapshot taken: 2026-11-15T02:26:16Z

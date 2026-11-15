@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ZefanCai/Open-Jev-27B-v1.1
+main commit at snapshot: 28cf73067d5b337860bbef3c85b8b82ba8730956
+snapshot taken: 2026-11-15T02:26:02Z

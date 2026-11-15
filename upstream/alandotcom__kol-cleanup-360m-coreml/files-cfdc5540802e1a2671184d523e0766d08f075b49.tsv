@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Cleanup.mlpackage/Data/com.apple.CoreML/model.mlmodel	777576	3aa09ab2ecba7f54907ee1f161a514987d2cb93fcdacde44270d50a4618c98c4	sha256
+Cleanup.mlpackage/Data/com.apple.CoreML/weights/weight.bin	724029376	8e6a97af0272e42149740ed2723ecae78eab4a0bf4b771224d895f1a0e5d16b4	sha256

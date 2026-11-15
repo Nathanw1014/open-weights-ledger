@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4
+main commit at snapshot: 482ca0f3832238542f8f5295dde86b5f22711d80
+snapshot taken: 2026-11-15T02:33:50Z

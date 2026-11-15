@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/gpt2-i1-GGUF
+main commit at snapshot: a8bf14882207e6abed7351e55c1cf5b0130991e0
+snapshot taken: 2026-11-15T02:33:09Z

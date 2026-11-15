@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lmstudio-community/Qwen3.8-27B-GGUF
+main commit at snapshot: 5a7da681f60570ab5b439a587e912d2e5eddb582
+snapshot taken: 2026-11-15T02:31:27Z

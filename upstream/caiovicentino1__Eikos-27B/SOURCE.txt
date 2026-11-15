@@ -1,0 +1,3 @@
+repo: https://huggingface.co/caiovicentino1/Eikos-27B
+main commit at snapshot: f44903e3d485cc742334b224fe309c6680eb0c13
+snapshot taken: 2026-11-15T02:28:30Z

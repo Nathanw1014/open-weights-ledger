@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF-MTP
+main commit at snapshot: b62212407346cb7aafcc8d2788a1844555002fd3
+snapshot taken: 2026-11-15T02:34:10Z

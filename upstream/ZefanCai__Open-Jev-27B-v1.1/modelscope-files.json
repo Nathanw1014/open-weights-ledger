@@ -1,0 +1,14 @@
+[
+{
+"Path": "package/checkpoint/adapter/adapter_model.safetensors",
+"Sha256": "1c857224bd3609c6a71eacf7f71dd021115fcc0f791936b1fc332e915b548a81",
+"IsLFS": true,
+"CommittedDate": 1790222027
+},
+{
+"Path": "package/checkpoint/head.pt",
+"Sha256": "76e382f122abfa4e0c467d860a8d142d2fb6d2a98dc0ef9e19870bfc6eb296b4",
+"IsLFS": true,
+"CommittedDate": 1790222027
+}
+]

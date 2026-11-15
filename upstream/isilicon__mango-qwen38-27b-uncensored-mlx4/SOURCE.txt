@@ -1,0 +1,3 @@
+repo: https://huggingface.co/isilicon/mango-qwen38-27b-uncensored-mlx4
+main commit at snapshot: 6f6e78f63faced672d80d4a1eb92cce088a06794
+snapshot taken: 2026-11-15T02:30:42Z

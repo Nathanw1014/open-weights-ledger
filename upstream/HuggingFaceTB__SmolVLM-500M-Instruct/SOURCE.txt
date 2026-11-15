@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct
+main commit at snapshot: 753c1752602b5e739af7a7fa6947a635051897a3
+snapshot taken: 2026-11-15T02:22:59Z

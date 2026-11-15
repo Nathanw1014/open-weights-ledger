@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mondk/MiniCPM5-1B-MSH-SFT-SAFETENSORS
+main commit at snapshot: e7569bc88e9713a64ea86b4f8954d61b29e4ea58
+snapshot taken: 2026-11-15T02:32:49Z

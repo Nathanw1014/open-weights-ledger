@@ -1,0 +1,3 @@
+repo: https://huggingface.co/laladream/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: ca23ac78c2fcdc60b35f10002372c0159903ace5
+snapshot taken: 2026-11-15T02:31:13Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/BennyDaBall/Qwen3.8-Uncensored-NVFP4-MTP
+main commit at snapshot: ef487afc88e0c81392305b76a737ecb86bfbc715
+snapshot taken: 2026-11-15T02:21:36Z

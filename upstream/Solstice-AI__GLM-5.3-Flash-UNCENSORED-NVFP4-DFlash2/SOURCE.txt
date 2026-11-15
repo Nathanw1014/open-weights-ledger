@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Solstice-AI/GLM-5.3-Flash-UNCENSORED-NVFP4-DFlash2
+main commit at snapshot: 6db2f05b776babd37e4fb96a749193b3cd61993f
+snapshot taken: 2026-11-15T02:25:28Z

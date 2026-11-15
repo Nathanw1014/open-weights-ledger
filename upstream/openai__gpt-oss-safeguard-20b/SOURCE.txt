@@ -1,0 +1,3 @@
+repo: https://huggingface.co/openai/gpt-oss-safeguard-20b
+main commit at snapshot: 8a11e17b25c973a24099d4016bf2e17dd7ec1574
+snapshot taken: 2026-11-15T02:33:53Z

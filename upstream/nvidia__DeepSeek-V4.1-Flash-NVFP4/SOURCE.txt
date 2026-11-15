@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-NVFP4
+main commit at snapshot: c48dca0146b56d64c8116dbb6fcace8b7cc835f8
+snapshot taken: 2026-11-15T02:33:47Z

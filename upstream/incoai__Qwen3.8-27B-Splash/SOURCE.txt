@@ -1,0 +1,3 @@
+repo: https://huggingface.co/incoai/Qwen3.8-27B-Splash
+main commit at snapshot: 9d27070b71f7142c6b6025f03ac011d70a73cb48
+snapshot taken: 2026-11-15T02:30:26Z

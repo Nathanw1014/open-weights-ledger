@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Abiray/Qwen3.8-27B-Q4_K_M-GGUF
+main commit at snapshot: f7a1cda580fe828415151042bf9f3dc5bb8b0d76
+snapshot taken: 2026-11-15T02:21:08Z

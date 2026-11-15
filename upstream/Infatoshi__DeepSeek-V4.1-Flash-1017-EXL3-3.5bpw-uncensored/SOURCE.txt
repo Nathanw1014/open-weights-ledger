@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Infatoshi/DeepSeek-V4.1-Flash-1017-EXL3-3.5bpw-uncensored
+main commit at snapshot: 45c205b48805e279e63b9567aae99aea1258bb60
+snapshot taken: 2026-11-15T02:23:13Z

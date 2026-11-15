@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ormandj/GLM-5.3-Flash-W4A16-NVFP4-K32-Experts-FP8-WO
+main commit at snapshot: ee0989a944b0e213589191d7fca63af825a0741e
+snapshot taken: 2026-11-15T02:33:56Z

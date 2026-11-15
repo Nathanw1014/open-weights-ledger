@@ -1,0 +1,170 @@
+[
+{
+"Path": "factuality-correction/granite-4.0-micro/lora/adapter_model.safetensors",
+"Sha256": "f754af68103e1c3e530e96b48f796cb63e83529f0edfe9ae23d4a8816f765c78",
+"IsLFS": true,
+"CommittedDate": 1773724735
+},
+{
+"Path": "factuality-correction/granite-4.1-30b/alora/adapter_model.safetensors",
+"Sha256": "ec522287ce76626ffe540c5745d4356957b1fd91715c7d08aa3a09c43fd3685a",
+"IsLFS": true,
+"CommittedDate": 1778005321
+},
+{
+"Path": "factuality-correction/granite-4.1-30b/lora/adapter_model.safetensors",
+"Sha256": "77b9cefe53fbc62953c2681b2df5d4077f4f15c59b2dda3a3cc218e9548fe790",
+"IsLFS": true,
+"CommittedDate": 1777750413
+},
+{
+"Path": "factuality-correction/granite-4.1-3b/alora/adapter_model.safetensors",
+"Sha256": "5b5222bba77f88d551262ce17aae63845ed590802cb8e8a314ba0c5ca8203165",
+"IsLFS": true,
+"CommittedDate": 1777750425
+},
+{
+"Path": "factuality-correction/granite-4.1-3b/lora/adapter_model.safetensors",
+"Sha256": "0b629fdc4dacf5e757676f19b733fc7225a5323826015ae0ce731953ff7dbf7d",
+"IsLFS": true,
+"CommittedDate": 1777750437
+},
+{
+"Path": "factuality-correction/granite-4.1-8b/alora/adapter_model.safetensors",
+"Sha256": "922f4cf1465f4c4ad3d9e8b7d2cf6888ce3e5ac8df3b3ccceeac693c0831b8fb",
+"IsLFS": true,
+"CommittedDate": 1777750450
+},
+{
+"Path": "factuality-correction/granite-4.1-8b/lora/adapter_model.safetensors",
+"Sha256": "4b5a137302b61d2b5cce0969ee8cc5aafa17e29ae957112d2019981c2f15adc0",
+"IsLFS": true,
+"CommittedDate": 1777750462
+},
+{
+"Path": "factuality-detection/granite-4.0-micro/lora/adapter_model.safetensors",
+"Sha256": "d7547f769b2ef76b1647b6b8afc6352c0ca8c55f4811708c04c4b0c68a7cbb9b",
+"IsLFS": true,
+"CommittedDate": 1773724735
+},
+{
+"Path": "factuality-detection/granite-4.1-30b/alora/adapter_model.safetensors",
+"Sha256": "e2388876955adc800ebd9d4c59b9a156dd12f11acf540c5a4f75b1aa4f9efe41",
+"IsLFS": true,
+"CommittedDate": 1777750474
+},
+{
+"Path": "factuality-detection/granite-4.1-30b/lora/adapter_model.safetensors",
+"Sha256": "87c65d9e7ba8efa8ce30e6989273774bae7858e7b3daa7e8eb0d06921eee436b",
+"IsLFS": true,
+"CommittedDate": 1777750485
+},
+{
+"Path": "factuality-detection/granite-4.1-3b/alora/adapter_model.safetensors",
+"Sha256": "1afa036740af7f5cb883a3a1fd9d8674928e875950252c292a13caea12647c09",
+"IsLFS": true,
+"CommittedDate": 1777750496
+},
+{
+"Path": "factuality-detection/granite-4.1-3b/lora/adapter_model.safetensors",
+"Sha256": "224cebd5dbef89b1e762072a2298133ad7e06c77bf830890fa007a664e149884",
+"IsLFS": true,
+"CommittedDate": 1777750508
+},
+{
+"Path": "factuality-detection/granite-4.1-8b/alora/adapter_model.safetensors",
+"Sha256": "6393edb295ea264d79e56bb1ac43d8b85142d9391fd019ba94d230a0d1b56674",
+"IsLFS": true,
+"CommittedDate": 1777750520
+},
+{
+"Path": "factuality-detection/granite-4.1-8b/lora/adapter_model.safetensors",
+"Sha256": "18abbc4671186fb79e0bdfafa547aa38bc461caaaf8d474a4be9d15eaf7d1224",
+"IsLFS": true,
+"CommittedDate": 1777750533
+},
+{
+"Path": "guardian-core/granite-4.0-micro/lora/adapter_model.safetensors",
+"Sha256": "87bdf88150c689e4ff029e1e276d5ec4df0003f64fca0941644b125a949aa589",
+"IsLFS": true,
+"CommittedDate": 1773724735
+},
+{
+"Path": "guardian-core/granite-4.1-30b/alora/adapter_model.safetensors",
+"Sha256": "e30f451e7756624b3f703d69baae38e515138df6e85ad437e011be354a2ed226",
+"IsLFS": true,
+"CommittedDate": 1777581214
+},
+{
+"Path": "guardian-core/granite-4.1-30b/lora/adapter_model.safetensors",
+"Sha256": "3fb80b3c71c93ff8d5940d1c4e7c948aa7ac0f995fa12eb74f86f185faa06b7a",
+"IsLFS": true,
+"CommittedDate": 1777581322
+},
+{
+"Path": "guardian-core/granite-4.1-3b/alora/adapter_model.safetensors",
+"Sha256": "372b1054d27b06c760056107fb58b1955aec5eaa421ef9aa3b0af5e11eb9cf60",
+"IsLFS": true,
+"CommittedDate": 1777581346
+},
+{
+"Path": "guardian-core/granite-4.1-3b/lora/adapter_model.safetensors",
+"Sha256": "b1ddbc26cea3a534f2b531dd3c9d95e6ca22a4ce924ea2eed87caf697a076483",
+"IsLFS": true,
+"CommittedDate": 1777581358
+},
+{
+"Path": "guardian-core/granite-4.1-8b/alora/adapter_model.safetensors",
+"Sha256": "332223d680ed8ee17ad1410b4b52922644ed9e7aa29541ff7d7dbfbeac8ccc8c",
+"IsLFS": true,
+"CommittedDate": 1777581382
+},
+{
+"Path": "guardian-core/granite-4.1-8b/lora/adapter_model.safetensors",
+"Sha256": "58dc85693f791985afa492e7a6e029e5f2b4cd95fcdadb0cf40c4bc0395bcdef",
+"IsLFS": true,
+"CommittedDate": 1777581393
+},
+{
+"Path": "policy-guardrails/granite-4.0-micro/lora/adapter_model.safetensors",
+"Sha256": "b83d230a7bb5f002540f68eebc8145fdb262e185225e8fbf9fde9971853d7780",
+"IsLFS": true,
+"CommittedDate": 1773724735
+},
+{
+"Path": "policy-guardrails/granite-4.1-30b/alora/adapter_model.safetensors",
+"Sha256": "4676acab406a8358e36a16597fcc32975473f184600955a369370a5936efd6ce",
+"IsLFS": true,
+"CommittedDate": 1777653441
+},
+{
+"Path": "policy-guardrails/granite-4.1-30b/lora/adapter_model.safetensors",
+"Sha256": "3215e431bcef4d231d18209f25c220ddb87aca75822e4d441b9aa4795f253192",
+"IsLFS": true,
+"CommittedDate": 1777653452
+},
+{
+"Path": "policy-guardrails/granite-4.1-3b/alora/adapter_model.safetensors",
+"Sha256": "ae146c70cdea918d3c70f6c08fdeee19885472031ee4478bb30fd9d25c3a5082",
+"IsLFS": true,
+"CommittedDate": 1777653464
+},
+{
+"Path": "policy-guardrails/granite-4.1-3b/lora/adapter_model.safetensors",
+"Sha256": "a8bc1bd5119bee0eba1d3ac033f886554b16327e5ab5f8c1197c1b8892154ac1",
+"IsLFS": true,
+"CommittedDate": 1777653464
+},
+{
+"Path": "policy-guardrails/granite-4.1-8b/alora/adapter_model.safetensors",
+"Sha256": "715ad0e02adecf6103c1ec8242e00d5a7b3b7bf761538ec185a213a2464b036c",
+"IsLFS": true,
+"CommittedDate": 1777653475
+},
+{
+"Path": "policy-guardrails/granite-4.1-8b/lora/adapter_model.safetensors",
+"Sha256": "8e6defa872594f686c145eded80f1abc0e6b52530f9ed3c77f18a408929b7c4b",
+"IsLFS": true,
+"CommittedDate": 1777653487
+}
+]

@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Scion-FlashNext-176B-A6B-F16.gguf	65815195904	2f4bd083861b027ede8b81eacf5f8b808f04d3c72e612c42d54758a473aa22ba	sha256
+Scion-FlashNext-176B-A6B-Q6_K-Q4X160.gguf	57615045408	658d56d6447cc63efdcb845ad503cd0485381f6a4aaa867973bf71753dfda0a3	sha256
+Scion-FlashNext-176B-A6B-Q6_K.gguf	60175057696	236c6ef96f0a5c3bbf660101c51cb1fdcd6f63724d9341a3d5aedc568bd08cec	sha256
+assets/hero.webp	626748	bbbc4274b3b2b487182b1670473defcbd05e8eec06eaaba43143e2d07fe83030	sha256
+figures/flashnext-664-truncation.png	153287	20625b298a17b91f85330b0eab314a2bafd0619142667d8e8774dee66e11d288	sha256
+figures/flashnext-at-a-glance.png	207344	e384c6a7bcd2a7d5c11295634c7661b4e201fa605e7d2dc1158b504d899d4465	sha256
+figures/flashnext-kld-gate.png	162528	e4cb988610b94ebb6ed53ff9ed128ba51bf6df4bff95bc2f30dd69604f362911	sha256
+figures/flashnext-q4x160-trade.png	170744	8e541db48836e83840911eddd592554f64626cbe148e4c9c0311298201ce9373	sha256
+figures/flashnext-quality-ab.png	168519	48cde82bec263f44ab873d32a7f0e5d05b782d8f3e22ac3fa1c0493101758912	sha256

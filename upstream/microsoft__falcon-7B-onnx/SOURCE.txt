@@ -1,0 +1,3 @@
+repo: https://huggingface.co/microsoft/falcon-7B-onnx
+main commit at snapshot: 58177f7c04797e471fc1ee70f69943ab6f054de4
+snapshot taken: 2026-11-15T02:32:11Z

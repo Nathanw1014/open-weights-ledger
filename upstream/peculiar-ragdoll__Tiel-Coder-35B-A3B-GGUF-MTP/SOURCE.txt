@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP
+main commit at snapshot: bb5f3f441849fc24c2d9037c310bc995404bfa0c
+snapshot taken: 2026-11-15T02:34:17Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cafonez/GLM-5.3-Flash-Strix-128GB-GGUF
+main commit at snapshot: bebfee905205d50e06d540890777210198c4631c
+snapshot taken: 2026-11-15T02:28:27Z

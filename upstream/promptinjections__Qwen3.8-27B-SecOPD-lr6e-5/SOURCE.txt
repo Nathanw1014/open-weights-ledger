@@ -1,0 +1,3 @@
+repo: https://huggingface.co/promptinjections/Qwen3.8-27B-SecOPD-lr6e-5
+main commit at snapshot: 68139f1162dd274be4c5936c1bac175b67172167
+snapshot taken: 2026-11-15T02:34:46Z

@@ -1,0 +1,13 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+GLM-5.3-Flash-GSQ-RCO-3.0bit.gguf	117481680096	a60586ce30494bf61a2f3eb0da72ae212ea9f9957434e4061a137889e7d63d7b	sha256
+GLM-5.3-Flash-GSQ-RCO-3.5bit.gguf	137073274080	12c32d32c284337d0e9da759dbd559fb41567a4b1c57ede0259057e6f8658f1b	sha256
+GLM-5.3-Flash-mmproj-BF16.gguf	1164010144	8ce80a27d6c57810894c13593c0e926377b6b73a7d89eedb4ac87e402e419d4d	sha256
+eval/2026-09-13/baseline/llama-de253-source.tar.gz	37266624	5da27c1ffe47a2f72abc34261994a87c859076f9f9b7eb4a3c22245d104315be	sha256
+eval/2026-09-13/baseline/pinned-conversion-source.tar.gz	347943	23246e914078029e02fcae272ec2b4e01269c40a21ac2dea9a60a6867eb83302	sha256
+eval/2026-09-13/baseline/quant-headers/GLM-5.3-Flash-GSQ-RCO-3.0bit.gguf.header.bin	9517280	b427b66b0ef6f43d6520993b9c75db0e5f04baf248a9a82c325d112351a29423	sha256
+eval/2026-09-13/baseline/quant-headers/GLM-5.3-Flash-GSQ-RCO-3.0bit.gguf.metadata.json	16529766	9a6d7863be62222723c3ef3f8c13113d467a44d0be72b53c4e9444358fef6ef8	sha256
+eval/2026-09-13/baseline/quant-headers/GLM-5.3-Flash-GSQ-RCO-3.5bit.gguf.header.bin	9517280	01f9265efcb50cd65f3bb0a3e6e7a40369a2710824e7ddd731921be29e954b3f	sha256
+eval/2026-09-13/baseline/quant-headers/GLM-5.3-Flash-GSQ-RCO-3.5bit.gguf.metadata.json	16530103	6de76a9e7a5f83148aea067184f4667f1bc14a7d2e162b8a7e1ed641b22099e1	sha256
+eval/2026-09-13/results/diagnostics/glm-q8.server.workers4.log	11527425	272ce4897de073617a2dba53fe1e5a992b416b79b029b02fd89ad7e222f356b6	sha256
+eval/2026-09-13/results/diagnostics/glm3-three-gpu-isolated.server.workers4.log	10655660	fa89c37d7010aeefe4cffa5e9d91a011c7127d868466c07ba106e591625437ee	sha256
+eval/2026-09-13/results/diagnostics/glm3-three-gpu.server.workers4.log	15901574	7d87f04681fe0f613f7564103310c66bb0bb0aa6723fef5a14cd01f50ead02ff	sha256

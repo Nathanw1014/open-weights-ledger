@@ -1,0 +1,3 @@
+repo: https://huggingface.co/apertixai/cerno-27b
+main commit at snapshot: c2f7efe54fe4d3dfd7136bb2e9daf2c0c0633e3d
+snapshot taken: 2026-11-15T02:27:20Z

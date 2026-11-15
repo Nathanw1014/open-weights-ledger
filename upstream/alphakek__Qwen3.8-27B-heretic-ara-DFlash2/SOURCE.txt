@@ -1,0 +1,3 @@
+repo: https://huggingface.co/alphakek/Qwen3.8-27B-heretic-ara-DFlash2
+main commit at snapshot: 75930a33a8bbbcef25e93f7c4123e5e4424c2da7
+snapshot taken: 2026-11-15T02:27:05Z

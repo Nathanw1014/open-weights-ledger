@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+gpt-oss-20b-DFlash.gguf	598561600	e3079ecf53ed30dcb3c09bfaacbf50b791c3fb9a84100e167873ea61d3b8130b	sha256
+model.gguf	1582738240	aa5670f12819578dd56ae85f1066126cfb66f49282dc8518a6c667c86cf09d79	sha256
+model.safetensors	1569547192	66ae3e6e93575ff93f1ba9af4a940cc7bd1f8dde3f288fc01b5d30374b02ceb5	sha256

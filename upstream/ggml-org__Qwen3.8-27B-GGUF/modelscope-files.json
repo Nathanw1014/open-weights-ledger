@@ -1,0 +1,68 @@
+[
+{
+"Path": "Qwen3.8-27B-BF16.gguf",
+"Sha256": "ee11e8694e5c5cffa0ae21895706c97360350e40532979308b756d20a9a717bd",
+"IsLFS": true,
+"CommittedDate": 1794141991
+},
+{
+"Path": "Qwen3.8-27B-Q4_K_M.gguf",
+"Sha256": "d15d4b6de55f662ac40e867702d31afe738d032fa06b829b2b1a21a49d4a48ee",
+"IsLFS": true,
+"CommittedDate": 1794141991
+},
+{
+"Path": "Qwen3.8-27B-Q8_0.gguf",
+"Sha256": "6bc9e7220d8400574fd62df25f04a961cb5cbb0d766cf0118c21c36c0059c35a",
+"IsLFS": true,
+"CommittedDate": 1794141991
+},
+{
+"Path": "dflash-Qwen3.8-27B-BF16.gguf",
+"Sha256": "a75400e00b054ff1730d2e5811079d7fbcbcdcd4ddeb27799dda68520312a328",
+"IsLFS": true,
+"CommittedDate": 1794141991
+},
+{
+"Path": "dflash-Qwen3.8-27B-Q4_0.gguf",
+"Sha256": "bf17875d04efdf643909f641958c701147294bd74145fc3d3f77ed40b48d5849",
+"IsLFS": true,
+"CommittedDate": 1794141991
+},
+{
+"Path": "dflash-Qwen3.8-27B-Q8_0.gguf",
+"Sha256": "36217a655ca56629c8e7aa594ade5e9806bd379c9fbd8fdc63aa49d7d3d28ee0",
+"IsLFS": true,
+"CommittedDate": 1794141991
+},
+{
+"Path": "mmproj-Qwen3.8-27B-BF16.gguf",
+"Sha256": "de2a49866988ea272c43dc2a43ee2662c25725a717ca5b9059ea420a97f53fe8",
+"IsLFS": true,
+"CommittedDate": 1786727270
+},
+{
+"Path": "mmproj-Qwen3.8-27B-Q8_0.gguf",
+"Sha256": "2e968a6af97ce35d8971890b257b9b7edabf20ad91450501fa53162a19ee33eb",
+"IsLFS": true,
+"CommittedDate": 1786727273
+},
+{
+"Path": "mtp-Qwen3.8-27B-BF16.gguf",
+"Sha256": "9fc4289ea50c16f356732141596f3380e747723cb912291aa0b8fecfd8f9273c",
+"IsLFS": true,
+"CommittedDate": 1794141991
+},
+{
+"Path": "mtp-Qwen3.8-27B-Q4_0.gguf",
+"Sha256": "98a72f16e648f77e15b3dcfc7828702e2211f05b95777cb27dc85cb87e621db4",
+"IsLFS": true,
+"CommittedDate": 1794141991
+},
+{
+"Path": "mtp-Qwen3.8-27B-Q8_0.gguf",
+"Sha256": "572ebcd0349321a71ccc6886c2611ff9d8c9aa160312ed4c90ae5bf9a055f4c6",
+"IsLFS": true,
+"CommittedDate": 1794141991
+}
+]

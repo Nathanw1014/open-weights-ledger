@@ -1,0 +1,3 @@
+repo: https://huggingface.co/gitcoreai/gpt-2-small-sft
+main commit at snapshot: 5eda83fd2b8c735cd9b1f0906369cd0c4ac5fa0e
+snapshot taken: 2026-11-15T02:29:53Z

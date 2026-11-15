@@ -1,0 +1,3 @@
+repo: https://huggingface.co/vllm-sr/d3
+main commit at snapshot: 62f07e54c6c3a5ff5f695107377edc43e1a86ea8
+snapshot taken: 2026-11-15T02:36:22Z

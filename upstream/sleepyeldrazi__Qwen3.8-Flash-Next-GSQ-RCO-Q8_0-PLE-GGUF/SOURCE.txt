@@ -1,0 +1,3 @@
+repo: https://huggingface.co/sleepyeldrazi/Qwen3.8-Flash-Next-GSQ-RCO-Q8_0-PLE-GGUF
+main commit at snapshot: 11bbd8e8dad2c24c449418d6ef18043ff041f548
+snapshot taken: 2026-11-15T02:35:23Z

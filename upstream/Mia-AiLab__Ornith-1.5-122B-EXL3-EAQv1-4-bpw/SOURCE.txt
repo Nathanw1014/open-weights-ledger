@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Mia-AiLab/Ornith-1.5-122B-EXL3-EAQv1-4-bpw
+main commit at snapshot: 9c5c913b3de1eef901520d6fedaf450044ea0423
+snapshot taken: 2026-11-15T02:24:30Z

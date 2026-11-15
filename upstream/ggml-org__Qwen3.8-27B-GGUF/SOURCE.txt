@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ggml-org/Qwen3.8-27B-GGUF
+main commit at snapshot: c1869413dece09109e55b7dcc2c77ef382b0d0bd
+snapshot taken: 2026-11-15T02:29:49Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/3MPER0RR/Ornith1.5-9B-3MPER0RR-abliterated
+main commit at snapshot: b93d1ab6c832a0a51d99b1391a2aa25c1b9e3fe7
+snapshot taken: 2026-11-15T02:20:58Z

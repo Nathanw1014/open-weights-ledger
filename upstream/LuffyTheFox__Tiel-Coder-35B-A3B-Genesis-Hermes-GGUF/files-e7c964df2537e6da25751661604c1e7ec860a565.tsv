@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Tiel-Coder-35B-A3B-Genesis-APEX-Compact.gguf	20191039872	ab2131893348e8cad2a0c4cd290ff496a9aad4c50388348584d1648dab104408	sha256
+Tiel-Coder-35B-A3B-Genesis-MTP-APEX-Compact.gguf	21088997056	9600453d87b205c3d7c2ebc981a7e48f58aab5af4a433efae13626a9edce922d	sha256
+Tiel-Coder-35B-A3B-Genesis-Q8_K_XL.gguf	38451204480	0a055ffbaae6c21bcdb3212069e7760e663aaf0ffdb68b7dd3b7d9eb67080e54	sha256
+mmproj-Tiel-Coder-35B-A3B-Genesis-BF16.gguf	902822016	981e94eac0bbcd261bd8995a3979a8c261cb7f4cbb1b74149b5bc1702e9be0c7	sha256

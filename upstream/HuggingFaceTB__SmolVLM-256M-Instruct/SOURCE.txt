@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct
+main commit at snapshot: d039ab0d4b9311b617e8ffec1d06c8464364aeb3
+snapshot taken: 2026-11-15T02:22:58Z

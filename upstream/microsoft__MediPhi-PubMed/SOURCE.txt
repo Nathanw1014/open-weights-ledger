@@ -1,0 +1,3 @@
+repo: https://huggingface.co/microsoft/MediPhi-PubMed
+main commit at snapshot: c8e5a3a66dc80977deaff89bb8a85a5c72907773
+snapshot taken: 2026-11-15T02:32:06Z

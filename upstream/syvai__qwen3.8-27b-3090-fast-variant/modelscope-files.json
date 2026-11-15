@@ -1,0 +1,20 @@
+[
+{
+"Path": "model-00007-of-00007.safetensors",
+"Sha256": "ac4511ddfbdcd8399dffee570c31708c13f974a18e46d3c337ca652a46a1a437",
+"IsLFS": true,
+"CommittedDate": 1787078514
+},
+{
+"Path": "model_extra_tensors.safetensors",
+"Sha256": "3643128012845562d066540990eceb012e6dc9d1ba794c668d774a91edcd9dbb",
+"IsLFS": true,
+"CommittedDate": 1787078514
+},
+{
+"Path": "mtp_draft_vocab_ids.pt",
+"Sha256": "8af9028616e41932e0c949cd5364d2da0a69d15375af9bb404cab1e4d723f581",
+"IsLFS": true,
+"CommittedDate": 1787078514
+}
+]

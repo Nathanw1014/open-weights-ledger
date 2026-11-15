@@ -1,0 +1,3 @@
+repo: https://huggingface.co/0xSero/GLM-5.3-Flash-EXL3-Spark
+main commit at snapshot: 2726c32b5364943da6370fe48baca745e58e448d
+snapshot taken: 2026-11-15T02:20:51Z

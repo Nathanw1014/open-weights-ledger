@@ -1,0 +1,3 @@
+repo: https://huggingface.co/smalinin/DeepSeek-V4.1-Flash-GGUF
+main commit at snapshot: d5e573c6d0a3fb3aa8c445f8b6e67639c86e5820
+snapshot taken: 2026-11-15T02:35:26Z

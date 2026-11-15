@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Cyber-Tiel-Coder-35B-A3B-APEX-I-NanoPlus-GGUF
+main commit at snapshot: 510d10c44fdf651495783eaf2ab40ecc948e6b02
+snapshot taken: 2026-11-15T02:23:20Z

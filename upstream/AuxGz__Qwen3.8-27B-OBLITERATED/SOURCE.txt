@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AuxGz/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 18454e6c81dab72b8f0f504a7d3f54b076657918
+snapshot taken: 2026-11-15T02:21:32Z

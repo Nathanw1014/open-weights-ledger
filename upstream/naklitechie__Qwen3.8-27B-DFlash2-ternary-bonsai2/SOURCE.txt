@@ -1,0 +1,3 @@
+repo: https://huggingface.co/naklitechie/Qwen3.8-27B-DFlash2-ternary-bonsai2
+main commit at snapshot: 0059b38aa255698b1a87305eb3fbb5a3cfd616e2
+snapshot taken: 2026-11-15T02:33:23Z

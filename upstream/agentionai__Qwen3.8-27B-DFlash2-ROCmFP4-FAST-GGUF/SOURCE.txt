@@ -1,0 +1,3 @@
+repo: https://huggingface.co/agentionai/Qwen3.8-27B-DFlash2-ROCmFP4-FAST-GGUF
+main commit at snapshot: 97e4e252d2b48899f12905f8aac814ece633af61
+snapshot taken: 2026-11-15T02:26:12Z

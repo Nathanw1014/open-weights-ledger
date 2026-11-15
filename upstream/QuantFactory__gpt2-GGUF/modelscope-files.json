@@ -1,0 +1,86 @@
+[
+{
+"Path": "gpt2.Q2_K.gguf",
+"Sha256": "0c3349e0191be33be241b749823eb174686c0e10cdf87a2a718ae37057e36ddc",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q3_K_L.gguf",
+"Sha256": "47fedd305b37a9f74db9b45df532036a4dfbfebd41f8e118d7622c564b75efdd",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q3_K_M.gguf",
+"Sha256": "2d03e30851db6a46bce7c5c35ce140c340de857a14f118108eecdb39bf992d96",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q3_K_S.gguf",
+"Sha256": "02fb2c652fc02f1c129273b9559c28297951868ab6d1c1498a223177fccae81d",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q4_0.gguf",
+"Sha256": "d52ac7ed12e1f87cbc93473912f5c213d7c7d6f2a0112ea9d78533d0d7bd3632",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q4_1.gguf",
+"Sha256": "1334413085b5f2dab241a47a088b22636108b0975b97ece6caa3aac68720e6f6",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q4_K_M.gguf",
+"Sha256": "55610166020310ac2096269e890fcd067d3660886af399b0bdfa9c84204cd459",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q4_K_S.gguf",
+"Sha256": "a8ccbf15a79794710b43cc09efaf42e414bfefd922ba469db2d401663808f9ac",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q5_0.gguf",
+"Sha256": "18e794c9c453fd9830c7c764381a55751cf1eb821973418b42752a033146d4be",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q5_1.gguf",
+"Sha256": "a408b32fb7e9f5ebccb9387b79cc691378e5c8bbe4846fb99bbc5d01fa874555",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q5_K_M.gguf",
+"Sha256": "885cf8f39a0c7c3b2df0d86d71025e06ee7e90d45a85f410827deeae6bd6b8ac",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q5_K_S.gguf",
+"Sha256": "20d61d0514986fa8f6ffc6d24bc6971371fca1ebc49428710aa22d1cc83dcb72",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q6_K.gguf",
+"Sha256": "43805c446c23ed240446c8433ee9381e067e74dc34c435e09a8725a7ee68b827",
+"IsLFS": true,
+"CommittedDate": 1726316195
+},
+{
+"Path": "gpt2.Q8_0.gguf",
+"Sha256": "0afd77d848df0488b1cd347851d5dde8ffa745826be2b5b3c364721c1b26f5d9",
+"IsLFS": true,
+"CommittedDate": 1726316195
+}
+]

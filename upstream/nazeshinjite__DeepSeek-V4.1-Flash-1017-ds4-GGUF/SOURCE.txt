@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nazeshinjite/DeepSeek-V4.1-Flash-1017-ds4-GGUF
+main commit at snapshot: 197848f09007def027a9999fc40ca6a2cefe1baa
+snapshot taken: 2026-11-15T02:33:26Z

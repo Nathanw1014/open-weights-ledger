@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nova-quill/OBLITERATUS-Qwen3.8-27B-OBLITERATED-unsloth-mlx
+main commit at snapshot: 25ebc52a009c0dfb446a921ff92ad86b2e26eab8
+snapshot taken: 2026-11-15T02:33:40Z

@@ -1,0 +1,164 @@
+[
+{
+"Path": "Qwen3.8-27B-pi-BF16.gguf",
+"Sha256": "63d822f3982fdb893f03efbcb0eef6816a856074bb4bf9c23fd5a704509fe827",
+"IsLFS": true,
+"CommittedDate": 1790751354
+},
+{
+"Path": "Qwen3.8-27B-pi-IQ2_M.gguf",
+"Sha256": "764f02ce2a638302365ba61774104a385708eccf9ebeecd5eb4734aac40000f0",
+"IsLFS": true,
+"CommittedDate": 1790751354
+},
+{
+"Path": "Qwen3.8-27B-pi-IQ2_S.gguf",
+"Sha256": "7d5be665c13f5a4762a0abde36084f5411e6ef9d015aea5f9946c2d8f725fe20",
+"IsLFS": true,
+"CommittedDate": 1790751356
+},
+{
+"Path": "Qwen3.8-27B-pi-IQ2_XS.gguf",
+"Sha256": "604163561f417f6c3c255fec634b2a94107878b8398aff019bca3c216fed19b2",
+"IsLFS": true,
+"CommittedDate": 1790751356
+},
+{
+"Path": "Qwen3.8-27B-pi-IQ3_M.gguf",
+"Sha256": "4938f91e18b2306e447c63c1a869aca26095958fefdd134e29fd4e56213832f7",
+"IsLFS": true,
+"CommittedDate": 1790751356
+},
+{
+"Path": "Qwen3.8-27B-pi-IQ3_XS.gguf",
+"Sha256": "7eefc12d95c3a205647d83d4a2a878bfcb2fa73b1e6b9f73a91dd08d67018036",
+"IsLFS": true,
+"CommittedDate": 1790751356
+},
+{
+"Path": "Qwen3.8-27B-pi-IQ4_NL.gguf",
+"Sha256": "3675497110f0662cb31ac79a0963757d5839a3a1396aa675bdce690c405b9dc7",
+"IsLFS": true,
+"CommittedDate": 1790751356
+},
+{
+"Path": "Qwen3.8-27B-pi-IQ4_XS.gguf",
+"Sha256": "4942bee47cf25f2d447adcd541e3280895680c22eb7335bebf9288a391c04048",
+"IsLFS": true,
+"CommittedDate": 1790751358
+},
+{
+"Path": "Qwen3.8-27B-pi-Q2_K.gguf",
+"Sha256": "6b5a43bf50d7f06a115461c830f845fdfad8049bdb53d97db2ebafd0e966ebd3",
+"IsLFS": true,
+"CommittedDate": 1790751358
+},
+{
+"Path": "Qwen3.8-27B-pi-Q3_K_L.gguf",
+"Sha256": "891a816a79cc8004a120f9ed0b0e5569625db5b411c1dc96cf62763a6371b142",
+"IsLFS": true,
+"CommittedDate": 1790751358
+},
+{
+"Path": "Qwen3.8-27B-pi-Q3_K_M.gguf",
+"Sha256": "6a908d5b75f66bd92a0fd46a2511df5e878e7f88e5518c91ae04febbd5df7e9f",
+"IsLFS": true,
+"CommittedDate": 1790751358
+},
+{
+"Path": "Qwen3.8-27B-pi-Q3_K_S.gguf",
+"Sha256": "04475039dae4a70a73dc3b95c38505b0df2da40d8e2ef25e893af48f0b520cba",
+"IsLFS": true,
+"CommittedDate": 1790751358
+},
+{
+"Path": "Qwen3.8-27B-pi-Q4_K_M.gguf",
+"Sha256": "ddda633d1ecafccb6e77ff55de2d5f78d90a53ab4fed87ca67bc161de75af9f9",
+"IsLFS": true,
+"CommittedDate": 1790751361
+},
+{
+"Path": "Qwen3.8-27B-pi-Q4_K_S.gguf",
+"Sha256": "f5654da57ca40ee5cb781e18db8afabd44542754bba1f9a134d2480f9ee57ee0",
+"IsLFS": true,
+"CommittedDate": 1790751361
+},
+{
+"Path": "Qwen3.8-27B-pi-Q5_K_M.gguf",
+"Sha256": "c6a9a66cd17a3627948fd1cf4730835423379aee926b33c0cfa94963b1968fd1",
+"IsLFS": true,
+"CommittedDate": 1790751361
+},
+{
+"Path": "Qwen3.8-27B-pi-Q5_K_S.gguf",
+"Sha256": "eea9940e10cac6715d618623574db84224a774e7ca608255d89bb79f977d3017",
+"IsLFS": true,
+"CommittedDate": 1790751361
+},
+{
+"Path": "Qwen3.8-27B-pi-Q6_K.gguf",
+"Sha256": "8a7e614810ad9da748903753c07b5beba2f99b355170fe36832eb0acee5183f3",
+"IsLFS": true,
+"CommittedDate": 1790751361
+},
+{
+"Path": "Qwen3.8-27B-pi-Q8_0.gguf",
+"Sha256": "19effbc8294ea7f2483903316c587adefb13f266fe0700c979f6a2e7f0fe8290",
+"IsLFS": true,
+"CommittedDate": 1790751365
+},
+{
+"Path": "assets/benchmark-hero-gpqa-v2.png",
+"Sha256": "3f576d11b33feaec73cd2040babc326e723f31fd1b55080268c6dd27f20d87ef",
+"IsLFS": true,
+"CommittedDate": 1790751365
+},
+{
+"Path": "assets/gguf-quantization-benchmark-comparison.png",
+"Sha256": "106c2aaf41a450e07199a780a2c621100169c8354baaa1191f0ab34137eaf950",
+"IsLFS": true,
+"CommittedDate": 1790751365
+},
+{
+"Path": "dflash2/Qwen3.8-27B-DFlash2-BF16.gguf",
+"Sha256": "26d47ca20ab07688327a63d912acad222d924eaaa92a980cc488de3c67e736bc",
+"IsLFS": true,
+"CommittedDate": 1790751370
+},
+{
+"Path": "dflash2/Qwen3.8-27B-DFlash2-Q4_K_M.gguf",
+"Sha256": "1a25c56858e1ebe93f2718ac1d49d1151f9323325c1bbfd6209370f4db131ebd",
+"IsLFS": true,
+"CommittedDate": 1790751370
+},
+{
+"Path": "dflash2/Qwen3.8-27B-DFlash2-Q8_0.gguf",
+"Sha256": "c18e800daedc59ca68fd13b6a856d795746af6d399a9279ac6a277d1d422f87e",
+"IsLFS": true,
+"CommittedDate": 1790751370
+},
+{
+"Path": "mmproj-Qwen3.8-27B-pi-BF16.gguf",
+"Sha256": "6086d2fb198687fbd5961f9b4e5847979dfd3ac73420aada6ce72d4fc9d80f2a",
+"IsLFS": true,
+"CommittedDate": 1790751373
+},
+{
+"Path": "mtp/mtp-Qwen3.8-27B-pi-BF16.gguf",
+"Sha256": "9b031b75201e04ce4838ff6c72673eeac2ccc2ba70781942ccabfc8c2de3549b",
+"IsLFS": true,
+"CommittedDate": 1790751373
+},
+{
+"Path": "mtp/mtp-Qwen3.8-27B-pi-Q4_0.gguf",
+"Sha256": "6ce59430911676c54217db078ed51ffa0408831a15e2acf4436302c4e8643381",
+"IsLFS": true,
+"CommittedDate": 1790751373
+},
+{
+"Path": "mtp/mtp-Qwen3.8-27B-pi-Q8_0.gguf",
+"Sha256": "0cec009ea217115dc2bae65fa013faff0017c24acf7c0c3f7fc13f3f60cf6ee1",
+"IsLFS": true,
+"CommittedDate": 1790751376
+}
+]

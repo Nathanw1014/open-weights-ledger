@@ -1,0 +1,3 @@
+repo: https://huggingface.co/BoldingBuilds/DeepSeek-V4.1-Flash-1017-Abliteration-LoRA-GGUF
+main commit at snapshot: fbfea8f7fae6ff33f22d7e1c362c4ae16b091e20
+snapshot taken: 2026-11-15T02:21:45Z

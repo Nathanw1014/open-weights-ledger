@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF
+main commit at snapshot: 657b80fe61334271ae8b7f6cece7f289845abbdb
+snapshot taken: 2026-11-15T02:22:03Z

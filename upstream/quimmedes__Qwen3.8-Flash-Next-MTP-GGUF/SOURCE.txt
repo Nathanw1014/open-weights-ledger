@@ -1,0 +1,3 @@
+repo: https://huggingface.co/quimmedes/Qwen3.8-Flash-Next-MTP-GGUF
+main commit at snapshot: e56ac7b14f211f715e997121f26fdae09fb22e34
+snapshot taken: 2026-11-15T02:34:51Z

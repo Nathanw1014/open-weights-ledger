@@ -1,0 +1,14 @@
+[
+{
+"Path": "Qwen3.8-27B-Q4_K_M.gguf",
+"Sha256": "6a96cc760fc65cc6b9ea7f1922e3ff8b2a48c09f209456f23bbae9ef7032c867",
+"IsLFS": true,
+"CommittedDate": 1786733839
+},
+{
+"Path": "mmproj-F16.gguf",
+"Sha256": "28891162bb6e6ad6ec94edb048cfc8612ea78e76bcd5fb0d5a4208d5f90e0b5a",
+"IsLFS": true,
+"CommittedDate": 1786733839
+}
+]

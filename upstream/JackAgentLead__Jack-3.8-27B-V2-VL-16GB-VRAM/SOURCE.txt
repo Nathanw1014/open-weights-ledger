@@ -1,0 +1,3 @@
+repo: https://huggingface.co/JackAgentLead/Jack-3.8-27B-V2-VL-16GB-VRAM
+main commit at snapshot: b5547a4b12824a1db2bf1af41504c3c7d600f8ac
+snapshot taken: 2026-11-15T02:23:37Z

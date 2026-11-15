@@ -1,0 +1,74 @@
+[
+{
+"Path": "openhermes-2.5-mistral-7b.Q2_K.gguf",
+"Sha256": "717ecde3ae404631c676b267585764eaff88a3124c31a0afc60542c6b78ca089",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q3_K_L.gguf",
+"Sha256": "48cc236dad52318e743356c270cbf7ee2b0a69b913b884c1ac17890a58fa36e3",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q3_K_M.gguf",
+"Sha256": "a42e61722e5a4f3dccf51f4e5ec29a5f32c2163ad7d6bd9562b1e39d46f0ceef",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q3_K_S.gguf",
+"Sha256": "574d78adb1f1fc29ca5572e5a7e2f43475c212b8cca65c7f0b176fa3c268ed83",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q4_0.gguf",
+"Sha256": "eb7b185ae308407782ddfafd6d46fa01a5d48d3dae36f91130b112536d1da60e",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q4_K_M.gguf",
+"Sha256": "cd58120326971c71c0590f6b7084a0744e287ce9c67275d8b4bf34a5947d950b",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q4_K_S.gguf",
+"Sha256": "5ae9c3c11ce520a2360dcfca1f4e38392dc0b7a49413ce6695857a5148a71d35",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q5_0.gguf",
+"Sha256": "c0ec80c56aa90e2ba70c9a17f7efbf35443fb54a4f1cf7ec00b274e3689694cd",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q5_K_M.gguf",
+"Sha256": "61e9e801d9e60f61a4bf1cad3e29d975ab6866f027bcef51d1550f9cc7d2cca6",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q5_K_S.gguf",
+"Sha256": "53aa9898377449e5297e3f8b5f9b4ce72fac00236e6b5f2eab49f6c9286af6fb",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q6_K.gguf",
+"Sha256": "cd4caa42229e973636e9d4c8db50a89593353c521e0342ca615756ded2b977a2",
+"IsLFS": true,
+"CommittedDate": 1737328654
+},
+{
+"Path": "openhermes-2.5-mistral-7b.Q8_0.gguf",
+"Sha256": "1edb516ae5274cf70183d15a6c108e4181fcc318303802a419fd111629b5ca3a",
+"IsLFS": true,
+"CommittedDate": 1737328654
+}
+]

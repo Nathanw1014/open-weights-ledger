@@ -1,0 +1,3 @@
+repo: https://huggingface.co/gittensor-model-hub/Qwen3.8-27B-NVFP4-RTX5090
+main commit at snapshot: 5b7a687fc8211a5d631c8ca6a593dd37eb26ce33
+snapshot taken: 2026-11-15T02:29:55Z

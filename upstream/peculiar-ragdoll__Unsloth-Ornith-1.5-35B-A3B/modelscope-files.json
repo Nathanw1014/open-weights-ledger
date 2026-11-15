@@ -1,0 +1,56 @@
+[
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-IQ3_XXS.gguf",
+"Sha256": "d8631dd0fd0a8abd986c04b829e1fa00212d04cebe84270776b090c81dcf1d35",
+"IsLFS": true,
+"CommittedDate": 1787290743
+},
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-IQ4_XS.gguf",
+"Sha256": "7c64b745e7c0373d66881b5bd13337d250f1cc0032201812de46621b98540cc9",
+"IsLFS": true,
+"CommittedDate": 1787291299
+},
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-Q2_K_XL.gguf",
+"Sha256": "897e8e2f848190f21de7a1849520e4aacc7fd467a97b31218dcba18867578a75",
+"IsLFS": true,
+"CommittedDate": 1787291303
+},
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-Q3_K_XL.gguf",
+"Sha256": "4b4a918db1b7e1a8198b8d86b08b13eee25eeac9491f9d8821291f8edd94c2a6",
+"IsLFS": true,
+"CommittedDate": 1787291768
+},
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-Q4_K_S.gguf",
+"Sha256": "cdc5c3b4093f9b2d8f7bcadd6199fb5a0cb37a11251b5bae1f34ba515c061405",
+"IsLFS": true,
+"CommittedDate": 1787291776
+},
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-Q4_K_XL.gguf",
+"Sha256": "99b19ac087d513cdb6f4b6fc45e906bed76f531fb9b943f635b239a66d4a9d95",
+"IsLFS": true,
+"CommittedDate": 1787291784
+},
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-Q5_K_XL.gguf",
+"Sha256": "aaea43fbcd547a7fb566ac9c696f05157ba34e417104b4405423b3e62ddc6ad9",
+"IsLFS": true,
+"CommittedDate": 1787291792
+},
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-Q6_K_XL.gguf",
+"Sha256": "c564740759212adc083f18e389d6a731f47921f3568aac2af3d512145ed9b678",
+"IsLFS": true,
+"CommittedDate": 1787291830
+},
+{
+"Path": "Unsloth-Ornith-1.5-35B-A3B-UD-Q8_K_XL.gguf",
+"Sha256": "b4586dc4494271cc588204a9110fa1165469087f2e45ce81d8409c6d88e388b4",
+"IsLFS": true,
+"CommittedDate": 1787292837
+}
+]

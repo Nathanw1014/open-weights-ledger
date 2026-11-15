@@ -1,0 +1,3 @@
+repo: https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored
+main commit at snapshot: 5bb7aa90f0efef548e87005b1fb7658e522b6b7f
+snapshot taken: 2026-11-15T02:23:50Z

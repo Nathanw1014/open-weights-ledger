@@ -1,0 +1,3 @@
+repo: https://huggingface.co/alesha-pro/Qwen3.8-27B-S-mirai-GGUF
+main commit at snapshot: 7d2cb5cc583dd997e53e4dcb0951bfee7fe5defb
+snapshot taken: 2026-11-15T02:26:59Z

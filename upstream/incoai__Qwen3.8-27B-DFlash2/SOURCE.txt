@@ -1,0 +1,3 @@
+repo: https://huggingface.co/incoai/Qwen3.8-27B-DFlash2
+main commit at snapshot: 015e795645c74b1a0eeef3b570031fb62e769bc5
+snapshot taken: 2026-11-15T02:30:23Z

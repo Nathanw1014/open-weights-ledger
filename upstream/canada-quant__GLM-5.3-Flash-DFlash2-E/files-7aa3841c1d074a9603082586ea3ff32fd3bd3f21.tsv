@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+mask_embedding.pt	9882	2474994c4f3c59bb524638f3aefec31958f1fe2e1ed40194ef2c64dc4a784cf2	sha256
+model.safetensors	6222153560	af0d8d16f01f15dea3e9aa137ce4914b92822bb3d53d41f4772cb2a2a0ab0ebd	sha256

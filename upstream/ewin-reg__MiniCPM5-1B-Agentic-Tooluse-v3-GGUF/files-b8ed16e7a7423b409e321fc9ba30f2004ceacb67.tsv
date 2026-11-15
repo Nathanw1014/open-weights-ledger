@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+MiniCPM5-1B-Agentic-Tooluse-v3.F16.gguf	2166551872	cd6323fa17c99078ef144ba652e65425cfa88025fec342479cb4341e478cd703	sha256
+MiniCPM5-1B-Agentic-Tooluse-v3.Q4_K_M.gguf	688065856	70e742c1b4ffb9f497d6ec1e8d0ed4443ae5ca2e5c662613374525019099b4fc	sha256
+MiniCPM5-1B-Agentic-Tooluse-v3.Q8_0.gguf	1153529152	0c740c5687a32296ad65c4ab88187d49f6b23053e3eb52ba8137a71867fc051a	sha256

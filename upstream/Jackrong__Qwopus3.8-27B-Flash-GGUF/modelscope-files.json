@@ -1,0 +1,32 @@
+[
+{
+"Path": "Qwopus3.8-27B-Flash-MTP-Q4_K_M.gguf",
+"Sha256": "1b76ad1596d6afc0b6e38a2b45b404462920739bd3087960b7a18a74ca938a74",
+"IsLFS": true,
+"CommittedDate": 1789049435
+},
+{
+"Path": "Qwopus3.8-27B-Flash-MTP-Q5_K_M.gguf",
+"Sha256": "abc97cf74cae75be61667f3c640d9abc76ad87c617a10ee1fa47beb66aec3746",
+"IsLFS": true,
+"CommittedDate": 1789049439
+},
+{
+"Path": "Qwopus3.8-27B-Flash-MTP-Q6_K.gguf",
+"Sha256": "e41fb287a3669d92a131c31629582ef3e9e1df61e9d735fe6b1c71cb9994f7ca",
+"IsLFS": true,
+"CommittedDate": 1789049443
+},
+{
+"Path": "Qwopus3.8-27B-Flash-MTP-Q8_0.gguf",
+"Sha256": "98e47b3da5f41c1753a45dbbc4d98e94fd05101c1ab5425d341ff0e58fe2e292",
+"IsLFS": true,
+"CommittedDate": 1789049445
+},
+{
+"Path": "mmproj-F32.gguf",
+"Sha256": "52e6818e4d18eea010c50e5245eaa10a8cc3dcc30efea4ff60cbad8abf5669e1",
+"IsLFS": true,
+"CommittedDate": 1789049447
+}
+]

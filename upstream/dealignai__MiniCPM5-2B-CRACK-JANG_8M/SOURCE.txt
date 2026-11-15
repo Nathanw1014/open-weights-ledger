@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dealignai/MiniCPM5-2B-CRACK-JANG_8M
+main commit at snapshot: c08ee1ce2b76dfffea49bb9018f689de72131bcd
+snapshot taken: 2026-11-15T02:29:13Z

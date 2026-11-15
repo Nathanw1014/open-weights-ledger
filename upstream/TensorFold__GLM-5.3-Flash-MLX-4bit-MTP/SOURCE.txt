@@ -1,0 +1,3 @@
+repo: https://huggingface.co/TensorFold/GLM-5.3-Flash-MLX-4bit-MTP
+main commit at snapshot: d2b17f5253440224422b150705c1109a9a3a0368
+snapshot taken: 2026-11-15T02:25:43Z

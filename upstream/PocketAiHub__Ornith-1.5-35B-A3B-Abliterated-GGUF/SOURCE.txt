@@ -1,0 +1,3 @@
+repo: https://huggingface.co/PocketAiHub/Ornith-1.5-35B-A3B-Abliterated-GGUF
+main commit at snapshot: 78c2971382a49b442ce044fd4e17169217b0b36c
+snapshot taken: 2026-11-15T02:24:45Z

@@ -1,0 +1,62 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "e6bffe7435d7ddc10fd3b9a9efd429dafbacb1cb17015fb5562664e7532bf86e",
+"IsLFS": true,
+"CommittedDate": 1730425086
+},
+{
+"Path": "onnx/model.onnx",
+"Sha256": "7f40876b94cd0de51afcfe1e7d8080c279c7072137b7eb0abbab1c8ff5ba2e9f",
+"IsLFS": true,
+"CommittedDate": 1732579991
+},
+{
+"Path": "onnx/model_fp16.onnx",
+"Sha256": "d29891daee174979d9988b78b3fe1c539a0c9b425734099ac46a30c4c613dfce",
+"IsLFS": true,
+"CommittedDate": 1732579991
+},
+{
+"Path": "onnx/model_q4.onnx",
+"Sha256": "4525a8138b8474d5a1ab005b1a3703317c6f13257f3ce69aa711c6c74eb786a3",
+"IsLFS": true,
+"CommittedDate": 1732579991
+},
+{
+"Path": "onnx/model_q4f16.onnx",
+"Sha256": "99bce272c14df5583be4299c4af4c9b9d52500b16a0e6e79f1beec948edb3fc4",
+"IsLFS": true,
+"CommittedDate": 1732579991
+},
+{
+"Path": "runs/Oct31_09-01-58_ip-26-0-172-142/events.out.tfevents.1730365788.ip-26-0-172-142.451351.0",
+"Sha256": "6a59625dee7fb61068e6a6ea53682ee0d91da3f92189019d5ceed597d21ebf27",
+"IsLFS": true,
+"CommittedDate": 1730425086
+},
+{
+"Path": "runs/Oct31_09-01-58_ip-26-0-172-142/events.out.tfevents.1730371773.ip-26-0-172-142.451351.1",
+"Sha256": "ac5691a0cdfdd383d29b69e85c4aaf632c695ce8fd31683bb9512f310fbf1250",
+"IsLFS": true,
+"CommittedDate": 1730425086
+},
+{
+"Path": "runs/Oct31_09-19-57_ip-26-0-174-36/events.out.tfevents.1730366818.ip-26-0-174-36.3233632.0",
+"Sha256": "44f4f653d8d22e5db793f6743dc486f1d3f0919a66d5bbd69ebfd22b9e1f598b",
+"IsLFS": true,
+"CommittedDate": 1730425086
+},
+{
+"Path": "runs/Oct31_09-20-43_ip-26-0-161-142/events.out.tfevents.1730366856.ip-26-0-161-142.1301887.0",
+"Sha256": "684365d127b952fdfd215e337f4f8dc5bc4d37ef88fb608632d244ec6f86a449",
+"IsLFS": true,
+"CommittedDate": 1730425086
+},
+{
+"Path": "training_args.bin",
+"Sha256": "3b7e0f2e2a3074b496c74cd65dd47e8da90de5ccf808bc233cb1420827c7d68f",
+"IsLFS": true,
+"CommittedDate": 1730425086
+}
+]

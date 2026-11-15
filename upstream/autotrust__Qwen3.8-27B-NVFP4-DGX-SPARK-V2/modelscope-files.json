@@ -1,0 +1,32 @@
+[
+{
+"Path": "model-00001-of-00002.safetensors",
+"Sha256": "6e46c31c25b2a53fbb618394a26a996b988e5cbe424c11b87128683267ef5b03",
+"IsLFS": true,
+"CommittedDate": 1793165615
+},
+{
+"Path": "model-00002-of-00002.safetensors",
+"Sha256": "9ec0e370de3a5aa7a45fb61e0e7116afce150f0a50ef0551038a743ea2a78950",
+"IsLFS": true,
+"CommittedDate": 1793165615
+},
+{
+"Path": "model-mtp-fc.safetensors",
+"Sha256": "87e5b25143ce387622a95b0b89607735ad9b7256d6ec0146c5ce466ddb972072",
+"IsLFS": true,
+"CommittedDate": 1793165623
+},
+{
+"Path": "mtp64k/artifacts/draft_vocab_64k.pt",
+"Sha256": "ec7a9558b083f388441d4bfd33fb3d499d336febf0eb8d57ebba5032670f93cc",
+"IsLFS": true,
+"CommittedDate": 1793165630
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "6f32ce20dc35f57a7f9ad1eac03525bd7d30f9df8cea6507e958279cc3657706",
+"IsLFS": true,
+"CommittedDate": 1793165673
+}
+]

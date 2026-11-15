@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/KrynexAI-1.4-150M-Mobile-Model-GGUF
+main commit at snapshot: 63a96d30057ee19e4ece1eabf80e7407f24f9114
+snapshot taken: 2026-11-15T02:32:52Z

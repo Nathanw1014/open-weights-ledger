@@ -1,0 +1,3 @@
+repo: https://huggingface.co/neuchatelquants/gpt-oss-20b
+main commit at snapshot: 272b9bbbfd92a5077d063637da573b8babed969f
+snapshot taken: 2026-11-15T02:33:35Z

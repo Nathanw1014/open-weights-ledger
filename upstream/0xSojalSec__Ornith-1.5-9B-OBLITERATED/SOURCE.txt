@@ -1,0 +1,3 @@
+repo: https://huggingface.co/0xSojalSec/Ornith-1.5-9B-OBLITERATED
+main commit at snapshot: 7dc7675ebf674b0fc5a1742608b7dade9355d0b2
+snapshot taken: 2026-11-15T02:20:55Z

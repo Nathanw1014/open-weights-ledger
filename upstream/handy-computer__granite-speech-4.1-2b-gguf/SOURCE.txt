@@ -1,0 +1,3 @@
+repo: https://huggingface.co/handy-computer/granite-speech-4.1-2b-gguf
+main commit at snapshot: 6c6a92dfc36d2b9eda767ef2fb2320237672c4b6
+snapshot taken: 2026-11-15T02:29:57Z

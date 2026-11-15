@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-APEX-I-Mini.gguf	13943350752	6cd1230e017d8f7dcfcc3502fa10c4c2fda6fdd7b17ed2c80cce9df28c73efa6	sha256
+Qwen3.8-27B-APEX-I-Nano.gguf	11240605152	47b627b7de17c2bcfa9cebb7cf2d9d81e68b4b61f8cad16cf85f839604c694cb	sha256
+mmproj-Qwen3.8-27B-F16.gguf	927606912	56c344ea0fced651461ac14193cac0739d78b42f69c3c2310f8d173dd7490012	sha256

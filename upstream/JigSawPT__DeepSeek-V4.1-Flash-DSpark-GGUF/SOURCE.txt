@@ -1,0 +1,3 @@
+repo: https://huggingface.co/JigSawPT/DeepSeek-V4.1-Flash-DSpark-GGUF
+main commit at snapshot: 0fe521efb6e3aaab7af758d50aa5d7688a4bfa8a
+snapshot taken: 2026-11-15T02:23:43Z

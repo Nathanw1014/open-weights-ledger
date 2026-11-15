@@ -1,0 +1,3 @@
+repo: https://huggingface.co/thealper2/smollm2-135m-android-control
+main commit at snapshot: a7f43ce75b962bc0132a376a8772fc5b1df4479b
+snapshot taken: 2026-11-15T02:35:45Z

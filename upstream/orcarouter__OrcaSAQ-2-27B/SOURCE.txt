@@ -1,0 +1,3 @@
+repo: https://huggingface.co/orcarouter/OrcaSAQ-2-27B
+main commit at snapshot: f95069eaf3f155e841551cfa5c476000836d54a7
+snapshot taken: 2026-11-15T02:33:56Z

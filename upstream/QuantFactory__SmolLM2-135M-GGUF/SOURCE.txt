@@ -1,0 +1,3 @@
+repo: https://huggingface.co/QuantFactory/SmolLM2-135M-GGUF
+main commit at snapshot: d948db3614be18259a175aafd7689a70f1cb4e2f
+snapshot taken: 2026-11-15T02:24:54Z

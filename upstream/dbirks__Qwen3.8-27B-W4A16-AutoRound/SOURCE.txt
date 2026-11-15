@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dbirks/Qwen3.8-27B-W4A16-AutoRound
+main commit at snapshot: 1f05c441c4e64ae0549de44fa9ea5a6d43610314
+snapshot taken: 2026-11-15T02:28:52Z

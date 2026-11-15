@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SC117/MiniCPM5-2B-abliterated-FIT-GGUF
+main commit at snapshot: 8c73d67ce8226af3fbaac552f27724c2d053ad16
+snapshot taken: 2026-11-15T02:25:19Z

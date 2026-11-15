@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Drpineapple31/SmolLM2-FT-MyDataset
+main commit at snapshot: 9a7aaee022ba27788e43299dade94ab9534d7b55
+snapshot taken: 2026-11-15T02:22:13Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/zeromodels/granite_speech_4_1_2b_plus
+main commit at snapshot: 3821b9cfe687312a4e288eb4728bb271ca7af13a
+snapshot taken: 2026-11-15T02:36:39Z

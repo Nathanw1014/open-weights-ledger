@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Ttimms/MiniCPM5-2B-NVFP4
+main commit at snapshot: 1e834a4bded89f6655441368a3babc4495b11ac0
+snapshot taken: 2026-11-15T02:25:56Z

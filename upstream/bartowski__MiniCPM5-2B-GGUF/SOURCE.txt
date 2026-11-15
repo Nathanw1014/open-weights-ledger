@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/MiniCPM5-2B-GGUF
+main commit at snapshot: 31fee0334c4ed9f1e079afe586ba30cb83e0f883
+snapshot taken: 2026-11-15T02:27:43Z

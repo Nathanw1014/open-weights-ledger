@@ -1,0 +1,3 @@
+repo: https://huggingface.co/numind/NuExtract-1.5
+main commit at snapshot: ceda9a73f35bbd7489942ccc05da7f64152fe355
+snapshot taken: 2026-11-15T02:33:43Z

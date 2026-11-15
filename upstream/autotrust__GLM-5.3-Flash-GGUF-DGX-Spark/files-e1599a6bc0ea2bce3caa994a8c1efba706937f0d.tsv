@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+GLM-5.3-Flash-Q2-DGX-Spark-00001-of-00002.gguf	44984916000	6983134a2263553af61419fa45d4d1eb1b90b647aecb0efa83a9bf2ee67d74bc	sha256
+GLM-5.3-Flash-Q2-DGX-Spark-00002-of-00002.gguf	39944534144	a69c08e47848b3ecc03c3a1c52ebd6ba14d4c22310cf021566ae67152b67e7f9	sha256

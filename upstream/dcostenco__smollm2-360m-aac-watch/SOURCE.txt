@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dcostenco/smollm2-360m-aac-watch
+main commit at snapshot: 172eb7959ce0dabfc96b406b756c23635be5c580
+snapshot taken: 2026-11-15T02:28:55Z

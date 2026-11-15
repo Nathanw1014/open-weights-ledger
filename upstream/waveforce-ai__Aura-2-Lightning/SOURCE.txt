@@ -1,0 +1,3 @@
+repo: https://huggingface.co/waveforce-ai/Aura-2-Lightning
+main commit at snapshot: fa487d4c96c93f7f36d250ecdb37a25d9e9bf956
+snapshot taken: 2026-11-15T02:36:22Z

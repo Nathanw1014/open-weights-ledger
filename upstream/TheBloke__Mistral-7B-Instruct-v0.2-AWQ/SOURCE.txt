@@ -1,0 +1,3 @@
+repo: https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-AWQ
+main commit at snapshot: f970a2bb89d5c2f9d217dc337f39e24625d6462a
+snapshot taken: 2026-11-15T02:25:47Z

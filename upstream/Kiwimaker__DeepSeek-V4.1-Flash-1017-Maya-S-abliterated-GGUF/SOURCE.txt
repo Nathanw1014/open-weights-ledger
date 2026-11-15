@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Kiwimaker/DeepSeek-V4.1-Flash-1017-Maya-S-abliterated-GGUF
+main commit at snapshot: fc1ce1675582cbcc9fdb66c7fb190beb2bdbdf31
+snapshot taken: 2026-11-15T02:23:59Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Bucoid/Qwen3.8-27B-Uncensored-IQ4-XS-MTP-16GB-VRAM-GGUF
+main commit at snapshot: 5ae30aad187ddf73729bc0d74e7592a343fd6023
+snapshot taken: 2026-11-15T02:21:47Z

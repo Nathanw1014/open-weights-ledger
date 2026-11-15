@@ -1,0 +1,3 @@
+repo: https://huggingface.co/incoai/Ornith-1.5-122B-DFlash2
+main commit at snapshot: 9baefc1bec85c08193ab442e0ca5f7057669b61d
+snapshot taken: 2026-11-15T02:30:22Z

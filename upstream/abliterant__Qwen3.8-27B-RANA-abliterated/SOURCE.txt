@@ -1,0 +1,3 @@
+repo: https://huggingface.co/abliterant/Qwen3.8-27B-RANA-abliterated
+main commit at snapshot: 8cbcf85b5387781a2fd112b749e307e001698528
+snapshot taken: 2026-11-15T02:26:11Z

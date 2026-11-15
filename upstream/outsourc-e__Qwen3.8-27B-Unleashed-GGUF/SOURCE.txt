@@ -1,0 +1,3 @@
+repo: https://huggingface.co/outsourc-e/Qwen3.8-27B-Unleashed-GGUF
+main commit at snapshot: 67a999218fd7002f11bf82bc81d6289beea60841
+snapshot taken: 2026-11-15T02:33:59Z

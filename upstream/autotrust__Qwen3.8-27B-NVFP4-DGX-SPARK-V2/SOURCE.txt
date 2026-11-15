@@ -1,0 +1,3 @@
+repo: https://huggingface.co/autotrust/Qwen3.8-27B-NVFP4-DGX-SPARK-V2
+main commit at snapshot: 303df2edaf395709f218402bf822d57cc693b818
+snapshot taken: 2026-11-15T02:27:32Z

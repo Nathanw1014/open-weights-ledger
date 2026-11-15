@@ -1,0 +1,3 @@
+repo: https://huggingface.co/z-lab/gpt-oss-120b-DFlash
+main commit at snapshot: 1278df34f0a7bd2c8588a27f49048aaa05c7db00
+snapshot taken: 2026-11-15T02:36:36Z

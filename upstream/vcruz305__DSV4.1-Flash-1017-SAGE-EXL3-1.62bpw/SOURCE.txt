@@ -1,0 +1,3 @@
+repo: https://huggingface.co/vcruz305/DSV4.1-Flash-1017-SAGE-EXL3-1.62bpw
+main commit at snapshot: 8cffca26b74b4edaaa7454c6ae70a086d01594e1
+snapshot taken: 2026-11-15T02:36:12Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/MuXodious/gpt-oss-20b-RichardErkhov-heresy
+main commit at snapshot: b3e0f1902a0b30588eda0a469e035a7274cacfd0
+snapshot taken: 2026-11-15T02:24:35Z

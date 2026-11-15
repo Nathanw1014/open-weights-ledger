@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SPK1337/Huihui-Qwen3.8-27B-Swift1.5-Abliterated-IQ3S-DFlash2-NInfer
+main commit at snapshot: 3f4a9a2e34bf88482bb106dd875bb2b3c5bad6ab
+snapshot taken: 2026-11-15T02:25:22Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-M-Derisked-IQ2_S-GGUF
+main commit at snapshot: b0a5474568ab4322ba4b74be5f34308fb4592d57
+snapshot taken: 2026-11-15T02:34:07Z

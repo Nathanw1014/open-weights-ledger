@@ -1,0 +1,38 @@
+[
+{
+"Path": "Qwen3.8-27B-IQ2_XXS-2.56bpw.gguf",
+"Sha256": "901905c4b623d78a5e06421bba0c2ccd1a9acbb3d2643f5b6a611f00da2f1615",
+"IsLFS": true,
+"CommittedDate": 1789478581
+},
+{
+"Path": "Qwen3.8-27B-IQ3_S-3.23bpw.gguf",
+"Sha256": "40171062abb191d5fb8a04b19efea377a16daebf1fd17d5e8b25808537aa782f",
+"IsLFS": true,
+"CommittedDate": 1789478581
+},
+{
+"Path": "Qwen3.8-27B-IQ3_XS-3.01bpw.gguf",
+"Sha256": "830eec2d0fff9ed82ca54a2e2557bfba26ec888fca473acb2c8e9a75b4021a0d",
+"IsLFS": true,
+"CommittedDate": 1789478581
+},
+{
+"Path": "Qwen3.8-27B-IQ3_XXS-2.88bpw.gguf",
+"Sha256": "8f230e79ed04775bb0999fdf7687d795ffea1dfff80638297f87d30b09241055",
+"IsLFS": true,
+"CommittedDate": 1789478581
+},
+{
+"Path": "Qwen3.8-27B-IQ4_XS-3.84bpw.gguf",
+"Sha256": "89434f23dc89c5f990894e3fe9fdad19d88c370f0d3638a176f29933f218b78b",
+"IsLFS": true,
+"CommittedDate": 1789478581
+},
+{
+"Path": "mmproj-bf16.gguf",
+"Sha256": "e43a597863a21bfa48b0fbd4553a771ae4117e25bb172e66f1dbc3fc6d037131",
+"IsLFS": true,
+"CommittedDate": 1787078974
+}
+]

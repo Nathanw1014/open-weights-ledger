@@ -1,0 +1,3 @@
+repo: https://huggingface.co/allenai/OLMo-2-0425-1B-SFT
+main commit at snapshot: 0d85a3d037876ce6ac7d4311d994400fc66ac27f
+snapshot taken: 2026-11-15T02:27:07Z

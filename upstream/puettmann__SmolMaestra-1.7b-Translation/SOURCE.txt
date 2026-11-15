@@ -1,0 +1,3 @@
+repo: https://huggingface.co/puettmann/SmolMaestra-1.7b-Translation
+main commit at snapshot: d388712c63cdbcf947a9d8da95150eec671eeb51
+snapshot taken: 2026-11-15T02:34:47Z

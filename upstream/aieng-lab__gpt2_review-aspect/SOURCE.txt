@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2_review-aspect
+main commit at snapshot: 147d985628cd07c66ed0b95ba66d36710c347d43
+snapshot taken: 2026-11-15T02:26:47Z

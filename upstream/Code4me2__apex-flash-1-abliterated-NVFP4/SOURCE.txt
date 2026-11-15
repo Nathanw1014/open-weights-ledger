@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Code4me2/apex-flash-1-abliterated-NVFP4
+main commit at snapshot: dc92ebb645460fbe4812d441a77c9a4622758d7d
+snapshot taken: 2026-11-15T02:21:51Z

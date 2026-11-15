@@ -1,0 +1,3 @@
+repo: https://huggingface.co/joaosollatori/small-agentic-model-1.5B
+main commit at snapshot: 418c4026dd39ddfdee1b4e8d4a31761032dd6de3
+snapshot taken: 2026-11-15T02:30:55Z

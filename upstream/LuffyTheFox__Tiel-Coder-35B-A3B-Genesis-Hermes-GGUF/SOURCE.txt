@@ -1,0 +1,3 @@
+repo: https://huggingface.co/LuffyTheFox/Tiel-Coder-35B-A3B-Genesis-Hermes-GGUF
+main commit at snapshot: e7c964df2537e6da25751661604c1e7ec860a565
+snapshot taken: 2026-11-15T02:24:10Z

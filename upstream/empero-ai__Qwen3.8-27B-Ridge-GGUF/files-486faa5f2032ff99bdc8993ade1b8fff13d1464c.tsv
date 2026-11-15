@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-Ridge-3.7bpw.gguf	12599187008	95580dbdaad579582ee898257116abc18d7f3625a00c16a15735d41444a09f5e	sha256
+mmproj-Qwen3.8-27B-BF16.gguf	931145952	52228402ce4823f10705d901813cd43ced71859524cf2d8bf83305ad6b7dcbc2	sha256

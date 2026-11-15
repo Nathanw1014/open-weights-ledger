@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jaredpalmer/kev-27b
+main commit at snapshot: af0e6d551bdc2cc724f3e9d7a8bee1cd4fb8f7bf
+snapshot taken: 2026-11-15T02:30:45Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/orwelian84/Qwen3.8-27B-OBLITERATUS-Advanced
+main commit at snapshot: 4c3dcdf8707ce58c348c06b78e2519235a5e18b2
+snapshot taken: 2026-11-15T02:33:58Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dbmdz/german-gpt2
+main commit at snapshot: 0579faad6d549cb924aa34e53baf3a0b3add7cda
+snapshot taken: 2026-11-15T02:28:53Z

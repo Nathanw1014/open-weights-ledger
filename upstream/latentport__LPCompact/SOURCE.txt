@@ -1,0 +1,3 @@
+repo: https://huggingface.co/latentport/LPCompact
+main commit at snapshot: 51bfd47dfc3d809b189e29a12baaf39352acbee2
+snapshot taken: 2026-11-15T02:31:16Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Justintime27/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: b404d9b397d5b566c9015288eb1881538227839b
+snapshot taken: 2026-11-15T02:23:56Z

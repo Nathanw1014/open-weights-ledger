@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/Qwen3.8-27B-mxfp4
+main commit at snapshot: bbdfd10ffe011ed8df7552800ba48b7b2a0b5728
+snapshot taken: 2026-11-15T02:32:38Z

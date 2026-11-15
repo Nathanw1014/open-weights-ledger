@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/SmolVLM2-500M-Video-Instruct-mlx
+main commit at snapshot: fa57db46815177fbdfd65cc85a2b3416a8332268
+snapshot taken: 2026-11-15T02:32:37Z

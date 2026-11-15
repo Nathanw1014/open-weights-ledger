@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cbyabush/gpt2-dpo-ultrafeedback
+main commit at snapshot: e94b9e18610cf4d667d0b16aef4fe7a39188dabe
+snapshot taken: 2026-11-15T02:28:39Z

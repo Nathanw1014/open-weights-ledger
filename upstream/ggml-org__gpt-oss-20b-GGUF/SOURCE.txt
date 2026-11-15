@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ggml-org/gpt-oss-20b-GGUF
+main commit at snapshot: 41e8a94d15d62070b36cf4553a0250717ecf46b8
+snapshot taken: 2026-11-15T02:29:52Z

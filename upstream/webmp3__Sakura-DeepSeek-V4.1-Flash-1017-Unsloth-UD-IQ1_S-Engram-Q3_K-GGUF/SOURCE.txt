@@ -1,0 +1,3 @@
+repo: https://huggingface.co/webmp3/Sakura-DeepSeek-V4.1-Flash-1017-Unsloth-UD-IQ1_S-Engram-Q3_K-GGUF
+main commit at snapshot: f97d27d62bd14cd88e0377c81a08ac1689f197e4
+snapshot taken: 2026-11-15T02:36:24Z

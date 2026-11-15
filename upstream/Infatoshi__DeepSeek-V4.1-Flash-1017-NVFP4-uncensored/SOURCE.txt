@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Infatoshi/DeepSeek-V4.1-Flash-1017-NVFP4-uncensored
+main commit at snapshot: 174981d3bbc6585ce05b4084aa6327c40fb11518
+snapshot taken: 2026-11-15T02:23:14Z

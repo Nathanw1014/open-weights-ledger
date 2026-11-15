@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ibm-granite/granitelib-rag-r1.0
+main commit at snapshot: 167c451abc01c140c1059ed88d4bb39db9533ae9
+snapshot taken: 2026-11-15T02:30:19Z

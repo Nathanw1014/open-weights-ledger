@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Duckets/LFM3-VL-2B-BrowserAgent-GGUF
+main commit at snapshot: 1d8a8072f57dfca6d2238e1ec2e5867d9191bc19
+snapshot taken: 2026-11-15T02:22:15Z

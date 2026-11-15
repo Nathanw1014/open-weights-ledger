@@ -1,0 +1,3 @@
+repo: https://huggingface.co/migtissera/Synthia-4-27B
+main commit at snapshot: 07bae579afa4fa43fd3e94fa07cc80860d3fb4b2
+snapshot taken: 2026-11-15T02:32:13Z

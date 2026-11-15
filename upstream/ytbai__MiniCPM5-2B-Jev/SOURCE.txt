@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ytbai/MiniCPM5-2B-Jev
+main commit at snapshot: 27afc6f17ceb7eb95b6442047ec54e43fbed5ed1
+snapshot taken: 2026-11-15T02:36:34Z

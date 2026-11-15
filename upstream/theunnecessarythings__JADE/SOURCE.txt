@@ -1,0 +1,3 @@
+repo: https://huggingface.co/theunnecessarythings/JADE
+main commit at snapshot: 8e9f9a3aa4293190fcc4a6ff17ff5f3251f4c270
+snapshot taken: 2026-11-15T02:35:46Z

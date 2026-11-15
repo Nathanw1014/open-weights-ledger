@@ -1,0 +1,3 @@
+repo: https://huggingface.co/taronaeo/Granite-4.0-1B-BE-GGUF
+main commit at snapshot: d1ecffe870e974b821efa6738c9db6e25497fff9
+snapshot taken: 2026-11-15T02:35:37Z

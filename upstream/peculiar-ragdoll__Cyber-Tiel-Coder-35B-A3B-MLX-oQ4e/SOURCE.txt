@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-MLX-oQ4e
+main commit at snapshot: 71a13883575a3f05259539c0097f4593d265f938
+snapshot taken: 2026-11-15T02:34:12Z

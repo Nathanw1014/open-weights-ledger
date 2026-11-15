@@ -1,0 +1,3 @@
+repo: https://huggingface.co/analogalok/Qwen3.8-27B-DFlash2-Q2_K-GGUF
+main commit at snapshot: d0682a20f75bf49169590cb99c1dc1c709b43b2a
+snapshot taken: 2026-11-15T02:27:16Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/vishrutJ/SuperQwen3.8-27b-abliterated
+main commit at snapshot: b2c753b757bb3e5e2feb5ba334b795361516a689
+snapshot taken: 2026-11-15T02:36:19Z

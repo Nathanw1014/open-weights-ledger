@@ -1,0 +1,3 @@
+repo: https://huggingface.co/autotrust/GLM5.3-Flash-E224-DGX-Spark
+main commit at snapshot: 45d23633aaabc0920835bf4e10ff39966d70ce06
+snapshot taken: 2026-11-15T02:27:28Z

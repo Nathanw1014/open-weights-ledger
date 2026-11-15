@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8
+main commit at snapshot: d61c59ea5e514e25d305b5850e8a432f7a9969f2
+snapshot taken: 2026-11-15T02:29:06Z

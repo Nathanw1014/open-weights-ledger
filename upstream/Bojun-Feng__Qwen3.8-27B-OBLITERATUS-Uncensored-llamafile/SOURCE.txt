@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Bojun-Feng/Qwen3.8-27B-OBLITERATUS-Uncensored-llamafile
+main commit at snapshot: 3c38ca0a0f9f4d568e1694d37a6cb43635a21a8d
+snapshot taken: 2026-11-15T02:21:45Z

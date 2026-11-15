@@ -1,0 +1,3 @@
+repo: https://huggingface.co/fajardc/Ornith-1.5-122B-GSQ-RCO-GGUF
+main commit at snapshot: c13e046866196fdd4e06cf36999b32ef05a6e5f3
+snapshot taken: 2026-11-15T02:29:36Z

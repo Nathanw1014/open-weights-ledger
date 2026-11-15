@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Pragmatism0220/Huihui-v2-Qwen3.8-Flash-Next-GSQ-RCO-Strata-abliterated-direction-GGUF
+main commit at snapshot: 8003251c340d7a2f8a82cfe5f338aaa2ecd0b3ea
+snapshot taken: 2026-11-15T02:24:49Z

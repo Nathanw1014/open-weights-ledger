@@ -1,0 +1,3 @@
+repo: https://huggingface.co/freakyskittle/RED-SNOW-5.3-FLASH-GGUF
+main commit at snapshot: c68f1c22aca7a82321e18f7d9701c5bf0bf61f42
+snapshot taken: 2026-11-15T02:29:39Z

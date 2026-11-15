@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-Qwen3.8-27B-Abliterated-VAL-APEX-I-MiniPlus-V3.gguf	14161708640	33ff9e231f193f82c5253fd636a5b8b8a6fc81efbb59a76a80320d561c0a350c	sha256
+mmproj-Qwen3.8-27B-Q8_0.gguf	629247008	2e968a6af97ce35d8971890b257b9b7edabf20ad91450501fa53162a19ee33eb	sha256
+tokenizer.json	12809320	0997f410c57a1f4e53b09e4be8f4a172d90edd9564368fb0847030937229b9f3	sha256

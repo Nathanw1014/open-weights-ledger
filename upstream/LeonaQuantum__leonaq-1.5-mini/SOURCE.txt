@@ -1,0 +1,3 @@
+repo: https://huggingface.co/LeonaQuantum/leonaq-1.5-mini
+main commit at snapshot: 930d556296aa26e5b1286b66dacd98f86b98fb27
+snapshot taken: 2026-11-15T02:24:02Z

@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Jack-3.8-27B-V2-VL-16GB-VRAM.gguf	12120033600	c20dab06e201b2591318526031982152a79dcda2169c4d3bbb3826b1a5597e95	sha256
+jack-v2-logo.png	215184	2aaa6c175151384a1ff4b91b8d918bcc81452612cd751a841dcfdd3e0f61347f	sha256
+mmproj-Qwen3.8-27B-BF16.gguf	931146528	13cb7bebccbd04afc8f4090cb949ecf8937cdf7377c5799b1a0c594e7c0d3e16	sha256

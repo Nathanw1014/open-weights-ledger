@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dealignai/GLM-5.3-Flash-UNCENSORED-NVFP4
+main commit at snapshot: 745aac2ff0f10acf961f396df3f9418598aa7327
+snapshot taken: 2026-11-15T02:29:10Z

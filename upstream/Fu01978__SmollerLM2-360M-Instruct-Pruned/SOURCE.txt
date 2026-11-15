@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Fu01978/SmollerLM2-360M-Instruct-Pruned
+main commit at snapshot: 0f6fa7e77c1da47c65a53d8f0d117430cc96bf7c
+snapshot taken: 2026-11-15T02:22:32Z

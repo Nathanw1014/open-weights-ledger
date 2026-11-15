@@ -1,0 +1,3 @@
+repo: https://huggingface.co/JACK-POTTSSON/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 5365fa2e2965d061c48e66d458c68204d84c33ee
+snapshot taken: 2026-11-15T02:23:36Z

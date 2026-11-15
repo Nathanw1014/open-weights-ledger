@@ -1,0 +1,3 @@
+repo: https://huggingface.co/kaitchup/Qwen3.8-27B-SLQ-EAR98.5
+main commit at snapshot: 8a09faa8266935000b43281edf6fc6d70b0a19cd
+snapshot taken: 2026-11-15T02:31:04Z

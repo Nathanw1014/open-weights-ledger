@@ -1,0 +1,3 @@
+repo: https://huggingface.co/autotrust/JEV-27B-VL
+main commit at snapshot: 9e53b8a809d2ab98e3e6a55b2b2dbf94b4c1e84a
+snapshot taken: 2026-11-15T02:27:33Z

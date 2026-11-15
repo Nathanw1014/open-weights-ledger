@@ -1,0 +1,110 @@
+[
+{
+"Path": "model-00001-of-00008.safetensors",
+"Sha256": "8a326e1e4738e5542c4c7fcbd4a98042b656f710a58444aec9b65c03106a173f",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "model-00002-of-00008.safetensors",
+"Sha256": "dd3780c719220b990e284d46d725de1e897a41d2a2c9cb91412e67eb37febd81",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "model-00003-of-00008.safetensors",
+"Sha256": "f193bbbdbf45f96e70119c361fb65d577bd96fbc9929f6f8b8ef381f06dae78d",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "model-00004-of-00008.safetensors",
+"Sha256": "57aa1516be6c70c2dc0bdc9358aa3fc21a0a9e1f495b4a489be0892a77fcc169",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "model-00005-of-00008.safetensors",
+"Sha256": "e6d3de7f15f72b7efaea9fa7b4c3a8250c2b3977b44dbf6a541c9e833d87dafe",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "model-00006-of-00008.safetensors",
+"Sha256": "f7802127af417a113424be223deaeb2dea0bd74518a0ae81a9bf8b7e90592f4f",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "model-00007-of-00008.safetensors",
+"Sha256": "2aa156167951408feeb432b4a459cab2a7b370b6d9bae8552e9438333ea7b73c",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "model-00008-of-00008.safetensors",
+"Sha256": "bc926df799ef165ad0dd8b4b648f6860ed06366583950a9922ada27633d4c477",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "pytorch_model-00001-of-00008.bin",
+"Sha256": "5e6e08a052e25fc9766d3c8dc03f9badf7ed78f5ac8bf667bee18d223464a65d",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "pytorch_model-00002-of-00008.bin",
+"Sha256": "a211772beab275d1696c295a77cc0fd0b9e5e585d004bdb23541bdf1985a4157",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "pytorch_model-00003-of-00008.bin",
+"Sha256": "715d009ddd4e40d069fc88904eaa6f029fbf87bd7b2b985367618eb2f99c17d0",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "pytorch_model-00004-of-00008.bin",
+"Sha256": "f6ea860edada7b276bd174f095a03f86fe0c4fdd6d09831d9db2f77fdb3333ec",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "pytorch_model-00005-of-00008.bin",
+"Sha256": "660240279eed274f7da19d6689621b2a607b05bd136b50d58be93e1401c7856a",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "pytorch_model-00006-of-00008.bin",
+"Sha256": "9ee421c50c3494420a11263a4f1d4b8d70bd22dcf21e4f09414efd60cce0b70b",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "pytorch_model-00007-of-00008.bin",
+"Sha256": "7145f22d245fdea964607b314efd4a4e7821cc991b7dd728c5154f1121af6c37",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "pytorch_model-00008-of-00008.bin",
+"Sha256": "58ee4fdfec2bf9b297f2943f043461699aed20b2fb1a5632ac168e8866851eb9",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "tokenizer.model",
+"Sha256": "dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+"IsLFS": true,
+"CommittedDate": 1739159782
+},
+{
+"Path": "training_args.bin",
+"Sha256": "64e623b49514a1cd5515d049be8d0aff5d04ae5562289d80ac5c9059e9bef51e",
+"IsLFS": true,
+"CommittedDate": 1739159782
+}
+]

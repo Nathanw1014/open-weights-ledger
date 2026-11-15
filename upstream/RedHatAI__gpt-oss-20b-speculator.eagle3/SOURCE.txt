@@ -1,0 +1,3 @@
+repo: https://huggingface.co/RedHatAI/gpt-oss-20b-speculator.eagle3
+main commit at snapshot: c2825cb49c32649bab8fb012df38df50a0a43db1
+snapshot taken: 2026-11-15T02:25:12Z

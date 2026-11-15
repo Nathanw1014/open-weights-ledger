@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Ma7ee7/SmolLM2-135M-Reasoning-5K
+main commit at snapshot: 3b8f577e19cf141ec19d5bba981f729387a3a98e
+snapshot taken: 2026-11-15T02:24:12Z

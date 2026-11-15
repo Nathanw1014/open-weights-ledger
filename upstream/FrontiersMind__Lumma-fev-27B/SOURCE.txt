@@ -1,0 +1,3 @@
+repo: https://huggingface.co/FrontiersMind/Lumma-fev-27B
+main commit at snapshot: 2c080fb4b44bbad2a140353393d935e8b7af8bcb
+snapshot taken: 2026-11-15T02:22:27Z

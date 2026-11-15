@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Jiunsong/SuperQwen3.8-27b-abliterated
+main commit at snapshot: 34b6d2bc88fa8554a559023ac03f514ef1f9d913
+snapshot taken: 2026-11-15T02:23:46Z

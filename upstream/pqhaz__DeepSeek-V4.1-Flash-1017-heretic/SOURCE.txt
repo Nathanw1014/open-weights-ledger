@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pqhaz/DeepSeek-V4.1-Flash-1017-heretic
+main commit at snapshot: 12d58ad0878b5008e80d720251adb969a0069412
+snapshot taken: 2026-11-15T02:34:41Z

@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ornith-1.5-9B-DFlash-BF16.gguf	2594873632	3b2fc5a11a05c738fbe713dd98cf958eea0cd85e60ec750a529d9ad962268c06	sha256
+Ornith-1.5-9B-DFlash-Q4_K_M.gguf	765960480	a6730c2bc06cd855946decd88ac392c413f74cdfe25903ec5dd6b922c2c173e1	sha256
+Ornith-1.5-9B-DFlash-Q6_K.gguf	1070899488	d64f74d08cadad5c08ecff45c895006d1f8f772ea93865508ee1a2b9ce5a2af2	sha256
+Ornith-1.5-9B-DFlash-Q8_0.gguf	1383768352	e81e57c83de0ef6e49548c740f0e274b96447b53ffa3de18b06b8d625138e338	sha256

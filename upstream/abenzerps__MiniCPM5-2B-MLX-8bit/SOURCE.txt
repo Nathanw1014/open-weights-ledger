@@ -1,0 +1,3 @@
+repo: https://huggingface.co/abenzerps/MiniCPM5-2B-MLX-8bit
+main commit at snapshot: a498d49ae5caaf361df3932522d586ce48b0bae6
+snapshot taken: 2026-11-15T02:26:08Z

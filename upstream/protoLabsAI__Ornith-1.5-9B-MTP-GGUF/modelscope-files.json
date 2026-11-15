@@ -1,0 +1,68 @@
+[
+{
+"Path": "Ornith-1.5-9B-MTP-BF16.gguf",
+"Sha256": "f4e3f63f49ccc6925650ad03e47e3cfe0577ca7d5f11b6ce5c4a4d8728a100df",
+"IsLFS": true,
+"CommittedDate": 1787290732
+},
+{
+"Path": "Ornith-1.5-9B-MTP-IQ2_M.gguf",
+"Sha256": "6a6b51d37b2d40acaf4171f35364fbba78ba025fe2c7e6d60b65e2a85082a135",
+"IsLFS": true,
+"CommittedDate": 1787408667
+},
+{
+"Path": "Ornith-1.5-9B-MTP-IQ3_M.gguf",
+"Sha256": "397be008d28cbd99a8c14a295db4a86508e914670ead96f552dfff081ec3ed99",
+"IsLFS": true,
+"CommittedDate": 1787408667
+},
+{
+"Path": "Ornith-1.5-9B-MTP-IQ4_XS.gguf",
+"Sha256": "962cf048bd64066003e8253c5b7317fde5fa70f0d4c70dc6e892a33e0f240981",
+"IsLFS": true,
+"CommittedDate": 1787408667
+},
+{
+"Path": "Ornith-1.5-9B-MTP-NVFP4.gguf",
+"Sha256": "446555f10864256f00e54af9b6b7b0d74bdab3187bf7a43926dd9466b1d6c36a",
+"IsLFS": true,
+"CommittedDate": 1787408667
+},
+{
+"Path": "Ornith-1.5-9B-MTP-Q4_K_M.gguf",
+"Sha256": "f92b36b167d67867c6304cad7d16405ba873aebe877d86e811757d713fd8a997",
+"IsLFS": true,
+"CommittedDate": 1787290732
+},
+{
+"Path": "Ornith-1.5-9B-MTP-Q5_K_M.gguf",
+"Sha256": "2af7f64d5f3b4addbee6330edf85fe65884014640e518002c3ead34a1a7758e5",
+"IsLFS": true,
+"CommittedDate": 1787290732
+},
+{
+"Path": "Ornith-1.5-9B-MTP-Q6_K.gguf",
+"Sha256": "79a9925bb7771dea3530d57b185e97b9713a73a7c06bdb9804f7d019aa42f480",
+"IsLFS": true,
+"CommittedDate": 1787290732
+},
+{
+"Path": "Ornith-1.5-9B-MTP-Q8_0.gguf",
+"Sha256": "aff542d9054a18580a2b5d29b00c5dd7108915094bfc2353054aa5fa06a4cd38",
+"IsLFS": true,
+"CommittedDate": 1787290732
+},
+{
+"Path": "mmproj-Ornith-1.5-9B-BF16.gguf",
+"Sha256": "3b8b6b4f357aae0135a2826dbbf2d72cdd096f1878b50709449f5070a0e6d32f",
+"IsLFS": true,
+"CommittedDate": 1787408667
+},
+{
+"Path": "mtp-head/mtp-Ornith-1.5-9B-head-Q8_0.gguf",
+"Sha256": "3b3e7d8e159f21197b7afe27a9c94240e0fdcdd13aab21acf12447244d805452",
+"IsLFS": true,
+"CommittedDate": 1787290732
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/Qwen3.8-27B-Uncensored-GGUF
+main commit at snapshot: bfc4118269aac8e4b5f6a1c703ed482ef0bfa4ae
+snapshot taken: 2026-11-15T02:21:30Z

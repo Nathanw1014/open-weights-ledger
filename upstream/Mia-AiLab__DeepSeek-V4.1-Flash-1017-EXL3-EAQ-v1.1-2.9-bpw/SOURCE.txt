@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Mia-AiLab/DeepSeek-V4.1-Flash-1017-EXL3-EAQ-v1.1-2.9-bpw
+main commit at snapshot: aee640e2afba93be683bb5b9b420115fe7fbac20
+snapshot taken: 2026-11-15T02:24:26Z

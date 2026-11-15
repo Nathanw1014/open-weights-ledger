@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cantina-security/apex-flash-1-abliterated
+main commit at snapshot: cecb5eeb9c6b32404a0dd930df81de2c239bdd84
+snapshot taken: 2026-11-15T02:28:36Z

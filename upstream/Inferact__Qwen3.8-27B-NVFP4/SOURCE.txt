@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Inferact/Qwen3.8-27B-NVFP4
+main commit at snapshot: 6128240ebaf4eaa7bad2b3d1c72c37d677c5f462
+snapshot taken: 2026-11-15T02:23:16Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-GGUF
+main commit at snapshot: 002f131b886df35843254e96425eb3a7e5a8cdd8
+snapshot taken: 2026-11-15T02:23:39Z

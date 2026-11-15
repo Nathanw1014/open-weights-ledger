@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bniler2/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 8478d4e7e50a03ec46ebbfc015d145c5749bc9ac
+snapshot taken: 2026-11-15T02:28:13Z

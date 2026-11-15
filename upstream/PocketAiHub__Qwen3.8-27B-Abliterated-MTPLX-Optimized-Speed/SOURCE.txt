@@ -1,0 +1,3 @@
+repo: https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MTPLX-Optimized-Speed
+main commit at snapshot: 1a7734b6d67877dae87f03395e1f5eaeb5458c59
+snapshot taken: 2026-11-15T02:24:47Z

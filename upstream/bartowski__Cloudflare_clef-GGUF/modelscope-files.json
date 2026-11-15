@@ -1,0 +1,128 @@
+[
+{
+"Path": "Cloudflare_clef-IQ3_M.gguf",
+"Sha256": "4977cdedb8784ed414ae03e17ff0ee33f1be1d6bc89370114ebcbc6c5f818975",
+"IsLFS": true,
+"CommittedDate": 1791300977
+},
+{
+"Path": "Cloudflare_clef-IQ4_NL.gguf",
+"Sha256": "905e2c339e649bf19f2491e4f4c21f75db4476384a145b42ceaaf0eb97861a16",
+"IsLFS": true,
+"CommittedDate": 1791300977
+},
+{
+"Path": "Cloudflare_clef-IQ4_XS.gguf",
+"Sha256": "1abed362be4271ebc342be1a69f0f3656bf1155b6ded4c3d7cccf93c1783f705",
+"IsLFS": true,
+"CommittedDate": 1791300980
+},
+{
+"Path": "Cloudflare_clef-Q2_K.gguf",
+"Sha256": "be3985c88b2fee90f1aabdaa7e5546f94a30d8b37b2f626121a725c5404b523b",
+"IsLFS": true,
+"CommittedDate": 1791300980
+},
+{
+"Path": "Cloudflare_clef-Q3_K_L.gguf",
+"Sha256": "f21216069d1d40c63961a8f589118eca99ffdc71b1b15476c8dbc6dfec99120c",
+"IsLFS": true,
+"CommittedDate": 1791300982
+},
+{
+"Path": "Cloudflare_clef-Q3_K_M.gguf",
+"Sha256": "957cd39d2c4605a7369ae1a8d372f133fd4e8e9fe287b4daa9493bb2eab39385",
+"IsLFS": true,
+"CommittedDate": 1791300982
+},
+{
+"Path": "Cloudflare_clef-Q3_K_S.gguf",
+"Sha256": "bbc2b6ad035a3c46d2bd888386e3433fde2a55d11a502c1db7e03fb7bdf4fa35",
+"IsLFS": true,
+"CommittedDate": 1791300998
+},
+{
+"Path": "Cloudflare_clef-Q4_0.gguf",
+"Sha256": "a434b202756e3d422b3bdfb8c30ab573546f6e5cbb79d6aeace721200990b2f0",
+"IsLFS": true,
+"CommittedDate": 1791300998
+},
+{
+"Path": "Cloudflare_clef-Q4_1.gguf",
+"Sha256": "4136bdb82a4a5b65b03d87525e65791586b98186a22e9a28e7ae7ed1d522c53f",
+"IsLFS": true,
+"CommittedDate": 1791301415
+},
+{
+"Path": "Cloudflare_clef-Q4_K_L.gguf",
+"Sha256": "0c31eaaed2a0d0dcac51779eff3fea3535eb12fbb38e6bee08b7ebba20a75512",
+"IsLFS": true,
+"CommittedDate": 1791301415
+},
+{
+"Path": "Cloudflare_clef-Q4_K_M.gguf",
+"Sha256": "f1e2cc7f36893b52f773cc01f0ed351abab17c510502423bc4d2f5782a93cebb",
+"IsLFS": true,
+"CommittedDate": 1791301445
+},
+{
+"Path": "Cloudflare_clef-Q4_K_S.gguf",
+"Sha256": "ce9e2dbb4511d0a33cb390c19779e4bfc297373ccc125939eb502fa8f3229afe",
+"IsLFS": true,
+"CommittedDate": 1791301445
+},
+{
+"Path": "Cloudflare_clef-Q5_K_M.gguf",
+"Sha256": "481e3a4289d5c72251c8ed714898e488f4251a9bbdd5fab7ef72b943b600626c",
+"IsLFS": true,
+"CommittedDate": 1791301533
+},
+{
+"Path": "Cloudflare_clef-Q5_K_S.gguf",
+"Sha256": "46ecf9fbb333bebbe9021dac806036b67bc7e5565eb58600cb70b823cbb4ac0b",
+"IsLFS": true,
+"CommittedDate": 1791301533
+},
+{
+"Path": "Cloudflare_clef-Q6_K.gguf",
+"Sha256": "273baf4e3e8576c51650d14ad24914fd791cd0860caa25f985335a9d81bc230c",
+"IsLFS": true,
+"CommittedDate": 1791301655
+},
+{
+"Path": "Cloudflare_clef-Q6_K_L.gguf",
+"Sha256": "cb44957dfb73686cd6dcc6c965b1167507bb7b81fdddeb51df724221bbab7c7a",
+"IsLFS": true,
+"CommittedDate": 1791301655
+},
+{
+"Path": "Cloudflare_clef-Q8_0.gguf",
+"Sha256": "9fe953f084858a97ccb86e5f71ef0652a405f1c2652fe4793db846f6bcaa5334",
+"IsLFS": true,
+"CommittedDate": 1791302472
+},
+{
+"Path": "Cloudflare_clef-bf16/Cloudflare_clef-bf16-00001-of-00002.gguf",
+"Sha256": "433329dafd6156ee7f0d40d5cdfd906713b53565fc9ca3eea2a0335ec2227ec9",
+"IsLFS": true,
+"CommittedDate": 1791302472
+},
+{
+"Path": "Cloudflare_clef-bf16/Cloudflare_clef-bf16-00002-of-00002.gguf",
+"Sha256": "737561a5eb5477f87f978d959694122a90cffa00109763362715d598c4616f23",
+"IsLFS": true,
+"CommittedDate": 1791302475
+},
+{
+"Path": "mmproj-Cloudflare_clef-bf16.gguf",
+"Sha256": "2a3e89934a6dbd7d4c53868cd810b89c50095dd324f846d62f4e8c779547e234",
+"IsLFS": true,
+"CommittedDate": 1790923221
+},
+{
+"Path": "mmproj-Cloudflare_clef-f16.gguf",
+"Sha256": "f0e2930e301586f0932262c7d232c74e385d7b4281170111c36a686e16e59ba8",
+"IsLFS": true,
+"CommittedDate": 1790923221
+}
+]

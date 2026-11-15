@@ -1,0 +1,13 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.IQ4_XS.gguf	3944390976	baf44a273dabd7d34d3b0f1caa75a5b5d652b1d0680f12aa4af726b6844b9232	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q2_K.gguf	2719244608	13b6df774361ff13c0178de2965ed9f39b583b83eda7b5d48e964a738744d2bd	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q3_K_L.gguf	3822027072	5955683cd6d6a4ca301cfa3d167f19478a537e34408768124166b78058724605	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q3_K_M.gguf	3518988608	f0cd8a8f0e5a3e2f218351b21fa5d597b3157f7a9689d9ca3d962e6513a4353e	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q3_K_S.gguf	3164569920	ff620848a1a51d322ae7457d3f0b96d067ea4c133273502deceabe0c16c7bca9	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q4_K_M.gguf	4368441664	2a44071d1a1e69fa31c3ade148f05984cc75731ff9cd7c58807da65d1dc29d99	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q4_K_S.gguf	4140376384	389f39935cd1fcb76e0198b98b45a07d6b6dc5453a44fdca596182d3c7800311	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q5_K_M.gguf	5131411776	3c3d8cbe8dbf20c7930a61e423e402320c20863492f3ba91e8d5ced799c60db3	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q5_K_S.gguf	4997718336	c06a6ea8060c9be26cb945c2c4a7dffa1e2596de7eaba37d695ae80954fcdeae	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q6_K.gguf	5942067520	15f692dd945799aba39d20a0520ce44dc5eb2a404ade1b0242037c39a5060b8c	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.Q8_0.gguf	7695860032	09a434567568e6ede6f5a91698451cdaeb21188079bea719a10684ce8df21162	sha256
+Mistral-7B-Instruct-v0.2-abliterated-obliteratus.f16.gguf	14484734272	b87bca0d44de3e7c487620805aad22514e06c1b0eb76f6ff23aa517d7c081dd9	sha256

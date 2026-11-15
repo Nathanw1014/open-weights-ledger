@@ -1,0 +1,38 @@
+[
+{
+"Path": "assets/rtx5090-hero-final.png",
+"Sha256": "8cc0baee697956e4747981a3fb5a66f93438c95215f91030517f0dc938ea9211",
+"IsLFS": true,
+"CommittedDate": 1788616033
+},
+{
+"Path": "merges.txt",
+"Sha256": "a9d356d7bdf1ef4949e3e748e95b8e10ad9d4e2e838eddc38a0a7b6b94d1db8d",
+"IsLFS": true,
+"CommittedDate": 1787047554
+},
+{
+"Path": "model-00001-of-00002.safetensors",
+"Sha256": "cdd37b0e61eccc8a3d7d08f9d1a4f52856a9d88e4e8b42089bd18a970e3a01ec",
+"IsLFS": true,
+"CommittedDate": 1788266517
+},
+{
+"Path": "model-00002-of-00002.safetensors",
+"Sha256": "713b84b8287e2193290214766c5384fa6475c5626a628e4021c2c9ca90aa61df",
+"IsLFS": true,
+"CommittedDate": 1788266517
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "0997f410c57a1f4e53b09e4be8f4a172d90edd9564368fb0847030937229b9f3",
+"IsLFS": true,
+"CommittedDate": 1787047625
+},
+{
+"Path": "vocab.json",
+"Sha256": "ce99b4cb2983d118806ce0a8b777a35b093e2000a503ebde25853284c9dfa003",
+"IsLFS": true,
+"CommittedDate": 1787047641
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nazeshinjite/Qwen3.8-Flash-Next-DFlash2-GGUF
+main commit at snapshot: cbe1b23f1466458b9d839f6cbaef7d3b52d8cc9b
+snapshot taken: 2026-11-15T02:33:27Z

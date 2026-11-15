@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SC117/Ornith-1.5-35B-A3B-MTP-APEX-GGUF
+main commit at snapshot: 026f4765e6d9ed08d0251c6ee27fd4888b02db51
+snapshot taken: 2026-11-15T02:25:19Z

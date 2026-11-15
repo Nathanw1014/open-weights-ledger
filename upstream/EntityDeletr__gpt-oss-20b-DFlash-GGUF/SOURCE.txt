@@ -1,0 +1,3 @@
+repo: https://huggingface.co/EntityDeletr/gpt-oss-20b-DFlash-GGUF
+main commit at snapshot: 93855ebf850a9b9fe189d48fef06b8adbab80178
+snapshot taken: 2026-11-15T02:22:23Z

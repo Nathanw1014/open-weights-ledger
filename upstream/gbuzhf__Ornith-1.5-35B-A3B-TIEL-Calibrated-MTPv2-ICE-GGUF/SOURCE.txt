@@ -1,0 +1,3 @@
+repo: https://huggingface.co/gbuzhf/Ornith-1.5-35B-A3B-TIEL-Calibrated-MTPv2-ICE-GGUF
+main commit at snapshot: 9991338360005ec7785aefe8c26e9847ced3f1cf
+snapshot taken: 2026-11-15T02:29:46Z

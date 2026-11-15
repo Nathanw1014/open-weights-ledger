@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Infatoshi/DeepSeek-V4.1-Flash-1017-MXFP4-uncensored
+main commit at snapshot: f07d8148c7432ba5b713af890892fac0d4ae4379
+snapshot taken: 2026-11-15T02:23:14Z

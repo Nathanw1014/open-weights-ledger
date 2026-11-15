@@ -1,0 +1,3 @@
+repo: https://huggingface.co/p-e-w/gpt-oss-20b-heretic-ara-v3
+main commit at snapshot: 7d46be54f6923be923eaa3a81580305dbf7db308
+snapshot taken: 2026-11-15T02:34:02Z

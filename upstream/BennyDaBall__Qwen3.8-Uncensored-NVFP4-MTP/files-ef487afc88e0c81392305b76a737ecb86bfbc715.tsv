@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-Uncensored-NVFP4-MTP.gguf	19694360544	db17acbca53da5a7b0e861175b198cc6fd467865e99d1ad53d9dca584257a1a1	sha256
+banner.png	3016570	cce315033e1678ed27c162319ac4f6909ca48e1dc84afa62ce7e7023cdaacd7b	sha256
+mmproj-BF16.gguf	927606912	5ac423f8a29059dc24e51bc6a43e9380dcd57a9347f28b62591e0b3f60b7081c	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/OneNexus/GLM-5.3-Flash-MXFP4
+main commit at snapshot: 880fe3b301de033fb497c412af394a5bb976098f
+snapshot taken: 2026-11-15T02:24:42Z

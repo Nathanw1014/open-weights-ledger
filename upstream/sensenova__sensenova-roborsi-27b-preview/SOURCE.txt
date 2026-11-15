@@ -1,0 +1,3 @@
+repo: https://huggingface.co/sensenova/sensenova-roborsi-27b-preview
+main commit at snapshot: 9f793e67c753e4106cae742529ed3335f1493aea
+snapshot taken: 2026-11-15T02:35:12Z

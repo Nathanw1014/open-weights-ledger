@@ -1,0 +1,15 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-Ornith-1.5-9B-abliterated.IQ4_XS.gguf	5227898304	a6737e96b0cd9a420d4ff7ddbb41d81b2a2213494c2fbc9b8203316bb8775212	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q2_K.gguf	3827262912	8ea32c7d77357dbccb2c450bc296438825c5d33f4bd0feb8a00f97000a13e4dc	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q3_K_L.gguf	4925515200	570f52f929ac69efbd4b72e05f9b1fa3b8aa96e8020b46a32da1ffd382b63662	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q3_K_M.gguf	4623525312	d78cc13c69c163d31ab39b7c05dd7f9cd5763ad23655f98ab9a88a425bba75b3	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q3_K_S.gguf	4259407296	506782df6cf78632b7444365585067c4bcda56dc5a6c98e1b2a4db78efef57e8	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q4_K_M.gguf	5629109696	84779a40e0a237f1f0275ac86bb92ae1a0fb5245f127b7b2e25a4ddabf7d03ad	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q4_K_S.gguf	5351630272	443bb76b3c192d42da16b1553fcde46cc02eb7270381b4415f845843a4f68ce0	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q5_K_M.gguf	6467970496	2e2347833c07ee8cd11b47a1b9ce5ca418ff610472a5a221efdde63ca5b50116	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q5_K_S.gguf	6305310144	26fbfd18f0718eff208a524daa43bfb44cd3d0e0b0b0e7b56c940985e35d0b11	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q6_K.gguf	7359260096	a428d77fa67f8c325ab340dfa96949ba5f57e3dc70a985cc3b0039080a75c6bf	sha256
+Huihui-Ornith-1.5-9B-abliterated.Q8_0.gguf	9527502272	2688a36167d0dc209173ce2ed9891e0edac81bcb28b8ef37ac70738f9d316088	sha256
+Huihui-Ornith-1.5-9B-abliterated.f16.gguf	17920697792	733f6bdf972cc45f502fec96264e4161aabacc02fdd3f8ceaef380ba1f659118	sha256
+Huihui-Ornith-1.5-9B-abliterated.mmproj-Q8_0.gguf	624229824	9cdb2c6083a11eaecd8b88b365dc53686b2629df3134b478024e64b98cec2c42	sha256
+Huihui-Ornith-1.5-9B-abliterated.mmproj-f16.gguf	918166080	7e5bd6a013e5655c8d697d3c8ad750c8ddad15ea1eb12eecf90d07a7e0d85883	sha256

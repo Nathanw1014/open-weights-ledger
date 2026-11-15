@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ibm-granite/granitelib-guardian-r1.0
+main commit at snapshot: 5802b88ef1f9a71e7a33c9025a36b81f2671e58d
+snapshot taken: 2026-11-15T02:30:16Z

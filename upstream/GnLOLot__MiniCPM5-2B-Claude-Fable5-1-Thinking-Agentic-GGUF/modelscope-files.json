@@ -1,0 +1,26 @@
+[
+{
+"Path": "MiniCPM5-2B-Claude-Fable5-1-Thinking-Agentic-F16.gguf",
+"Sha256": "491566000c608481fe275d16ac2aa0397a2eaa71e9dbd75a228644dd1a8c4b57",
+"IsLFS": true,
+"CommittedDate": 1790015907
+},
+{
+"Path": "MiniCPM5-2B-Claude-Fable5-1-Thinking-Agentic-Q4_K_M.gguf",
+"Sha256": "387aaabc72f07f26a2539f8b63452054516f1dd8a8ef4dcc1100eda1d2cedef1",
+"IsLFS": true,
+"CommittedDate": 1790015907
+},
+{
+"Path": "MiniCPM5-2B-Claude-Fable5-1-Thinking-Agentic-Q8_0.gguf",
+"Sha256": "b333575a9ba89324b1c9631d0d53ad9c02b35e6eef1d368bd69621cff19606df",
+"IsLFS": true,
+"CommittedDate": 1790015907
+},
+{
+"Path": "assets/banner.png",
+"Sha256": "1a237cd1acafeb19cd94fc05effccd6e5149386a9e6aa7db19075567b545f02c",
+"IsLFS": true,
+"CommittedDate": 1790015907
+}
+]

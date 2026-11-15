@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SuperLogic/Qwen3.8-27B-Flash-MTP-GGUF
+main commit at snapshot: dca7e70f63892efffadcae17155eb395aab53b94
+snapshot taken: 2026-11-15T02:25:36Z

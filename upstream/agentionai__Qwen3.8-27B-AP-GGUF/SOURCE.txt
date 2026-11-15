@@ -1,0 +1,3 @@
+repo: https://huggingface.co/agentionai/Qwen3.8-27B-AP-GGUF
+main commit at snapshot: 2c387d95ea4026aff8110628f888ab767cd3f759
+snapshot taken: 2026-11-15T02:26:12Z

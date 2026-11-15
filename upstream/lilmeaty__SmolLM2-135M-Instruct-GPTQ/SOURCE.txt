@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lilmeaty/SmolLM2-135M-Instruct-GPTQ
+main commit at snapshot: ea3fa0894bdd70a7e530e43aafc16630fe67319a
+snapshot taken: 2026-11-15T02:31:22Z

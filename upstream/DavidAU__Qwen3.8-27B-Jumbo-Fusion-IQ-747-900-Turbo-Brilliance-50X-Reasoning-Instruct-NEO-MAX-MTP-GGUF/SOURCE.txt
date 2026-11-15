@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/Qwen3.8-27B-Jumbo-Fusion-IQ-747-900-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF
+main commit at snapshot: e39a32a6335c43deb28cef75f04dbf34f71de783
+snapshot taken: 2026-11-15T02:21:59Z

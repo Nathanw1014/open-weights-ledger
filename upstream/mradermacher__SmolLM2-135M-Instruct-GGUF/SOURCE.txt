@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/SmolLM2-135M-Instruct-GGUF
+main commit at snapshot: 34d6b157ff9fb55285116fa8524deb0d90a4982e
+snapshot taken: 2026-11-15T02:33:06Z

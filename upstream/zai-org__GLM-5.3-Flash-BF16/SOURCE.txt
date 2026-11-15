@@ -1,0 +1,3 @@
+repo: https://huggingface.co/zai-org/GLM-5.3-Flash-BF16
+main commit at snapshot: f9fed3bbc82291073373d67452e9f25317ef7577
+snapshot taken: 2026-11-15T02:36:36Z

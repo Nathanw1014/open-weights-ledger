@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+GLM-5.3-Flash-Uncensored-BF16-Vision.gguf	1127280960	e7f71610840eb4df88164ac1eda36bf1ea0449e140ebcd6afba458c7c54b04d7	sha256
+GLM-5.3-Flash-Uncensored-Mixed-IQ2XXS-IQ2XS-Q2K.gguf	93920031264	7f6f96df758b5d651561c2f06ffdd0d1075a24f10654320e24e7d66c48db6017	sha256
+glm53-spark-paired.png	105540	6b28e9a051e1bfe21aa197cb366f53719c189a5aab0fc7fbbd024eb53c47ac7a	sha256

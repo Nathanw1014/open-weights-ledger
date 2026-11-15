@@ -1,0 +1,3 @@
+repo: https://huggingface.co/isilicon/mango-flashnext-orca-tokenizer-20261029
+main commit at snapshot: f2b868150c85f7f0d760ba83fa601f1a197eeda1
+snapshot taken: 2026-11-15T02:30:36Z

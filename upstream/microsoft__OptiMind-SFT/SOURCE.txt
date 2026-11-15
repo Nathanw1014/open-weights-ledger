@@ -1,0 +1,3 @@
+repo: https://huggingface.co/microsoft/OptiMind-SFT
+main commit at snapshot: 817e06666a39155f9352d00354b3227d230da46d
+snapshot taken: 2026-11-15T02:32:06Z

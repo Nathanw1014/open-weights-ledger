@@ -1,0 +1,3 @@
+repo: https://huggingface.co/abd87/gpt2-roman-urdu-sentiment
+main commit at snapshot: 1e4840dadf97d3da87fdf1fcaf96b450b4de3369
+snapshot taken: 2026-11-15T02:26:06Z

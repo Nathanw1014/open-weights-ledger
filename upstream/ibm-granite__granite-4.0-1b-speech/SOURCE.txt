@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ibm-granite/granite-4.0-1b-speech
+main commit at snapshot: bd87ab862416353633ea431fe49b1614003623c5
+snapshot taken: 2026-11-15T02:30:06Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/EleutherAI/bergson-magic-gpt-2
+main commit at snapshot: 47acae1a001d434f79667b6d30ced32824d7f3e3
+snapshot taken: 2026-11-15T02:22:19Z

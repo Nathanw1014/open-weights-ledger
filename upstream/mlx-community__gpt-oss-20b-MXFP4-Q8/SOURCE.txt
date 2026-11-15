@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/gpt-oss-20b-MXFP4-Q8
+main commit at snapshot: 773a7da77e569019bb0fd17a554b263738d669a3
+snapshot taken: 2026-11-15T02:32:43Z

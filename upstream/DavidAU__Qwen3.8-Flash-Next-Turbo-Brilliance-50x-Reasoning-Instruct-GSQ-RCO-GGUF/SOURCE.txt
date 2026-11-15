@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF
+main commit at snapshot: 096fef2f967efa50c25529adda0c59637e2b4477
+snapshot taken: 2026-11-15T02:22:09Z

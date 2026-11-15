@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/Phi-3.5-mini-instruct-GGUF
+main commit at snapshot: 6d70da17e749a471ccb62ade694486011a75cda3
+snapshot taken: 2026-11-15T02:27:56Z

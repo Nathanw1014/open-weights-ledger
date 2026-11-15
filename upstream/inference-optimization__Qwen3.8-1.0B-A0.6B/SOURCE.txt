@@ -1,0 +1,3 @@
+repo: https://huggingface.co/inference-optimization/Qwen3.8-1.0B-A0.6B
+main commit at snapshot: 36531b2b4eab12e9cf7b7b9cbfce0f0a0bb8b719
+snapshot taken: 2026-11-15T02:30:30Z

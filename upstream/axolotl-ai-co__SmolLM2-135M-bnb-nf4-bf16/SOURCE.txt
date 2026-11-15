@@ -1,0 +1,3 @@
+repo: https://huggingface.co/axolotl-ai-co/SmolLM2-135M-bnb-nf4-bf16
+main commit at snapshot: 5e79411051e1962a2ee686f3b0dacbe2689e1b4b
+snapshot taken: 2026-11-15T02:27:33Z

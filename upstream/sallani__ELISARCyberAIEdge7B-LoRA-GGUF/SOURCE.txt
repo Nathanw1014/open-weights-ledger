@@ -1,0 +1,3 @@
+repo: https://huggingface.co/sallani/ELISARCyberAIEdge7B-LoRA-GGUF
+main commit at snapshot: 955894d050836efffa705cb0465408606ecbdaf7
+snapshot taken: 2026-11-15T02:35:07Z

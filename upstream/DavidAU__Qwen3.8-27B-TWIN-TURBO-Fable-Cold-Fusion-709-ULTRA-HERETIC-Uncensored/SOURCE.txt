@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-ULTRA-HERETIC-Uncensored
+main commit at snapshot: 64d1cba00e34c887acc7bf04d25519a6a5f136cc
+snapshot taken: 2026-11-15T02:22:03Z

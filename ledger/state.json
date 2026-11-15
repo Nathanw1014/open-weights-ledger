@@ -43,6 +43,78 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"0xBakeer/TandemLLM-Qwen3.8-27B-EXL3-6.0": {
+"abl": false,
+"downloads": 318,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "a82c4af49748ab7023845369c57855a5834cf2a5",
+"snapshot": "2026-11-15T02:20:53Z",
+"status": 200
+},
+"0xSero/DeepSeek-V4.1-Flash-Spark": {
+"abl": false,
+"downloads": 441,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "9e3bbeabbb39fa2cf6e37e1cecfbd2fd0290329f",
+"snapshot": "2026-11-15T02:20:54Z",
+"status": 200
+},
+"0xSero/GLM-5.3-Flash-EXL3-Spark": {
+"abl": false,
+"downloads": 545,
+"family": "GLM",
+"pinned": true,
+"sha": "2726c32b5364943da6370fe48baca745e58e448d",
+"snapshot": "2026-11-15T02:20:55Z",
+"status": 200
+},
+"0xSojalSec/Ornith-1.5-9B-OBLITERATED": {
+"abl": true,
+"downloads": 312,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "7dc7675ebf674b0fc5a1742608b7dade9355d0b2",
+"snapshot": "2026-11-15T02:20:57Z",
+"status": 200
+},
+"0xSojalSec/Qwen3.8-27B-full-Uncensored": {
+"abl": true,
+"downloads": 860,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "59fd3a4e29c8a549faf42441578b95ae271afa34",
+"snapshot": "2026-11-15T02:21:00Z",
+"status": 200
+},
+"1Thugga17/Ornith-1.5-9B-OBLITERATED": {
+"abl": true,
+"downloads": 143,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "37866ba33c99450f42913b4aecab02abe321dfc3",
+"snapshot": "2026-11-15T02:20:58Z",
+"status": 200
+},
+"3MPER0RR/Ornith1.5-9B-3MPER0RR-abliterated": {
+"abl": true,
+"downloads": 493,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "b93d1ab6c832a0a51d99b1391a2aa25c1b9e3fe7",
+"snapshot": "2026-11-15T02:21:00Z",
+"status": 200
+},
+"3MPER0RR/gpt-oss-20b-3MPER0RR-abliterated": {
+"abl": true,
+"downloads": 593,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "85be4a1ffb0002dac8d0a30dfee9f4424a1eb48f",
+"snapshot": "2026-11-15T02:21:02Z",
+"status": 200
+},
 "AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-BF16": {
 "abl": true,
 "downloads": 25039,
@@ -153,6 +225,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16": {
+"abl": true,
+"downloads": 29224,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "a11b97b5d2c47dcd87693dd7fa49515fdb31c43e",
+"snapshot": "2026-11-15T02:21:04Z",
+"status": 200
+},
 "AEON-7/supergemma4-26b-abliterated-multimodal-nvfp4": {
 "abl": true,
 "downloads": 24576,
@@ -164,6 +245,33 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"AIFunOver/SmolLM2-360M-Instruct-openvino-8bit": {
+"abl": false,
+"downloads": 65,
+"family": "SmolLM",
+"pinned": true,
+"sha": "4d5c9cbb82354e2f0929283ac5fa187761f43332",
+"snapshot": "2026-11-15T02:21:06Z",
+"status": 200
+},
+"AIFunOver/SmolLM2-360M-Instruct-openvino-fp16": {
+"abl": false,
+"downloads": 33,
+"family": "SmolLM",
+"pinned": true,
+"sha": "2af4c2568f55901fc19b320b13ef3c596235218d",
+"snapshot": "2026-11-15T02:21:07Z",
+"status": 200
+},
+"Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-Coder-GGUF": {
+"abl": true,
+"downloads": 30126,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "cfe5da6df1b4e22baf864e33f5132a6202c821e3",
+"snapshot": "2026-11-15T02:21:07Z",
+"status": 200
+},
 "Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-IQ2_XXS-GGUF": {
 "abl": true,
 "downloads": 548120,
@@ -174,6 +282,15 @@
 "snapshot": "2026-11-13T14:09:09Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"Abiray/MiniCPM5-2B-GGUF": {
+"abl": false,
+"downloads": 645,
+"family": "Other",
+"pinned": true,
+"sha": "2cd21775dbf81d357bcafe70ac99f67e06df9390",
+"snapshot": "2026-11-15T02:21:10Z",
+"status": 200
 },
 "Abiray/MiniCPM5-2B-heretic-abliterated-GGUF": {
 "abl": true,
@@ -196,6 +313,15 @@
 "snapshot": "2026-11-13T14:01:44Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"Abiray/Qwen3.8-27B-Q4_K_M-GGUF": {
+"abl": false,
+"downloads": 11775,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f7a1cda580fe828415151042bf9f3dc5bb8b0d76",
+"snapshot": "2026-11-15T02:21:10Z",
+"status": 200
 },
 "Abiray/Qwen3.8-Flash-Next-Orca-Abliterated-GSQ-RCO-Coder-GGUF": {
 "abl": true,
@@ -252,6 +378,15 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"AlexWortega/Qwen3.8-27B-antislop": {
+"abl": false,
+"downloads": 5257,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "395c2c057ac4d7d6fa333dd9774a652039ebddb6",
+"snapshot": "2026-11-15T02:21:23Z",
+"status": 200
+},
 "Alissonerdx/Molmo2-8B-Minimax-H3": {
 "abl": false,
 "downloads": 14838,
@@ -261,6 +396,24 @@
 "snapshot": "2026-11-14T03:53:27Z",
 "status": 200
 },
+"Alogotron/Qwen3.8-27B-MixQ4A6E8-GGUF": {
+"abl": false,
+"downloads": 77,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "cbc9b9396daa3e3faa02cabae761131409d5a323",
+"snapshot": "2026-11-15T02:21:15Z",
+"status": 200
+},
+"Alogotron/Qwen3.8-27B-MixQ5A6E8-GGUF": {
+"abl": false,
+"downloads": 23,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "e383868e440f36a0aaab85af461ffe6587bfd144",
+"snapshot": "2026-11-15T02:21:13Z",
+"status": 200
+},
 "Anbeeld/Qwen3-Coder-30B-A3B-DFlash-GGUF": {
 "abl": false,
 "downloads": 364,
@@ -268,6 +421,15 @@
 "pinned": true,
 "sha": "313e1f5ac2144a583057a4e864e46b7780ce4c11",
 "snapshot": "2026-11-13T13:01:07Z",
+"status": 200
+},
+"Andronovo/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 143,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "7bffc2c7bbeda85f69d73000ff1f008c8927696d",
+"snapshot": "2026-11-15T02:21:18Z",
 "status": 200
 },
 "Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF": {
@@ -281,6 +443,24 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"Andycurrent/Gemma-3-4B-VL-it-Gemini-Pro-Heretic-Uncensored-Thinking_GGUF": {
+"abl": true,
+"downloads": 11242,
+"family": "Gemma 3",
+"pinned": true,
+"sha": "0231eb901e7c7ea0058e4fc055fe3609c0debe5a",
+"snapshot": "2026-11-15T02:21:19Z",
+"status": 200
+},
+"Ar4ikov/gpt2-650k-stable-diffusion-prompt-generator": {
+"abl": false,
+"downloads": 255,
+"family": "Other",
+"pinned": true,
+"sha": "30a70df708cb7a5ea969fb8559c682f21502cfb5",
+"snapshot": "2026-11-15T02:21:21Z",
+"status": 200
+},
 "ArRENCEAI/DeepSeek-R1-Distill-Qwen-1.5B-OBLITERATED": {
 "abl": true,
 "downloads": 1478,
@@ -292,6 +472,42 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"Arkonyx/soo-mistral-7b-l16": {
+"abl": false,
+"downloads": 38,
+"family": "Mistral",
+"pinned": true,
+"sha": "03892943d80706f2f57a611428ac7b67a6ea6bac",
+"snapshot": "2026-11-15T02:21:21Z",
+"status": 200
+},
+"Atlas3D/JEV-27B-VL-GGUF": {
+"abl": false,
+"downloads": 7957,
+"family": "Other",
+"pinned": true,
+"sha": "dbad4de75fea83f1985470644f3e1bc15710cef6",
+"snapshot": "2026-11-15T02:21:24Z",
+"status": 200
+},
+"Atomic-Germ/MiniCPM5-2B-OpenNPU2": {
+"abl": false,
+"downloads": 761,
+"family": "Other",
+"pinned": true,
+"sha": "3b3642c2d68348fc51d600bc2ab6f2f912d60f37",
+"snapshot": "2026-11-15T02:21:25Z",
+"status": 200
+},
+"AtomicChat/Arete-27B-GGUF": {
+"abl": false,
+"downloads": 2715,
+"family": "Other",
+"pinned": true,
+"sha": "30c382f91ce31904fb9b70878570ff63d8c06756",
+"snapshot": "2026-11-15T02:21:26Z",
+"status": 200
+},
 "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-DwarfStar-GGUF": {
 "abl": true,
 "downloads": 48601,
@@ -302,6 +518,15 @@
 "snapshot": "2026-11-13T14:10:51Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GGUF": {
+"abl": true,
+"downloads": 14393,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "f64db7329d89507e6ea17fb2111841242209a863",
+"snapshot": "2026-11-15T02:21:26Z",
+"status": 200
 },
 "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF": {
 "abl": true,
@@ -369,6 +594,33 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"AtomicChat/Ornith-1.5-122B-GGUF": {
+"abl": false,
+"downloads": 26580,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "98907d89aad91aa477464a1944ab8c844886dfa1",
+"snapshot": "2026-11-15T02:21:29Z",
+"status": 200
+},
+"AtomicChat/Ornith-1.5-35B-A3B-GGUF": {
+"abl": false,
+"downloads": 49163,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "385f6c4c886f2376659fd964be85bff09a77c791",
+"snapshot": "2026-11-15T02:21:30Z",
+"status": 200
+},
+"AtomicChat/Ornith-1.5-9B-GGUF": {
+"abl": false,
+"downloads": 42374,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "d44214b125a40e4236807591982e7ef94c3552ae",
+"snapshot": "2026-11-15T02:21:31Z",
+"status": 200
+},
 "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF": {
 "abl": true,
 "downloads": 634156,
@@ -389,6 +641,15 @@
 "snapshot": "2026-11-13T13:01:11Z",
 "status": 200
 },
+"AtomicChat/Qwen3.8-27B-Uncensored-GGUF": {
+"abl": true,
+"downloads": 32523,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "bfc4118269aac8e4b5f6a1c703ed482ef0bfa4ae",
+"snapshot": "2026-11-15T02:21:31Z",
+"status": 200
+},
 "AtomicChat/Qwen3.8-Flash-Next-Uncensored-GGUF": {
 "abl": true,
 "downloads": 75214,
@@ -407,6 +668,51 @@
 "pinned": true,
 "sha": "df550a7178a87bbfb6ee2bdbd37603c553d536ee",
 "snapshot": "2026-11-14T03:53:20Z",
+"status": 200
+},
+"AuxGz/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 318,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "18454e6c81dab72b8f0f504a7d3f54b076657918",
+"snapshot": "2026-11-15T02:21:33Z",
+"status": 200
+},
+"BAAI/AREX-2": {
+"abl": false,
+"downloads": 3370,
+"family": "Other",
+"pinned": true,
+"sha": "d4e3502f92d9e889031c2d04e387ab2eb3520268",
+"snapshot": "2026-11-15T02:21:35Z",
+"status": 200
+},
+"Baekpica/DeepSeek-V4.1-Flash-1017-UNCENSORED-VQ-GGUF": {
+"abl": true,
+"downloads": 1393,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "50b8e3f69443d1e9113583252d1958e669db7d53",
+"snapshot": "2026-11-15T02:21:34Z",
+"status": 200
+},
+"Baekpica/DeepSeek-V4.1-Flash-1017-VQ-GGUF": {
+"abl": false,
+"downloads": 2543,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "6a4daaf13c09c80fe8af3ba5b7ff28fe7359fd11",
+"snapshot": "2026-11-15T02:21:36Z",
+"status": 200
+},
+"Baekpica/GLM-5.3-Flash-Uncensored-Mixed-Quant-GGUF": {
+"abl": true,
+"downloads": 2476,
+"family": "GLM",
+"pinned": true,
+"sha": "8f7b9c01bd50dc4f5bb2836ba06eca0052ae0c2e",
+"snapshot": "2026-11-15T02:21:37Z",
 "status": 200
 },
 "Bahushruth/Qwen3.6-35B-A3B-abliterated-v4": {
@@ -453,6 +759,42 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"BennyDaBall/Qwen3.8-Uncensored-NVFP4-MTP": {
+"abl": true,
+"downloads": 1257,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "ef487afc88e0c81392305b76a737ecb86bfbc715",
+"snapshot": "2026-11-15T02:21:38Z",
+"status": 200
+},
+"BidirLM/BidirLM-1B-Embedding": {
+"abl": false,
+"downloads": 352,
+"family": "Other",
+"pinned": true,
+"sha": "8b9661377d17cc1c41f8c02df4a6e90487c5a7f9",
+"snapshot": "2026-11-15T02:21:40Z",
+"status": 200
+},
+"BidirLM/BidirLM-270M-Embedding": {
+"abl": false,
+"downloads": 211,
+"family": "Other",
+"pinned": true,
+"sha": "769f3a064aa4113a97d9b19c2417cb67a8cf5f30",
+"snapshot": "2026-11-15T02:21:41Z",
+"status": 200
+},
+"BikoRiko/GPT-2.4-High-Pro": {
+"abl": false,
+"downloads": 11,
+"family": "Other",
+"pinned": true,
+"sha": "4571dabf9ee5e384e6a5d2639f8172f57b59b235",
+"snapshot": "2026-11-15T02:21:42Z",
+"status": 200
+},
 "Biomanticus/Qwen3.5-4B-heretic-gguf": {
 "abl": true,
 "downloads": 23724,
@@ -463,6 +805,15 @@
 "snapshot": "2026-11-13T14:07:52Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"Bismark333/selective-read-preserving-repair-gpt2-small": {
+"abl": false,
+"downloads": 9,
+"family": "Other",
+"pinned": true,
+"sha": "a2f152117d77ef9408fd1ed1739eed3258cf358e",
+"snapshot": "2026-11-15T02:21:43Z",
+"status": 200
 },
 "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF": {
 "abl": true,
@@ -475,6 +826,33 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"Blackfrost-AI/RED-SNOW-5.3-FLASH-BF16": {
+"abl": false,
+"downloads": 501,
+"family": "Other",
+"pinned": true,
+"sha": "c0a7b6e3309db18e71f9c390e225594feebecafc",
+"snapshot": "2026-11-15T02:21:44Z",
+"status": 200
+},
+"Blackfrost-AI/RED-SNOW-5.3-FLASH-NVFP4": {
+"abl": false,
+"downloads": 1098,
+"family": "Other",
+"pinned": true,
+"sha": "8133f8ba249427a0dbe0ee197f8562d2ef109569",
+"snapshot": "2026-11-15T02:21:46Z",
+"status": 200
+},
+"Bojun-Feng/Qwen3.8-27B-OBLITERATUS-Uncensored-llamafile": {
+"abl": true,
+"downloads": 430,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "3c38ca0a0f9f4d568e1694d37a6cb43635a21a8d",
+"snapshot": "2026-11-15T02:21:46Z",
+"status": 200
+},
 "BoldingBuilds/Abliterated-MiMo-V2.6-Distill-Qwen-9B-GGUF": {
 "abl": true,
 "downloads": 7902,
@@ -485,6 +863,15 @@
 "snapshot": "2026-11-13T14:03:24Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"BoldingBuilds/DeepSeek-V4.1-Flash-1017-Abliteration-LoRA-GGUF": {
+"abl": true,
+"downloads": 953,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "fbfea8f7fae6ff33f22d7e1c362c4ae16b091e20",
+"snapshot": "2026-11-15T02:21:46Z",
+"status": 200
 },
 "BoldingBuilds/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-Abliterated-24GB-GGUF": {
 "abl": true,
@@ -541,6 +928,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"Bucoid/Qwen3.8-27B-Uncensored-IQ4-XS-MTP-16GB-VRAM-GGUF": {
+"abl": true,
+"downloads": 10944,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "5ae30aad187ddf73729bc0d74e7592a343fd6023",
+"snapshot": "2026-11-15T02:21:49Z",
+"status": 200
+},
 "Cactus-Compute/mirage": {
 "abl": false,
 "downloads": 24452,
@@ -592,6 +988,42 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"ChrisandErin86/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 136,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "75b3ea21b917333d36a26a2d7baca1847a54395b",
+"snapshot": "2026-11-15T02:21:50Z",
+"status": 200
+},
+"Cloudflare/clef": {
+"abl": false,
+"downloads": 74442,
+"family": "Other",
+"pinned": true,
+"sha": "171287b2571042abec9e7b99752aee58216b0ed0",
+"snapshot": "2026-11-15T02:21:50Z",
+"status": 200
+},
+"Code4me2/apex-flash-1-abliterated-NVFP4": {
+"abl": true,
+"downloads": 91,
+"family": "Other",
+"pinned": true,
+"sha": "dc92ebb645460fbe4812d441a77c9a4622758d7d",
+"snapshot": "2026-11-15T02:21:52Z",
+"status": 200
+},
+"Comfy-Org/Qwen3.8-27B": {
+"abl": false,
+"downloads": 20326,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "15daf09dbed69c7d82181547c7ed78fc4f26dbe8",
+"snapshot": "2026-11-15T02:21:54Z",
+"status": 200
+},
 "Comfy-Org/RelayVSR": {
 "abl": false,
 "downloads": 162037,
@@ -599,6 +1031,24 @@
 "pinned": true,
 "sha": "202c35eb0a5bb64b7017d5a09ea9acea87b7a081",
 "snapshot": "2026-11-14T03:53:23Z",
+"status": 200
+},
+"ConceptCountry/qwen-concept-27b": {
+"abl": false,
+"downloads": 63439,
+"family": "Qwen (other)",
+"pinned": true,
+"sha": "4c96373036dd26a8023ffe4149ad941d85f4a36d",
+"snapshot": "2026-11-15T02:21:55Z",
+"status": 200
+},
+"Cosminius/bert_distil_ft": {
+"abl": false,
+"downloads": 310,
+"family": "Other",
+"pinned": true,
+"sha": "0c3e239433953810560fd9f7f2a5e1e942bfdd33",
+"snapshot": "2026-11-15T02:21:56Z",
 "status": 200
 },
 "D3rPapst/ace-step-1.5-gufo": {
@@ -666,6 +1116,24 @@
 "snapshot": "2026-11-14T03:54:06Z",
 "status": 200,
 "via": "search:gufo top:30 label:Gufo"
+},
+"DEXX23/smollm2-135m-sql-drafter": {
+"abl": false,
+"downloads": 28,
+"family": "SmolLM",
+"pinned": true,
+"sha": "60d0ec365ceffdfe31494d472ab35c50563405c4",
+"snapshot": "2026-11-15T02:21:58Z",
+"status": 200
+},
+"DRUPEs/CherryPit-1.0-2B-GGUF": {
+"abl": false,
+"downloads": 1692,
+"family": "Other",
+"pinned": true,
+"sha": "6f0f09cec8dc89168defb2804bf2701f7b838068",
+"snapshot": "2026-11-15T02:21:58Z",
+"status": 200
 },
 "DRV58/Qwen3.6-27B-OBLITERATED": {
 "abl": true,
@@ -788,6 +1256,24 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF": {
+"abl": false,
+"downloads": 382691,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "fb7a7e0e0f1d739fbb946d9b1d9feded2dd3917d",
+"snapshot": "2026-11-15T02:22:02Z",
+"status": 200
+},
+"DavidAU/Qwen3.8-27B-Jumbo-Fusion-IQ-747-900-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF": {
+"abl": false,
+"downloads": 522715,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "e39a32a6335c43deb28cef75f04dbf34f71de783",
+"snapshot": "2026-11-15T02:22:01Z",
+"status": 200
+},
 "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
 "abl": true,
 "downloads": 1657783,
@@ -798,6 +1284,15 @@
 "snapshot": "2026-11-13T14:06:37Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU": {
+"abl": true,
+"downloads": 6785,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "079b2b268c637b77f2fb4ab6a5ca1edc47d462a5",
+"snapshot": "2026-11-15T02:22:02Z",
+"status": 200
 },
 "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF": {
 "abl": true,
@@ -810,6 +1305,15 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-ULTRA-HERETIC-Uncensored": {
+"abl": true,
+"downloads": 757,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "64d1cba00e34c887acc7bf04d25519a6a5f136cc",
+"snapshot": "2026-11-15T02:22:06Z",
+"status": 200
+},
 "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-ULTRA-HERETIC-Uncensored-NM-DAU-NEO-MTP-GGUF": {
 "abl": true,
 "downloads": 186970,
@@ -821,6 +1325,24 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF": {
+"abl": false,
+"downloads": 1045419,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "657b80fe61334271ae8b7f6cece7f289845abbdb",
+"snapshot": "2026-11-15T02:22:05Z",
+"status": 200
+},
+"DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored": {
+"abl": true,
+"downloads": 1897,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "fe5a47e1cd6960c17454fd223a8e6c71c6f55bfa",
+"snapshot": "2026-11-15T02:22:07Z",
+"status": 200
+},
 "DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF": {
 "abl": true,
 "downloads": 56623,
@@ -831,6 +1353,24 @@
 "snapshot": "2026-11-13T14:07:11Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored": {
+"abl": true,
+"downloads": 1893,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "4d78208ba887bc4e0833ef2a55daf24e2aa5943b",
+"snapshot": "2026-11-15T02:22:08Z",
+"status": 200
+},
+"DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Build2": {
+"abl": true,
+"downloads": 1345,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "019dd6276c2e540ea3b6e72f3bf5557911002be5",
+"snapshot": "2026-11-15T02:22:10Z",
+"status": 200
 },
 "DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF": {
 "abl": true,
@@ -854,6 +1394,69 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"DavidAU/Qwen3.8-Flash-Next-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF": {
+"abl": false,
+"downloads": 273580,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "096fef2f967efa50c25529adda0c59637e2b4477",
+"snapshot": "2026-11-15T02:22:11Z",
+"status": 200
+},
+"DavidrPatton/Qwen3.8-27B-Uncensored-UD3-GGUF": {
+"abl": true,
+"downloads": 1467,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "51b170fa053cb13396698d0ae019efc49b2f3366",
+"snapshot": "2026-11-15T02:22:11Z",
+"status": 200
+},
+"Deepdive404-3/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 322,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f21f0021f2d72c93326860f886641a468c6de84e",
+"snapshot": "2026-11-15T02:22:14Z",
+"status": 200
+},
+"DogContext/GLM-5.3-Flash-Uncensored-Q2-ds4": {
+"abl": true,
+"downloads": 20126,
+"family": "GLM",
+"pinned": true,
+"sha": "235989b3a2f4ede83c05c9bdb29130ea3f77e3bb",
+"snapshot": "2026-11-15T02:22:15Z",
+"status": 200
+},
+"Drpineapple31/SmolLM2-FT-MyDataset": {
+"abl": false,
+"downloads": 31,
+"family": "SmolLM",
+"pinned": true,
+"sha": "9a7aaee022ba27788e43299dade94ab9534d7b55",
+"snapshot": "2026-11-15T02:22:14Z",
+"status": 200
+},
+"Duckets/LFM3-VL-2B-BrowserAgent-GGUF": {
+"abl": false,
+"downloads": 1766,
+"family": "LFM",
+"pinned": true,
+"sha": "1d8a8072f57dfca6d2238e1ec2e5867d9191bc19",
+"snapshot": "2026-11-15T02:22:17Z",
+"status": 200
+},
+"DuoNeural/Cyber-Ornith-1.5-9B-OBLITERATED": {
+"abl": true,
+"downloads": 1063,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "8cbc337279be8f67e338816b0c9cac6bedc81eae",
+"snapshot": "2026-11-15T02:22:17Z",
+"status": 200
+},
 "DuoNeural/Cyber-Ornith-1.5-9B-OBLITERATED-GGUF": {
 "abl": true,
 "downloads": 4496,
@@ -864,6 +1467,78 @@
 "snapshot": "2026-11-13T14:05:12Z",
 "status": 200,
 "via": "search:obliterated top:60"
+},
+"DuoNeural/Cyber-Ornith-1.5-9B-OBLITERATED-LoRA": {
+"abl": true,
+"downloads": 0,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "976e37262670a1b901d8b8cad3abd0f6704474e1",
+"snapshot": "2026-11-15T02:22:17Z",
+"status": 200
+},
+"Egzakta/Kvark-Sparkle-1.0-27B": {
+"abl": false,
+"downloads": 375,
+"family": "Other",
+"pinned": true,
+"sha": "900883986d35d604a48d6738c8c99d4b982476d5",
+"snapshot": "2026-11-15T02:22:22Z",
+"status": 200
+},
+"Egzakta/Kvark-Sparkle-1.0-27B-GGUF": {
+"abl": false,
+"downloads": 7389,
+"family": "Other",
+"pinned": true,
+"sha": "1d39e7b3af38c89cca2a46dbd54b701ba5edf77c",
+"snapshot": "2026-11-15T02:22:20Z",
+"status": 200
+},
+"EleutherAI/bergson-magic-gpt-2": {
+"abl": false,
+"downloads": 57,
+"family": "Other",
+"pinned": true,
+"sha": "47acae1a001d434f79667b6d30ced32824d7f3e3",
+"snapshot": "2026-11-15T02:22:21Z",
+"status": 200
+},
+"EleutherAI/gpt-2-wikitext-chunks-epsroot-0-bs64": {
+"abl": false,
+"downloads": 54,
+"family": "Other",
+"pinned": true,
+"sha": "5ace30d5159d13f47041a56f86f38de01d02a218",
+"snapshot": "2026-11-15T02:22:25Z",
+"status": 200
+},
+"EleutherAI/gpt-2-wikitext-chunks-epsroot-1e-6-bs64": {
+"abl": false,
+"downloads": 64,
+"family": "Other",
+"pinned": true,
+"sha": "a1da18bbb22f6c5d038b6ee7aa7088496fcc55f3",
+"snapshot": "2026-11-15T02:22:26Z",
+"status": 200
+},
+"EntityDeletr/gpt-oss-20b-DFlash-GGUF": {
+"abl": false,
+"downloads": 936,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "93855ebf850a9b9fe189d48fef06b8adbab80178",
+"snapshot": "2026-11-15T02:22:24Z",
+"status": 200
+},
+"EschaLabs/Qwen3.8-27B-Escha-W2": {
+"abl": false,
+"downloads": 440,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "561dae0aeea1efbdafe122f2e385fdeaa99127e7",
+"snapshot": "2026-11-15T02:22:30Z",
+"status": 200
 },
 "EternalDragon/G4-MeroMero-26B-A4B-Heretic2": {
 "abl": true,
@@ -876,6 +1551,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"FastFlowLM/GPT-OSS-20B-NPU2": {
+"abl": false,
+"downloads": 2848,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "5c6a9c780204e40a6a2c0d387f474598c72bbff6",
+"snapshot": "2026-11-15T02:22:28Z",
+"status": 200
+},
 "Felladrin/halogen-qwen3.5-0.8b": {
 "abl": false,
 "downloads": 0,
@@ -886,6 +1570,24 @@
 "snapshot": "2026-11-13T14:52:38Z",
 "status": 200,
 "via": "search:halogen-qwen top:40 label:Halogen"
+},
+"FrontiersMind/Lumma-fev-27B": {
+"abl": false,
+"downloads": 261,
+"family": "Other",
+"pinned": true,
+"sha": "2c080fb4b44bbad2a140353393d935e8b7af8bcb",
+"snapshot": "2026-11-15T02:22:30Z",
+"status": 200
+},
+"FrontiersMind/Lumma-fev-27B-v2": {
+"abl": false,
+"downloads": 140,
+"family": "Other",
+"pinned": true,
+"sha": "85ee6576956ac972683d2bb987a79bfa7193e4d7",
+"snapshot": "2026-11-15T02:22:31Z",
+"status": 200
 },
 "FrostWolfAI/Spark-X2.6-4B-abliterated-GGUF": {
 "abl": true,
@@ -898,6 +1600,24 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"Fu01978/SmollerLM2-360M-Instruct-Pruned": {
+"abl": false,
+"downloads": 31,
+"family": "Other",
+"pinned": true,
+"sha": "0f6fa7e77c1da47c65a53d8f0d117430cc96bf7c",
+"snapshot": "2026-11-15T02:22:34Z",
+"status": 200
+},
+"GCSA-AiLab/GLM-5.3-Flash-Abliterated-LoRA-GGUF": {
+"abl": true,
+"downloads": 623,
+"family": "GLM",
+"pinned": true,
+"sha": "1d8439bff3ef52fe237a86e1c422dbff4834d825",
+"snapshot": "2026-11-15T02:22:35Z",
+"status": 200
+},
 "GCSA-AiLab/GLM-5.3-Flash-Uncensored-RCO-GSQ-GGUF": {
 "abl": true,
 "downloads": 41884,
@@ -908,6 +1628,60 @@
 "snapshot": "2026-11-13T14:10:41Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"GeorgeUwaifo/ivieai_star_v1.0": {
+"abl": false,
+"downloads": 15,
+"family": "Other",
+"pinned": true,
+"sha": "f27f6b5d293b0966841d2918495e6a2cba9cefb2",
+"snapshot": "2026-11-15T02:22:34Z",
+"status": 200
+},
+"GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF": {
+"abl": false,
+"downloads": 84846,
+"family": "Other",
+"pinned": true,
+"sha": "5a4ed2c3605634e7b043e8b98fa01e504b0dfbed",
+"snapshot": "2026-11-15T02:22:38Z",
+"status": 200
+},
+"GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking": {
+"abl": false,
+"downloads": 978,
+"family": "Other",
+"pinned": true,
+"sha": "ae621032de21e5229215e5b882dd5534049b4eda",
+"snapshot": "2026-11-15T02:22:40Z",
+"status": 200
+},
+"GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF": {
+"abl": false,
+"downloads": 144904,
+"family": "Other",
+"pinned": true,
+"sha": "1c5821260e77c42e0b350f0248fabcf3c90ecade",
+"snapshot": "2026-11-15T02:22:39Z",
+"status": 200
+},
+"GnLOLot/MiniCPM5-2B-Claude-Fable5-1-Thinking-Agentic-GGUF": {
+"abl": false,
+"downloads": 1116,
+"family": "Other",
+"pinned": true,
+"sha": "0db8d0ff8753091b7eb2bc4b21cbb048fafda0a9",
+"snapshot": "2026-11-15T02:22:43Z",
+"status": 200
+},
+"HFCK99/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 219,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "fb54d7b4b2c334e14346132653cf4f804d364a7d",
+"snapshot": "2026-11-15T02:22:43Z",
+"status": 200
 },
 "HalogenFlo/Qwen2.5-0.5B-Instruct-lora-finetuned": {
 "abl": false,
@@ -1140,6 +1914,51 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"HermiHg/Qwen3.8-27B-DFlash2-Q2_K_S-MIX-GGUF": {
+"abl": false,
+"downloads": 1755,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "2b4527438b07460dcf27713107aedf0c6853e850",
+"snapshot": "2026-11-15T02:22:43Z",
+"status": 200
+},
+"HermiHg/Qwen3.8-27B-Optimized-MTP-Heads-exl3": {
+"abl": false,
+"downloads": 0,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "411edf8fac168a7f6ba9b5fb3fca439ff9dc98cb",
+"snapshot": "2026-11-15T02:22:46Z",
+"status": 200
+},
+"HermiHg/Qwen3.8-27B-mmproj-Q5_K-MIX-GGUF": {
+"abl": false,
+"downloads": 3073,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "dbf78ac52891f19cf175abb8813997267adb0e92",
+"snapshot": "2026-11-15T02:22:47Z",
+"status": 200
+},
+"HermiHg/Qwen3.8-Flash-Next-Optimized-MTP-Heads-exl3": {
+"abl": false,
+"downloads": 0,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "836df288557a5f2e06ba8de6fefc73851653c981",
+"snapshot": "2026-11-15T02:22:46Z",
+"status": 200
+},
+"Hikari07jp/DeepSeek-V4.1-1017-Ablitrated-testmodel": {
+"abl": true,
+"downloads": 243,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "bb838666a66a83293c289cc2d8fd271b178d02e9",
+"snapshot": "2026-11-15T02:22:51Z",
+"status": 200
+},
 "Horizon-Labs/multilingual-reranker-small": {
 "abl": false,
 "downloads": 3305,
@@ -1167,6 +1986,132 @@
 "snapshot": "2026-11-14T03:53:52Z",
 "status": 200
 },
+"HuggingFaceH4/zephyr-7b-alpha": {
+"abl": false,
+"downloads": 4644,
+"family": "Other",
+"pinned": true,
+"sha": "014792bbb59d04ced3b5a9b8b4dfc926655d958f",
+"snapshot": "2026-11-15T02:22:50Z",
+"status": 200
+},
+"HuggingFaceTB/SmolLM2-1.7B-Instruct": {
+"abl": false,
+"downloads": 264033,
+"family": "SmolLM",
+"pinned": true,
+"sha": "31b70e2e869a7173562077fd711b654946d38674",
+"snapshot": "2026-11-15T02:22:51Z",
+"status": 200
+},
+"HuggingFaceTB/SmolLM2-1.7B-Instruct-GGUF": {
+"abl": false,
+"downloads": 16193,
+"family": "SmolLM",
+"pinned": true,
+"sha": "2d4a76a30b4af41ecd395c35725ac11688d4cfe4",
+"snapshot": "2026-11-15T02:22:57Z",
+"status": 200
+},
+"HuggingFaceTB/SmolLM2-135M-Instruct": {
+"abl": false,
+"downloads": 831311,
+"family": "SmolLM",
+"pinned": true,
+"sha": "12fd25f77366fa6b3b4b768ec3050bf629380bac",
+"snapshot": "2026-11-15T02:22:56Z",
+"status": 200
+},
+"HuggingFaceTB/SmolLM2-360M-Instruct": {
+"abl": false,
+"downloads": 231150,
+"family": "SmolLM",
+"pinned": true,
+"sha": "a10cc1512eabd3dde888204e902eca88bddb4951",
+"snapshot": "2026-11-15T02:22:56Z",
+"status": 200
+},
+"HuggingFaceTB/SmolLM2-360M-Instruct-GGUF": {
+"abl": false,
+"downloads": 18097,
+"family": "SmolLM",
+"pinned": true,
+"sha": "593b5a2e04c8f3e4ee880263f93e0bd2901ad47f",
+"snapshot": "2026-11-15T02:22:59Z",
+"status": 200
+},
+"HuggingFaceTB/SmolVLM-256M-Instruct": {
+"abl": false,
+"downloads": 202485,
+"family": "SmolLM",
+"pinned": true,
+"sha": "d039ab0d4b9311b617e8ffec1d06c8464364aeb3",
+"snapshot": "2026-11-15T02:23:01Z",
+"status": 200
+},
+"HuggingFaceTB/SmolVLM-500M-Instruct": {
+"abl": false,
+"downloads": 265379,
+"family": "SmolLM",
+"pinned": true,
+"sha": "753c1752602b5e739af7a7fa6947a635051897a3",
+"snapshot": "2026-11-15T02:23:01Z",
+"status": 200
+},
+"Huntfat/Qwen3.8-27B-OBLITERATED-huntfat": {
+"abl": true,
+"downloads": 134,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b8ce5bd3c3ad873df5e2c037e5251badb4db7f66",
+"snapshot": "2026-11-15T02:23:04Z",
+"status": 200
+},
+"ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF": {
+"abl": false,
+"downloads": 431762,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "54229d38d588a66d1c6cff08af7b281b9326c656",
+"snapshot": "2026-11-15T02:23:05Z",
+"status": 200
+},
+"ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF": {
+"abl": false,
+"downloads": 3983957,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "65d53bc8be65123e255ff02f3ded958b6dbf54fd",
+"snapshot": "2026-11-15T02:23:04Z",
+"status": 200
+},
+"ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF": {
+"abl": false,
+"downloads": 1353284,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "d562806dbafae37109975e970aae91b43e73b440",
+"snapshot": "2026-11-15T02:23:07Z",
+"status": 200
+},
+"ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF": {
+"abl": false,
+"downloads": 789435,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "bba88856f8c3c0c9e40e45f82d05e228b814ac43",
+"snapshot": "2026-11-15T02:23:09Z",
+"status": 200
+},
+"ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF": {
+"abl": false,
+"downloads": 7019012,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "ed59f92082b1e93c0e96d60a8b11aab089b52f09",
+"snapshot": "2026-11-15T02:23:11Z",
+"status": 200
+},
 "Ihor/gliner-biomed-large-v1.0": {
 "abl": false,
 "downloads": 3494,
@@ -1176,6 +2121,69 @@
 "snapshot": "2026-11-14T03:54:03Z",
 "status": 200
 },
+"IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored": {
+"abl": true,
+"downloads": 29392,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "ed44acec8175a06485c55f0f8915fb57eea9d7ee",
+"snapshot": "2026-11-15T02:23:11Z",
+"status": 200
+},
+"IndrasMirror/DeepSeek-V4.1-Flash-GSQ-Uncensored": {
+"abl": true,
+"downloads": 10550,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "0ae18f838e103fb03d952fa8ed73c7aa9c34002f",
+"snapshot": "2026-11-15T02:23:13Z",
+"status": 200
+},
+"Infatoshi/DeepSeek-V4.1-Flash-1017-EXL3-3.5bpw-uncensored": {
+"abl": true,
+"downloads": 613,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "45c205b48805e279e63b9567aae99aea1258bb60",
+"snapshot": "2026-11-15T02:23:14Z",
+"status": 200
+},
+"Infatoshi/DeepSeek-V4.1-Flash-1017-MXFP4-uncensored": {
+"abl": true,
+"downloads": 2427,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "f07d8148c7432ba5b713af890892fac0d4ae4379",
+"snapshot": "2026-11-15T02:23:15Z",
+"status": 200
+},
+"Infatoshi/DeepSeek-V4.1-Flash-1017-NVFP4-uncensored": {
+"abl": true,
+"downloads": 800,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "174981d3bbc6585ce05b4084aa6327c40fb11518",
+"snapshot": "2026-11-15T02:23:16Z",
+"status": 200
+},
+"Inferact/Qwen3.8-27B-NVFP4": {
+"abl": false,
+"downloads": 96622,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "6128240ebaf4eaa7bad2b3d1c72c37d677c5f462",
+"snapshot": "2026-11-15T02:23:19Z",
+"status": 200
+},
+"Intel/GLM-5.3-Flash-W4A16-AutoRound": {
+"abl": false,
+"downloads": 801,
+"family": "GLM",
+"pinned": true,
+"sha": "5eee1846f0321058ed73745f9aa16f2aaf0fc0a0",
+"snapshot": "2026-11-15T02:23:20Z",
+"status": 200
+},
 "IsValorum/Clover-35B-A3B-Preview-APEX-I-MiniPlus-V2.1-GGUF": {
 "abl": false,
 "downloads": 2640,
@@ -1183,6 +2191,60 @@
 "pinned": true,
 "sha": "2939d6f24685ceb5cc2b8dcc6f4e1f73f206cfd4",
 "snapshot": "2026-11-14T03:53:57Z",
+"status": 200
+},
+"IsValorum/Cyber-Tiel-Coder-35B-A3B-APEX-I-MiniPlus-V2.1-GGUF": {
+"abl": true,
+"downloads": 19048,
+"family": "Other",
+"pinned": true,
+"sha": "eb8f29ae8e38ed497b3406da48d1015b3707ee25",
+"snapshot": "2026-11-15T02:23:19Z",
+"status": 200
+},
+"IsValorum/Cyber-Tiel-Coder-35B-A3B-APEX-I-NanoPlus-GGUF": {
+"abl": true,
+"downloads": 5921,
+"family": "Other",
+"pinned": true,
+"sha": "510d10c44fdf651495783eaf2ab40ecc948e6b02",
+"snapshot": "2026-11-15T02:23:21Z",
+"status": 200
+},
+"IsValorum/Huihui-Qwen3.8-27B-Abliterated-VAL-APEX-I-MiniPlus-V3-GGUF": {
+"abl": true,
+"downloads": 2104,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "2309f3fd6bea83af06352a789176f6fdb7a477c6",
+"snapshot": "2026-11-15T02:23:22Z",
+"status": 200
+},
+"IsValorum/Huihui-Qwen3.8-27B-Abliterated-VAL-APEX-I-NanoPlus-V3-GGUF": {
+"abl": true,
+"downloads": 9468,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "e07cc5265e2da151369fcb3fb8155ad6299ef457",
+"snapshot": "2026-11-15T02:23:24Z",
+"status": 200
+},
+"IsValorum/Huihui-Qwen3.8-27B-Coder390-EfficientThink-abliterated-VAL-APEX-I-MiniPlus-V3-GGUF": {
+"abl": true,
+"downloads": 10874,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "80e5cb07915c7970a1e5df3276686b3a39957d9a",
+"snapshot": "2026-11-15T02:23:24Z",
+"status": 200
+},
+"IsValorum/Huihui-Qwen3.8-27B-Coder390-EfficientThink-abliterated-VAL-APEX-I-NanoPlus-V3-GGUF": {
+"abl": true,
+"downloads": 5020,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "d093308128dba15439e1b5cf98936e0bec762e14",
+"snapshot": "2026-11-15T02:23:26Z",
 "status": 200
 },
 "IsValorum/Occamy-1.0-APEX-I-MiniPlus-V2.1-Abliterated-GGUF": {
@@ -1196,6 +2258,51 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"IsValorum/Ornith-1.5-35B-A3B-APEX-I-MiniPlus-V2.1-GGUF": {
+"abl": false,
+"downloads": 4719,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "69017ac8446d1221628331783048e8f25cf0be94",
+"snapshot": "2026-11-15T02:23:28Z",
+"status": 200
+},
+"IsValorum/Ornith-1.5-35B-A3B-APEX-I-NanoPlus-GGUF": {
+"abl": false,
+"downloads": 2732,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "f36e5b7d19a7eee0ec321d53fe67bd1f465c84a4",
+"snapshot": "2026-11-15T02:23:27Z",
+"status": 200
+},
+"IsValorum/Qwen3.8-27B-TTURBO-709-Uncen-BF16-GGUF": {
+"abl": true,
+"downloads": 137,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "8feb9f63849a2c082b37bf10bbf6bd360deaaee2",
+"snapshot": "2026-11-15T02:23:30Z",
+"status": 200
+},
+"IsValorum/Qwen3.8-27B-VAL-APEX-I-MiniPlus-V3-GGUF": {
+"abl": false,
+"downloads": 2219,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f7e225ef32ab66778d723fffd8ea9ae910984591",
+"snapshot": "2026-11-15T02:23:30Z",
+"status": 200
+},
+"IsValorum/Qwen3.8-27B-VAL-APEX-I-NanoPlus-V3-GGUF": {
+"abl": false,
+"downloads": 1908,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "0e1b883f65e69e82258f7f4713f018df39289684",
+"snapshot": "2026-11-15T02:23:30Z",
+"status": 200
+},
 "IsValorum/Qwen3.8-35B-A3B-Distill-MTP-APEX-I-MiniPlus-V2.1-Abliterated-GGUF": {
 "abl": true,
 "downloads": 114831,
@@ -1207,6 +2314,51 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"IsValorum/Qwen3.8-Flash-Coder-85GB-BF16-GGUF": {
+"abl": false,
+"downloads": 353,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "bc3a1fea52a6dfab5abd6b2ff99a16ae144f8430",
+"snapshot": "2026-11-15T02:23:32Z",
+"status": 200
+},
+"IsValorum/Qwen3.8-Flash-Coder-APEX-I-MiniPlus-V2.1-GGUF": {
+"abl": false,
+"downloads": 1621,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "05f139c0f2172f11be9fcec9b51ee885d7177a90",
+"snapshot": "2026-11-15T02:23:33Z",
+"status": 200
+},
+"IsValorum/Qwen3.8-Flash-Coder-APEX-I-NanoPlus-GGUF": {
+"abl": false,
+"downloads": 1475,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "e770bfc17544fdec1e278cec9af8819ebfaf0fc2",
+"snapshot": "2026-11-15T02:23:34Z",
+"status": 200
+},
+"IsValorum/Swift-1.5-Qwen3.8-27B-Uncensored-MTP-VAL-APEX-I-MiniPlus-V3-GGUF": {
+"abl": true,
+"downloads": 29223,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b9f03a786701a12ea6f55ea3497c8ab83df59274",
+"snapshot": "2026-11-15T02:23:36Z",
+"status": 200
+},
+"IsValorum/Swift-1.5-Qwen3.8-27B-Uncensored-MTP-VAL-APEX-I-NanoPlus-V3-GGUF": {
+"abl": true,
+"downloads": 9460,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "005f5b20077e0a8be29c4e2272079825de00e2e3",
+"snapshot": "2026-11-15T02:23:35Z",
+"status": 200
+},
 "IstroSec/ThinkingCap-Qwen3.8-27B-abliterated-NVFP4A16": {
 "abl": true,
 "downloads": 55518,
@@ -1217,6 +2369,33 @@
 "snapshot": "2026-11-13T14:01:15Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"JACK-POTTSSON/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 523,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "5365fa2e2965d061c48e66d458c68204d84c33ee",
+"snapshot": "2026-11-15T02:23:38Z",
+"status": 200
+},
+"JACK-POTTSSON/Qwen3.8-27B-OBLITERATEDpintus": {
+"abl": true,
+"downloads": 376,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "4a888c3e8591f35bd05023f82353ef350afbb511",
+"snapshot": "2026-11-15T02:23:41Z",
+"status": 200
+},
+"JackAgentLead/Jack-3.8-27B-V2-VL-16GB-VRAM": {
+"abl": false,
+"downloads": 348,
+"family": "Other",
+"pinned": true,
+"sha": "b5547a4b12824a1db2bf1af41504c3c7d600f8ac",
+"snapshot": "2026-11-15T02:23:38Z",
+"status": 200
 },
 "Jackrong/Qwopus3.6-35B-A3B-v1": {
 "abl": false,
@@ -1236,6 +2415,105 @@
 "snapshot": "2026-11-13T09:38:45Z",
 "status": 200
 },
+"Jackrong/Qwopus3.8-27B-Flash-GGUF": {
+"abl": false,
+"downloads": 2166,
+"family": "Qwopus",
+"pinned": true,
+"sha": "002f131b886df35843254e96425eb3a7e5a8cdd8",
+"snapshot": "2026-11-15T02:23:42Z",
+"status": 200
+},
+"Jaredhollins/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 465,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "9a03472e02be880a4a0223b2eaeab9d1ee7bac85",
+"snapshot": "2026-11-15T02:23:41Z",
+"status": 200
+},
+"JasonLi23/text-classification-finetuned": {
+"abl": false,
+"downloads": 17,
+"family": "Other",
+"pinned": true,
+"sha": "306ef803d1b3cceb7e22f37714952d38ebe46e0a",
+"snapshot": "2026-11-15T02:23:44Z",
+"status": 200
+},
+"Jeff98/MiniCPM5-2B-openvino": {
+"abl": false,
+"downloads": 156,
+"family": "Other",
+"pinned": true,
+"sha": "ad2d36de8216231a83fbb6d96984da7bc842395e",
+"snapshot": "2026-11-15T02:23:44Z",
+"status": 200
+},
+"JigSawPT/DeepSeek-V4.1-Flash-DSpark-GGUF": {
+"abl": false,
+"downloads": 737,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "0fe521efb6e3aaab7af758d50aa5d7688a4bfa8a",
+"snapshot": "2026-11-15T02:23:46Z",
+"status": 200
+},
+"Jiunsong/SuperQwen3.8-27b-abliterated": {
+"abl": true,
+"downloads": 260,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "34b6d2bc88fa8554a559023ac03f514ef1f9d913",
+"snapshot": "2026-11-15T02:23:48Z",
+"status": 200
+},
+"Jiunsong/SuperQwen3.8-27b-abliterated-GGUF": {
+"abl": true,
+"downloads": 1858,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "1974faaadc059d96d918e7cd16161e8d6f701bd0",
+"snapshot": "2026-11-15T02:23:48Z",
+"status": 200
+},
+"Jiunsong/SuperQwen3.8-27b-abliterated-MLX-4bit": {
+"abl": true,
+"downloads": 3035,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "bd2a440fb188d55be2299771cf9740128f693d72",
+"snapshot": "2026-11-15T02:23:49Z",
+"status": 200
+},
+"Jiunsong/SuperQwen3.8-27b-abliterated-NVFP4-DGX-Spark": {
+"abl": true,
+"downloads": 573,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "3138ac6b78d0d4ed6173c0eb459a3f5b3bdf208e",
+"snapshot": "2026-11-15T02:23:51Z",
+"status": 200
+},
+"Jiunsong/SuperQwen3.8-abliterated-100-fp8": {
+"abl": true,
+"downloads": 240,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "14caec27f99afb2596d42dcf3be20d024f14cfeb",
+"snapshot": "2026-11-15T02:23:51Z",
+"status": 200
+},
+"JonathanColetti/Qwen3.8-27B-Uncensored": {
+"abl": true,
+"downloads": 29734,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "5bb7aa90f0efef548e87005b1fb7658e522b6b7f",
+"snapshot": "2026-11-15T02:23:52Z",
+"status": 200
+},
 "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF": {
 "abl": true,
 "downloads": 2331117,
@@ -1246,6 +2524,51 @@
 "snapshot": "2026-11-13T14:08:55Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"Jundot/Qwen3.8-27B-oQ4e-mtp": {
+"abl": false,
+"downloads": 38429,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "7dd276b77fcb27c982ebd8d8a434539345713fea",
+"snapshot": "2026-11-15T02:23:54Z",
+"status": 200
+},
+"Jundot/clef-oQ4e": {
+"abl": false,
+"downloads": 871,
+"family": "Other",
+"pinned": true,
+"sha": "50ab8bb3f8ee1080fb6e30e3a2100b3c2a1c01e9",
+"snapshot": "2026-11-15T02:23:54Z",
+"status": 200
+},
+"Justbackup/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 643,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "d083fe7469a810b62c334c923a0a318b2c850dc1",
+"snapshot": "2026-11-15T02:23:55Z",
+"status": 200
+},
+"Justintime27/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 246,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b404d9b397d5b566c9015288eb1881538227839b",
+"snapshot": "2026-11-15T02:23:59Z",
+"status": 200
+},
+"Justvugg/GLM-5.3-Flash-colibri-int4-g64": {
+"abl": false,
+"downloads": 438,
+"family": "GLM",
+"pinned": true,
+"sha": "fe1d408f252c9c53a0d688aa54e41d9bdfdfd510",
+"snapshot": "2026-11-15T02:23:58Z",
+"status": 200
 },
 "KRLabsOrg/lettucedect-610m-eurobert-de-v1": {
 "abl": false,
@@ -1267,6 +2590,15 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"KatterMobile/DavidAU-Qwen3.8-27B-TWIN-ColdFusion-Astra-709-NVFP4": {
+"abl": true,
+"downloads": 265,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "61dd0c2e2227d2f186b6044e31068ed1de22f7bb",
+"snapshot": "2026-11-15T02:23:58Z",
+"status": 200
+},
 "KilltheSniper/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF": {
 "abl": true,
 "downloads": 14040,
@@ -1277,6 +2609,24 @@
 "snapshot": "2026-11-13T14:04:12Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"Kiwimaker/DeepSeek-V4.1-Flash-1017-Maya-S-abliterated-GGUF": {
+"abl": true,
+"downloads": 0,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "fc1ce1675582cbcc9fdb66c7fb190beb2bdbdf31",
+"snapshot": "2026-11-15T02:24:01Z",
+"status": 200
+},
+"KrynexLabs/KrynexAI-1.4-150M-Mobile-Model": {
+"abl": false,
+"downloads": 6597,
+"family": "Other",
+"pinned": true,
+"sha": "c8bca53684cd12ec902d6950f621312ef94ba467",
+"snapshot": "2026-11-15T02:24:01Z",
+"status": 200
 },
 "Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF": {
 "abl": true,
@@ -1289,6 +2639,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"LakyFx/DeepSeek-V4.1-Flash-1017-EXL3-3.5bpw-TensorFold": {
+"abl": false,
+"downloads": 773,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "56d0337162e80b11db05957fbb9e902e920568c0",
+"snapshot": "2026-11-15T02:24:02Z",
+"status": 200
+},
 "LatitudeGames/Wayfarer-2-12B-GGUF": {
 "abl": false,
 "downloads": 2361,
@@ -1298,6 +2657,15 @@
 "snapshot": "2026-11-14T03:54:01Z",
 "status": 200
 },
+"LeonaQuantum/leonaq-1.5-mini": {
+"abl": false,
+"downloads": 0,
+"family": "Other",
+"pinned": true,
+"sha": "930d556296aa26e5b1286b66dacd98f86b98fb27",
+"snapshot": "2026-11-15T02:24:04Z",
+"status": 200
+},
 "LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF": {
 "abl": true,
 "downloads": 58610,
@@ -1305,6 +2673,33 @@
 "pinned": true,
 "sha": "e55216fa4cc583519d72fcf45bf795a1c7a2dff9",
 "snapshot": "2026-11-14T03:53:19Z",
+"status": 200
+},
+"LibertAIDAI/DeepSeek-V4.1-Flash-1017-EXL3-2.9bpw": {
+"abl": false,
+"downloads": 7382,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "0be63c3337efbb2a0061d5b8bb4006fa186d433f",
+"snapshot": "2026-11-15T02:24:06Z",
+"status": 200
+},
+"LibertAIDAI/DeepSeek-V4.1-Flash-1017-NVFP4": {
+"abl": false,
+"downloads": 1446,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "5be99cd15675589fb6693d0a8651e413bcb9a396",
+"snapshot": "2026-11-15T02:24:07Z",
+"status": 200
+},
+"LibertAIDAI/GLM-5.3-Flash-NVFP4": {
+"abl": false,
+"downloads": 3253,
+"family": "GLM",
+"pinned": true,
+"sha": "caca4e6a4ebbd66f159d3d2fc256683fd6e27177",
+"snapshot": "2026-11-15T02:24:09Z",
 "status": 200
 },
 "LiquidAI/LFM2.5-8B-A1B-DSpark-GGUF": {
@@ -1325,6 +2720,24 @@
 "snapshot": "2026-11-13T09:38:58Z",
 "status": 200
 },
+"Lucebox/DeepSeek-V4.1-Flash-1017-ROCMFP-GGUF": {
+"abl": false,
+"downloads": 37327,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "ba58445f0818edfc69e680390bc9b4873af8a621",
+"snapshot": "2026-11-15T02:24:10Z",
+"status": 200
+},
+"Lucebox/DeepSeek-V4.1-Flash-ROCMFP23-GGUF": {
+"abl": false,
+"downloads": 5465,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "f50369398ceae97730a0ad4771c770331fc08a11",
+"snapshot": "2026-11-15T02:24:11Z",
+"status": 200
+},
 "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-MTP-GGUF": {
 "abl": true,
 "downloads": 310659,
@@ -1335,6 +2748,78 @@
 "snapshot": "2026-11-13T14:09:22Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"LuffyTheFox/Tiel-Coder-35B-A3B-Genesis-Hermes-GGUF": {
+"abl": false,
+"downloads": 7613,
+"family": "Hermes",
+"pinned": true,
+"sha": "e7c964df2537e6da25751661604c1e7ec860a565",
+"snapshot": "2026-11-15T02:24:12Z",
+"status": 200
+},
+"Ma7ee7/SmolLM2-135M-Reasoning-5K": {
+"abl": false,
+"downloads": 38,
+"family": "SmolLM",
+"pinned": true,
+"sha": "3b8f577e19cf141ec19d5bba981f729387a3a98e",
+"snapshot": "2026-11-15T02:24:14Z",
+"status": 200
+},
+"Macromrit/SmolLM2-135M-GRPO-Trained-For-Reasoning": {
+"abl": false,
+"downloads": 25,
+"family": "SmolLM",
+"pinned": true,
+"sha": "d95fa2160034fe51a144a51ee400f8a8def79967",
+"snapshot": "2026-11-15T02:24:16Z",
+"status": 200
+},
+"MaestroYan/JEMM": {
+"abl": false,
+"downloads": 172,
+"family": "Other",
+"pinned": true,
+"sha": "76e3c209e8441fa658221c7ba2725bad2f811176",
+"snapshot": "2026-11-15T02:24:14Z",
+"status": 200
+},
+"Maincode/matilda-jev-v1": {
+"abl": false,
+"downloads": 161,
+"family": "Other",
+"pinned": true,
+"sha": "9496061cec94aba1e26099b74e374d35598a3dd9",
+"snapshot": "2026-11-15T02:24:19Z",
+"status": 200
+},
+"ManniX-ITA/Qwen3.8-27B-Omnimerge-v6-MTP-GGUF": {
+"abl": false,
+"downloads": 18152,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "32206a950b9689384474dfba348267e453300ac5",
+"snapshot": "2026-11-15T02:24:19Z",
+"status": 200
+},
+"ManuelZnnmc/OpenAi-GPT-oss-20b-HERETIC-uncensored-NEO-Imatrix-gguf": {
+"abl": true,
+"downloads": 563,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "1b60a30f4160c7f7c8132a111569b4d9e67bcdaf",
+"snapshot": "2026-11-15T02:24:18Z",
+"status": 200
+},
+"ManuelZnnmc/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf": {
+"abl": true,
+"downloads": 889,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "2b549b83bf85e02c874c7f3787f8b28381fd9b3c",
+"snapshot": "2026-11-15T02:24:21Z",
+"status": 200
 },
 "Maximilian228/Huihui-Qwen3.8-Flash-Next-abliterated-NVFP4-GPTQ-Strata": {
 "abl": true,
@@ -1356,6 +2841,132 @@
 "snapshot": "2026-11-14T03:53:37Z",
 "status": 200
 },
+"MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF": {
+"abl": false,
+"downloads": 35485,
+"family": "Mistral",
+"pinned": true,
+"sha": "ce89f595755a4bf2e2e05d155cc43cb847c78978",
+"snapshot": "2026-11-15T02:24:22Z",
+"status": 200
+},
+"MaziyarPanahi/Mistral-7B-v0.1-GGUF": {
+"abl": false,
+"downloads": 3730,
+"family": "Mistral",
+"pinned": true,
+"sha": "4b85242ce137d0835f77bf48f32d1f93494c402b",
+"snapshot": "2026-11-15T02:24:25Z",
+"status": 200
+},
+"McG-221/SuperQwen3.8-27b-abliterated-Q8_0-GGUF": {
+"abl": true,
+"downloads": 30,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "668abf00c33b5f0a2087f485265c32c997ec71d1",
+"snapshot": "2026-11-15T02:24:24Z",
+"status": 200
+},
+"Mia-AiLab/DeepSeek-V4.1-Flash-1017-EXL3-EAQ-v1-2.9-bpw": {
+"abl": false,
+"downloads": 8523,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "45ee5d0fd106c94a3d77f721e09cbb2f50e5a16b",
+"snapshot": "2026-11-15T02:24:25Z",
+"status": 200
+},
+"Mia-AiLab/DeepSeek-V4.1-Flash-1017-EXL3-EAQ-v1.1-2.9-bpw": {
+"abl": false,
+"downloads": 832,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "aee640e2afba93be683bb5b9b420115fe7fbac20",
+"snapshot": "2026-11-15T02:24:28Z",
+"status": 200
+},
+"Mia-AiLab/DeepSeek-V4.1-Flash-EXL3-3.0bpw": {
+"abl": false,
+"downloads": 435,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "c5534b90602b4090980a1c3ded1eb3b4d99a38d5",
+"snapshot": "2026-11-15T02:24:31Z",
+"status": 200
+},
+"Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold": {
+"abl": false,
+"downloads": 4768,
+"family": "GLM",
+"pinned": true,
+"sha": "76c0b5173166d2795dd48860f45d8224817f894c",
+"snapshot": "2026-11-15T02:24:30Z",
+"status": 200
+},
+"Mia-AiLab/Ornith-1.5-122B-EXL3-EAQv1-4-bpw": {
+"abl": false,
+"downloads": 837,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "9c5c913b3de1eef901520d6fedaf450044ea0423",
+"snapshot": "2026-11-15T02:24:32Z",
+"status": 200
+},
+"Mike0021/MiniCPM5-2B-ONNX": {
+"abl": false,
+"downloads": 735,
+"family": "Other",
+"pinned": true,
+"sha": "04a6c49fcba3a65a0351c92644c3a7e9d4343059",
+"snapshot": "2026-11-15T02:24:33Z",
+"status": 200
+},
+"MoonMath-ai/DeepSeek-V4.1-Flash-1017-uncensored": {
+"abl": true,
+"downloads": 953,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "bec0742e10fec66d20436a78ffa22a193ec9021c",
+"snapshot": "2026-11-15T02:24:34Z",
+"status": 200
+},
+"MorinoNushi/GLM-5.3-Flash-Heretic-Abliterated-LoRA-V2-GGUF": {
+"abl": true,
+"downloads": 161,
+"family": "GLM",
+"pinned": true,
+"sha": "1ab13071490a9a1150177df69da16e9490f01dd3",
+"snapshot": "2026-11-15T02:24:36Z",
+"status": 200
+},
+"MorinoNushi/GLM-5.3-Flash-Heretic-Abliterated-LoRA-V3-GGUF": {
+"abl": true,
+"downloads": 778,
+"family": "GLM",
+"pinned": true,
+"sha": "c5623df0c106cb05a6625669011f1336d6460e09",
+"snapshot": "2026-11-15T02:24:36Z",
+"status": 200
+},
+"MuXodious/gpt-oss-20b-RichardErkhov-heresy": {
+"abl": true,
+"downloads": 1040,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "b3e0f1902a0b30588eda0a469e035a7274cacfd0",
+"snapshot": "2026-11-15T02:24:38Z",
+"status": 200
+},
+"Muyumba/oprimus_ai": {
+"abl": false,
+"downloads": 17,
+"family": "Other",
+"pinned": true,
+"sha": "48f13d833208a33c864ed66e904dc8d7ab0a70e8",
+"snapshot": "2026-11-15T02:24:38Z",
+"status": 200
+},
 "N8STORM/Qwen3.8-27B-OBLITERATED": {
 "abl": true,
 "downloads": 2204,
@@ -1366,6 +2977,15 @@
 "snapshot": "2026-11-13T14:05:32Z",
 "status": 200,
 "via": "search:obliterated top:60"
+},
+"Nafnaf1k/gpt2-distilled-qa": {
+"abl": false,
+"downloads": 367,
+"family": "Other",
+"pinned": true,
+"sha": "36fa1ac09c0353f43ded509b223621befecb9765",
+"snapshot": "2026-11-15T02:24:40Z",
+"status": 200
 },
 "NidAll/Qwen3VL-8B-Abliterated-INT8-ConvRot": {
 "abl": true,
@@ -1421,6 +3041,15 @@
 "snapshot": "2026-11-13T14:07:37Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"NousResearch/Arete-27B": {
+"abl": false,
+"downloads": 6191,
+"family": "Other",
+"pinned": true,
+"sha": "108f0afbdcfaa1ceeda4a635004304dfff6d4da2",
+"snapshot": "2026-11-15T02:24:43Z",
+"status": 200
 },
 "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated": {
 "abl": true,
@@ -1499,6 +3128,15 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"OBLITERATUS/Qwen3.8-27B-Obliterated-E03": {
+"abl": true,
+"downloads": 185,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "95583d3ee44c40e840cb0ceb7106d12a1087d52f",
+"snapshot": "2026-11-15T02:24:41Z",
+"status": 200
+},
 "OBLITERATUS/gemma-4-E4B-it-OBLITERATED": {
 "abl": true,
 "downloads": 41917,
@@ -1520,6 +3158,15 @@
 "snapshot": "2026-11-13T14:05:07Z",
 "status": 200,
 "via": "search:obliterated top:60"
+},
+"OS-Software/Qwen3.8-27B-Uncensored-Heretic-v2-GGUF": {
+"abl": true,
+"downloads": 2464,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f4dc8fb5115f21b55b0d093660ef32bb7303369a",
+"snapshot": "2026-11-15T02:24:43Z",
+"status": 200
 },
 "OS-Software/Qwen3.8-27B-Uncensored-Heretic-v3-GGUF": {
 "abl": true,
@@ -1561,6 +3208,24 @@
 "pinned": true,
 "sha": "7c7002be374e75a7b41148ebbae15162c98b2cea",
 "snapshot": "2026-11-14T03:53:42Z",
+"status": 200
+},
+"OneNexus/GLM-5.3-Flash-MXFP4": {
+"abl": false,
+"downloads": 2504,
+"family": "GLM",
+"pinned": true,
+"sha": "880fe3b301de033fb497c412af394a5bb976098f",
+"snapshot": "2026-11-15T02:24:44Z",
+"status": 200
+},
+"OpenVINO/Qwen3.8-27B-int4-ov": {
+"abl": false,
+"downloads": 3663,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "d15f4d91eccd11dd44f615ffdb539c61bf1f1e6e",
+"snapshot": "2026-11-15T02:24:47Z",
 "status": 200
 },
 "OpenYourMind/OpenYourMind-NVIDIA-Nemotron-3-Ultra-550B-A55B-abliterated-uncensored-NVFP4": {
@@ -1607,6 +3272,78 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"PinoCookie/MiniCPM5-2B-abliterated": {
+"abl": true,
+"downloads": 50,
+"family": "Other",
+"pinned": true,
+"sha": "f8f8b91adc49423f091f6974b2bf36876dab19a1",
+"snapshot": "2026-11-15T02:24:46Z",
+"status": 200
+},
+"PocketAiHub/Ornith-1.5-35B-A3B-Abliterated-GGUF": {
+"abl": true,
+"downloads": 6642,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "78c2971382a49b442ce044fd4e17169217b0b36c",
+"snapshot": "2026-11-15T02:24:46Z",
+"status": 200
+},
+"PocketAiHub/Ornith-1.5-35B-A3B-Abliterated-MLX-4bit": {
+"abl": true,
+"downloads": 1483,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "2d7a9831307a5d7746199fff21f255c784cbb651",
+"snapshot": "2026-11-15T02:24:50Z",
+"status": 200
+},
+"PocketAiHub/Qwen3.8-27B-Abliterated-MTPLX-Optimized-Speed": {
+"abl": true,
+"downloads": 2597,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "1a7734b6d67877dae87f03395e1f5eaeb5458c59",
+"snapshot": "2026-11-15T02:24:49Z",
+"status": 200
+},
+"Pragmatism0220/Huihui-v2-Qwen3.8-Flash-Next-GSQ-RCO-Strata-abliterated-direction-GGUF": {
+"abl": true,
+"downloads": 1594,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "8003251c340d7a2f8a82cfe5f338aaa2ecd0b3ea",
+"snapshot": "2026-11-15T02:24:52Z",
+"status": 200
+},
+"ProCreations/Ternary-Bonsai-2-27B-MTP": {
+"abl": false,
+"downloads": 7165,
+"family": "Other",
+"pinned": true,
+"sha": "efffdea64c1f9e93cc7fa6bb24f72ae9d66ecf51",
+"snapshot": "2026-11-15T02:24:52Z",
+"status": 200
+},
+"ProximaAI/smol-urdu-tts-v1": {
+"abl": false,
+"downloads": 72,
+"family": "Other",
+"pinned": true,
+"sha": "07316aa962ba985c7844560930e0f83a68914724",
+"snapshot": "2026-11-15T02:24:56Z",
+"status": 200
+},
+"QUASAR-QAT/Qwen3.8-27B-QUASAR-NVFP4": {
+"abl": false,
+"downloads": 127996,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "4a22293aa6d1026844bc93a8727f1837e48acd89",
+"snapshot": "2026-11-15T02:24:58Z",
+"status": 200
+},
 "QuantFactory/Llama-3.2-3B-Instruct-abliterated-GGUF": {
 "abl": true,
 "downloads": 13835,
@@ -1628,6 +3365,42 @@
 "snapshot": "2026-11-13T14:02:07Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"QuantFactory/SmolLM2-135M-GGUF": {
+"abl": false,
+"downloads": 13512,
+"family": "SmolLM",
+"pinned": true,
+"sha": "d948db3614be18259a175aafd7689a70f1cb4e2f",
+"snapshot": "2026-11-15T02:24:56Z",
+"status": 200
+},
+"QuantFactory/SmolLM2-135M-Instruct-GGUF": {
+"abl": false,
+"downloads": 4460,
+"family": "SmolLM",
+"pinned": true,
+"sha": "476854d00ede130660aba430d15f9347ad2e7d0e",
+"snapshot": "2026-11-15T02:24:59Z",
+"status": 200
+},
+"QuantFactory/SmolLM2-360M-GGUF": {
+"abl": false,
+"downloads": 5967,
+"family": "SmolLM",
+"pinned": true,
+"sha": "38cd16bc62ab1b1f0d320be8b518ac2fd80faa88",
+"snapshot": "2026-11-15T02:25:00Z",
+"status": 200
+},
+"QuantFactory/gpt2-GGUF": {
+"abl": false,
+"downloads": 1853,
+"family": "Other",
+"pinned": true,
+"sha": "7eae6f079f0164bff66b86eea5159f7a368f9381",
+"snapshot": "2026-11-15T02:25:01Z",
+"status": 200
 },
 "Quat3rnion/halogen-qwen3.8-flash-next-v2-abliterated": {
 "abl": true,
@@ -6843,6 +8616,132 @@
 "status": 200,
 "via": "author:Qwen"
 },
+"RBDash-Team/Xing-VL2.0-Decision": {
+"abl": false,
+"downloads": 3780,
+"family": "Other",
+"pinned": true,
+"sha": "c06b8050333757ddc9f7a8d6e78563a91a5acd98",
+"snapshot": "2026-11-15T02:25:03Z",
+"status": 200
+},
+"RadixArk/GLM-5.3-Flash-NVFP4": {
+"abl": false,
+"downloads": 56624,
+"family": "GLM",
+"pinned": true,
+"sha": "f46cf340d35a22d0d83d0c1dac8957cf2b1bcd35",
+"snapshot": "2026-11-15T02:25:05Z",
+"status": 200
+},
+"RadixArk/Qwen3.8-27B-NVFP4": {
+"abl": false,
+"downloads": 971663,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "319f741cce68d7914884900c138a1fbb70a42f30",
+"snapshot": "2026-11-15T02:25:04Z",
+"status": 200
+},
+"RadixArk/Qwen3.8-27B-NVFP4-BF16-LMHead": {
+"abl": false,
+"downloads": 57180,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "009632fef96dd349150baa780c984e62e70e91fe",
+"snapshot": "2026-11-15T02:25:08Z",
+"status": 200
+},
+"Ratanak/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 458,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "7890bb7f9f8293cc8027df3b54e8c38854f51c5c",
+"snapshot": "2026-11-15T02:25:07Z",
+"status": 200
+},
+"ReDiX/Artemide-3.5": {
+"abl": false,
+"downloads": 6232,
+"family": "Other",
+"pinned": true,
+"sha": "59c6691917e30023635dab12dee6b27db0c2b851",
+"snapshot": "2026-11-15T02:25:09Z",
+"status": 200
+},
+"RedHatAI/GLM-5.3-Flash-NVFP4": {
+"abl": false,
+"downloads": 18730,
+"family": "GLM",
+"pinned": true,
+"sha": "4756632d3fdf88095feaa87974d41354b2afdca4",
+"snapshot": "2026-11-15T02:25:10Z",
+"status": 200
+},
+"RedHatAI/Qwen3.8-27B-INT4": {
+"abl": false,
+"downloads": 174497,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "e45c27e8f463817db788d141a73a3c235a0a7c0c",
+"snapshot": "2026-11-15T02:25:11Z",
+"status": 200
+},
+"RedHatAI/Qwen3.8-27B-MXFP4xFP8": {
+"abl": false,
+"downloads": 662,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "4bce8631628f3f4fefeb2d6c68b9eb79b51a84f6",
+"snapshot": "2026-11-15T02:25:13Z",
+"status": 200
+},
+"RedHatAI/Qwen3.8-27B-speculator.dspark": {
+"abl": false,
+"downloads": 3769,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "87ca2fdc67f316f6c1f9ebc7ef7bbb0ad299a4ce",
+"snapshot": "2026-11-15T02:25:12Z",
+"status": 200
+},
+"RedHatAI/gpt-oss-20b-speculator.eagle3": {
+"abl": false,
+"downloads": 2463,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "c2825cb49c32649bab8fb012df38df50a0a43db1",
+"snapshot": "2026-11-15T02:25:15Z",
+"status": 200
+},
+"RentedNoodle/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-Uncensored": {
+"abl": true,
+"downloads": 13412,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b5b12d28f0dcb90ccb041a2c977eae16b070a9d6",
+"snapshot": "2026-11-15T02:25:16Z",
+"status": 200
+},
+"RentedNoodle/Qwen3.8-27B-OrcaRouter-GSQ-RCO-IQ3_XXS-Uncensored": {
+"abl": true,
+"downloads": 29879,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "2113bb22c43635fcdaad4b728c914db4c2ec1d3b",
+"snapshot": "2026-11-15T02:25:17Z",
+"status": 200
+},
+"Reza2kn/Bev": {
+"abl": false,
+"downloads": 151,
+"family": "Other",
+"pinned": true,
+"sha": "f01edf952e3f2da8147aa08ec6d6229c863d5d19",
+"snapshot": "2026-11-15T02:25:18Z",
+"status": 200
+},
 "Rioky/Mistral-Small-4-119B-2603-heretic-i1-gguf": {
 "abl": true,
 "downloads": 20075,
@@ -6865,6 +8764,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"Rookie22/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 201,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "93d968f21b4ca19f058571414e9ac8876b2f2785",
+"snapshot": "2026-11-15T02:25:21Z",
+"status": 200
+},
 "RootMonsteR/Qwen3-14B-Abliterated-GGUF": {
 "abl": true,
 "downloads": 15861,
@@ -6876,6 +8784,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"SC117/MiniCPM5-2B-abliterated-FIT-GGUF": {
+"abl": true,
+"downloads": 984,
+"family": "Other",
+"pinned": true,
+"sha": "8c73d67ce8226af3fbaac552f27724c2d053ad16",
+"snapshot": "2026-11-15T02:25:22Z",
+"status": 200
+},
 "SC117/Ornith-1.5-35B-A3B-Heretic-MTP-APEX-GGUF": {
 "abl": true,
 "downloads": 16588,
@@ -6886,6 +8803,15 @@
 "snapshot": "2026-11-13T14:08:35Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"SC117/Ornith-1.5-35B-A3B-MTP-APEX-GGUF": {
+"abl": false,
+"downloads": 1317,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "026f4765e6d9ed08d0251c6ee27fd4888b02db51",
+"snapshot": "2026-11-15T02:25:20Z",
+"status": 200
 },
 "SC117/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-GGUF": {
 "abl": true,
@@ -6942,6 +8868,24 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"SPK1337/Huihui-Qwen3.8-27B-Swift1.5-Abliterated-IQ3S-DFlash2-NInfer": {
+"abl": true,
+"downloads": 8773,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "3f4a9a2e34bf88482bb106dd875bb2b3c5bad6ab",
+"snapshot": "2026-11-15T02:25:25Z",
+"status": 200
+},
+"Sahilkumarr/gpt2-124m-distilled-from-mistral7b": {
+"abl": false,
+"downloads": 411,
+"family": "Mistral",
+"pinned": true,
+"sha": "0df1e9e40fb0e5c8940ebb9d90085448b48dbc9e",
+"snapshot": "2026-11-15T02:25:25Z",
+"status": 200
+},
 "Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF": {
 "abl": true,
 "downloads": 65318,
@@ -6952,6 +8896,24 @@
 "snapshot": "2026-11-14T18:38:51Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"SaturnHeaven/DeepSeek-V4.1-Flash-UNCENSORED-EXL3-2.9bpw-RANMA-EXL3-GGUF": {
+"abl": true,
+"downloads": 1163,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "e7bb849fc62f0a2abe5e8fbb8108cf6bf07246b4",
+"snapshot": "2026-11-15T02:25:24Z",
+"status": 200
+},
+"Savas65/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 147,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "762181f124612efd94b2dfa81ab1c0e03a775936",
+"snapshot": "2026-11-15T02:25:28Z",
+"status": 200
 },
 "ScottzillaSystems/Gemma-4-12B-OBLITERATED": {
 "abl": true,
@@ -6997,6 +8959,51 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"SketchSSM/GLM-5.3-Flash-NVFP4": {
+"abl": false,
+"downloads": 0,
+"family": "GLM",
+"pinned": true,
+"sha": "1664eba598ef1d75d6d866b8f856cdd5ae1595f5",
+"snapshot": "2026-11-15T02:25:27Z",
+"status": 200
+},
+"SkyIsNotGreen/Scion-FlashNext-176B-A6B": {
+"abl": false,
+"downloads": 1610,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "4c2d3d73d6ebd36a1a565ba8e86d5fe86120a9b7",
+"snapshot": "2026-11-15T02:25:29Z",
+"status": 200
+},
+"Solstice-AI/GLM-5.3-Flash-UNCENSORED-NVFP4-DFlash2": {
+"abl": true,
+"downloads": 8465,
+"family": "GLM",
+"pinned": true,
+"sha": "6db2f05b776babd37e4fb96a749193b3cd61993f",
+"snapshot": "2026-11-15T02:25:30Z",
+"status": 200
+},
+"Solstice-AI/GLM-5.3-Flash-UNCENSORED-mlx-oQ4e-DFlash2": {
+"abl": true,
+"downloads": 14008,
+"family": "GLM",
+"pinned": true,
+"sha": "bff40d24efb689d33e094083ce4a5d6835601730",
+"snapshot": "2026-11-15T02:25:31Z",
+"status": 200
+},
+"Solstice-AI/GLM-5.3-Flash-UNCENSORED-mlx-oQ8e-DFlash2": {
+"abl": true,
+"downloads": 10442,
+"family": "GLM",
+"pinned": true,
+"sha": "9d3aadb1980f066bdb7273ba673595a267a78ba4",
+"snapshot": "2026-11-15T02:25:34Z",
+"status": 200
+},
 "Solstice-AI/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU-NVFP4": {
 "abl": true,
 "downloads": 23200,
@@ -7019,6 +9026,51 @@
 "status": 200,
 "via": "search:gufo top:30 label:Gufo"
 },
+"Sparset/Thinklite-27B": {
+"abl": false,
+"downloads": 648,
+"family": "Other",
+"pinned": true,
+"sha": "2aa81615c583852cd561164946f1a458ed21b13f",
+"snapshot": "2026-11-15T02:25:35Z",
+"status": 200
+},
+"StillDeadcode/qwen3.8-27b-fp8": {
+"abl": false,
+"downloads": 0,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "edd43fda378af6b3b5e8981b6e936145be9608fd",
+"snapshot": "2026-11-15T02:25:35Z",
+"status": 200
+},
+"StillDeadcode/qwen3.8-27b-mxfp4": {
+"abl": false,
+"downloads": 0,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "60bd4139f335205fbc120e5534329c30b691af0e",
+"snapshot": "2026-11-15T02:25:38Z",
+"status": 200
+},
+"SuperLogic/Qwen3.8-27B-Flash-MTP-GGUF": {
+"abl": false,
+"downloads": 7866,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "dca7e70f63892efffadcae17155eb395aab53b94",
+"snapshot": "2026-11-15T02:25:37Z",
+"status": 200
+},
+"SyndicateLabs/GLM-5.3-Flash-CYBERSECURITY-GGUF": {
+"abl": true,
+"downloads": 171900,
+"family": "GLM",
+"pinned": true,
+"sha": "e8b51a5b8a4519cf12a54b4982fe9c791920cf28",
+"snapshot": "2026-11-15T02:25:39Z",
+"status": 200
+},
 "SyndicateLabs/Qwen3.8-27B-OBLITERATED-GGUF": {
 "abl": true,
 "downloads": 2443,
@@ -7030,6 +9082,24 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"TIGER-Lab/VLM2Vec-Full": {
+"abl": false,
+"downloads": 3612,
+"family": "Other",
+"pinned": true,
+"sha": "a0dcd8153e2563f1b39d80ae9afd71a4394773fb",
+"snapshot": "2026-11-15T02:25:42Z",
+"status": 200
+},
+"TSalpha/Ornith-1.5-Reap50-12Gcard_mixQuant": {
+"abl": false,
+"downloads": 116,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "6d5fac510f7d85d3b2b421ccadcbfddae7ee8f86",
+"snapshot": "2026-11-15T02:25:40Z",
+"status": 200
+},
 "TechnoBaptist/Qwen-Image-2.1-Turbo-Uncensored-GGUF": {
 "abl": true,
 "downloads": 43885,
@@ -7040,6 +9110,33 @@
 "snapshot": "2026-11-13T14:10:20Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"TelperionAI/Qwen3.8-27B-MLA": {
+"abl": false,
+"downloads": 660,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "572038ac511b583e4e18637d27070974ecdab5ae",
+"snapshot": "2026-11-15T02:25:47Z",
+"status": 200
+},
+"TensorFold/DeepSeek-V4.1-Flash-MLX-2bit-MTP": {
+"abl": false,
+"downloads": 2006,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "f93c0f90c09d5806d52df29f952d7080f72ac211",
+"snapshot": "2026-11-15T02:25:43Z",
+"status": 200
+},
+"TensorFold/GLM-5.3-Flash-MLX-4bit-MTP": {
+"abl": false,
+"downloads": 4846,
+"family": "GLM",
+"pinned": true,
+"sha": "d2b17f5253440224422b150705c1109a9a3a0368",
+"snapshot": "2026-11-15T02:25:46Z",
+"status": 200
 },
 "Thaurock/Qwen3-Coder-30B-A3B-Instruct-abliterated-GGUF": {
 "abl": true,
@@ -7063,6 +9160,69 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"TheBloke/Mistral-7B-Instruct-v0.1-GPTQ": {
+"abl": false,
+"downloads": 126,
+"family": "Mistral",
+"pinned": true,
+"sha": "6ae1e4ae2cfbaf107c705ed722ec243b4f88014d",
+"snapshot": "2026-11-15T02:25:47Z",
+"status": 200
+},
+"TheBloke/Mistral-7B-Instruct-v0.2-AWQ": {
+"abl": false,
+"downloads": 162963,
+"family": "Mistral",
+"pinned": true,
+"sha": "f970a2bb89d5c2f9d217dc337f39e24625d6462a",
+"snapshot": "2026-11-15T02:25:49Z",
+"status": 200
+},
+"TheBloke/Mistral-7B-Instruct-v0.2-GPTQ": {
+"abl": false,
+"downloads": 896,
+"family": "Mistral",
+"pinned": true,
+"sha": "7532d6bc89ef9300fb39d2d94ed4414ec534b72a",
+"snapshot": "2026-11-15T02:25:50Z",
+"status": 200
+},
+"TheBloke/OpenHermes-2.5-Mistral-7B-AWQ": {
+"abl": false,
+"downloads": 2730,
+"family": "Mistral",
+"pinned": true,
+"sha": "a0e39e3a0ca6767307293819acb7c38e7a18cd31",
+"snapshot": "2026-11-15T02:25:51Z",
+"status": 200
+},
+"TheBloke/OpenHermes-2.5-Mistral-7B-GGUF": {
+"abl": false,
+"downloads": 10034,
+"family": "Mistral",
+"pinned": true,
+"sha": "5682e25bb033d9d21f6d159859e21df4552c1f26",
+"snapshot": "2026-11-15T02:25:55Z",
+"status": 200
+},
+"TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ": {
+"abl": false,
+"downloads": 383,
+"family": "Mistral",
+"pinned": true,
+"sha": "a81bc4317986a80492bef9c99d743ef3d54523dc",
+"snapshot": "2026-11-15T02:25:54Z",
+"status": 200
+},
+"TheSanchezian/Ternary-Bonsai-2-27B-int2-ov": {
+"abl": false,
+"downloads": 101,
+"family": "Other",
+"pinned": true,
+"sha": "a55d8366ca97c340e9de513f258c1ae65c072f34",
+"snapshot": "2026-11-15T02:25:54Z",
+"status": 200
+},
 "Thunder13240/Ornith-1.5-9B-heretic-GGUF": {
 "abl": true,
 "downloads": 15964,
@@ -7073,6 +9233,33 @@
 "snapshot": "2026-11-13T14:07:38Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"TimeSurgeLabs/mistral_sentiment_lora": {
+"abl": false,
+"downloads": 34,
+"family": "Mistral",
+"pinned": true,
+"sha": "d7205a729da2da87ae4cc72e0f47bcf08379836e",
+"snapshot": "2026-11-15T02:25:56Z",
+"status": 200
+},
+"Ttimms/MiniCPM5-2B-NVFP4": {
+"abl": false,
+"downloads": 284,
+"family": "Other",
+"pinned": true,
+"sha": "1e834a4bded89f6655441368a3babc4495b11ac0",
+"snapshot": "2026-11-15T02:25:57Z",
+"status": 200
+},
+"TurboVadim/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 174,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "1d5cda784815339b069b22b50ba96e747ba41891",
+"snapshot": "2026-11-15T02:25:59Z",
+"status": 200
 },
 "UltimateIntent/Qwen3.8-Flash-Next-Abliterated-s1.5-GGUF": {
 "abl": true,
@@ -7096,6 +9283,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"WHATEVER420/chain-texts-0.1-dolphin-mixtral-8x7b": {
+"abl": false,
+"downloads": 9,
+"family": "Mistral",
+"pinned": true,
+"sha": "e0b0a277ac19eb76d56111db3180a52a43a0cf7d",
+"snapshot": "2026-11-15T02:25:59Z",
+"status": 200
+},
 "WaveCut/Huihui-Qwen3.8-27B-abliterated-NInfer-v3": {
 "abl": true,
 "downloads": 17519,
@@ -7106,6 +9302,42 @@
 "snapshot": "2026-11-13T14:03:21Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"Wiself/DarkIdol-Qwen3.8-27B-v1.1-Heretic-DELTA-Voice": {
+"abl": true,
+"downloads": 311,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "2b8877333ba5c099a6dd4b61be067b7c30c41bb1",
+"snapshot": "2026-11-15T02:26:01Z",
+"status": 200
+},
+"Wiself/DarkIdol-Qwen3.8-27B-v1.1-Voice": {
+"abl": false,
+"downloads": 499,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "127cb79e92573666dfab038daeee99f329412cd1",
+"snapshot": "2026-11-15T02:26:01Z",
+"status": 200
+},
+"Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed": {
+"abl": false,
+"downloads": 22028,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "1d5087d2062c02b279180a53e4016cf9cd7a3d7e",
+"snapshot": "2026-11-15T02:26:02Z",
+"status": 200
+},
+"Youssofal/Ternary-Bonsai-2-27B-MTPLX-Optimized-Speed": {
+"abl": false,
+"downloads": 2829,
+"family": "Other",
+"pinned": true,
+"sha": "03bd60bb82755f2446f5083426dca9708eb8e0fe",
+"snapshot": "2026-11-15T02:26:05Z",
+"status": 200
 },
 "YuYu1015/Huihui-Qwen3-30B-A3B-Instruct-2507-abliterated-NVFP4": {
 "abl": true,
@@ -7118,6 +9350,78 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"ZefanCai/Open-Jev-27B-v1.1": {
+"abl": false,
+"downloads": 0,
+"family": "Other",
+"pinned": true,
+"sha": "28cf73067d5b337860bbef3c85b8b82ba8730956",
+"snapshot": "2026-11-15T02:26:05Z",
+"status": 200
+},
+"ZelligeAI/Tessera-27B-B-CJK": {
+"abl": false,
+"downloads": 247,
+"family": "Other",
+"pinned": true,
+"sha": "0bb9066e29a08a466b5b97f096c590bab96de119",
+"snapshot": "2026-11-15T02:26:06Z",
+"status": 200
+},
+"abd87/gpt2-roman-urdu-sentiment": {
+"abl": false,
+"downloads": 46,
+"family": "Other",
+"pinned": true,
+"sha": "1e4840dadf97d3da87fdf1fcaf96b450b4de3369",
+"snapshot": "2026-11-15T02:26:07Z",
+"status": 200
+},
+"abenzerps/Clef-GGUF": {
+"abl": false,
+"downloads": 3386,
+"family": "Other",
+"pinned": true,
+"sha": "2afa3820aa7d3057d818d60b1516ab1afb74ab37",
+"snapshot": "2026-11-15T02:26:08Z",
+"status": 200
+},
+"abenzerps/MiniCPM5-2B-MLX-8bit": {
+"abl": false,
+"downloads": 551,
+"family": "Other",
+"pinned": true,
+"sha": "a498d49ae5caaf361df3932522d586ce48b0bae6",
+"snapshot": "2026-11-15T02:26:10Z",
+"status": 200
+},
+"abenzerps/Ornith-1.5-9B-DFlash-GGUF": {
+"abl": false,
+"downloads": 1829,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "4ba29c7a17fb17ba07deb79e25ebdeb00fd01e01",
+"snapshot": "2026-11-15T02:26:11Z",
+"status": 200
+},
+"abenzerps/Ornith-1.5-9B-GSQ-RCO-GGUF": {
+"abl": false,
+"downloads": 13785,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "e4bb7a4ae8a5e7d2edf7f028fa6e67951bd76ca6",
+"snapshot": "2026-11-15T02:26:11Z",
+"status": 200
+},
+"abliterant/Qwen3.8-27B-RANA-abliterated": {
+"abl": true,
+"downloads": 373,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "8cbcf85b5387781a2fd112b749e307e001698528",
+"snapshot": "2026-11-15T02:26:13Z",
+"status": 200
+},
 "abliterant/Qwen3.8-27B-RANA-abliterated-GGUF": {
 "abl": true,
 "downloads": 47331,
@@ -7128,6 +9432,24 @@
 "snapshot": "2026-11-13T14:01:26Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"agentionai/Qwen3.8-27B-AP-GGUF": {
+"abl": false,
+"downloads": 919043,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "2c387d95ea4026aff8110628f888ab767cd3f759",
+"snapshot": "2026-11-15T02:26:14Z",
+"status": 200
+},
+"agentionai/Qwen3.8-27B-DFlash2-ROCmFP4-FAST-GGUF": {
+"abl": false,
+"downloads": 301,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "97e4e252d2b48899f12905f8aac814ece633af61",
+"snapshot": "2026-11-15T02:26:15Z",
+"status": 200
 },
 "agentionai/Qwen3.8-Flash-Next-Gyro-GGUF": {
 "abl": false,
@@ -7149,6 +9471,24 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"agentionai/Signal-3.8-27B-GGUF": {
+"abl": false,
+"downloads": 18202,
+"family": "Other",
+"pinned": true,
+"sha": "ae272aa3e533854feebcfa1ded0f1dca9afedcef",
+"snapshot": "2026-11-15T02:26:16Z",
+"status": 200
+},
+"agentlans/SmolLM2-135M-multilingual-base": {
+"abl": false,
+"downloads": 167,
+"family": "SmolLM",
+"pinned": true,
+"sha": "7fe444e9d5130d8d62fc5454b17955912cc54ed9",
+"snapshot": "2026-11-15T02:26:19Z",
+"status": 200
+},
 "ahmed-amedo/Qwen3.8-27B-OBLITERATED": {
 "abl": true,
 "downloads": 1161,
@@ -7159,6 +9499,285 @@
 "snapshot": "2026-11-13T14:06:18Z",
 "status": 200,
 "via": "search:obliterated top:60"
+},
+"ai4bharat/Cadence-Fast": {
+"abl": false,
+"downloads": 3220,
+"family": "Other",
+"pinned": true,
+"sha": "8971c5011e4fba5dcfbcac52744587d7da605534",
+"snapshot": "2026-11-15T02:26:19Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_bug-issue": {
+"abl": false,
+"downloads": 12,
+"family": "Other",
+"pinned": true,
+"sha": "c27ed5b7b1a79fb34e1225f52479230b8079df2a",
+"snapshot": "2026-11-15T02:26:19Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_closed-question": {
+"abl": false,
+"downloads": 11,
+"family": "Other",
+"pinned": true,
+"sha": "8f652d115f2ce25b714eddeffb7deb2bc2695941",
+"snapshot": "2026-11-15T02:26:23Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_comment-type-java": {
+"abl": false,
+"downloads": 31,
+"family": "Other",
+"pinned": true,
+"sha": "df83f35a88834b3398e5f79bb5c63c1cc9a5c705",
+"snapshot": "2026-11-15T02:26:24Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_comment-type-pharo": {
+"abl": false,
+"downloads": 9,
+"family": "Other",
+"pinned": true,
+"sha": "2db58be460fe98c4fc67aedfacb0e95cb95a709f",
+"snapshot": "2026-11-15T02:26:23Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_comment-type-python": {
+"abl": false,
+"downloads": 15,
+"family": "Other",
+"pinned": true,
+"sha": "4943c7f08cc78c8e2cda11f15d7806c0ced12d9b",
+"snapshot": "2026-11-15T02:26:26Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_commit-intent": {
+"abl": false,
+"downloads": 14,
+"family": "Other",
+"pinned": true,
+"sha": "9e55f8dcc00a581fcfb93af804019039bfe9ef0f",
+"snapshot": "2026-11-15T02:26:26Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_incivility": {
+"abl": false,
+"downloads": 11,
+"family": "Other",
+"pinned": true,
+"sha": "24d4ca6183e4a746b68d2b64a733a84c2d65305c",
+"snapshot": "2026-11-15T02:26:30Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_issue-type": {
+"abl": false,
+"downloads": 7,
+"family": "Other",
+"pinned": true,
+"sha": "59028079f6e97878164cfa1677b3cca0e5a355d0",
+"snapshot": "2026-11-15T02:26:29Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_question-quality": {
+"abl": false,
+"downloads": 11,
+"family": "Other",
+"pinned": true,
+"sha": "67854587cb3be2dc9119b1e2fdcb2f4ecb7cb34c",
+"snapshot": "2026-11-15T02:26:30Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_requirement-type": {
+"abl": false,
+"downloads": 8,
+"family": "Other",
+"pinned": true,
+"sha": "83f65da88e32035e70485ff1692e4f0725ee792d",
+"snapshot": "2026-11-15T02:26:33Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_review-aspect": {
+"abl": false,
+"downloads": 7,
+"family": "Other",
+"pinned": true,
+"sha": "076ca4f12c80c4760f78c133fa6661c939f1c79d",
+"snapshot": "2026-11-15T02:26:34Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_sentiment": {
+"abl": false,
+"downloads": 8,
+"family": "Other",
+"pinned": true,
+"sha": "177e1497822b9d4fa3d3888414872c86a7c96832",
+"snapshot": "2026-11-15T02:26:33Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_smell-doc": {
+"abl": false,
+"downloads": 7,
+"family": "Other",
+"pinned": true,
+"sha": "9f93ef364a592ae96c9b2319ff23d57d2a3f1499",
+"snapshot": "2026-11-15T02:26:36Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_story-points": {
+"abl": false,
+"downloads": 9,
+"family": "Other",
+"pinned": true,
+"sha": "a40264609b0d85c89df901febc0cbeeb28cf8f72",
+"snapshot": "2026-11-15T02:26:37Z",
+"status": 200
+},
+"aieng-lab/gpt2-medium_tone-bearing": {
+"abl": false,
+"downloads": 10,
+"family": "Other",
+"pinned": true,
+"sha": "3b4412c47dc6c8059f7bb19460126389f53157b0",
+"snapshot": "2026-11-15T02:26:37Z",
+"status": 200
+},
+"aieng-lab/gpt2_bug-issue": {
+"abl": false,
+"downloads": 10,
+"family": "Other",
+"pinned": true,
+"sha": "dd996cf6fef7b66c90b8528830686721a4d4fded",
+"snapshot": "2026-11-15T02:26:40Z",
+"status": 200
+},
+"aieng-lab/gpt2_comment-type-java": {
+"abl": false,
+"downloads": 32,
+"family": "Other",
+"pinned": true,
+"sha": "d6d0f590dd82d2e29a696976ec7c65efdf58fe3a",
+"snapshot": "2026-11-15T02:26:40Z",
+"status": 200
+},
+"aieng-lab/gpt2_comment-type-pharo": {
+"abl": false,
+"downloads": 9,
+"family": "Other",
+"pinned": true,
+"sha": "50c0ae7ae45e12585607ad1dc0d1387d598b0c55",
+"snapshot": "2026-11-15T02:26:42Z",
+"status": 200
+},
+"aieng-lab/gpt2_comment-type-python": {
+"abl": false,
+"downloads": 20,
+"family": "Other",
+"pinned": true,
+"sha": "7dde8a550e0ce498c2d52892b2afa4e00538f1a3",
+"snapshot": "2026-11-15T02:26:43Z",
+"status": 200
+},
+"aieng-lab/gpt2_commit-intent": {
+"abl": false,
+"downloads": 10,
+"family": "Other",
+"pinned": true,
+"sha": "ec09663e1639b8deca90ae472e6d6741490a8cd3",
+"snapshot": "2026-11-15T02:26:43Z",
+"status": 200
+},
+"aieng-lab/gpt2_incivility": {
+"abl": false,
+"downloads": 12,
+"family": "Other",
+"pinned": true,
+"sha": "340e9c5a70ea491573c01e88a87de7494b002527",
+"snapshot": "2026-11-15T02:26:47Z",
+"status": 200
+},
+"aieng-lab/gpt2_issue-type": {
+"abl": false,
+"downloads": 13,
+"family": "Other",
+"pinned": true,
+"sha": "f82a3b69622e8f36bceb322e1b18e3b13a338776",
+"snapshot": "2026-11-15T02:26:45Z",
+"status": 200
+},
+"aieng-lab/gpt2_question-quality": {
+"abl": false,
+"downloads": 10,
+"family": "Other",
+"pinned": true,
+"sha": "7c2da16eb882e0f0e9ceb286c0da52faec84349b",
+"snapshot": "2026-11-15T02:26:46Z",
+"status": 200
+},
+"aieng-lab/gpt2_requirement-type": {
+"abl": false,
+"downloads": 17,
+"family": "Other",
+"pinned": true,
+"sha": "69175568b95fed79eb40c55cbe34094607799b25",
+"snapshot": "2026-11-15T02:26:50Z",
+"status": 200
+},
+"aieng-lab/gpt2_review-aspect": {
+"abl": false,
+"downloads": 14,
+"family": "Other",
+"pinned": true,
+"sha": "147d985628cd07c66ed0b95ba66d36710c347d43",
+"snapshot": "2026-11-15T02:26:50Z",
+"status": 200
+},
+"aieng-lab/gpt2_sentiment": {
+"abl": false,
+"downloads": 12,
+"family": "Other",
+"pinned": true,
+"sha": "ded3f7169d40e158a08866a6556e8f705d5f6f82",
+"snapshot": "2026-11-15T02:26:51Z",
+"status": 200
+},
+"aieng-lab/gpt2_smell-doc": {
+"abl": false,
+"downloads": 10,
+"family": "Other",
+"pinned": true,
+"sha": "3c51b7f24ed6783f04ed51b14fa83c53f97591c4",
+"snapshot": "2026-11-15T02:26:56Z",
+"status": 200
+},
+"aieng-lab/gpt2_story-points": {
+"abl": false,
+"downloads": 12,
+"family": "Other",
+"pinned": true,
+"sha": "1fb65ab994c5c86d4139e5a7e32f14dba5f6b17b",
+"snapshot": "2026-11-15T02:26:53Z",
+"status": 200
+},
+"aieng-lab/gpt2_tone-bearing": {
+"abl": false,
+"downloads": 11,
+"family": "Other",
+"pinned": true,
+"sha": "515a39b1a6d937ba2a089a2cc5652e88084f48bd",
+"snapshot": "2026-11-15T02:26:54Z",
+"status": 200
+},
+"aj9o9/GLM-5.3-Flash-GGUF": {
+"abl": false,
+"downloads": 4198,
+"family": "GLM",
+"pinned": true,
+"sha": "07c62fcdeaf1c05d22bd123c3da8058a1b1e63e2",
+"snapshot": "2026-11-15T02:26:59Z",
+"status": 200
 },
 "aj9o9/Qwen3.8-27B-DSpine-b16-GGUF": {
 "abl": false,
@@ -7180,6 +9799,24 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"alandotcom/kol-cleanup-360m-coreml": {
+"abl": false,
+"downloads": 126,
+"family": "Other",
+"pinned": true,
+"sha": "cfdc5540802e1a2671184d523e0766d08f075b49",
+"snapshot": "2026-11-15T02:26:58Z",
+"status": 200
+},
+"albertleigh/azlgc-gpt": {
+"abl": false,
+"downloads": 13,
+"family": "Other",
+"pinned": true,
+"sha": "2b11c0fc8af56f3306d61d7b29e3e081dcaa2900",
+"snapshot": "2026-11-15T02:27:00Z",
+"status": 200
+},
 "alesha-pro/GLM-5.3-Flash-abliterated-Maya-M-GGUF": {
 "abl": true,
 "downloads": 15520,
@@ -7190,6 +9827,15 @@
 "snapshot": "2026-11-13T14:03:43Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"alesha-pro/Qwen3.8-27B-S-mirai-GGUF": {
+"abl": true,
+"downloads": 8598,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "7d2cb5cc583dd997e53e4dcb0951bfee7fe5defb",
+"snapshot": "2026-11-15T02:27:01Z",
+"status": 200
 },
 "alesha-pro/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Coder-Strata-GGUF": {
 "abl": true,
@@ -7213,6 +9859,177 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"allenai/OLMo-2-0425-1B-DPO": {
+"abl": false,
+"downloads": 4893,
+"family": "Other",
+"pinned": true,
+"sha": "c4b0485961ab24c2433b090f3b922f0913a9290f",
+"snapshot": "2026-11-15T02:27:04Z",
+"status": 200
+},
+"allenai/OLMo-2-0425-1B-Instruct": {
+"abl": false,
+"downloads": 60632,
+"family": "Other",
+"pinned": true,
+"sha": "48d788eca847d4d7548f375ad03d3c9312f6139e",
+"snapshot": "2026-11-15T02:27:04Z",
+"status": 200
+},
+"allenai/OLMo-2-0425-1B-RLVR1": {
+"abl": false,
+"downloads": 2369,
+"family": "Other",
+"pinned": true,
+"sha": "12cb33498d26b411c38ac3ca9df27180a1d291b8",
+"snapshot": "2026-11-15T02:27:06Z",
+"status": 200
+},
+"allenai/OLMo-2-0425-1B-SFT": {
+"abl": false,
+"downloads": 9434,
+"family": "Other",
+"pinned": true,
+"sha": "0d85a3d037876ce6ac7d4311d994400fc66ac27f",
+"snapshot": "2026-11-15T02:27:09Z",
+"status": 200
+},
+"alphakek/Qwen3.8-27B-heretic-ara-DFlash2": {
+"abl": true,
+"downloads": 272,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "75930a33a8bbbcef25e93f7c4123e5e4424c2da7",
+"snapshot": "2026-11-15T02:27:08Z",
+"status": 200
+},
+"amai-gsu/SmolLM2-360M-Instruct-Q4_K_M-GGUF": {
+"abl": false,
+"downloads": 39,
+"family": "SmolLM",
+"pinned": true,
+"sha": "1269ca2ea6f4d15ee1c031c44355b66fca2b1a19",
+"snapshot": "2026-11-15T02:27:08Z",
+"status": 200
+},
+"amazon/LAR-27B": {
+"abl": false,
+"downloads": 324,
+"family": "Other",
+"pinned": true,
+"sha": "468ca9d8298afc1506daeffafbb3b5405be7a45b",
+"snapshot": "2026-11-15T02:27:13Z",
+"status": 200
+},
+"amazon/gpt-oss-120b-p-eagle-long-context": {
+"abl": false,
+"downloads": 166,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "9e061277a0dd26e92de30be3fb657eeff7775d46",
+"snapshot": "2026-11-15T02:27:11Z",
+"status": 200
+},
+"amd/GLM-5.3-Flash-Quark-MXFP4": {
+"abl": false,
+"downloads": 17271,
+"family": "GLM",
+"pinned": true,
+"sha": "b5688f25491202978c19c4d036eef579f61bbe07",
+"snapshot": "2026-11-15T02:27:15Z",
+"status": 200
+},
+"amd/Qwen3.8-27B-Quark-AWQ-MXFP4": {
+"abl": false,
+"downloads": 40608,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "93245f7c00f1a8964b66a97c6e02e2fd09080be4",
+"snapshot": "2026-11-15T02:27:15Z",
+"status": 200
+},
+"anakin87/Phi-3.5-mini-ITA": {
+"abl": false,
+"downloads": 6264,
+"family": "Phi 3",
+"pinned": true,
+"sha": "3058a5d0ce080781062c67ec94fde5a28edbad6b",
+"snapshot": "2026-11-15T02:27:17Z",
+"status": 200
+},
+"analogalok/Qwen3.8-27B-DFlash2-Q2_K-GGUF": {
+"abl": false,
+"downloads": 591,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "d0682a20f75bf49169590cb99c1dc1c709b43b2a",
+"snapshot": "2026-11-15T02:27:17Z",
+"status": 200
+},
+"andyman5002/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 358,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "3c2e626ec90a4c118eddb628bfb46977db23cf8e",
+"snapshot": "2026-11-15T02:27:19Z",
+"status": 200
+},
+"aneforge/gpt2": {
+"abl": false,
+"downloads": 329,
+"family": "Other",
+"pinned": true,
+"sha": "7ecb0533966be39be746c73c26d7abd82e3f3272",
+"snapshot": "2026-11-15T02:27:20Z",
+"status": 200
+},
+"antirez/deepseek-v4.1-flash-gguf": {
+"abl": false,
+"downloads": 808948,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "9dcee51692e6540f697141fc98b097e3c96492a3",
+"snapshot": "2026-11-15T02:27:20Z",
+"status": 200
+},
+"apertixai/cerno-27b": {
+"abl": false,
+"downloads": 363,
+"family": "Other",
+"pinned": true,
+"sha": "c2f7efe54fe4d3dfd7136bb2e9daf2c0c0633e3d",
+"snapshot": "2026-11-15T02:27:23Z",
+"status": 200
+},
+"apetersson/DeepSeek-V4.1-Flash-1017-Abliterated-MLX": {
+"abl": true,
+"downloads": 11081,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "48969b50dcd7de17d0598beb6a8e5cb80fee2f4a",
+"snapshot": "2026-11-15T02:27:23Z",
+"status": 200
+},
+"apetersson/DeepSeek-V4.1-Flash-MixedQ2-GGUF": {
+"abl": false,
+"downloads": 1997,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "af983b61ee7903f414e8152bf1ece8f6ef2a1020",
+"snapshot": "2026-11-15T02:27:25Z",
+"status": 200
+},
+"ashokdevatwal/tractorgpt-gpt2": {
+"abl": false,
+"downloads": 10,
+"family": "Other",
+"pinned": true,
+"sha": "7309e9b2c4133614377b1c89fe186953ef8ae463",
+"snapshot": "2026-11-15T02:27:26Z",
+"status": 200
+},
 "audreyt/DeepSeek-V4.1-Flash-Abliterated-GGUF": {
 "abl": true,
 "downloads": 71129,
@@ -7223,6 +10040,69 @@
 "snapshot": "2026-11-13T14:00:57Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"audreyt/Ornith-1.5-9B-DFlash-GGUF": {
+"abl": false,
+"downloads": 275,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "bfc0b0f3b8dab50f4f4b76d7b3c857ad7e95e50e",
+"snapshot": "2026-11-15T02:27:27Z",
+"status": 200
+},
+"autotrust/GLM-5.3-Flash-GGUF-DGX-Spark": {
+"abl": false,
+"downloads": 10073,
+"family": "GLM",
+"pinned": true,
+"sha": "e1599a6bc0ea2bce3caa994a8c1efba706937f0d",
+"snapshot": "2026-11-15T02:27:28Z",
+"status": 200
+},
+"autotrust/GLM5.3-Flash-E192-DGX-Spark": {
+"abl": false,
+"downloads": 24652,
+"family": "GLM",
+"pinned": true,
+"sha": "ef3f9cff8ad6c5db6fefdcbcb2414c30cb86bf9f",
+"snapshot": "2026-11-15T02:27:30Z",
+"status": 200
+},
+"autotrust/GLM5.3-Flash-E224-DGX-Spark": {
+"abl": false,
+"downloads": 12281,
+"family": "GLM",
+"pinned": true,
+"sha": "45d23633aaabc0920835bf4e10ff39966d70ce06",
+"snapshot": "2026-11-15T02:27:30Z",
+"status": 200
+},
+"autotrust/JEV-27B": {
+"abl": false,
+"downloads": 448979,
+"family": "Other",
+"pinned": true,
+"sha": "14b425269ed24452e0a5ad5a8f3e51d139647a88",
+"snapshot": "2026-11-15T02:27:31Z",
+"status": 200
+},
+"autotrust/JEV-27B-VL": {
+"abl": false,
+"downloads": 1462022,
+"family": "Other",
+"pinned": true,
+"sha": "9e53b8a809d2ab98e3e6a55b2b2dbf94b4c1e84a",
+"snapshot": "2026-11-15T02:27:39Z",
+"status": 200
+},
+"autotrust/Qwen3.8-27B-NVFP4-DGX-SPARK-V2": {
+"abl": false,
+"downloads": 60583,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "303df2edaf395709f218402bf822d57cc693b818",
+"snapshot": "2026-11-15T02:27:35Z",
+"status": 200
 },
 "axi0mX/Qwen3.8-Flash-Next-Uncensored-GGUF": {
 "abl": true,
@@ -7245,6 +10125,42 @@
 "snapshot": "2026-11-13T14:09:56Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"axolotl-ai-co/SmolLM2-135M-bnb-nf4-bf16": {
+"abl": false,
+"downloads": 8372,
+"family": "SmolLM",
+"pinned": true,
+"sha": "5e79411051e1962a2ee686f3b0dacbe2689e1b4b",
+"snapshot": "2026-11-15T02:27:35Z",
+"status": 200
+},
+"axteam/MiniCPM5-2B-GGUF": {
+"abl": false,
+"downloads": 623,
+"family": "Other",
+"pinned": true,
+"sha": "b2f60a10053ab8041c3b6fde08c253aed0984ce7",
+"snapshot": "2026-11-15T02:27:39Z",
+"status": 200
+},
+"axteam/Qwen3.8-27B-GGUF": {
+"abl": false,
+"downloads": 3322,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "718200ba9e428b7bf8d6ecf441cacd2236892b22",
+"snapshot": "2026-11-15T02:27:38Z",
+"status": 200
+},
+"ayu47/distilled_alpaca_combined": {
+"abl": false,
+"downloads": 103,
+"family": "Other",
+"pinned": true,
+"sha": "e9b0d34b0d1c958e2a6dc4bcfa4540f78c39b330",
+"snapshot": "2026-11-15T02:27:42Z",
+"status": 200
 },
 "azminawwar/Huihui-Qwen3.5-0.8B-abliterated-claude_mythos_distilled_25k": {
 "abl": true,
@@ -7279,6 +10195,24 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"badrabbitt/text_classification_gpt2_1": {
+"abl": false,
+"downloads": 10,
+"family": "Other",
+"pinned": true,
+"sha": "eff55f4b5e3b058c68680280114694e932c807a4",
+"snapshot": "2026-11-15T02:27:41Z",
+"status": 200
+},
+"bartowski/Cloudflare_clef-GGUF": {
+"abl": false,
+"downloads": 18019,
+"family": "Other",
+"pinned": true,
+"sha": "9d3b28af7cfe8b3575e9f06ea42f12ed4ccf3f3c",
+"snapshot": "2026-11-15T02:27:44Z",
+"status": 200
+},
 "bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF": {
 "abl": true,
 "downloads": 25235,
@@ -7289,6 +10223,15 @@
 "snapshot": "2026-11-13T14:02:37Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"bartowski/GLM-5.3-Flash-BF16-GGUF": {
+"abl": false,
+"downloads": 9629,
+"family": "GLM",
+"pinned": true,
+"sha": "66e5e9f0e337470e8801b99bae6c45779b042cc2",
+"snapshot": "2026-11-15T02:27:46Z",
+"status": 200
 },
 "bartowski/Ling-3.0-tiny-GGUF": {
 "abl": false,
@@ -7332,6 +10275,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"bartowski/MiniCPM5-2B-GGUF": {
+"abl": false,
+"downloads": 9446,
+"family": "Other",
+"pinned": true,
+"sha": "31fee0334c4ed9f1e079afe586ba30cb83e0f883",
+"snapshot": "2026-11-15T02:28:31Z",
+"status": 200
+},
 "bartowski/NousResearch_Arete-27B-GGUF": {
 "abl": false,
 "downloads": 71811,
@@ -7339,6 +10291,51 @@
 "pinned": true,
 "sha": "9762c8502a79bd2b8634735d75f426b9febe092c",
 "snapshot": "2026-11-14T03:53:39Z",
+"status": 200
+},
+"bartowski/Ornith-1.5-122B-GGUF": {
+"abl": false,
+"downloads": 20041,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "a8bc08fa33fc3a3e79380bf661a84688c7ea0a50",
+"snapshot": "2026-11-15T02:27:49Z",
+"status": 200
+},
+"bartowski/Ornith-1.5-35B-A3B-GGUF": {
+"abl": false,
+"downloads": 52627,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "64b0493d34a5ca4c1b4ad67bb99b41d74b4f07d6",
+"snapshot": "2026-11-15T02:27:52Z",
+"status": 200
+},
+"bartowski/Ornith-1.5-9B-GGUF": {
+"abl": false,
+"downloads": 31508,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "1fc60d6805eaa18bbed4088391db9336eb9581c4",
+"snapshot": "2026-11-15T02:27:54Z",
+"status": 200
+},
+"bartowski/Phi-3.5-MoE-instruct-GGUF": {
+"abl": false,
+"downloads": 2063,
+"family": "Phi 3",
+"pinned": true,
+"sha": "4b580329100cf44d7d041b6f63967b26869a6937",
+"snapshot": "2026-11-15T02:27:55Z",
+"status": 200
+},
+"bartowski/Phi-3.5-mini-instruct-GGUF": {
+"abl": false,
+"downloads": 41438,
+"family": "Phi 3",
+"pinned": true,
+"sha": "6d70da17e749a471ccb62ade694486011a75cda3",
+"snapshot": "2026-11-15T02:28:00Z",
 "status": 200
 },
 "bartowski/Qwen2.5-7B-Instruct-GGUF": {
@@ -7393,6 +10390,33 @@
 "snapshot": "2026-11-13T14:01:00Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"bartowski/Qwen3.8-27B-GGUF": {
+"abl": false,
+"downloads": 313548,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "87410e7b9a5c21e6ca70c0c9cc5237de909fe621",
+"snapshot": "2026-11-15T02:28:00Z",
+"status": 200
+},
+"bartowski/SmolLM2-135M-Instruct-GGUF": {
+"abl": false,
+"downloads": 108715,
+"family": "SmolLM",
+"pinned": true,
+"sha": "09816acd5d99df7be770d85ea30822623dab342c",
+"snapshot": "2026-11-15T02:28:03Z",
+"status": 200
+},
+"bartowski/SmolLM2-360M-Instruct-GGUF": {
+"abl": false,
+"downloads": 24935,
+"family": "SmolLM",
+"pinned": true,
+"sha": "7be6f65f1db715fe5dc5a4634c0d459b4eed42ec",
+"snapshot": "2026-11-15T02:28:03Z",
+"status": 200
 },
 "bartowski/bottlecapai_ThinkingCap-gemma-4-26B-A4B-it-GGUF": {
 "abl": false,
@@ -7456,6 +10480,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"bartowski/kldzj_gpt-oss-120b-heretic-v2-GGUF": {
+"abl": true,
+"downloads": 6788,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "052a858e93be93ec15bf51275421dd9ade27381f",
+"snapshot": "2026-11-15T02:28:06Z",
+"status": 200
+},
 "bartowski/mlabonne_Qwen3-14B-abliterated-GGUF": {
 "abl": true,
 "downloads": 45545,
@@ -7500,6 +10533,60 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"basecompute/Qwen3.8-27B-BaseQuant-V1": {
+"abl": false,
+"downloads": 7141,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f68313657cd713c0ab97f968d807a52a772c58f5",
+"snapshot": "2026-11-15T02:28:06Z",
+"status": 200
+},
+"beamster/DeepSeek-V4.1-Flash-1017-Sushi-STQ-1.75bpw": {
+"abl": false,
+"downloads": 3776,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "89630812557263bb7a7582fb1f30455573511155",
+"snapshot": "2026-11-15T02:28:11Z",
+"status": 200
+},
+"beamster/GLM-5.3-Flash-Sushi-2.4bpw": {
+"abl": false,
+"downloads": 1015,
+"family": "GLM",
+"pinned": true,
+"sha": "0bc3bf157723d2bb7723e31118addf48b22101b0",
+"snapshot": "2026-11-15T02:28:09Z",
+"status": 200
+},
+"beamster/GLM-5.3-Flash-Sushi-2bpw": {
+"abl": false,
+"downloads": 544,
+"family": "GLM",
+"pinned": true,
+"sha": "078bee5fd5876fe53ad2239c03ab8dc8deab877f",
+"snapshot": "2026-11-15T02:28:12Z",
+"status": 200
+},
+"bltx96/Huihui-DeepSeek-V4.1-Flash-1017-abliterated-GGUF": {
+"abl": true,
+"downloads": 719,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "bc05823374acd5f69350f061f2c43e159cee7307",
+"snapshot": "2026-11-15T02:28:14Z",
+"status": 200
+},
+"bniler2/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 176,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "8478d4e7e50a03ec46ebbfc015d145c5749bc9ac",
+"snapshot": "2026-11-15T02:28:16Z",
+"status": 200
+},
 "bottlecapai/ThinkingCap-gemma-4-26B-A4B-it-GGUF": {
 "abl": false,
 "downloads": 16452,
@@ -7529,6 +10616,15 @@
 "status": "gated",
 "via": "search:gufo top:30 label:Gufo"
 },
+"bsaleh03/Qwen3.8-27B-ASCII-Condensed": {
+"abl": false,
+"downloads": 1634,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b0bf827c2322a7e3ba26abb36fe215c1127b7d89",
+"snapshot": "2026-11-15T02:28:16Z",
+"status": 200
+},
 "bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF": {
 "abl": true,
 "downloads": 27196,
@@ -7539,6 +10635,51 @@
 "snapshot": "2026-11-13T14:02:33Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"burnedinthesky/gpt2-olmo2-1b-warm120-ot-muon-lr4e-3-tok401k-seq1024-cos-wu5-485335": {
+"abl": false,
+"downloads": 364,
+"family": "Other",
+"pinned": true,
+"sha": "cc412da011a53915537b7600d43e6594c80db7c3",
+"snapshot": "2026-11-15T02:28:19Z",
+"status": 200
+},
+"byteshape/Qwen3.8-27B-GGUF": {
+"abl": false,
+"downloads": 2076233,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "3fdfbd9b4a618303ad36edb151e95d134ece8c18",
+"snapshot": "2026-11-15T02:28:22Z",
+"status": 200
+},
+"bytkim/Qwen3.8-27B-pi": {
+"abl": false,
+"downloads": 1834,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "34d3f21045f7b41453e66c39e137cfc818a603ce",
+"snapshot": "2026-11-15T02:28:24Z",
+"status": 200
+},
+"bytkim/Qwen3.8-27B-pi-GGUF": {
+"abl": false,
+"downloads": 51218,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "97caacb971d9246520fa8db5282a06bd36b103df",
+"snapshot": "2026-11-15T02:28:26Z",
+"status": 200
+},
+"bzannah/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 131,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "61829cde0efba44c3719fe53912832e143a067c3",
+"snapshot": "2026-11-15T02:28:28Z",
+"status": 200
 },
 "caentzminger/Qwen3.8-4B-Distill-Obliterated-GGUF": {
 "abl": true,
@@ -7551,6 +10692,96 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"cafonez/GLM-5.3-Flash-Strix-128GB-GGUF": {
+"abl": false,
+"downloads": 996,
+"family": "GLM",
+"pinned": true,
+"sha": "bebfee905205d50e06d540890777210198c4631c",
+"snapshot": "2026-11-15T02:28:29Z",
+"status": 200
+},
+"caiovicentino1/Eikos-27B": {
+"abl": false,
+"downloads": 217,
+"family": "Other",
+"pinned": true,
+"sha": "f44903e3d485cc742334b224fe309c6680eb0c13",
+"snapshot": "2026-11-15T02:28:32Z",
+"status": 200
+},
+"canada-quant/GLM-5.3-Flash-DFlash2-E": {
+"abl": false,
+"downloads": 224,
+"family": "GLM",
+"pinned": true,
+"sha": "7aa3841c1d074a9603082586ea3ff32fd3bd3f21",
+"snapshot": "2026-11-15T02:28:33Z",
+"status": 200
+},
+"canada-quant/GLM-5.3-Flash-DFlash2-G": {
+"abl": false,
+"downloads": 362,
+"family": "GLM",
+"pinned": true,
+"sha": "b8ba68b022d612958d1a9c447f294f148a156ed1",
+"snapshot": "2026-11-15T02:28:34Z",
+"status": 200
+},
+"canada-quant/GLM-5.3-Flash-W4A16-MTP": {
+"abl": false,
+"downloads": 2967,
+"family": "GLM",
+"pinned": true,
+"sha": "5681f7c2dc6436d63f82ab6fb892b4f5062b8304",
+"snapshot": "2026-11-15T02:28:34Z",
+"status": 200
+},
+"cantina-security/apex-flash-1": {
+"abl": false,
+"downloads": 738,
+"family": "Other",
+"pinned": true,
+"sha": "28c647a6bd0444973a7ef3d940c24c67e64f52fe",
+"snapshot": "2026-11-15T02:28:38Z",
+"status": 200
+},
+"cantina-security/apex-flash-1-abliterated": {
+"abl": true,
+"downloads": 742,
+"family": "Other",
+"pinned": true,
+"sha": "cecb5eeb9c6b32404a0dd930df81de2c239bdd84",
+"snapshot": "2026-11-15T02:28:37Z",
+"status": 200
+},
+"caslca/Qwen3.8-27B-Fable-Distill-OptiQ-4.5bpw-mixed-mtp-drafter": {
+"abl": false,
+"downloads": 476,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "0caad904fdd7706310f42f342226e7ae9b2d55dc",
+"snapshot": "2026-11-15T02:28:37Z",
+"status": 200
+},
+"castorini/rank_zephyr_7b_v1_full": {
+"abl": false,
+"downloads": 2062,
+"family": "Other",
+"pinned": true,
+"sha": "aa11d9da444ec3490827656c3b961d5c5f3af0eb",
+"snapshot": "2026-11-15T02:28:43Z",
+"status": 200
+},
+"catplusplus/Qwen3.8-27B-heretic-ara-NVFP4-MTP": {
+"abl": true,
+"downloads": 217,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "3065e616dd08276bc601f9d9a5e86d7ef5aad316",
+"snapshot": "2026-11-15T02:28:44Z",
+"status": 200
+},
 "cbert33/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-FP8-KV-Calibrated": {
 "abl": true,
 "downloads": 69380,
@@ -7562,6 +10793,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"cbyabush/gpt2-dpo-ultrafeedback": {
+"abl": false,
+"downloads": 20,
+"family": "Other",
+"pinned": true,
+"sha": "e94b9e18610cf4d667d0b16aef4fe7a39188dabe",
+"snapshot": "2026-11-15T02:28:41Z",
+"status": 200
+},
 "cc1244578151/Qwen3.8-Flash-Next-Abliterated-Uncensored-GGUF": {
 "abl": true,
 "downloads": 31776,
@@ -7572,6 +10812,15 @@
 "snapshot": "2026-11-13T14:02:19Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"cdiamond/Qwen3.8-27B-iMatrix-NVFP4-MTP-GGUF": {
+"abl": false,
+"downloads": 3309931,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "ac343e8f44caef0896f79d372ecc07ef7ab34ec8",
+"snapshot": "2026-11-15T02:28:43Z",
+"status": 200
 },
 "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-LoRA-v0.1": {
 "abl": true,
@@ -7594,6 +10843,33 @@
 "snapshot": "2026-11-14T18:38:57Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"chenyumo/moziAI-35B-A3B-MOE-MTP": {
+"abl": true,
+"downloads": 6497,
+"family": "Other",
+"pinned": true,
+"sha": "fd1acd56ab5eadaf92b061fb1842d27c2a18c1fe",
+"snapshot": "2026-11-15T02:28:49Z",
+"status": 200
+},
+"chiakelvin/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-heretic": {
+"abl": true,
+"downloads": 714,
+"family": "Other",
+"pinned": true,
+"sha": "331dd33c7851e2c687b849072c852cec6e7c7e44",
+"snapshot": "2026-11-15T02:28:46Z",
+"status": 200
+},
+"coderian/StoryGPT": {
+"abl": false,
+"downloads": 47,
+"family": "Other",
+"pinned": true,
+"sha": "f879c07a0e340adfa2c6ce58ea224006834e58da",
+"snapshot": "2026-11-15T02:28:47Z",
+"status": 200
 },
 "cognitivers/Qwen3.8-27B-OBLITERATED-12GB-GGUF": {
 "abl": true,
@@ -7636,6 +10912,33 @@
 "snapshot": "2026-11-13T14:00:48Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"cyankiwi/Ornith-1.5-35B-A3B-AWQ-INT4": {
+"abl": false,
+"downloads": 3608,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "8afa232234a67f5bce4567982541a99688ac5137",
+"snapshot": "2026-11-15T02:28:52Z",
+"status": 200
+},
+"cyankiwi/Ornith-1.5-9B-AWQ-INT4": {
+"abl": false,
+"downloads": 577,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "3a8b7f60f01d9df1d2191c62c4e7fc0dd311e779",
+"snapshot": "2026-11-15T02:28:51Z",
+"status": 200
+},
+"cyankiwi/Qwen3.8-27B-AWQ-INT4": {
+"abl": false,
+"downloads": 986122,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "e3a700906e6a73ba4290b1873dc2ba8198527ab5",
+"snapshot": "2026-11-15T02:28:55Z",
+"status": 200
 },
 "cygnal/Qwen3.8-Flash-Next-Heretic2-IQ4XS-NGQ4-GGUF": {
 "abl": true,
@@ -7692,6 +10995,42 @@
 "status": 200,
 "via": "search:halogen-qwen top:40 label:Halogen"
 },
+"dbirks/Qwen3.8-27B-W4A16-AutoRound": {
+"abl": false,
+"downloads": 11911,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "1f05c441c4e64ae0549de44fa9ea5a6d43610314",
+"snapshot": "2026-11-15T02:28:54Z",
+"status": 200
+},
+"dbmdz/german-gpt2": {
+"abl": false,
+"downloads": 3156,
+"family": "Other",
+"pinned": true,
+"sha": "0579faad6d549cb924aa34e53baf3a0b3add7cda",
+"snapshot": "2026-11-15T02:29:01Z",
+"status": 200
+},
+"dcostenco/smollm2-360m-aac-watch": {
+"abl": false,
+"downloads": 69290,
+"family": "SmolLM",
+"pinned": true,
+"sha": "172eb7959ce0dabfc96b406b756c23635be5c580",
+"snapshot": "2026-11-15T02:28:56Z",
+"status": 200
+},
+"ddalcu/DeepSeek-V4.1-Flash-1017-MLX-Serve-iQ-MLX-3.0bpw": {
+"abl": false,
+"downloads": 5196,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "6da9c4e4b3db7dabf5669af8dbee989c35a9f045",
+"snapshot": "2026-11-15T02:29:01Z",
+"status": 200
+},
 "deadbydawn101/RavenXAiLabs-Chaos-Agent-Qwen3.8-27B-Frontier-Intelligence-Injected-OBLITERATED-GGUF": {
 "abl": true,
 "downloads": 2418,
@@ -7714,6 +11053,96 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"dealignai/Bonsai-2-27B-1bit-CRACK-GGUF": {
+"abl": true,
+"downloads": 8753,
+"family": "Other",
+"pinned": true,
+"sha": "9665897ee63152226ecd64a1036d14292397186f",
+"snapshot": "2026-11-15T02:29:02Z",
+"status": 200
+},
+"dealignai/Bonsai-2-27B-CRACK-Ternary-JANG": {
+"abl": true,
+"downloads": 1383,
+"family": "Other",
+"pinned": true,
+"sha": "e16bfd9ee1dcf633d4f1deb30ae58ea5c36ab9cd",
+"snapshot": "2026-11-15T02:29:04Z",
+"status": 200
+},
+"dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF": {
+"abl": true,
+"downloads": 13912,
+"family": "Other",
+"pinned": true,
+"sha": "3d36486a5fb2a3868116b8f6e768179e2391d28d",
+"snapshot": "2026-11-15T02:29:04Z",
+"status": 200
+},
+"dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8": {
+"abl": true,
+"downloads": 18189,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "c19ca5ca4eaeb79d29fdf08aea8327da95b1116a",
+"snapshot": "2026-11-15T02:29:07Z",
+"status": 200
+},
+"dealignai/DeepSeek-V4.1-Flash-UNCENSORED-EXL3-2.9bpw": {
+"abl": true,
+"downloads": 864,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "8a27b35fc5b145fa05ee965c7d7b243b047915f7",
+"snapshot": "2026-11-15T02:29:08Z",
+"status": 200
+},
+"dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8": {
+"abl": true,
+"downloads": 17999,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "d61c59ea5e514e25d305b5850e8a432f7a9969f2",
+"snapshot": "2026-11-15T02:29:08Z",
+"status": 200
+},
+"dealignai/GLM-5.3-Flash-CYBERSECURITY-W4A16": {
+"abl": true,
+"downloads": 4330,
+"family": "GLM",
+"pinned": true,
+"sha": "4c2ee763ff75f3ba50652ee0f024b0b630cd54a0",
+"snapshot": "2026-11-15T02:29:11Z",
+"status": 200
+},
+"dealignai/GLM-5.3-Flash-UNCENSORED-FP8": {
+"abl": true,
+"downloads": 14183,
+"family": "GLM",
+"pinned": true,
+"sha": "d5822b068da8ddb301665b48c58718e6e18a2c3a",
+"snapshot": "2026-11-15T02:29:11Z",
+"status": 200
+},
+"dealignai/GLM-5.3-Flash-UNCENSORED-NVFP4": {
+"abl": true,
+"downloads": 4468,
+"family": "GLM",
+"pinned": true,
+"sha": "745aac2ff0f10acf961f396df3f9418598aa7327",
+"snapshot": "2026-11-15T02:29:11Z",
+"status": 200
+},
+"dealignai/MiniCPM5-2B-CRACK-JANG_8M": {
+"abl": true,
+"downloads": 1940,
+"family": "Other",
+"pinned": true,
+"sha": "c08ee1ce2b76dfffea49bb9018f689de72131bcd",
+"snapshot": "2026-11-15T02:29:16Z",
+"status": 200
+},
 "dealignai/Nanbeige4.3-33B-UNCENSORED-GGUF": {
 "abl": true,
 "downloads": 45113,
@@ -7724,6 +11153,15 @@
 "snapshot": "2026-11-13T14:10:32Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"dealignai/Ornith-1.5-122B-UNCENSORED-GGUF": {
+"abl": true,
+"downloads": 35172,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "3cadf9f9a4d12802324d0a6fad1a6e4a8d3a44e7",
+"snapshot": "2026-11-15T02:29:17Z",
+"status": 200
 },
 "dealignai/Ornith-1.5-35B-A3B-UNCENSORED-GGUF": {
 "abl": true,
@@ -7736,6 +11174,24 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"dealignai/Ornith-1.5-9B-UNCENSORED-GGUF": {
+"abl": true,
+"downloads": 12007,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "ff3af5719557150f553625b64fb8866fde796054",
+"snapshot": "2026-11-15T02:29:15Z",
+"status": 200
+},
+"dealignai/Qwen3.8-Flash-Next-UNCENSORED-FP8": {
+"abl": true,
+"downloads": 1073,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "0df192cfd5b20fcd109fb63a5e1f663afa0341d8",
+"snapshot": "2026-11-15T02:29:20Z",
+"status": 200
+},
 "deep-principle/Hydrogen-1.0-NVFP4": {
 "abl": false,
 "downloads": 11128,
@@ -7743,6 +11199,51 @@
 "pinned": true,
 "sha": "a96c2b9d359396b625a38e848c29d3d0ae5daf1e",
 "snapshot": "2026-11-14T03:53:45Z",
+"status": 200
+},
+"denis-pplx/autojev-27b": {
+"abl": false,
+"downloads": 505,
+"family": "Other",
+"pinned": true,
+"sha": "6f5b557e037f5edb25c7dc92dbc6553e5a19c015",
+"snapshot": "2026-11-15T02:29:19Z",
+"status": 200
+},
+"derickio/chess-gpt-4.5M": {
+"abl": false,
+"downloads": 125,
+"family": "Other",
+"pinned": true,
+"sha": "cff82f55728f3b6284faf6043c1c44686951741d",
+"snapshot": "2026-11-15T02:29:19Z",
+"status": 200
+},
+"dicksondickson/Swift-1.5-Qwen3.8-27b-oQ5e-fp16-mtp": {
+"abl": false,
+"downloads": 493,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "999f295f55af6e2876c8093199d4d4149c22cf87",
+"snapshot": "2026-11-15T02:29:23Z",
+"status": 200
+},
+"dicksondickson/Swift-1.5-Qwen3.8-27b-oQ6e-bf16-mtp-MLX": {
+"abl": false,
+"downloads": 646,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "6dcfdbc643689c3c424ee0c1fc8a4e41278a1590",
+"snapshot": "2026-11-15T02:29:24Z",
+"status": 200
+},
+"diffbot/DeepSeek-V4.1-Flash-EXL3-3bpw-2x-RTX-PRO-6000": {
+"abl": false,
+"downloads": 2509,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "124a42dcd885c44c4920c8de2881ac23f1ea0f8f",
+"snapshot": "2026-11-15T02:29:24Z",
 "status": 200
 },
 "dima6312/Flint-40B-A2.5B-abliterated-GGUF": {
@@ -7756,6 +11257,31 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"dn2k/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 325,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "2e5031ec6f573775fc6e6a55dcdd61f609462a4c",
+"snapshot": "2026-11-15T02:29:29Z",
+"status": 200
+},
+"dotnfc/Tiel-Coder-35B-A3B-GGUF-MTP": {
+"abl": false,
+"downloads": 35641,
+"family": "Other",
+"pinned": true,
+"sha": "3fb96f5d7b9fd73d93a62ddfd181055acd0bc870",
+"snapshot": "2026-11-15T02:29:29Z",
+"status": 200
+},
+"drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated": {
+"abl": true,
+"downloads": 0,
+"family": "DeepSeek V4",
+"pinned": true,
+"status": "gated"
+},
 "drowzeys/keys-DeepSeekV4-Flash-GA-0731-Dspark-Abliterated-Anchored-Tensors": {
 "abl": true,
 "downloads": 37483,
@@ -7765,6 +11291,15 @@
 "status": "gated",
 "via": "search:abliterated top:200"
 },
+"drwahl/2tpg": {
+"abl": false,
+"downloads": 580,
+"family": "Other",
+"pinned": true,
+"sha": "02f777b247574c7a179bf350d0b8caab93842d61",
+"snapshot": "2026-11-15T02:29:28Z",
+"status": 200
+},
 "dzannotti/Qwen3.8-Flash-Next-MTP-GGUF": {
 "abl": false,
 "downloads": 2097,
@@ -7772,6 +11307,24 @@
 "pinned": true,
 "sha": "0b2551d191548168d3254ddea4ab943a5ef4f809",
 "snapshot": "2026-11-13T09:37:49Z",
+"status": 200
+},
+"easthambuilds/DeepSeek-V4.1-Flash-1017-EXL3-2.9bpw": {
+"abl": false,
+"downloads": 397,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "2913ea75b326801b6645bc2ffaefb485d049abc2",
+"snapshot": "2026-11-15T02:29:32Z",
+"status": 200
+},
+"ebowwa/cognitive-hacker-gguf-0.2": {
+"abl": false,
+"downloads": 2570,
+"family": "Other",
+"pinned": true,
+"sha": "08803138a6c8fca49ea3cf11d04008590ede03a3",
+"snapshot": "2026-11-15T02:29:33Z",
 "status": 200
 },
 "eemin/halogen-qwen3.8-flash-next-copy": {
@@ -7796,6 +11349,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"empero-ai/Qwen3.8-27B-Ridge-GGUF": {
+"abl": false,
+"downloads": 291804,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "486faa5f2032ff99bdc8993ade1b8fff13d1464c",
+"snapshot": "2026-11-15T02:29:33Z",
+"status": 200
+},
 "empyrealworks/Swift-1.5-Flash-Next-Abliterated-Gufo-GGUF": {
 "abl": true,
 "downloads": 178,
@@ -7806,6 +11368,33 @@
 "snapshot": "2026-11-13T14:52:51Z",
 "status": 200,
 "via": "search:gufo top:30 label:Gufo"
+},
+"etemiz/Ostrich-27B-261028-Qwen3.8-Abliterated": {
+"abl": true,
+"downloads": 78,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "38df9c0044768ce106faeea202de4fb043004998",
+"snapshot": "2026-11-15T02:29:37Z",
+"status": 200
+},
+"ewin-reg/MiniCPM5-1B-Agentic-Tooluse-v3-GGUF": {
+"abl": false,
+"downloads": 2342,
+"family": "Other",
+"pinned": true,
+"sha": "b8ed16e7a7423b409e321fc9ba30f2004ceacb67",
+"snapshot": "2026-11-15T02:29:35Z",
+"status": 200
+},
+"ewin-reg/MiniCPM5-2B-RotSVDMix-Quantized": {
+"abl": false,
+"downloads": 310,
+"family": "Other",
+"pinned": true,
+"sha": "b962434fa86b001b4d5650c45fbc35c35955c64e",
+"snapshot": "2026-11-15T02:29:38Z",
+"status": 200
 },
 "failspy/Meta-Llama-3-8B-Instruct-abliterated-v3": {
 "abl": true,
@@ -7818,6 +11407,24 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"fajardc/Ornith-1.5-122B-GSQ-RCO-GGUF": {
+"abl": false,
+"downloads": 1645,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "c13e046866196fdd4e06cf36999b32ef05a6e5f3",
+"snapshot": "2026-11-15T02:29:38Z",
+"status": 200
+},
+"fran9510/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 296,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "154cc5e2ea4756c44a868c2a03e070297aec1f18",
+"snapshot": "2026-11-15T02:29:41Z",
+"status": 200
+},
 "freakyskittle/CYBER-FROST-3.8-GGUF": {
 "abl": false,
 "downloads": 13965,
@@ -7825,6 +11432,33 @@
 "pinned": true,
 "sha": "3653d81a87ec580d63dbe32fac4a8e87d7156930",
 "snapshot": "2026-11-14T03:53:21Z",
+"status": 200
+},
+"freakyskittle/RED-SNOW-5.3-FLASH-GGUF": {
+"abl": false,
+"downloads": 2657,
+"family": "Other",
+"pinned": true,
+"sha": "c68f1c22aca7a82321e18f7d9701c5bf0bf61f42",
+"snapshot": "2026-11-15T02:29:40Z",
+"status": 200
+},
+"freakyskittle/apex-flash-1-abliterated-GGUF": {
+"abl": true,
+"downloads": 3907,
+"family": "Other",
+"pinned": true,
+"sha": "510d63f6836ed2392baba939e1a583eb0775c070",
+"snapshot": "2026-11-15T02:29:41Z",
+"status": 200
+},
+"fudan-generative-ai/Qwen3.8-27B-REMORY-1.9B": {
+"abl": false,
+"downloads": 2059,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "5ada60e61d5425012b92a7c2b2796fc0b0f29241",
+"snapshot": "2026-11-15T02:29:44Z",
 "status": 200
 },
 "fyb1214/Huihui-Qwen3.8-27B-Abliterated-Swift-1.5-GSQ-RCO-NInfer": {
@@ -7838,6 +11472,24 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"garak-llm/attackgeneration-toxicity_gpt2": {
+"abl": false,
+"downloads": 8724,
+"family": "Other",
+"pinned": true,
+"sha": "565f41dd443592c2146a604211468974d7a7d1a7",
+"snapshot": "2026-11-15T02:29:45Z",
+"status": 200
+},
+"gbuzhf/Ornith-1.5-35B-A3B-Abliterated-CyberTiel-Calibrated-MTPv2-ICE-GGUF": {
+"abl": true,
+"downloads": 4071,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "ab54003b4d88fb24b50cc999e582e2c9283d7020",
+"snapshot": "2026-11-15T02:29:46Z",
+"status": 200
+},
 "gbuzhf/Ornith-1.5-35B-A3B-Abliterated-MTP-UD-APEX-GGUF": {
 "abl": true,
 "downloads": 27325,
@@ -7849,6 +11501,33 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"gbuzhf/Ornith-1.5-35B-A3B-Huihui-Sangreal-MTP-ICE-GGUF": {
+"abl": true,
+"downloads": 20649,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "a6a036b3866a03c0a0783522a457131999a0571b",
+"snapshot": "2026-11-15T02:29:48Z",
+"status": 200
+},
+"gbuzhf/Ornith-1.5-35B-A3B-TIEL-Calibrated-MTPv2-ICE-GGUF": {
+"abl": false,
+"downloads": 1179,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "9991338360005ec7785aefe8c26e9847ced3f1cf",
+"snapshot": "2026-11-15T02:29:48Z",
+"status": 200
+},
+"ggml-org/Clef-GGUF": {
+"abl": false,
+"downloads": 20914,
+"family": "Other",
+"pinned": true,
+"sha": "415c1d23f2355fb087cfd4cdb2c04ff6422f4970",
+"snapshot": "2026-11-15T02:29:50Z",
+"status": 200
+},
 "ggml-org/DeepSeek-V4-Flash-0731-GGUF": {
 "abl": false,
 "downloads": 2377,
@@ -7856,6 +11535,42 @@
 "pinned": true,
 "sha": "64da7c18350c54db6406cd085731f2a34363bf66",
 "snapshot": "2026-11-13T09:37:53Z",
+"status": 200
+},
+"ggml-org/Qwen3.8-27B-GGUF": {
+"abl": false,
+"downloads": 1008190,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "c1869413dece09109e55b7dcc2c77ef382b0d0bd",
+"snapshot": "2026-11-15T02:29:50Z",
+"status": 200
+},
+"ggml-org/SmolLM2-135M-GGUF": {
+"abl": false,
+"downloads": 3344,
+"family": "SmolLM",
+"pinned": true,
+"sha": "1076b85d135017971845b19b8d07df1479155988",
+"snapshot": "2026-11-15T02:29:51Z",
+"status": 200
+},
+"ggml-org/gpt-oss-120b-GGUF": {
+"abl": false,
+"downloads": 363774,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "f59990363fbbb67f01bce03e5e7bf0929e3e320b",
+"snapshot": "2026-11-15T02:29:54Z",
+"status": 200
+},
+"ggml-org/gpt-oss-20b-GGUF": {
+"abl": false,
+"downloads": 378904,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "41e8a94d15d62070b36cf4553a0250717ecf46b8",
+"snapshot": "2026-11-15T02:29:54Z",
 "status": 200
 },
 "ggml-org/stories15M_MOE": {
@@ -7885,6 +11600,33 @@
 "snapshot": "2026-11-13T09:38:16Z",
 "status": 200
 },
+"gitcoreai/gpt-2-small-sft": {
+"abl": false,
+"downloads": 29,
+"family": "Other",
+"pinned": true,
+"sha": "5eda83fd2b8c735cd9b1f0906369cd0c4ac5fa0e",
+"snapshot": "2026-11-15T02:29:55Z",
+"status": 200
+},
+"gittensor-model-hub/Qwen3.8-27B-DSpark-NVFP4": {
+"abl": false,
+"downloads": 7130,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "eba1ac5a66c74902eaa95a4000a7c5eda96d8e95",
+"snapshot": "2026-11-15T02:29:56Z",
+"status": 200
+},
+"gittensor-model-hub/Qwen3.8-27B-NVFP4-RTX5090": {
+"abl": false,
+"downloads": 174596,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "5b7a687fc8211a5d631c8ca6a593dd37eb26ce33",
+"snapshot": "2026-11-15T02:29:58Z",
+"status": 200
+},
 "gpustack/bge-reranker-v2-m3-GGUF": {
 "abl": false,
 "downloads": 32588,
@@ -7905,6 +11647,42 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"handy-computer/granite-speech-4.1-2b-gguf": {
+"abl": false,
+"downloads": 44095,
+"family": "Granite",
+"pinned": true,
+"sha": "6c6a92dfc36d2b9eda767ef2fb2320237672c4b6",
+"snapshot": "2026-11-15T02:29:58Z",
+"status": 200
+},
+"handy-computer/granite-speech-4.1-2b-nar-gguf": {
+"abl": false,
+"downloads": 31013,
+"family": "Granite",
+"pinned": true,
+"sha": "36325d11d13bdd712ea9233adec0f89fbd7b9bd8",
+"snapshot": "2026-11-15T02:30:00Z",
+"status": 200
+},
+"hell0ks/GLM-5.3-Flash-Uncensored-AWQ": {
+"abl": true,
+"downloads": 887,
+"family": "GLM",
+"pinned": true,
+"sha": "fbc204e5774995fb04007e58be35a59624f1f4c1",
+"snapshot": "2026-11-15T02:30:00Z",
+"status": 200
+},
+"hermitdave/LFM3-1.7B-MLX-MACaQ-R-4.25bpw": {
+"abl": false,
+"downloads": 50,
+"family": "LFM",
+"pinned": true,
+"sha": "31d20757756210f6c138a5e166e6ace003de4cef",
+"snapshot": "2026-11-15T02:30:00Z",
+"status": 200
+},
 "hipfire-models/qwen3.8-27b": {
 "abl": false,
 "downloads": 0,
@@ -7912,6 +11690,15 @@
 "pinned": true,
 "sha": "f3f240897aaf84affb5d6be64567d5a62949baff",
 "snapshot": "2026-11-13T09:38:29Z",
+"status": 200
+},
+"hitsfmdj/Qwen3.8-27B-GGUF-4.2BPW-16GB": {
+"abl": false,
+"downloads": 1031,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "ea3d173495aed296060611189d320ed49cd6d676",
+"snapshot": "2026-11-15T02:30:02Z",
 "status": 200
 },
 "hotdogs/Qwen3.8-27B-abliterated-cyber-preview-MTP-GGUF": {
@@ -8024,6 +11811,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"huihui-ai/Huihui-MiniCPM5-2B-abliterated": {
+"abl": true,
+"downloads": 622,
+"family": "Other",
+"pinned": true,
+"sha": "aea962bb5558e659624eeefc8c1b9f418a3e6ffb",
+"snapshot": "2026-11-15T02:30:05Z",
+"status": 200
+},
 "huihui-ai/Huihui-Ornith-1.0-9B-abliterated-MTP-GGUF": {
 "abl": true,
 "downloads": 15609,
@@ -8034,6 +11830,15 @@
 "snapshot": "2026-11-13T14:03:41Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"huihui-ai/Huihui-Ornith-1.5-35B-A3B-abliterated": {
+"abl": true,
+"downloads": 2395,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "7269f0953054d68b3cacbd9ad729921258732007",
+"snapshot": "2026-11-15T02:30:04Z",
+"status": 200
 },
 "huihui-ai/Huihui-Qwen3-8B-abliterated-v2": {
 "abl": true,
@@ -8299,6 +12104,24 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"ibm-granite/granite-4.0-1b": {
+"abl": false,
+"downloads": 35756,
+"family": "Granite",
+"pinned": true,
+"sha": "6a7381ba1f54d684ff508d991aeb7dc580157103",
+"snapshot": "2026-11-15T02:30:07Z",
+"status": 200
+},
+"ibm-granite/granite-4.0-1b-speech": {
+"abl": false,
+"downloads": 220783,
+"family": "Granite",
+"pinned": true,
+"sha": "bd87ab862416353633ea431fe49b1614003623c5",
+"snapshot": "2026-11-15T02:30:10Z",
+"status": 200
+},
 "ibm-granite/granite-4.1-3b-GGUF": {
 "abl": false,
 "downloads": 13845,
@@ -8306,6 +12129,69 @@
 "pinned": true,
 "sha": "ab4701481089b58a082ef63cc1cee738887293ff",
 "snapshot": "2026-11-14T03:53:24Z",
+"status": 200
+},
+"ibm-granite/granite-speech-4.1-2b": {
+"abl": false,
+"downloads": 27799,
+"family": "Granite",
+"pinned": true,
+"sha": "823ca793aa49925d4eb2e758709b7f2c98513e8e",
+"snapshot": "2026-11-15T02:30:10Z",
+"status": 200
+},
+"ibm-granite/granite-speech-4.1-2b-nar": {
+"abl": false,
+"downloads": 130363,
+"family": "Granite",
+"pinned": true,
+"sha": "a1e3416e25ce29ab3852778e54fa8b3bd59c4bf2",
+"snapshot": "2026-11-15T02:30:11Z",
+"status": 200
+},
+"ibm-granite/granite-speech-4.1-2b-plus": {
+"abl": false,
+"downloads": 18754,
+"family": "Granite",
+"pinned": true,
+"sha": "e69efe37f97b6283c61f5a8dadda2b3eb67765d6",
+"snapshot": "2026-11-15T02:30:14Z",
+"status": 200
+},
+"ibm-granite/granite-speech-5.0-2b": {
+"abl": false,
+"downloads": 10564,
+"family": "Granite",
+"pinned": true,
+"sha": "ec49ca6b1a5e7e9176127e09cb303ab78cbacdf7",
+"snapshot": "2026-11-15T02:30:17Z",
+"status": 200
+},
+"ibm-granite/granitelib-core-r1.0": {
+"abl": false,
+"downloads": 6779,
+"family": "Granite",
+"pinned": true,
+"sha": "b881a4371db7284beac66a658b0cadcd32b12977",
+"snapshot": "2026-11-15T02:30:18Z",
+"status": 200
+},
+"ibm-granite/granitelib-guardian-r1.0": {
+"abl": false,
+"downloads": 2179,
+"family": "Granite",
+"pinned": true,
+"sha": "5802b88ef1f9a71e7a33c9025a36b81f2671e58d",
+"snapshot": "2026-11-15T02:30:22Z",
+"status": 200
+},
+"ibm-granite/granitelib-rag-r1.0": {
+"abl": false,
+"downloads": 10203,
+"family": "Granite",
+"pinned": true,
+"sha": "167c451abc01c140c1059ed88d4bb39db9533ae9",
+"snapshot": "2026-11-15T02:30:23Z",
 "status": 200
 },
 "igorls/gemma-4-12B-it-heretic-GGUF": {
@@ -8328,6 +12214,60 @@
 "snapshot": "2026-11-14T03:53:47Z",
 "status": 200
 },
+"incoai/GLM-5.3-Flash-DFlash2": {
+"abl": false,
+"downloads": 12538,
+"family": "GLM",
+"pinned": true,
+"sha": "6cc6c481eee930a5139619ed919f78726371adbc",
+"snapshot": "2026-11-15T02:30:21Z",
+"status": 200
+},
+"incoai/Ornith-1.5-122B-DFlash2": {
+"abl": false,
+"downloads": 2047,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "9baefc1bec85c08193ab442e0ca5f7057669b61d",
+"snapshot": "2026-11-15T02:30:24Z",
+"status": 200
+},
+"incoai/Qwen3.8-27B-DFlash2": {
+"abl": false,
+"downloads": 398183,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "015e795645c74b1a0eeef3b570031fb62e769bc5",
+"snapshot": "2026-11-15T02:30:25Z",
+"status": 200
+},
+"incoai/Qwen3.8-27B-DFlash2-GGUF": {
+"abl": false,
+"downloads": 22088,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "144eb06583b4fb0b6e54bc814b16a206a240f4d2",
+"snapshot": "2026-11-15T02:30:26Z",
+"status": 200
+},
+"incoai/Qwen3.8-27B-Splash": {
+"abl": false,
+"downloads": 0,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "9d27070b71f7142c6b6025f03ac011d70a73cb48",
+"snapshot": "2026-11-15T02:30:32Z",
+"status": 200
+},
+"incoai/Qwen3.8-Flash-Next-DFlash2": {
+"abl": false,
+"downloads": 66123,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "a22a1744e85c17364dcc54a6a420af7135d4c7f6",
+"snapshot": "2026-11-15T02:30:31Z",
+"status": 200
+},
 "incoai/Qwen3.8-Flash-Next-DFlash2-GGUF": {
 "abl": false,
 "downloads": 7865,
@@ -8335,6 +12275,24 @@
 "pinned": true,
 "sha": "4f5a39be8f0a9e9a573ac9824251830a8f4096d9",
 "snapshot": "2026-11-13T09:38:32Z",
+"status": 200
+},
+"inference-optimization/GLM-5.3-Flash-0.1B-A0.1B": {
+"abl": false,
+"downloads": 7946,
+"family": "GLM",
+"pinned": true,
+"sha": "8311399447eba9c9b215e3209ab6f25e59c7d21e",
+"snapshot": "2026-11-15T02:30:29Z",
+"status": 200
+},
+"inference-optimization/Qwen3.8-1.0B-A0.6B": {
+"abl": false,
+"downloads": 5036,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "36531b2b4eab12e9cf7b7b9cbfce0f0a0bb8b719",
+"snapshot": "2026-11-15T02:30:35Z",
 "status": 200
 },
 "irwanworld/Irwan-LightOnOCR-3-0.8B-abliterated": {
@@ -8348,6 +12306,87 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"isilicon/mango-deepseek41-dspark-q8": {
+"abl": false,
+"downloads": 315,
+"family": "DeepSeek (other)",
+"pinned": true,
+"sha": "3778114e83fd6225049a7946ddb785475bde2d0f",
+"snapshot": "2026-11-15T02:30:33Z",
+"status": 200
+},
+"isilicon/mango-deepseek41-gsq-iq2xs-uncensored": {
+"abl": true,
+"downloads": 2253,
+"family": "DeepSeek (other)",
+"pinned": true,
+"sha": "9b18f43149931327703126a26c86fd89d5083adf",
+"snapshot": "2026-11-15T02:30:37Z",
+"status": 200
+},
+"isilicon/mango-dflash2": {
+"abl": false,
+"downloads": 159,
+"family": "Other",
+"pinned": true,
+"sha": "fe2e9183acfa95548bce39f930682d9c5b6386c6",
+"snapshot": "2026-11-15T02:30:39Z",
+"status": 200
+},
+"isilicon/mango-flashnext-orca-tokenizer-20261029": {
+"abl": true,
+"downloads": 197,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "f2b868150c85f7f0d760ba83fa601f1a197eeda1",
+"snapshot": "2026-11-15T02:30:39Z",
+"status": 200
+},
+"isilicon/mango-glm53flash-bolding-iq2xxs-20261029": {
+"abl": true,
+"downloads": 1151,
+"family": "GLM",
+"pinned": true,
+"sha": "e1a14c21be7e4c21b57f81606b07f3874bfa7532",
+"snapshot": "2026-11-15T02:30:41Z",
+"status": 200
+},
+"isilicon/mango-orcasaq2-cyber-27b": {
+"abl": true,
+"downloads": 1492,
+"family": "Other",
+"pinned": true,
+"sha": "d3f64b072297f23eb742ec960c40c3ee29245fb7",
+"snapshot": "2026-11-15T02:30:43Z",
+"status": 200
+},
+"isilicon/mango-qwen27-orca-bf16": {
+"abl": true,
+"downloads": 1132,
+"family": "Qwen27",
+"pinned": true,
+"sha": "de55e260bfa4d6473a932dbec9c3125fb950c5f4",
+"snapshot": "2026-11-15T02:30:42Z",
+"status": 200
+},
+"isilicon/mango-qwen38-27b-uncensored-mlx4": {
+"abl": true,
+"downloads": 0,
+"family": "Qwen38",
+"pinned": true,
+"sha": "6f6e78f63faced672d80d4a1eb92cce088a06794",
+"snapshot": "2026-11-15T02:30:44Z",
+"status": 200
+},
+"isilicon/mango-qwen38-flashnext-iq4xs": {
+"abl": true,
+"downloads": 1342,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "a8ff67262f6b2e4d8b3a206d1d9a6210288fc59d",
+"snapshot": "2026-11-15T02:30:45Z",
+"status": 200
+},
 "jadechoghari/mar": {
 "abl": false,
 "downloads": 1919,
@@ -8355,6 +12394,60 @@
 "pinned": true,
 "sha": "a89a6d383f64d686dd08f5438a706ef48fe44540",
 "snapshot": "2026-11-14T03:54:01Z",
+"status": 200
+},
+"jakeatx/Qwen3.8-27B-ATX-IQ4_XS-M-GGUF": {
+"abl": false,
+"downloads": 3653,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "a130d4150b29f5f202b650a10b82f9d4e9649095",
+"snapshot": "2026-11-15T02:30:45Z",
+"status": 200
+},
+"jaredpalmer/kev-27b": {
+"abl": false,
+"downloads": 3242,
+"family": "Other",
+"pinned": true,
+"sha": "af0e6d551bdc2cc724f3e9d7a8bee1cd4fb8f7bf",
+"snapshot": "2026-11-15T02:30:48Z",
+"status": 200
+},
+"jarrodwatts/Qwen3.8-27B-Astra-Stop": {
+"abl": false,
+"downloads": 0,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "27c08370eb1d95c90229345915c44b068785dc41",
+"snapshot": "2026-11-15T02:30:48Z",
+"status": 200
+},
+"jatinmehra/smolLM-fined-tuned-for-PLAGAIRISM_Detection": {
+"abl": false,
+"downloads": 57,
+"family": "SmolLM",
+"pinned": true,
+"sha": "fb131a335c7fa8ddb28057de62b0ffe6abbba38d",
+"snapshot": "2026-11-15T02:30:50Z",
+"status": 200
+},
+"jayleaton/DeepSeek-V4.1-Flash-1017-EXL3-2.8bpw": {
+"abl": false,
+"downloads": 1600,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "859396591c340195526aaf61f94b4ad5323a5e18",
+"snapshot": "2026-11-15T02:30:51Z",
+"status": 200
+},
+"jc-builds/SmolLM2-135M-Instruct-Q4_K_M-GGUF": {
+"abl": false,
+"downloads": 2277,
+"family": "SmolLM",
+"pinned": true,
+"sha": "62aa73156aea1ea66d752916ad281b9e344115b3",
+"snapshot": "2026-11-15T02:30:50Z",
 "status": 200
 },
 "jcbtc/Qwen3.8-Flash-CIRU-STRIX-IU4": {
@@ -8375,6 +12468,33 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"jenerallee78/Qwen3.8-27B-hf2q-Q4_K_M": {
+"abl": false,
+"downloads": 0,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "840dc4196706714939679630d137b04fb33c0c9f",
+"snapshot": "2026-11-15T02:30:52Z",
+"status": 200
+},
+"jhone888/Ornith-1.5-35B-A3B-FULL-OBLITERATED-NVFP4": {
+"abl": true,
+"downloads": 129,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "cd19fc78bfbb4b1676d8c6a89dc198eeb8b05517",
+"snapshot": "2026-11-15T02:30:56Z",
+"status": 200
+},
+"jhone888/Ornith-1.5-35B-A3B-FULLY-OBLITERATED": {
+"abl": true,
+"downloads": 105,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "45eec8c301ce35f826651031360355be431dc244",
+"snapshot": "2026-11-15T02:30:56Z",
+"status": 200
+},
 "jimmy31chen/RVN-Qwen3.8-Flash-Next-Abliterated-Uncensored-IQ3_S-Strata": {
 "abl": true,
 "downloads": 375085,
@@ -8386,6 +12506,33 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"joaosollatori/small-agentic-model-1.5B": {
+"abl": false,
+"downloads": 623,
+"family": "Other",
+"pinned": true,
+"sha": "418c4026dd39ddfdee1b4e8d4a31761032dd6de3",
+"snapshot": "2026-11-15T02:30:57Z",
+"status": 200
+},
+"josefchen/RoboJev-27B": {
+"abl": false,
+"downloads": 365,
+"family": "Other",
+"pinned": true,
+"sha": "e0cf352efa857f97d929f11d60fa89e270484468",
+"snapshot": "2026-11-15T02:31:00Z",
+"status": 200
+},
+"jstarks/Qwen3.8-27B-Weight-Space-Programming": {
+"abl": false,
+"downloads": 151,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "117d6aa0272dc68c606ed6cb502ffeaae4f064b9",
+"snapshot": "2026-11-15T02:31:01Z",
+"status": 200
+},
 "jukofyork/Qwen3-Coder-Instruct-DRAFT-0.75B-GGUF": {
 "abl": false,
 "downloads": 254,
@@ -8393,6 +12540,147 @@
 "pinned": true,
 "sha": "07e59a562b865181360f93ca2087ceaa097dc949",
 "snapshot": "2026-11-13T09:38:50Z",
+"status": 200
+},
+"junafinity/Ornith-1.5-9B-uncensored": {
+"abl": true,
+"downloads": 1220,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "4d910f531ffce93800147003a4fd8b1b3432dd26",
+"snapshot": "2026-11-15T02:31:01Z",
+"status": 200
+},
+"kaist-ai/mistral-orpo-capybara-7k": {
+"abl": false,
+"downloads": 8776,
+"family": "Mistral",
+"pinned": true,
+"sha": "24c1172060658a1923c9b454796857e2cc59fbeb",
+"snapshot": "2026-11-15T02:31:04Z",
+"status": 200
+},
+"kaitchup/Qwen3.8-27B-SLQ-EAR98": {
+"abl": false,
+"downloads": 1222,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "4dc0e59fe76f2cfb01a52565072f139b45908709",
+"snapshot": "2026-11-15T02:31:04Z",
+"status": 200
+},
+"kaitchup/Qwen3.8-27B-SLQ-EAR98.5": {
+"abl": false,
+"downloads": 448,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "8a09faa8266935000b43281edf6fc6d70b0a19cd",
+"snapshot": "2026-11-15T02:31:05Z",
+"status": 200
+},
+"kaitchup/Qwen3.8-27B-SLQ-EAR99": {
+"abl": false,
+"downloads": 903,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "838a8bee8c4a00be5d9b35db900a7261f1507e00",
+"snapshot": "2026-11-15T02:31:08Z",
+"status": 200
+},
+"kaitchup/Qwen3.8-27B-SLQ-GGUF": {
+"abl": false,
+"downloads": 13531,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "8528ce42479c946842d7b5868dfb592fb7d4a52b",
+"snapshot": "2026-11-15T02:31:07Z",
+"status": 200
+},
+"kaivoss/Ornith-1.5-122B-DFlash2-GGUF": {
+"abl": false,
+"downloads": 5820,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "d8a9bcba85eedb76c1ee97bde2057fda631b6f65",
+"snapshot": "2026-11-15T02:31:08Z",
+"status": 200
+},
+"karmx/Qwen3.8-27B-OBLITERATED-Mixed-128K-GGUF": {
+"abl": true,
+"family": "Qwen3.8",
+"pinned": true,
+"status": 401
+},
+"kaushikvira/DeepSeek-V4.1-Flash-1017-GSQ-agentic-strata": {
+"abl": false,
+"downloads": 22679,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "7aa29158172112fcdccb4c519eb31fdc4bb9238c",
+"snapshot": "2026-11-15T02:31:10Z",
+"status": 200
+},
+"kcplummer/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 226,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "83ab74bc90e5bad6bc4d2c0ad4deec476bc1d475",
+"snapshot": "2026-11-15T02:31:12Z",
+"status": 200
+},
+"keXjos/Qwen3.8-27B-mlx-2Bit": {
+"abl": false,
+"downloads": 936,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "39d5487ad4442961b64098e15aa11ce05e6f9976",
+"snapshot": "2026-11-15T02:31:11Z",
+"status": 200
+},
+"kyaky/Qwen3.8-27B-NVFP4": {
+"abl": false,
+"downloads": 153,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "6de592a7a4a5618b87c952ab92928ee1755bd9c6",
+"snapshot": "2026-11-15T02:31:14Z",
+"status": 200
+},
+"laladream/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 496,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "ca23ac78c2fcdc60b35f10002372c0159903ace5",
+"snapshot": "2026-11-15T02:31:16Z",
+"status": 200
+},
+"lapadatbogdan/GLM-5.3-Flash-Coder-RCO-152E-GGUF": {
+"abl": false,
+"downloads": 25004,
+"family": "GLM",
+"pinned": true,
+"sha": "22b67db7dc99aa82e45e32042f933181067bb6cf",
+"snapshot": "2026-11-15T02:31:15Z",
+"status": 200
+},
+"larped/SmolLM2-1.7B-Instruct-obliteratus": {
+"abl": true,
+"downloads": 34,
+"family": "SmolLM",
+"pinned": true,
+"sha": "fb10971c1e9e3ca1b142fdb8fb2d5d85b0cba3f9",
+"snapshot": "2026-11-15T02:31:17Z",
+"status": 200
+},
+"latentport/LPCompact": {
+"abl": false,
+"downloads": 37,
+"family": "Other",
+"pinned": true,
+"sha": "51bfd47dfc3d809b189e29a12baaf39352acbee2",
+"snapshot": "2026-11-15T02:31:18Z",
 "status": 200
 },
 "lavendercomputing/Ornith-1.5-35B-A3B-Heretic-MTP-APEX-GSQ-RCO-GGUF": {
@@ -8406,6 +12694,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"legatos/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 139,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "eb8b615e9d23720d4518402aec1938e87980f54a",
+"snapshot": "2026-11-15T02:31:20Z",
+"status": 200
+},
 "lenalibon/Meta-Llama-3-8B-Instruct-heretic-mlabonne": {
 "abl": true,
 "downloads": 44042,
@@ -8416,6 +12713,51 @@
 "snapshot": "2026-11-13T14:07:27Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"lightonai/colgrep-agent-2B": {
+"abl": false,
+"downloads": 1111,
+"family": "Other",
+"pinned": true,
+"sha": "f798a61129c6decb5166864e0a3c98373e62c764",
+"snapshot": "2026-11-15T02:31:22Z",
+"status": 200
+},
+"lightonai/colgrep-agent-2B-GGUF": {
+"abl": false,
+"downloads": 3831,
+"family": "Other",
+"pinned": true,
+"sha": "c2e69958d03af9188af9ebf89582f8887f0bf534",
+"snapshot": "2026-11-15T02:31:22Z",
+"status": 200
+},
+"lilmeaty/SmolLM2-135M-Instruct-GPTQ": {
+"abl": false,
+"downloads": 11353,
+"family": "SmolLM",
+"pinned": true,
+"sha": "ea3fa0894bdd70a7e530e43aafc16630fe67319a",
+"snapshot": "2026-11-15T02:31:26Z",
+"status": 200
+},
+"litert-community/SmolLM2-135M-Instruct": {
+"abl": false,
+"downloads": 3056,
+"family": "SmolLM",
+"pinned": true,
+"sha": "f7e76881373410af03873a1d92e939495ba98f7b",
+"snapshot": "2026-11-15T02:31:25Z",
+"status": 200
+},
+"litert-community/SmolLM2-360M-Instruct": {
+"abl": false,
+"downloads": 8226,
+"family": "SmolLM",
+"pinned": true,
+"sha": "327625a06971d1333da38549f7680e30ced80a6e",
+"snapshot": "2026-11-15T02:31:25Z",
+"status": 200
 },
 "llmfan46/MiniMax-M2.7-ultra-uncensored-heretic-GGUF": {
 "abl": true,
@@ -8582,6 +12924,132 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"lmstudio-community/Mistral-7B-Instruct-v0.3-GGUF": {
+"abl": false,
+"downloads": 12809,
+"family": "Mistral",
+"pinned": true,
+"sha": "29a785419661afc70b5cd91b5023a835b0092281",
+"snapshot": "2026-11-15T02:31:29Z",
+"status": 200
+},
+"lmstudio-community/Qwen3.8-27B-GGUF": {
+"abl": false,
+"downloads": 1052512,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "5a7da681f60570ab5b439a587e912d2e5eddb582",
+"snapshot": "2026-11-15T02:31:29Z",
+"status": 200
+},
+"lmstudio-community/Qwen3.8-27B-MLX-4bit": {
+"abl": false,
+"downloads": 2795596,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "6067b15cf581666a4aecf6af3afaba4bb5efc20c",
+"snapshot": "2026-11-15T02:31:30Z",
+"status": 200
+},
+"lmstudio-community/Qwen3.8-27B-MLX-5bit": {
+"abl": false,
+"downloads": 2614021,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b9ad7b92aa2fd07b041f4b8b3aa459941f8abbf7",
+"snapshot": "2026-11-15T02:31:33Z",
+"status": 200
+},
+"lmstudio-community/Qwen3.8-27B-MLX-6bit": {
+"abl": false,
+"downloads": 2617200,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "05f38c1f39e2f39619653616fe8e96a5d676358e",
+"snapshot": "2026-11-15T02:31:35Z",
+"status": 200
+},
+"lmstudio-community/Qwen3.8-27B-MLX-8bit": {
+"abl": false,
+"downloads": 2639969,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "241ebb5f1d60b122fd653da658836a55feb9e2b0",
+"snapshot": "2026-11-15T02:31:36Z",
+"status": 200
+},
+"lmstudio-community/SmolLM2-1.7B-Instruct-GGUF": {
+"abl": false,
+"downloads": 6339,
+"family": "SmolLM",
+"pinned": true,
+"sha": "e54b91ee756cb2d5fd8615757239acc89f88c7e0",
+"snapshot": "2026-11-15T02:31:37Z",
+"status": 200
+},
+"lmstudio-community/SmolLM2-135M-Instruct-GGUF": {
+"abl": false,
+"downloads": 4319,
+"family": "SmolLM",
+"pinned": true,
+"sha": "04f7f8a05a8e4bc208e88d11e8c9122be36c2f9b",
+"snapshot": "2026-11-15T02:31:39Z",
+"status": 200
+},
+"lmstudio-community/gpt-oss-20b-GGUF": {
+"abl": false,
+"downloads": 115711,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "21f8a86825e36be34d24601e6d5ab45e2d366f4b",
+"snapshot": "2026-11-15T02:31:39Z",
+"status": 200
+},
+"local-inference-lab/GLM-5.3-Flash-NVFP4": {
+"abl": false,
+"downloads": 1930,
+"family": "GLM",
+"pinned": true,
+"sha": "175ae8ce3b5af842b0d0140dbeb43e9cfc557c49",
+"snapshot": "2026-11-15T02:31:40Z",
+"status": 200
+},
+"lribeiro/Qwen3.8-27B-FP8-Pessoa": {
+"abl": false,
+"downloads": 458,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "92d3b9c58baebc6bec085860c4030bda42ce3669",
+"snapshot": "2026-11-15T02:31:41Z",
+"status": 200
+},
+"lued/Qwen3.8-27B-DFlash2-W8": {
+"abl": false,
+"downloads": 392,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f454fa8e6a84387bf006f849584f72541cc29118",
+"snapshot": "2026-11-15T02:31:43Z",
+"status": 200
+},
+"lukaskremla/Qwen3.8-27B-2bit-MLX-TextOnly": {
+"abl": false,
+"downloads": 640,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "49217e7be1f217014b94bf391486b3b71de09d7c",
+"snapshot": "2026-11-15T02:31:43Z",
+"status": 200
+},
+"lukaskremla/Qwen3.8-27B-3bit-MLX-TextOnly": {
+"abl": false,
+"downloads": 2411,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "dc755c911a7716a1db15cd8df8bab46a9dcfffdc",
+"snapshot": "2026-11-15T02:31:45Z",
+"status": 200
+},
 "lukey03/Qwen3.5-9B-abliterated-GGUF": {
 "abl": true,
 "downloads": 141456,
@@ -8593,6 +13061,42 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"lxe/DeepSeek-V4.1-Flash-1017-dsx-2bit": {
+"abl": false,
+"downloads": 9323,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "fa1ab69150f250b2df787d50f1b032dce979350a",
+"snapshot": "2026-11-15T02:31:46Z",
+"status": 200
+},
+"magnitudedev/MiniCPM5-2B-DSpark-GGUF": {
+"abl": false,
+"downloads": 4322,
+"family": "Other",
+"pinned": true,
+"sha": "fbc306afa97f19283820af3089f9306f7b2051cb",
+"snapshot": "2026-11-15T02:31:47Z",
+"status": 200
+},
+"manasdutta04/kudu-writer-tiny": {
+"abl": false,
+"downloads": 162,
+"family": "Other",
+"pinned": true,
+"sha": "0a45ae280eb00f7cdb57647885a8eaef3acaecd1",
+"snapshot": "2026-11-15T02:31:47Z",
+"status": 200
+},
+"marcorez8/GLM-5.3-Flash-Abliterated-Heretic-V2-UD-IQ4_XS": {
+"abl": true,
+"downloads": 1173,
+"family": "GLM",
+"pinned": true,
+"sha": "fa7f285225cb71e40915cb25ba8a3555fddb1bf0",
+"snapshot": "2026-11-15T02:31:50Z",
+"status": 200
+},
 "maritaca-ai/S5-nano-GGUF": {
 "abl": false,
 "downloads": 4080,
@@ -8600,6 +13104,69 @@
 "pinned": true,
 "sha": "892d3b6ce018802d74fed1650e712e5fcd5a42b5",
 "snapshot": "2026-11-14T03:53:55Z",
+"status": 200
+},
+"mars2titan/darkpane-v2": {
+"abl": true,
+"downloads": 26,
+"family": "Other",
+"pinned": true,
+"sha": "ec3924e30a11d0ff75dafc7d4946c34aee296b6e",
+"snapshot": "2026-11-15T02:31:51Z",
+"status": 200
+},
+"maurienne-ai/Qwen3.8-27B-DFlash2-NVFP4-RTNcal": {
+"abl": false,
+"downloads": 9445,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "bd7a934213c47a9e7ef69eef36bb3325f47fd1f1",
+"snapshot": "2026-11-15T02:31:51Z",
+"status": 200
+},
+"mcpware/intentprobe-minicpm5-1b-authorization": {
+"abl": false,
+"downloads": 37,
+"family": "Other",
+"pinned": true,
+"sha": "4f5f9cc1a60280238c1830c5ee0dfba459595417",
+"snapshot": "2026-11-15T02:31:53Z",
+"status": 200
+},
+"medismera/Qwen3.8-cyber-RedTeam-Surgical-Abliterated": {
+"abl": true,
+"downloads": 2648,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "3c0dcfc1c4958376f591d82b434dca70735eb0e6",
+"snapshot": "2026-11-15T02:31:59Z",
+"status": 200
+},
+"mertkayacs/Tholos-2B": {
+"abl": false,
+"downloads": 603,
+"family": "Other",
+"pinned": true,
+"sha": "67a55e438302ebf5bda116543b660c05ed78efca",
+"snapshot": "2026-11-15T02:31:55Z",
+"status": 200
+},
+"meshllm/GLM-5.3-Flash-UD-Q4_K_XL-layers": {
+"abl": false,
+"downloads": 5761,
+"family": "GLM",
+"pinned": true,
+"sha": "d1b3be770eacf2cfef13e62866fefc2f3917616f",
+"snapshot": "2026-11-15T02:31:56Z",
+"status": 200
+},
+"meshllm/Ornith-1.5-35B-Q4_K_M-layers": {
+"abl": false,
+"downloads": 1019,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "7048d10d0d91196d42d344674786a0f370d63ceb",
+"snapshot": "2026-11-15T02:31:59Z",
 "status": 200
 },
 "meta-models/Muse-Glimmer-30B": {
@@ -8664,6 +13231,150 @@
 "status": "gated",
 "via": "author:meta-models"
 },
+"metoonhathung/music-generation": {
+"abl": false,
+"downloads": 377,
+"family": "Other",
+"pinned": true,
+"sha": "e0a6781132a8351ea9cca52b56953d5c199c6a40",
+"snapshot": "2026-11-15T02:32:00Z",
+"status": 200
+},
+"microsoft/MediPhi": {
+"abl": false,
+"downloads": 2174,
+"family": "Other",
+"pinned": true,
+"sha": "0c60932ab04fb28cfdd32f4dc220c23d19e18e18",
+"snapshot": "2026-11-15T02:32:02Z",
+"status": 200
+},
+"microsoft/MediPhi-Clinical": {
+"abl": false,
+"downloads": 1936,
+"family": "Other",
+"pinned": true,
+"sha": "ca7c1d684acc4ec9c9684b7e51ddab56e43d8fe6",
+"snapshot": "2026-11-15T02:32:02Z",
+"status": 200
+},
+"microsoft/MediPhi-Guidelines": {
+"abl": false,
+"downloads": 752,
+"family": "Other",
+"pinned": true,
+"sha": "4b8253b30c575219c11f035a33c876ffea54621a",
+"snapshot": "2026-11-15T02:32:05Z",
+"status": 200
+},
+"microsoft/MediPhi-Instruct": {
+"abl": false,
+"downloads": 2489,
+"family": "Other",
+"pinned": true,
+"sha": "8a52461577949784b8c447d557fa6b98a7d272df",
+"snapshot": "2026-11-15T02:32:05Z",
+"status": 200
+},
+"microsoft/MediPhi-MedWiki": {
+"abl": false,
+"downloads": 319,
+"family": "Other",
+"pinned": true,
+"sha": "443ca866ff871a46e894bbc6f3f7ec2c76ce3ac5",
+"snapshot": "2026-11-15T02:32:06Z",
+"status": 200
+},
+"microsoft/MediPhi-PubMed": {
+"abl": false,
+"downloads": 2246,
+"family": "Other",
+"pinned": true,
+"sha": "c8e5a3a66dc80977deaff89bb8a85a5c72907773",
+"snapshot": "2026-11-15T02:32:09Z",
+"status": 200
+},
+"microsoft/OptiMind-SFT": {
+"abl": false,
+"downloads": 639,
+"family": "Other",
+"pinned": true,
+"sha": "817e06666a39155f9352d00354b3227d230da46d",
+"snapshot": "2026-11-15T02:32:09Z",
+"status": 200
+},
+"microsoft/Sentiment-Analysis-7B": {
+"abl": false,
+"downloads": 2973,
+"family": "Other",
+"pinned": true,
+"sha": "ac3324057c2bfeeb2ab56c7a7c786316538552b1",
+"snapshot": "2026-11-15T02:32:11Z",
+"status": 200
+},
+"microsoft/falcon-7B-onnx": {
+"abl": false,
+"downloads": 0,
+"family": "Other",
+"pinned": true,
+"sha": "58177f7c04797e471fc1ee70f69943ab6f054de4",
+"snapshot": "2026-11-15T02:32:13Z",
+"status": 200
+},
+"migtissera/Synthia-4-27B": {
+"abl": false,
+"downloads": 68,
+"family": "Other",
+"pinned": true,
+"sha": "07bae579afa4fa43fd3e94fa07cc80860d3fb4b2",
+"snapshot": "2026-11-15T02:32:15Z",
+"status": 200
+},
+"migtissera/Tess-4.5-27B": {
+"abl": false,
+"downloads": 1011,
+"family": "Other",
+"pinned": true,
+"sha": "91b231133470bd147aac8036ed94d35e9bf1dc13",
+"snapshot": "2026-11-15T02:32:14Z",
+"status": 200
+},
+"minte1431/Ornith-1.5-9B-OBLITERATED": {
+"abl": true,
+"downloads": 420,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "c1621b224412ec83967306f4a898337c93837ea3",
+"snapshot": "2026-11-15T02:32:17Z",
+"status": 200
+},
+"minte1431/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 1082,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "1de8161862c16b518b1cf1f0044e5f8e29bbc3c5",
+"snapshot": "2026-11-15T02:32:19Z",
+"status": 200
+},
+"mistralai/Mistral-7B-Instruct-v0.1": {
+"abl": false,
+"downloads": 105660,
+"family": "Mistral",
+"pinned": true,
+"sha": "ec5deb64f2c6e6fa90c1abf74a91d5c93a9669ca",
+"snapshot": "2026-11-15T02:32:18Z",
+"status": 200
+},
+"mistralai/Mistral-7B-Instruct-v0.3": {
+"abl": false,
+"downloads": 1800612,
+"family": "Mistral",
+"pinned": true,
+"sha": "c170c708c41dac9275d15a8fff4eca08d52bab71",
+"snapshot": "2026-11-15T02:32:22Z",
+"status": 200
+},
 "mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated-GGUF": {
 "abl": true,
 "downloads": 41211,
@@ -8686,6 +13397,105 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"mlboydaisuke/MiniCPM5-2B-CoreAI": {
+"abl": false,
+"downloads": 108,
+"family": "Other",
+"pinned": true,
+"sha": "b9ae01ec80c32ab32491c4707dcd9ab17184b05e",
+"snapshot": "2026-11-15T02:32:22Z",
+"status": 200
+},
+"mlx-community/DeepSeek-V4.1-Flash-1017-oQ2.5e-mtp": {
+"abl": false,
+"downloads": 4298,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "78456115d301eecf9fadcdcc81c0cf6f8b2c8eab",
+"snapshot": "2026-11-15T02:32:23Z",
+"status": 200
+},
+"mlx-community/DeepSeek-V4.1-Flash-1017-oQ4e-mtp": {
+"abl": false,
+"downloads": 9132,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "8080db68c4d9323ad69e0e8c2496b0d673a336bc",
+"snapshot": "2026-11-15T02:32:25Z",
+"status": 200
+},
+"mlx-community/DeepSeek-V4.1-Flash-1017-oQ4e-ngram-mtp": {
+"abl": false,
+"downloads": 3400,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "d8b79a7874506c7738f79958219204a485e99ac7",
+"snapshot": "2026-11-15T02:32:27Z",
+"status": 200
+},
+"mlx-community/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-OptiQ-4bit": {
+"abl": false,
+"downloads": 1296,
+"family": "Other",
+"pinned": true,
+"sha": "cbb5f413f7591a8eeea05fd2943b7b814950b2f8",
+"snapshot": "2026-11-15T02:32:30Z",
+"status": 200
+},
+"mlx-community/MiniCPM5-1B-OptiQ-4bit": {
+"abl": false,
+"downloads": 1483,
+"family": "Other",
+"pinned": true,
+"sha": "935dd26f1ce9f3596d7ecd04014a704592b70dcc",
+"snapshot": "2026-11-15T02:32:29Z",
+"status": 200
+},
+"mlx-community/MiniCPM5-1B-mlx-6Bit": {
+"abl": false,
+"downloads": 1301,
+"family": "Other",
+"pinned": true,
+"sha": "f4ff69f73671ae207dcebc1b05f17e332be5bc6d",
+"snapshot": "2026-11-15T02:32:31Z",
+"status": 200
+},
+"mlx-community/MiniCPM5-2B-8bit": {
+"abl": false,
+"downloads": 1709,
+"family": "Other",
+"pinned": true,
+"sha": "2d20e8e672ce892d50f7265bfd3fc9b59b718f2a",
+"snapshot": "2026-11-15T02:32:35Z",
+"status": 200
+},
+"mlx-community/MiniCPM5-2B-mlx-4Bit": {
+"abl": false,
+"downloads": 4969,
+"family": "Other",
+"pinned": true,
+"sha": "86ad5182c5a8532a4681ab972011d34c3b89477a",
+"snapshot": "2026-11-15T02:32:34Z",
+"status": 200
+},
+"mlx-community/Qwen3.8-27B-4bit": {
+"abl": false,
+"downloads": 100530,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b935172e4bb5dcd0543774a34748fb92422e3027",
+"snapshot": "2026-11-15T02:32:35Z",
+"status": 200
+},
+"mlx-community/Qwen3.8-27B-MTP-4bit": {
+"abl": false,
+"downloads": 7268,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "745ac04da2f19acd24e1f23b88385e3aade93129",
+"snapshot": "2026-11-15T02:32:37Z",
+"status": 200
+},
 "mlx-community/Qwen3.8-27B-OBLITERATED-OptiQ-4bit": {
 "abl": true,
 "downloads": 2447,
@@ -8697,6 +13507,42 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"mlx-community/Qwen3.8-27B-mxfp4": {
+"abl": false,
+"downloads": 2569,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "bbdfd10ffe011ed8df7552800ba48b7b2a0b5728",
+"snapshot": "2026-11-15T02:32:42Z",
+"status": 200
+},
+"mlx-community/SmolVLM2-500M-Video-Instruct-mlx": {
+"abl": false,
+"downloads": 5100,
+"family": "SmolLM",
+"pinned": true,
+"sha": "fa57db46815177fbdfd65cc85a2b3416a8332268",
+"snapshot": "2026-11-15T02:32:39Z",
+"status": 200
+},
+"mlx-community/clef-4bit": {
+"abl": false,
+"downloads": 674,
+"family": "Other",
+"pinned": true,
+"sha": "b973b6f405d02f8e9b83208c7e82ddf43a742eb6",
+"snapshot": "2026-11-15T02:32:45Z",
+"status": 200
+},
+"mlx-community/clef-8bit": {
+"abl": false,
+"downloads": 533,
+"family": "Other",
+"pinned": true,
+"sha": "1c8887c20827d91cb1b0c6f186e24f5bc5b0e0ce",
+"snapshot": "2026-11-15T02:32:43Z",
+"status": 200
+},
 "mlx-community/gemma-4-E4B-it-OBLITERATED-mlx-8Bit": {
 "abl": true,
 "downloads": 3864,
@@ -8707,6 +13553,63 @@
 "snapshot": "2026-11-13T14:05:16Z",
 "status": 200,
 "via": "search:obliterated top:60"
+},
+"mlx-community/gpt-oss-20b-MXFP4-Q8": {
+"abl": false,
+"downloads": 175215,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "773a7da77e569019bb0fd17a554b263738d669a3",
+"snapshot": "2026-11-15T02:32:45Z",
+"status": 200
+},
+"mlx-community/humanizer-1B-OptiQ-4bit": {
+"abl": false,
+"downloads": 896,
+"family": "Other",
+"pinned": true,
+"sha": "8df1a5f5572407ff777481dc5096f9698bc463b9",
+"snapshot": "2026-11-15T02:32:47Z",
+"status": 200
+},
+"mmiiguell10/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"family": "Qwen3.8",
+"pinned": true,
+"status": 401
+},
+"mmiiguell10/Qwen3.8-27B-OBLITERATED-archive": {
+"abl": true,
+"family": "Qwen3.8",
+"pinned": true,
+"status": 401
+},
+"mmiiguell10/Qwen3.8-27B-uncensored-mirror": {
+"abl": true,
+"downloads": 346,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "c4804dc6218dff6ecfedc03e3ced502a222f1143",
+"snapshot": "2026-11-15T02:32:48Z",
+"status": 200
+},
+"modal-labs/GLM-5.3-Flash-DFlash": {
+"abl": false,
+"downloads": 1830,
+"family": "GLM",
+"pinned": true,
+"sha": "dae6d319510889a7f1ac5242d5b7fb2d5d95eb05",
+"snapshot": "2026-11-15T02:32:49Z",
+"status": 200
+},
+"mondk/MiniCPM5-1B-MSH-SFT-SAFETENSORS": {
+"abl": false,
+"downloads": 352,
+"family": "Other",
+"pinned": true,
+"sha": "e7569bc88e9713a64ea86b4f8954d61b29e4ea58",
+"snapshot": "2026-11-15T02:32:50Z",
+"status": 200
 },
 "mradermacher/Artemis-31B-v1.2-heretic-i1-GGUF": {
 "abl": true,
@@ -8829,6 +13732,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"mradermacher/GLM-5.3-Flash-i1-GGUF": {
+"abl": false,
+"downloads": 476,
+"family": "GLM",
+"pinned": true,
+"sha": "31e28a204d89facda4ba125cc49c72b740cc0ac2",
+"snapshot": "2026-11-15T02:32:51Z",
+"status": 200
+},
 "mradermacher/Gemma-4-12B-OBLITERATED-GGUF": {
 "abl": true,
 "downloads": 5154,
@@ -8894,6 +13806,15 @@
 "snapshot": "2026-11-13T14:02:38Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"mradermacher/Huihui-Ornith-1.5-9B-abliterated-GGUF": {
+"abl": true,
+"downloads": 7921,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "ea07de5ddbf7bac67aee9db5d525e9ea830e9e0d",
+"snapshot": "2026-11-15T02:32:52Z",
+"status": 200
 },
 "mradermacher/Huihui-Qwen3-14B-abliterated-v2-GGUF": {
 "abl": true,
@@ -9214,6 +14135,15 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"mradermacher/KrynexAI-1.4-150M-Mobile-Model-GGUF": {
+"abl": false,
+"downloads": 639,
+"family": "Other",
+"pinned": true,
+"sha": "63a96d30057ee19e4ece1eabf80e7407f24f9114",
+"snapshot": "2026-11-15T02:32:55Z",
+"status": 200
+},
 "mradermacher/LING-3.0-FLASH-ABLITERATED-GGUF": {
 "abl": true,
 "downloads": 54423,
@@ -9247,6 +14177,24 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"mradermacher/Mistral-7B-Instruct-v0.2-abliterated-obliteratus-GGUF": {
+"abl": true,
+"downloads": 422,
+"family": "Mistral",
+"pinned": true,
+"sha": "88912066ecb9b8b99ae6430c67d8262f0f441f97",
+"snapshot": "2026-11-15T02:32:53Z",
+"status": 200
+},
+"mradermacher/Mistral-7B-Instruct-v0.2-abliterated-obliteratus-i1-GGUF": {
+"abl": true,
+"downloads": 1012,
+"family": "Mistral",
+"pinned": true,
+"sha": "fd88118d59d95aac5507129f47ee4847a11cff77",
+"snapshot": "2026-11-15T02:32:56Z",
+"status": 200
+},
 "mradermacher/Mistral-Nemo-2407-12B-Thinking-Claude-Gemini-GPT5.2-Uncensored-HERETIC-GGUF": {
 "abl": true,
 "downloads": 17839,
@@ -9269,6 +14217,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"mradermacher/OpenAI-gpt-oss-20B-Claude-4.5-Opus-Heretic-Uncensored-i1-GGUF": {
+"abl": true,
+"downloads": 12772,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "5e05474fc94f0aa6870f33e813f9e825f5bd75e4",
+"snapshot": "2026-11-15T02:32:56Z",
+"status": 200
+},
 "mradermacher/Ornith-1.5-35B-A3B-FULLY-OBLITERATED-GGUF": {
 "abl": true,
 "downloads": 1851,
@@ -9290,6 +14247,15 @@
 "snapshot": "2026-11-13T14:06:15Z",
 "status": 200,
 "via": "search:obliterated top:60"
+},
+"mradermacher/Ornith-1.5-35B-A3B-i1-GGUF": {
+"abl": false,
+"downloads": 1131,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "ba20fb3beb9903ef6757f3a91f0677d8553c01cd",
+"snapshot": "2026-11-15T02:32:59Z",
+"status": 200
 },
 "mradermacher/Ornith-1.5-9B-OBLITERATED-GGUF": {
 "abl": true,
@@ -9323,6 +14289,24 @@
 "snapshot": "2026-11-13T14:08:56Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"mradermacher/Ornith1.5-9B-3MPER0RR-obliterated-GGUF": {
+"abl": true,
+"downloads": 681,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "450992eb1d6e339a85c19f6eb4f44596dda003d2",
+"snapshot": "2026-11-15T02:32:59Z",
+"status": 200
+},
+"mradermacher/Ornith1.5-9B-3MPER0RR-obliterated-i1-GGUF": {
+"abl": true,
+"downloads": 699,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "a7d667a36430180d7e485503c167b092ca4da470",
+"snapshot": "2026-11-15T02:33:00Z",
+"status": 200
 },
 "mradermacher/Qwable-9B-Claude-Fable-5-OBLITERATED-i1-GGUF": {
 "abl": true,
@@ -9707,6 +14691,33 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"mradermacher/Qwen3.8-27B-3MPER0RR-obliterated-GGUF": {
+"abl": true,
+"downloads": 316,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "ecb207b881a65f88f7d9923e2db9005e218cc822",
+"snapshot": "2026-11-15T02:33:05Z",
+"status": 200
+},
+"mradermacher/Qwen3.8-27B-3MPER0RR-obliterated-i1-GGUF": {
+"abl": true,
+"downloads": 690,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b33ce592fa933acdf7d5a2a2ebbc16d792b55b09",
+"snapshot": "2026-11-15T02:33:02Z",
+"status": 200
+},
+"mradermacher/Qwen3.8-27B-Fable-5-Coding-Distilled-GGUF": {
+"abl": false,
+"downloads": 891426,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "e8eeb91df17f4b8c107dbaaf3edeeff9f9bfb928",
+"snapshot": "2026-11-15T02:33:03Z",
+"status": 200
+},
 "mradermacher/Qwen3.8-27B-Heretic-JP-Roleplay-NSFW-DanbooruTags-i1-GGUF": {
 "abl": true,
 "downloads": 17490,
@@ -9806,6 +14817,24 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"mradermacher/Qwen3.8-27B-Obliterated-NOESIS-BF16-i1-GGUF": {
+"abl": true,
+"downloads": 953,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f97d1c91f991e84489d21de0e167fe96f4b0ae40",
+"snapshot": "2026-11-15T02:33:06Z",
+"status": 200
+},
+"mradermacher/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-i1-GGUF": {
+"abl": true,
+"downloads": 965,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "231bd881924c451ad02165662d79deda52a12227",
+"snapshot": "2026-11-15T02:33:08Z",
+"status": 200
+},
 "mradermacher/Qwen3.8-27B-heretic-ara-GGUF": {
 "abl": true,
 "downloads": 49311,
@@ -9882,6 +14911,33 @@
 "snapshot": "2026-11-13T14:04:31Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"mradermacher/SmolLM2-135M-Instruct-GGUF": {
+"abl": false,
+"downloads": 7604,
+"family": "SmolLM",
+"pinned": true,
+"sha": "34d6b157ff9fb55285116fa8524deb0d90a4982e",
+"snapshot": "2026-11-15T02:33:08Z",
+"status": 200
+},
+"mradermacher/SuperQwen3.8-27b-abliterated-GGUF": {
+"abl": true,
+"downloads": 1468,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "7bdec0488973979936872677a91b849fcb06f7d9",
+"snapshot": "2026-11-15T02:33:08Z",
+"status": 200
+},
+"mradermacher/SuperQwen3.8-27b-abliterated-i1-GGUF": {
+"abl": true,
+"downloads": 647,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "cb1cc7d47b1d4a7308a5539492f9bb81ade9ff8e",
+"snapshot": "2026-11-15T02:33:11Z",
+"status": 200
 },
 "mradermacher/ThinkingCap-gemma-4-26B-A4B-it-i1-GGUF": {
 "abl": false,
@@ -10123,6 +15179,42 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"mradermacher/gpt2-GGUF": {
+"abl": false,
+"downloads": 1983,
+"family": "Other",
+"pinned": true,
+"sha": "0cda0c2b1459ccd32256c6ddde9d230934112c1c",
+"snapshot": "2026-11-15T02:33:11Z",
+"status": 200
+},
+"mradermacher/gpt2-i1-GGUF": {
+"abl": false,
+"downloads": 2023,
+"family": "Other",
+"pinned": true,
+"sha": "a8bf14882207e6abed7351e55c1cf5b0130991e0",
+"snapshot": "2026-11-15T02:33:11Z",
+"status": 200
+},
+"mradermacher/gpt2-medium-GGUF": {
+"abl": false,
+"downloads": 1829,
+"family": "Other",
+"pinned": true,
+"sha": "3b9897d67a84e967fbcc8d7de3db4c797e386740",
+"snapshot": "2026-11-15T02:33:13Z",
+"status": 200
+},
+"mradermacher/gpt2-medium-i1-GGUF": {
+"abl": false,
+"downloads": 2209,
+"family": "Other",
+"pinned": true,
+"sha": "c8675557265aa26832ff5847c12ddbee3986950a",
+"snapshot": "2026-11-15T02:33:15Z",
+"status": 200
+},
 "mradermacher/qwen3-0.6b-abliterated-i1-GGUF": {
 "abl": true,
 "downloads": 44779,
@@ -10133,6 +15225,15 @@
 "snapshot": "2026-11-13T14:01:40Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"mrfakename/DeepSeek-V4.1-Flash-1017-GGUF": {
+"abl": false,
+"downloads": 44846,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "1df54e7d1b1e442051ad393ce871870a929f243e",
+"snapshot": "2026-11-15T02:33:14Z",
+"status": 200
 },
 "mrfakename/DeepSeek-V4.1-Flash-1017-abliterated": {
 "abl": true,
@@ -10156,6 +15257,40 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"mrfaqerzada/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 152,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "cf555656eeb0a03b09c961cdae49a1fdf67f9e9c",
+"snapshot": "2026-11-15T02:33:19Z",
+"status": 200
+},
+"msuiche/DeepSeek-V4.1-Flash-1017-abliterated-cyber-GLP-39-L1-39-a0.75": {
+"abl": true,
+"downloads": 377,
+"family": "DeepSeek V4",
+"pinned": true,
+"status": "gated"
+},
+"mudler/Ornith-1.5-35B-A3B-APEX-GGUF": {
+"abl": false,
+"downloads": 308822,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "0f80fb29e615e72e1361b5db2436ff7980a7043f",
+"snapshot": "2026-11-15T02:33:19Z",
+"status": 200
+},
+"mudler/Ornith-1.5-35B-A3B-APEX-MTP-GGUF": {
+"abl": false,
+"downloads": 446028,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "4c326713c52d13fdb40983a2a09a46cca8e88739",
+"snapshot": "2026-11-15T02:33:17Z",
+"status": 200
+},
 "mudler/Qwen3.6-35B-A3B-uncensored-heretic-APEX-GGUF": {
 "abl": true,
 "downloads": 17599,
@@ -10166,6 +15301,15 @@
 "snapshot": "2026-11-13T14:08:25Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"mudler/Qwen3.8-27B-APEX-GGUF": {
+"abl": false,
+"downloads": 8448,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "98454f31de8ac2e8bc7cd359c526d9db230ca547",
+"snapshot": "2026-11-15T02:33:21Z",
+"status": 200
 },
 "mudler/gemma-4-26B-A4B-it-heretic-APEX-GGUF": {
 "abl": true,
@@ -10178,6 +15322,105 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"mukaddamzaid/amos-1-large": {
+"abl": false,
+"downloads": 707,
+"family": "Other",
+"pinned": true,
+"sha": "7c9a7d597bdb7c980776711e7d7699f02dc21c10",
+"snapshot": "2026-11-15T02:33:22Z",
+"status": 200
+},
+"mxxm-t/DeepSeek-V4.1-Flash-GGUF": {
+"abl": false,
+"downloads": 1056,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "0c786e8a4e91e5a58cf29fb439e34991cabb8910",
+"snapshot": "2026-11-15T02:33:22Z",
+"status": 200
+},
+"na0x2c6/Ornith-1.5-35B-A3B-DFlash-GGUF": {
+"abl": false,
+"downloads": 1856,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "3427ea426d150d03c633b0d25b8a0626453b3f2f",
+"snapshot": "2026-11-15T02:33:25Z",
+"status": 200
+},
+"naklitechie/Qwen3.8-27B-DFlash2-ternary-bonsai2": {
+"abl": false,
+"downloads": 5513,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "0059b38aa255698b1a87305eb3fbb5a3cfd616e2",
+"snapshot": "2026-11-15T02:33:25Z",
+"status": 200
+},
+"nasmtrcs/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 200,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "4af183b28e5d5eed84f06ec12b54384268e108cb",
+"snapshot": "2026-11-15T02:33:26Z",
+"status": 200
+},
+"nassimjp/MiniCPM5-2B-Pashto": {
+"abl": false,
+"downloads": 171,
+"family": "Other",
+"pinned": true,
+"sha": "3e23f00ea368b3cbbcf6f3a9490e349e7a3183c4",
+"snapshot": "2026-11-15T02:33:28Z",
+"status": 200
+},
+"nazeshinjite/DeepSeek-V4.1-Flash-1017-ds4-GGUF": {
+"abl": false,
+"downloads": 128197,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "197848f09007def027a9999fc40ca6a2cefe1baa",
+"snapshot": "2026-11-15T02:33:28Z",
+"status": 200
+},
+"nazeshinjite/Qwen3.8-Flash-Next-DFlash2-GGUF": {
+"abl": false,
+"downloads": 4047,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "cbe1b23f1466458b9d839f6cbaef7d3b52d8cc9b",
+"snapshot": "2026-11-15T02:33:29Z",
+"status": 200
+},
+"nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-GGUF-NInfer": {
+"abl": true,
+"downloads": 110589,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "635a4b3d48fd634850d41ade45b4578ad9211e47",
+"snapshot": "2026-11-15T02:33:31Z",
+"status": 200
+},
+"nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2": {
+"abl": true,
+"downloads": 907223,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "44b13a82d39e63d1c039eece3826e90e2f28eefa",
+"snapshot": "2026-11-15T02:33:31Z",
+"status": 200
+},
+"nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2": {
+"abl": true,
+"downloads": 15211,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "882e1af3b8f5844f3b3163b132e343c06e91908f",
+"snapshot": "2026-11-15T02:33:33Z",
+"status": 200
+},
 "nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2-GGUF": {
 "abl": true,
 "downloads": 49584,
@@ -10189,6 +15432,51 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"neroued/Qwen3.8-27B-NInfer": {
+"abl": false,
+"downloads": 77178,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "337b691c109e60d67dc6213902d19d27d10acff9",
+"snapshot": "2026-11-15T02:33:33Z",
+"status": 200
+},
+"neroued/Qwen3.8-27B-nvfp4-NInfer": {
+"abl": false,
+"downloads": 55549,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "2d8d5ac9d0ef7bb94905f6dd5b2a7827be1e64de",
+"snapshot": "2026-11-15T02:33:35Z",
+"status": 200
+},
+"neuchatelquants/GLM-5.3-Flash-UNCENSORED-FP8": {
+"abl": true,
+"downloads": 204,
+"family": "GLM",
+"pinned": true,
+"sha": "fab4bba5a3ee0aa642fd4c296efc950f473196c2",
+"snapshot": "2026-11-15T02:33:37Z",
+"status": 200
+},
+"neuchatelquants/gpt-oss-20b": {
+"abl": false,
+"downloads": 21,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "272b9bbbfd92a5077d063637da573b8babed969f",
+"snapshot": "2026-11-15T02:33:38Z",
+"status": 200
+},
+"nie3e/gpt2-lang-ident": {
+"abl": false,
+"downloads": 19,
+"family": "Other",
+"pinned": true,
+"sha": "5d8ab90750642238279a416aecb96989e997330c",
+"snapshot": "2026-11-15T02:33:38Z",
+"status": 200
+},
 "nif0/Qwen3-VL-32B-Instruct-ultra-uncensored-heretic-H3-GGUF": {
 "abl": true,
 "downloads": 31669,
@@ -10199,6 +15487,24 @@
 "snapshot": "2026-11-13T14:07:35Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"nightmedia/OpenAI-gpt-oss-20B-INSTRUCT-Heretic-Uncensored-MXFP4-q8-hi-mlx": {
+"abl": true,
+"downloads": 5795,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "e54be7ef6099656c46718ef032176de6921f4bf7",
+"snapshot": "2026-11-15T02:33:42Z",
+"status": 200
+},
+"nlpguy/smolchess-v2": {
+"abl": false,
+"downloads": 305,
+"family": "Other",
+"pinned": true,
+"sha": "6ced27c35a207a026fdc6857be0285aeec7c4165",
+"snapshot": "2026-11-15T02:33:44Z",
+"status": 200
 },
 "noctrex/Huihui-Qwen3-VL-30B-A3B-Instruct-abliterated-GGUF": {
 "abl": true,
@@ -10232,6 +15538,39 @@
 "snapshot": "2026-11-13T14:04:31Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"nova-quill/OBLITERATUS-Qwen3.8-27B-OBLITERATED-unsloth-mlx": {
+"abl": true,
+"downloads": 73,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "25ebc52a009c0dfb446a921ff92ad86b2e26eab8",
+"snapshot": "2026-11-15T02:33:41Z",
+"status": 200
+},
+"npario/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"family": "Qwen3.8",
+"pinned": true,
+"status": 401
+},
+"numind/NuExtract-1.5": {
+"abl": false,
+"downloads": 1134,
+"family": "Other",
+"pinned": true,
+"sha": "ceda9a73f35bbd7489942ccc05da7f64152fe355",
+"snapshot": "2026-11-15T02:33:45Z",
+"status": 200
+},
+"nuottroisaoduoc/Bonsai-2-27B-Ternary-CRACK-GGUF": {
+"abl": true,
+"downloads": 186,
+"family": "Other",
+"pinned": true,
+"sha": "d6913d329bb41c676391be87024886eca7cee70e",
+"snapshot": "2026-11-15T02:33:47Z",
+"status": 200
 },
 "nvidia/AceMath-RL-Nemotron-7B": {
 "abl": false,
@@ -10287,6 +15626,33 @@
 "snapshot": "2026-11-13T13:58:14Z",
 "status": 200,
 "via": "author:nvidia search:Nemotron"
+},
+"nvidia/DeepSeek-V4.1-Flash-1017-NVFP4": {
+"abl": false,
+"downloads": 17797,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "3ae9c0d3fbbea5370bd06e679d22044db15883f1",
+"snapshot": "2026-11-15T02:33:49Z",
+"status": 200
+},
+"nvidia/DeepSeek-V4.1-Flash-NVFP4": {
+"abl": false,
+"downloads": 33307,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "c48dca0146b56d64c8116dbb6fcace8b7cc835f8",
+"snapshot": "2026-11-15T02:33:49Z",
+"status": 200
+},
+"nvidia/GLM-5.3-Flash-NVFP4": {
+"abl": false,
+"downloads": 60432,
+"family": "GLM",
+"pinned": true,
+"sha": "1d00738646cbb0c6d0a9eb403dac5f366f1473a7",
+"snapshot": "2026-11-15T02:33:49Z",
+"status": 200
 },
 "nvidia/Llama-3.1-Nemotron-70B-Instruct": {
 "abl": false,
@@ -12321,6 +17687,15 @@
 "status": 200,
 "via": "author:nvidia search:Nemotron"
 },
+"nvidia/Qwen3.8-27B-NVFP4": {
+"abl": false,
+"downloads": 278701,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "482ca0f3832238542f8f5295dde86b5f22711d80",
+"snapshot": "2026-11-15T02:33:53Z",
+"status": 200
+},
 "nvidia/llama-embed-nemotron-8b": {
 "abl": false,
 "downloads": 9549,
@@ -12619,6 +17994,33 @@
 "status": 200,
 "via": "author:nvidia search:Nemotron"
 },
+"onnx-community/SmolLM2-360M-ONNX": {
+"abl": false,
+"downloads": 980,
+"family": "SmolLM",
+"pinned": true,
+"sha": "539c1088be2dcd673c39059d25a6bc4aec625504",
+"snapshot": "2026-11-15T02:33:54Z",
+"status": 200
+},
+"oopere/gemma-3-270m-14L-distilled": {
+"abl": false,
+"downloads": 27,
+"family": "Gemma 3",
+"pinned": true,
+"sha": "b1afdc6d656b1050b5ce9f9f7e829ac27c264014",
+"snapshot": "2026-11-15T02:33:52Z",
+"status": 200
+},
+"openai/gpt-oss-safeguard-20b": {
+"abl": false,
+"downloads": 25714,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "8a11e17b25c973a24099d4016bf2e17dd7ec1574",
+"snapshot": "2026-11-15T02:33:54Z",
+"status": 200
+},
 "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF": {
 "abl": true,
 "downloads": 50295,
@@ -12627,6 +18029,38 @@
 "pinned": false,
 "status": "gated",
 "via": "search:abliterated top:200"
+},
+"orcarouter/GLM-5.3-Flash-MLX": {
+"abl": false,
+"downloads": 5123,
+"family": "GLM",
+"pinned": true,
+"sha": "e27198aa5d71a052b716831929595ee3ed8cc647",
+"snapshot": "2026-11-15T02:33:55Z",
+"status": 200
+},
+"orcarouter/OrcaSAQ-2-27B": {
+"abl": false,
+"downloads": 1333,
+"family": "Other",
+"pinned": true,
+"sha": "f95069eaf3f155e841551cfa5c476000836d54a7",
+"snapshot": "2026-11-15T02:33:59Z",
+"status": 200
+},
+"orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF": {
+"abl": true,
+"downloads": 10017,
+"family": "Other",
+"pinned": true,
+"status": "gated"
+},
+"orcarouter/Qwen3.8-27B-Uncensored": {
+"abl": true,
+"downloads": 9011,
+"family": "Qwen3.8",
+"pinned": true,
+"status": "gated"
 },
 "orcarouter/Qwen3.8-27B-Uncensored-FP8": {
 "abl": true,
@@ -12683,6 +18117,15 @@
 "pinned": false,
 "status": "gated",
 "via": "search:abliterated top:200"
+},
+"ormandj/GLM-5.3-Flash-W4A16-NVFP4-K32-Experts-FP8-WO": {
+"abl": false,
+"downloads": 1790,
+"family": "GLM",
+"pinned": true,
+"sha": "ee0989a944b0e213589191d7fca63af825a0741e",
+"snapshot": "2026-11-15T02:33:58Z",
+"status": 200
 },
 "ornith-ai/Ornith-1.0-35B": {
 "abl": false,
@@ -13080,6 +18523,24 @@
 "status": 200,
 "via": "author:ornith-ai"
 },
+"orwelian84/Qwen3.8-27B-OBLITERATUS-Advanced": {
+"abl": true,
+"downloads": 84,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "4c3dcdf8707ce58c348c06b78e2519235a5e18b2",
+"snapshot": "2026-11-15T02:34:01Z",
+"status": 200
+},
+"outsourc-e/Qwen3.8-27B-Unleashed-GGUF": {
+"abl": true,
+"downloads": 43003,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "67a999218fd7002f11bf82bc81d6289beea60841",
+"snapshot": "2026-11-15T02:34:01Z",
+"status": 200
+},
 "owao/Sabi-Noema-GGUF": {
 "abl": false,
 "downloads": 9317,
@@ -13087,6 +18548,105 @@
 "pinned": true,
 "sha": "4b6cfc0fbf7aa0f5e4a140d9f13bfc76e8a6cf53",
 "snapshot": "2026-11-14T03:53:27Z",
+"status": 200
+},
+"p-e-w/gpt-oss-20b-heretic": {
+"abl": true,
+"downloads": 2708,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "40a07b3c6d681a949db1ace3185050b5a0893093",
+"snapshot": "2026-11-15T02:34:02Z",
+"status": 200
+},
+"p-e-w/gpt-oss-20b-heretic-ara-v3": {
+"abl": true,
+"downloads": 562,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "7d46be54f6923be923eaa3a81580305dbf7db308",
+"snapshot": "2026-11-15T02:34:06Z",
+"status": 200
+},
+"patrickbdevaney/GLM-5.3-Flash-REAP50-GGUF": {
+"abl": false,
+"downloads": 52734,
+"family": "GLM",
+"pinned": true,
+"sha": "cc7c2b5e4069365d6b7ceaea420330b4176da981",
+"snapshot": "2026-11-15T02:34:05Z",
+"status": 200
+},
+"peasantsmith/DeepSeek-V4.1-Flash-1017-Maya-GGUF": {
+"abl": false,
+"downloads": 220456,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "928ffcc3b0497f1d2f356d87ed17a1b8641bd382",
+"snapshot": "2026-11-15T02:34:06Z",
+"status": 200
+},
+"peasantsmith/GLM-5.3-Flash-Maya-GGUF": {
+"abl": false,
+"downloads": 1338004,
+"family": "GLM",
+"pinned": true,
+"sha": "5ca1df1d2436bd1ab270b169c5ea6c47aad23641",
+"snapshot": "2026-11-15T02:34:09Z",
+"status": 200
+},
+"peasantsmith/GLM-5.3-Flash-Maya-M-Derisked-IQ2_S-GGUF": {
+"abl": false,
+"downloads": 38889,
+"family": "GLM",
+"pinned": true,
+"sha": "b0a5474568ab4322ba4b74be5f34308fb4592d57",
+"snapshot": "2026-11-15T02:34:08Z",
+"status": 200
+},
+"peasantsmith/qwen38-flash-next-v100-recipe": {
+"abl": false,
+"downloads": 137,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "e7208cdae7be29418f38e611ede90a35726e888f",
+"snapshot": "2026-11-15T02:34:10Z",
+"status": 200
+},
+"peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF": {
+"abl": true,
+"downloads": 76652,
+"family": "Other",
+"pinned": true,
+"sha": "e59f05c5bda27883c2846bd6163acba3f5e00a8e",
+"snapshot": "2026-11-15T02:34:11Z",
+"status": 200
+},
+"peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF-MTP": {
+"abl": true,
+"downloads": 982725,
+"family": "Other",
+"pinned": true,
+"sha": "b62212407346cb7aafcc8d2788a1844555002fd3",
+"snapshot": "2026-11-15T02:34:13Z",
+"status": 200
+},
+"peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-MLX-oQ4e": {
+"abl": true,
+"downloads": 1281,
+"family": "Other",
+"pinned": true,
+"sha": "71a13883575a3f05259539c0097f4593d265f938",
+"snapshot": "2026-11-15T02:34:16Z",
+"status": 200
+},
+"peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-MLX-oQ4e-MTP": {
+"abl": true,
+"downloads": 3443,
+"family": "Other",
+"pinned": true,
+"sha": "5193d1927c9e0ca6d13dded91ca8889dab462aae",
+"snapshot": "2026-11-15T02:34:15Z",
 "status": 200
 },
 "peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF": {
@@ -13098,6 +18658,15 @@
 "snapshot": "2026-11-14T03:53:17Z",
 "status": 200
 },
+"peculiar-ragdoll/Sharp-MiniCPM5-2B-GGUF": {
+"abl": false,
+"downloads": 83755,
+"family": "Other",
+"pinned": true,
+"sha": "022fe143bc74dc623cb068e1672647865c1792e0",
+"snapshot": "2026-11-15T02:34:26Z",
+"status": 200
+},
 "peculiar-ragdoll/Sharp-Spark-X2.6-4B-GGUF": {
 "abl": false,
 "downloads": 6760,
@@ -13105,6 +18674,33 @@
 "pinned": true,
 "sha": "d6b3e40d5f6372d16f83320230f9b26796ee956e",
 "snapshot": "2026-11-14T03:53:48Z",
+"status": 200
+},
+"peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF": {
+"abl": false,
+"downloads": 356358,
+"family": "Other",
+"pinned": true,
+"sha": "dd9b8f8be29bd939afe0fb5c712f09ed1ff87bb6",
+"snapshot": "2026-11-15T02:34:19Z",
+"status": 200
+},
+"peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP": {
+"abl": false,
+"downloads": 2945610,
+"family": "Other",
+"pinned": true,
+"sha": "bb5f3f441849fc24c2d9037c310bc995404bfa0c",
+"snapshot": "2026-11-15T02:34:22Z",
+"status": 200
+},
+"peculiar-ragdoll/Unsloth-Ornith-1.5-35B-A3B": {
+"abl": false,
+"downloads": 5124,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "a015e1ea842854d64a1b31d4448419f6229d7a26",
+"snapshot": "2026-11-15T02:34:23Z",
 "status": 200
 },
 "peonist-ai/halogen-npu-d1-2b": {
@@ -13404,6 +19000,33 @@
 "status": 200,
 "via": "author:peonist-ai label:Halogen"
 },
+"perplexity-ai/pplx-decider-v1-27b": {
+"abl": false,
+"downloads": 3558,
+"family": "Other",
+"pinned": true,
+"sha": "d8c3bd18e31dc1804433d38528b3e770019bf00c",
+"snapshot": "2026-11-15T02:34:27Z",
+"status": 200
+},
+"perplexity-ai/pplx-decider-v1.1-27b": {
+"abl": false,
+"downloads": 3878,
+"family": "Other",
+"pinned": true,
+"sha": "14c9d90137962d300f3de95633f7b6535e80c5ce",
+"snapshot": "2026-11-15T02:34:27Z",
+"status": 200
+},
+"perplexity-ai/pplx-decider-v1.2": {
+"abl": false,
+"downloads": 6169,
+"family": "Other",
+"pinned": true,
+"sha": "cce0f3f80033e9d89d80831d5281fd72124aacce",
+"snapshot": "2026-11-15T02:34:32Z",
+"status": 200
+},
 "petruhonk/Qwen3.8-9B-Distill-uncensored-heretic-GGUF": {
 "abl": true,
 "downloads": 15480,
@@ -13415,6 +19038,24 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"pfeifferj/GLM-5.3-Flash-GSQ-RCO-GGUF": {
+"abl": false,
+"downloads": 38086,
+"family": "GLM",
+"pinned": true,
+"sha": "892aabe2e45835f58f3f24bf03dc5427d345e230",
+"snapshot": "2026-11-15T02:34:32Z",
+"status": 200
+},
+"pfeifferj/Ornith-1.5-35B-A3B-GSQ-RCO-GGUF": {
+"abl": false,
+"downloads": 9587,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "0bfdfe7f6c424de60481c26379c9d821469f75f1",
+"snapshot": "2026-11-15T02:34:30Z",
+"status": 200
+},
 "philbert440/Qwen3.8-27B-Uncensored-Cyber-GGUF": {
 "abl": true,
 "downloads": 555453,
@@ -13425,6 +19066,60 @@
 "snapshot": "2026-11-13T14:09:08Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"philbert440/Qwen3.8-27B-W4A16-AWQ": {
+"abl": false,
+"downloads": 232891,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "7908d42a71077a5e4dc458f273682b12dfe384a0",
+"snapshot": "2026-11-15T02:34:33Z",
+"status": 200
+},
+"pinthoz/gus-net-gpt2": {
+"abl": false,
+"downloads": 45,
+"family": "Other",
+"pinned": true,
+"sha": "60639c61a85743f25db3c49b797e614f8014eaae",
+"snapshot": "2026-11-15T02:34:35Z",
+"status": 200
+},
+"pipenetwork/DeepSeek-V4.1-Flash-MLX-mixed-4_8bit": {
+"abl": false,
+"downloads": 1239,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "ed2e42e7366f3a993f3499b9f3c4a7043f7828a7",
+"snapshot": "2026-11-15T02:34:38Z",
+"status": 200
+},
+"pipenetwork/GLM-5.3-Flash-MLX-6bit": {
+"abl": false,
+"downloads": 557,
+"family": "GLM",
+"pinned": true,
+"sha": "c7f80c374fc08f634057ad71f91097dedb711fa8",
+"snapshot": "2026-11-15T02:34:37Z",
+"status": 200
+},
+"pipenetwork/GLM-5.3-Flash-MLX-mixed-4_8bit": {
+"abl": false,
+"downloads": 4369,
+"family": "GLM",
+"pinned": true,
+"sha": "d43ea8b407ce4e9c25e6ac9baec3feab70d9f5f3",
+"snapshot": "2026-11-15T02:34:39Z",
+"status": 200
+},
+"pocharlies/qwen38-27b-uncensored-abliterated-refusal-directions": {
+"abl": true,
+"downloads": 0,
+"family": "Qwen38",
+"pinned": true,
+"sha": "7730fae46b5a878bc665e77b0de3822feb7d30a4",
+"snapshot": "2026-11-15T02:34:42Z",
+"status": 200
 },
 "pottokao/MOSS-Image-Text-Encoder-Heretic-DHQ-GGUF": {
 "abl": true,
@@ -13492,6 +19187,24 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"pqhaz/DeepSeek-V4.1-Flash-1017-heretic": {
+"abl": true,
+"downloads": 1367,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "12d58ad0878b5008e80d720251adb969a0069412",
+"snapshot": "2026-11-15T02:34:43Z",
+"status": 200
+},
+"pqhaz/apex-flash-1-abliterated-GGUF": {
+"abl": true,
+"downloads": 274,
+"family": "Other",
+"pinned": true,
+"sha": "d91936b5a2e13f3ddb0bcfd1d006d014e204fd27",
+"snapshot": "2026-11-15T02:34:42Z",
+"status": 200
+},
 "pramoths/Qwen3.8-27B-Uncensored-FP8-MTP": {
 "abl": true,
 "downloads": 96206,
@@ -13521,6 +19234,24 @@
 "pinned": true,
 "sha": "839bd57023c1558945afea70a74fa83c054f35f9",
 "snapshot": "2026-11-13T09:39:17Z",
+"status": 200
+},
+"prism-ml/Ternary-Bonsai-2-27B-gguf-dev": {
+"abl": false,
+"downloads": 33085,
+"family": "Other",
+"pinned": true,
+"sha": "1dc2d993003f2e659cb307645036cfa525d2c8bd",
+"snapshot": "2026-11-15T02:34:46Z",
+"status": 200
+},
+"prism-ml/Ternary-Bonsai-2-27B-mlx-2bit": {
+"abl": false,
+"downloads": 21679,
+"family": "Other",
+"pinned": true,
+"sha": "24b5937a4a104a44f790b6ccbd0c79b6fabd4299",
+"snapshot": "2026-11-15T02:34:45Z",
 "status": 200
 },
 "prithivMLmods/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-MTP-GGUF": {
@@ -13565,6 +19296,42 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"promptinjections/Qwen3.8-27B-SecOPD-lr6e-5": {
+"abl": false,
+"downloads": 177,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "68139f1162dd274be4c5936c1bac175b67172167",
+"snapshot": "2026-11-15T02:34:50Z",
+"status": 200
+},
+"protoLabsAI/Ornith-1.5-9B-MTP-GGUF": {
+"abl": false,
+"downloads": 6461,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "5957ee5dcb88e9a9f4cd9a23c649320d20a574cd",
+"snapshot": "2026-11-15T02:34:48Z",
+"status": 200
+},
+"puettmann/SmolMaestra-1.7b-Translation": {
+"abl": false,
+"downloads": 1842,
+"family": "Other",
+"pinned": true,
+"sha": "d388712c63cdbcf947a9d8da95150eec671eeb51",
+"snapshot": "2026-11-15T02:34:49Z",
+"status": 200
+},
+"puffyn/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 136,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "02e4b8e65f2d7d3f5c7c54f92023af09515c1cf5",
+"snapshot": "2026-11-15T02:34:53Z",
+"status": 200
+},
 "pyrodog/DeepSeek-V4.1-Flash-UNCENSORED-DwarfStar-Q2": {
 "abl": true,
 "downloads": 82576,
@@ -13575,6 +19342,42 @@
 "snapshot": "2026-11-13T14:09:46Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"qaqab/Qwen3.8-27B-Uncensored-Q4_K_M-GGUF": {
+"abl": true,
+"downloads": 1236,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b8d226998047333f9de7bac59d8ea1a10bd72040",
+"snapshot": "2026-11-15T02:34:52Z",
+"status": 200
+},
+"quimmedes/Qwen3.8-Flash-Next-MTP-GGUF": {
+"abl": false,
+"downloads": 1508,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "e56ac7b14f211f715e997121f26fdae09fb22e34",
+"snapshot": "2026-11-15T02:34:53Z",
+"status": 200
+},
+"quwsarohi/NanoAgent-135M": {
+"abl": false,
+"downloads": 383,
+"family": "Other",
+"pinned": true,
+"sha": "cb9214aa977ecfc0fd514f2148dac55a5f2c2ca3",
+"snapshot": "2026-11-15T02:34:57Z",
+"status": 200
+},
+"rapid-mlx/DeepSeek-V4.1-Flash-DSpark-4d2e-MLX": {
+"abl": false,
+"downloads": 976,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "0222e2902b79299428df8ba022e2eca9d91bc303",
+"snapshot": "2026-11-15T02:34:55Z",
+"status": 200
 },
 "rcmorano/badtheorylabs-Tinfield-1-halogen-HGN": {
 "abl": false,
@@ -13597,6 +19400,69 @@
 "snapshot": "2026-11-13T14:05:38Z",
 "status": 200,
 "via": "search:obliterated top:60"
+},
+"reaperdoesntknow/SMOLM2Prover": {
+"abl": false,
+"downloads": 2814,
+"family": "Other",
+"pinned": true,
+"sha": "9013f9c19f44cae65e1ff893f7dbbd227c6ceb31",
+"snapshot": "2026-11-15T02:34:57Z",
+"status": 200
+},
+"reaperdoesntknow/SMOLM2Prover-GGUF": {
+"abl": false,
+"downloads": 2005,
+"family": "Other",
+"pinned": true,
+"sha": "63933ea51b95239006480d1f803792e389a5ff77",
+"snapshot": "2026-11-15T02:35:00Z",
+"status": 200
+},
+"reaperdoesntknow/gemma-270m-math-reasoner": {
+"abl": false,
+"downloads": 3032,
+"family": "Gemma 270",
+"pinned": true,
+"sha": "ab490d06fc80b38739abb0bdff41c20152b2f7e3",
+"snapshot": "2026-11-15T02:35:00Z",
+"status": 200
+},
+"redthing1/DeepSeek-V4.1-Flash-1017-EXL3-1.38bpw-Quantseekv2": {
+"abl": false,
+"downloads": 66,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "23530d477d7496045a300547e5509468f7d8d0e4",
+"snapshot": "2026-11-15T02:35:00Z",
+"status": 200
+},
+"redthing1/DeepSeek-V4.1-Flash-1017-EXL3-2.87bpw": {
+"abl": false,
+"downloads": 152,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "a22f05c5acea8696a126b2059054cbb29a6efaeb",
+"snapshot": "2026-11-15T02:35:03Z",
+"status": 200
+},
+"redthing1/DeepSeek-V4.1-Flash-1017-EXL3-2.87bpw-Quantseekv2": {
+"abl": false,
+"downloads": 78,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "a522844c5e5ca8433a174e11bcd36995f152968e",
+"snapshot": "2026-11-15T02:35:04Z",
+"status": 200
+},
+"richardyoung/Mistral-7B-Instruct-v0.2-abliterated-obliteratus": {
+"abl": true,
+"downloads": 29,
+"family": "Mistral",
+"pinned": true,
+"sha": "9c17c8bda868d9422835ef6446015365b81fec70",
+"snapshot": "2026-11-15T02:35:03Z",
+"status": 200
 },
 "richardyoung/Qwen2.5-7B-Instruct-abliterated-GGUF": {
 "abl": true,
@@ -13638,6 +19504,33 @@
 "snapshot": "2026-11-14T03:53:57Z",
 "status": 200
 },
+"s-zaizen/DeepSeek-V4.1-Flash-Abliterated": {
+"abl": true,
+"downloads": 838,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "23da584e06e57ec43c896d286b44b822c9bb0ad6",
+"snapshot": "2026-11-15T02:35:06Z",
+"status": 200
+},
+"sabbbbir/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 220,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "730ac1430ae2a5b99efca27df39d9af6256a9d97",
+"snapshot": "2026-11-15T02:35:06Z",
+"status": 200
+},
+"sabicap/sabi-noema": {
+"abl": false,
+"downloads": 1462,
+"family": "Other",
+"pinned": true,
+"sha": "2908c2d59081522a6cbfdb60ef0f848508295667",
+"snapshot": "2026-11-15T02:35:07Z",
+"status": 200
+},
 "saidutta69/MiniCPM-V-4.7-1B-heretic": {
 "abl": true,
 "downloads": 15475,
@@ -13648,6 +19541,69 @@
 "snapshot": "2026-11-13T14:08:37Z",
 "status": 200,
 "via": "search:heretic top:100"
+},
+"sakamakismile/Qwen3.8-27B-MTP-NVFP4": {
+"abl": false,
+"downloads": 308689,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "a0b936f0bbcb362c38d39840602c8d7b2476a9fc",
+"snapshot": "2026-11-15T02:35:14Z",
+"status": 200
+},
+"sallani/ELISARCyberAIEdge7B-LoRA-GGUF": {
+"abl": false,
+"downloads": 3408,
+"family": "Other",
+"pinned": true,
+"sha": "955894d050836efffa705cb0465408606ecbdaf7",
+"snapshot": "2026-11-15T02:35:09Z",
+"status": 200
+},
+"sbordt/OLMo-2-1B-Exp": {
+"abl": false,
+"downloads": 142,
+"family": "Other",
+"pinned": true,
+"sha": "42817d6675b2ba622355bc0de78c4faffbfbae21",
+"snapshot": "2026-11-15T02:35:11Z",
+"status": 200
+},
+"securepeak/DeepSeek-V4.1-Flash-Abliterated": {
+"abl": true,
+"downloads": 196,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "ac12fcceee317f9e01b698c8fed14c0a10c58833",
+"snapshot": "2026-11-15T02:35:16Z",
+"status": 200
+},
+"sensenova/sensenova-roborsi-27b-preview": {
+"abl": false,
+"downloads": 481,
+"family": "Other",
+"pinned": true,
+"sha": "9f793e67c753e4106cae742529ed3335f1493aea",
+"snapshot": "2026-11-15T02:35:19Z",
+"status": 200
+},
+"sergAIAI/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 158,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "a909589ea7a0ce5dd0253767392217f0f6d9dbe5",
+"snapshot": "2026-11-15T02:35:19Z",
+"status": 200
+},
+"shamidk/apex-flash-1-abliterated-DS4-Q2-GGUF": {
+"abl": true,
+"downloads": 103,
+"family": "Other",
+"pinned": true,
+"sha": "381775a084318dac4d435a0e97eb70fa1f9b5da3",
+"snapshot": "2026-11-15T02:35:19Z",
+"status": 200
 },
 "shawnw3i/Huihui-Qwen3.6-27B-abliterated-AWQ-MTP": {
 "abl": true,
@@ -13660,6 +19616,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"shivanandasai/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 209,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "ded7432e88bc560e91c1dbf0d38e1e237bf0b812",
+"snapshot": "2026-11-15T02:35:26Z",
+"status": 200
+},
 "shoukewei/Qwen3.8-27B-OBLITERATED22-AGENT": {
 "abl": true,
 "downloads": 1036,
@@ -13671,6 +19636,33 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"simonlehmann/clef-NVFP4": {
+"abl": false,
+"downloads": 334,
+"family": "Other",
+"pinned": true,
+"sha": "817ac58ad358f42489980ead62f8bf7cafc628c2",
+"snapshot": "2026-11-15T02:35:24Z",
+"status": 200
+},
+"sleepyeldrazi/Qwen3.8-Flash-Next-GSQ-RCO-Q8_0-PLE-GGUF": {
+"abl": false,
+"downloads": 0,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "11bbd8e8dad2c24c449418d6ef18043ff041f548",
+"snapshot": "2026-11-15T02:35:24Z",
+"status": 200
+},
+"smalinin/DeepSeek-V4.1-Flash-GGUF": {
+"abl": false,
+"downloads": 4721,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "d5e573c6d0a3fb3aa8c445f8b6e67639c86e5820",
+"snapshot": "2026-11-15T02:35:27Z",
+"status": 200
+},
 "snappycrow/Qwen3.8-Flash-Next-Uncensored-GUFO-GGUF": {
 "abl": true,
 "downloads": 710,
@@ -13681,6 +19673,24 @@
 "snapshot": "2026-11-13T14:52:48Z",
 "status": 200,
 "via": "search:gufo top:30 label:Gufo"
+},
+"sodgjkfroverjv/Qwen3.8-27B-OBLITERATED": {
+"abl": true,
+"downloads": 92,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "ac42f3e68e9efaf1d07147597a5a7f95a705dc34",
+"snapshot": "2026-11-15T02:35:28Z",
+"status": 200
+},
+"solidrust/Mistral-7B-Instruct-v0.3-AWQ": {
+"abl": false,
+"downloads": 5605,
+"family": "Mistral",
+"pinned": true,
+"sha": "95b1295ddd1a8673117cdc7bd2a4da2a457bb3f7",
+"snapshot": "2026-11-15T02:35:30Z",
+"status": 200
 },
 "soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf": {
 "abl": true,
@@ -13715,6 +19725,15 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"sudoingx/Ternary-Bonsai-2-27B-PTQ1_0-MTP-GGUF": {
+"abl": false,
+"downloads": 22548,
+"family": "Other",
+"pinned": true,
+"sha": "fc13bb8af037f46e07425e73ff5a9ac3d75b8924",
+"snapshot": "2026-11-15T02:35:31Z",
+"status": 200
+},
 "summerAIO/Diffusion-Qwen3.8-27B": {
 "abl": false,
 "downloads": 1574,
@@ -13722,6 +19741,51 @@
 "pinned": true,
 "sha": "d5587a6b8ac1577c502878799bbbcf398220ce9b",
 "snapshot": "2026-11-14T03:54:06Z",
+"status": 200
+},
+"summerAIO/Qwen3.8-27B-Longbook27-v2": {
+"abl": false,
+"downloads": 1441,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "46319430c16af66860b20f14986ad1032e991796",
+"snapshot": "2026-11-15T02:35:34Z",
+"status": 200
+},
+"sweetand/qwen3.8-27b-1C": {
+"abl": false,
+"downloads": 36397,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "fc7b73810a3b604b9aa3876035193ad459c40cf8",
+"snapshot": "2026-11-15T02:35:36Z",
+"status": 200
+},
+"syvai/Qwen3.8-27B-DFlash2-W4A16": {
+"abl": false,
+"downloads": 5675,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "4d30ec736ffc6b8688dc2ae2b502d9b48bdec279",
+"snapshot": "2026-11-15T02:35:36Z",
+"status": 200
+},
+"syvai/qwen3.8-27b-3090-fast-variant": {
+"abl": false,
+"downloads": 2639,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "124c14e7e8c7d2f5402933b9af368e772a9fcf0c",
+"snapshot": "2026-11-15T02:35:37Z",
+"status": 200
+},
+"t-firefly/minicpm5-2b-rknn3-rk1820": {
+"abl": false,
+"downloads": 38,
+"family": "Other",
+"pinned": true,
+"sha": "375ba2977084dba0fe954c9e233e97519598d187",
+"snapshot": "2026-11-15T02:35:41Z",
 "status": 200
 },
 "t8star/flux.1-dev-abliterated-V2-GGUF": {
@@ -13735,6 +19799,15 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"taronaeo/Granite-4.0-1B-BE-GGUF": {
+"abl": false,
+"downloads": 158576,
+"family": "Granite",
+"pinned": true,
+"sha": "d1ecffe870e974b821efa6738c9db6e25497fff9",
+"snapshot": "2026-11-15T02:35:40Z",
+"status": 200
+},
 "tatianyi/Qwen3.8-Flash-Next-Uncensored-Halogen": {
 "abl": true,
 "downloads": 0,
@@ -13746,6 +19819,186 @@
 "status": 200,
 "via": "search:halogen-qwen top:40 label:Halogen"
 },
+"tbrrss/SmolLM2-135M-Distilled-Q4": {
+"abl": false,
+"downloads": 34,
+"family": "SmolLM",
+"pinned": true,
+"sha": "701d214a41dd2b6ef00476a0d51ad99a3d2121e3",
+"snapshot": "2026-11-15T02:35:40Z",
+"status": 200
+},
+"tcclaviger/Qwen3.8-27B-DFlash2-FP8": {
+"abl": false,
+"downloads": 2590,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f02593d0ea2e3b7eedbb831fb26f465b1e6238bb",
+"snapshot": "2026-11-15T02:35:43Z",
+"status": 200
+},
+"tcclaviger/Qwen3.8-Flash-Next-MXFP4-FP8-GPTQ": {
+"abl": false,
+"downloads": 6894,
+"family": "Qwen3.8 Flash-Next",
+"pinned": true,
+"sha": "6fe3e7464c1892004f886b4b614117333c5acd34",
+"snapshot": "2026-11-15T02:35:43Z",
+"status": 200
+},
+"teknium/OpenHermes-2.5-Mistral-7B": {
+"abl": false,
+"downloads": 3854,
+"family": "Mistral",
+"pinned": true,
+"sha": "24c0bea14d53e6f67f1fbe2eca5bfe7cae389b33",
+"snapshot": "2026-11-15T02:35:45Z",
+"status": 200
+},
+"tencent/Qwen3.8-27B-DSpine-b16": {
+"abl": false,
+"downloads": 4873,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "260a6c23070ca873ff1a5f33b7119ac3f6a245ee",
+"snapshot": "2026-11-15T02:35:49Z",
+"status": 200
+},
+"thealper2/smollm2-135m-android-control": {
+"abl": false,
+"downloads": 39,
+"family": "SmolLM",
+"pinned": true,
+"sha": "a7f43ce75b962bc0132a376a8772fc5b1df4479b",
+"snapshot": "2026-11-15T02:35:48Z",
+"status": 200
+},
+"theunnecessarythings/JADE": {
+"abl": false,
+"downloads": 0,
+"family": "Other",
+"pinned": true,
+"sha": "8e9f9a3aa4293190fcc4a6ff17ff5f3251f4c270",
+"snapshot": "2026-11-15T02:35:50Z",
+"status": 200
+},
+"ticeclock/Swift-Qwen3.8-27B-RCO-GGUF": {
+"abl": false,
+"downloads": 881,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "ed93ea45e77ac5f30d258a62a838b6061c4a1c3b",
+"snapshot": "2026-11-15T02:35:50Z",
+"status": 200
+},
+"tinyopsec/MiniCPM5-1B-Agentic-Tooluse-Merged-FP16-GGUF": {
+"abl": false,
+"downloads": 570,
+"family": "Other",
+"pinned": true,
+"sha": "8d544b813ceff1892569f609fadeeb71b99144d7",
+"snapshot": "2026-11-15T02:35:52Z",
+"status": 200
+},
+"tinyopsec/MiniCPM5-1B-Agentic-Tooluse-v3-Merged-FP16-GGUF": {
+"abl": false,
+"downloads": 872,
+"family": "Other",
+"pinned": true,
+"sha": "a6a6c1d9a60d4e235183bcee0dc904aa4e2dc25e",
+"snapshot": "2026-11-15T02:35:53Z",
+"status": 200
+},
+"tinyopsec/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF": {
+"abl": false,
+"downloads": 669,
+"family": "Other",
+"pinned": true,
+"sha": "a90ed8d9a7d9ce94dd46c9eb4df85aacd9c907c8",
+"snapshot": "2026-11-15T02:35:53Z",
+"status": 200
+},
+"tinyopsec/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF": {
+"abl": false,
+"downloads": 619,
+"family": "Other",
+"pinned": true,
+"sha": "c8105e889746b12e313ef6a37df0558e4c7ee865",
+"snapshot": "2026-11-15T02:35:55Z",
+"status": 200
+},
+"tinyopsec/MiniCPM5-1B-Pashto-GGUF": {
+"abl": false,
+"downloads": 527,
+"family": "Other",
+"pinned": true,
+"sha": "1f8b0fc788fc651b63adddfa2e2bc6f306eb4d4c",
+"snapshot": "2026-11-15T02:35:57Z",
+"status": 200
+},
+"troed/Qwen3.8-27B-ASCII-Condensed": {
+"abl": false,
+"downloads": 771,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "f309fc7f49ff5b2ab963ec5f46010a3ef9653e38",
+"snapshot": "2026-11-15T02:35:56Z",
+"status": 200
+},
+"trohrbaugh/Qwen3.8-27B-heretic-ara": {
+"abl": true,
+"downloads": 1202,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "a67ae100d933c0d17af3232bda35825979fc63ce",
+"snapshot": "2026-11-15T02:36:00Z",
+"status": 200
+},
+"trychoosing/orbit-drafter-smollm2-360m": {
+"abl": false,
+"downloads": 21,
+"family": "SmolLM",
+"pinned": true,
+"sha": "cc02569adbcaf724f0d985bd126e9d361fd67fa5",
+"snapshot": "2026-11-15T02:35:59Z",
+"status": 200
+},
+"trychoosing/revochat-responder-smollm2-360m": {
+"abl": false,
+"downloads": 16,
+"family": "SmolLM",
+"pinned": true,
+"sha": "b92cb7220049266a64b324f25cee0c4bd348263e",
+"snapshot": "2026-11-15T02:36:02Z",
+"status": 200
+},
+"trymirai/Qwen3.8-27B-M": {
+"abl": false,
+"downloads": 2003,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "344113702f109cfbb63aa0a0d648fe58a383089e",
+"snapshot": "2026-11-15T02:36:03Z",
+"status": 200
+},
+"tsaipifong/Ornith-1.5-35B-A3B-MXFP4-GGUF": {
+"abl": false,
+"downloads": 1170,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "7089a3b439d6ad70fc2e1a3ffb5a5fef1a9a9c01",
+"snapshot": "2026-11-15T02:36:03Z",
+"status": 200
+},
+"tsinghua-sigs-robot-lab/VeriLoop-E2": {
+"abl": false,
+"downloads": 1080,
+"family": "Other",
+"pinned": true,
+"sha": "44b6f230347f9ccf2a5ce96a44bcd74ecaaaa51f",
+"snapshot": "2026-11-15T02:36:07Z",
+"status": 200
+},
 "ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF": {
 "abl": true,
 "downloads": 725840,
@@ -13756,6 +20009,15 @@
 "snapshot": "2026-11-13T14:09:03Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"turboderp/GLM-5.3-Flash-exl3": {
+"abl": false,
+"downloads": 2641,
+"family": "GLM",
+"pinned": true,
+"sha": "ef396bc0a701837028bb8a3b314c8ff2cf254b0d",
+"snapshot": "2026-11-15T02:36:07Z",
+"status": 200
 },
 "turboderp/LFM2.5-8B-A1B-exl3": {
 "abl": false,
@@ -13775,6 +20037,31 @@
 "snapshot": "2026-11-13T09:39:31Z",
 "status": 200
 },
+"turboderp/Qwen3.8-27B-exl3": {
+"abl": false,
+"downloads": 5115,
+"family": "Qwen3.8",
+"pinned": true,
+"status": 200
+},
+"turintech/MiniCPM5-2B-Artemis-GGUF": {
+"abl": false,
+"downloads": 1419,
+"family": "Other",
+"pinned": true,
+"sha": "6a29422de17e706db67305ddfb48e42c9c9266a5",
+"snapshot": "2026-11-15T02:36:07Z",
+"status": 200
+},
+"turintech/Qwen3.8-27B-Artemis-GGUF": {
+"abl": false,
+"downloads": 2447,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "00e1399e2c74367f15d56dd95542f10b6e6cb1bc",
+"snapshot": "2026-11-15T02:36:11Z",
+"status": 200
+},
 "twolven/Qwen3.8-27B-abliterated-AWQ-MTP": {
 "abl": true,
 "downloads": 20598,
@@ -13785,6 +20072,33 @@
 "snapshot": "2026-11-13T14:02:50Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"ukisai/Swift-1.5-Ornith-9B": {
+"abl": false,
+"downloads": 1733,
+"family": "Ornith 9",
+"pinned": true,
+"sha": "8df02d07c135c34d045dd6cc402047d2e016a3e0",
+"snapshot": "2026-11-15T02:36:11Z",
+"status": 200
+},
+"ukisai/Swift-1.5-Ornith-9B-GGUF": {
+"abl": false,
+"downloads": 3909,
+"family": "Ornith 9",
+"pinned": true,
+"sha": "b2eca1f23b4ddbc9886b0311f7334d00bd832a4d",
+"snapshot": "2026-11-15T02:36:10Z",
+"status": 200
+},
+"underlotus/Qwen3.8-27B-heretic-ara-oQ4e-mtp": {
+"abl": true,
+"downloads": 494,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "3f356f5f995eedcdf54dab29cd366371e7b476aa",
+"snapshot": "2026-11-15T02:36:13Z",
+"status": 200
 },
 "unsloth/AceReason-Nemotron-14B": {
 "abl": false,
@@ -30275,6 +36589,87 @@
 "status": 200,
 "via": "search:obliterated top:60"
 },
+"vcruz305/DSV4.1-Flash-1017-SAGE-EXL3-1.62bpw": {
+"abl": false,
+"downloads": 1511,
+"family": "Other",
+"pinned": true,
+"sha": "8cffca26b74b4edaaa7454c6ae70a086d01594e1",
+"snapshot": "2026-11-15T02:36:15Z",
+"status": 200
+},
+"vcruz305/DeepSeek-V4.1-Flash-GGUF": {
+"abl": false,
+"downloads": 8115,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "c4a085541cb53f67ee5e57b63d255e80cef286e7",
+"snapshot": "2026-11-15T02:36:14Z",
+"status": 200
+},
+"vcruz305/RED-SNOW-5.3-FLASH-EXL3-SAGE-2.49bpw": {
+"abl": false,
+"downloads": 641,
+"family": "Other",
+"pinned": true,
+"sha": "071adefe6c1c8de379d76977985811b7d4385454",
+"snapshot": "2026-11-15T02:36:17Z",
+"status": 200
+},
+"vcruz305/RED-SNOW-5.3-FLASH-EXL3-SAGE-4.91bpw": {
+"abl": false,
+"downloads": 583,
+"family": "Other",
+"pinned": true,
+"sha": "f6b8963784254095a54944f2963b2925fcf4b199",
+"snapshot": "2026-11-15T02:36:18Z",
+"status": 200
+},
+"vidore/colSmol-256M": {
+"abl": false,
+"downloads": 2189,
+"family": "Other",
+"pinned": true,
+"sha": "c79b633e17e060cc109b11aa2bf92a1517d3bd6f",
+"snapshot": "2026-11-15T02:36:18Z",
+"status": 200
+},
+"vidore/colSmol-500M": {
+"abl": false,
+"downloads": 1399,
+"family": "Other",
+"pinned": true,
+"sha": "0aaa9726104ce485884c7b8faa8a58a72d5fdbe7",
+"snapshot": "2026-11-15T02:36:20Z",
+"status": 200
+},
+"vishrutJ/SuperQwen3.8-27b-abliterated": {
+"abl": true,
+"downloads": 136,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "b2c753b757bb3e5e2feb5ba334b795361516a689",
+"snapshot": "2026-11-15T02:36:21Z",
+"status": 200
+},
+"vllm-sr/Decision-2.0-Vega-27B": {
+"abl": false,
+"downloads": 553,
+"family": "Other",
+"pinned": true,
+"sha": "71d6ae1db4a786d98775d65c68c41be0e39bfe7c",
+"snapshot": "2026-11-15T02:36:23Z",
+"status": 200
+},
+"vllm-sr/d3": {
+"abl": false,
+"downloads": 8749,
+"family": "Other",
+"pinned": true,
+"sha": "62f07e54c6c3a5ff5f695107377edc43e1a86ea8",
+"snapshot": "2026-11-15T02:36:24Z",
+"status": 200
+},
 "vmlinux/Qwen3.8-Flash-Next-Uncensored-Gufo-Q4Mix-GGUF": {
 "abl": true,
 "downloads": 48027,
@@ -30297,6 +36692,24 @@
 "status": 200,
 "via": "search:abliterated top:200"
 },
+"waveforce-ai/Aura-2-Lightning": {
+"abl": false,
+"downloads": 597,
+"family": "Other",
+"pinned": true,
+"sha": "fa487d4c96c93f7f36d250ecdb37a25d9e9bf956",
+"snapshot": "2026-11-15T02:36:24Z",
+"status": 200
+},
+"webmp3/Sakura-DeepSeek-V4.1-Flash-1017-Unsloth-UD-IQ1_S-Engram-Q3_K-GGUF": {
+"abl": false,
+"downloads": 506,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "f97d27d62bd14cd88e0377c81a08ac1689f197e4",
+"snapshot": "2026-11-15T02:36:25Z",
+"status": 200
+},
 "webmp3/Sakura-MiniMax-H3-Uncensored-GGUF": {
 "abl": true,
 "downloads": 86812,
@@ -30308,6 +36721,33 @@
 "status": 200,
 "via": "search:uncensored top:100"
 },
+"wei231/ternary-bonsai-3080-sm86-ninfer": {
+"abl": false,
+"downloads": 5305,
+"family": "Other",
+"pinned": true,
+"sha": "664372512f1f13c75a89cf724f62dfb32c3a4cea",
+"snapshot": "2026-11-15T02:36:26Z",
+"status": 200
+},
+"wenzhouwu/YoungAi-DeepSeek-V4.1-Flash-1017": {
+"abl": false,
+"downloads": 1114,
+"family": "DeepSeek V4",
+"pinned": true,
+"sha": "e0328bedc0155528a1757710522c2947cc34b728",
+"snapshot": "2026-11-15T02:36:27Z",
+"status": 200
+},
+"wxzhang/dpo-selective-redteaming": {
+"abl": false,
+"downloads": 63,
+"family": "Other",
+"pinned": true,
+"sha": "b1209aef79f5983cee3be3628cc34ffac8f392b0",
+"snapshot": "2026-11-15T02:36:33Z",
+"status": 200
+},
 "wy2pay/Qwen3.8-Flash-Next-abliterated-GGUF-IQ4XS": {
 "abl": true,
 "downloads": 15662,
@@ -30318,6 +36758,15 @@
 "snapshot": "2026-11-13T14:03:37Z",
 "status": 200,
 "via": "search:abliterated top:200"
+},
+"xoykor/Ornith-1.5-9B-DSH-Agentic-GPT-5.6-Sol-Distill": {
+"abl": false,
+"downloads": 859,
+"family": "Ornith 1.5",
+"pinned": true,
+"sha": "fc5a01e1b8d5021216599c3d4f79eb30e109452a",
+"snapshot": "2026-11-15T02:36:30Z",
+"status": 200
 },
 "xtools-at/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic": {
 "abl": true,
@@ -30339,6 +36788,51 @@
 "status": 200,
 "via": "search:heretic top:100"
 },
+"yamz-labs/GLM-5.3-Flash-EXL3-Yamz": {
+"abl": false,
+"downloads": 688,
+"family": "GLM",
+"pinned": true,
+"sha": "e1c5c9752c4e35e5a06d6b32fef8025a4b3fd8c2",
+"snapshot": "2026-11-15T02:36:32Z",
+"status": 200
+},
+"yamz-labs/GLM-5.3-Flash-EXL3-Yamz-Uncensored": {
+"abl": true,
+"downloads": 439,
+"family": "GLM",
+"pinned": true,
+"sha": "4614256afd6187c095475fdfaa0e8789a117b504",
+"snapshot": "2026-11-15T02:36:33Z",
+"status": 200
+},
+"yeasah/Qwen3.8-27B-exl3": {
+"abl": false,
+"downloads": 174,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "d9d95510df8a0244b896c23229fc05cd1e3b8ddf",
+"snapshot": "2026-11-15T02:36:35Z",
+"status": 200
+},
+"ytbai/MiniCPM5-2B-Jev": {
+"abl": false,
+"downloads": 96,
+"family": "Other",
+"pinned": true,
+"sha": "27afc6f17ceb7eb95b6442047ec54e43fbed5ed1",
+"snapshot": "2026-11-15T02:36:35Z",
+"status": 200
+},
+"z-lab/Qwen3.8-27B-DFlash2": {
+"abl": false,
+"downloads": 44768,
+"family": "Qwen3.8",
+"pinned": true,
+"sha": "50307d4c4cde6860d4eee73e2547cd786fe8e8a4",
+"snapshot": "2026-11-15T02:36:36Z",
+"status": 200
+},
 "z-lab/Qwen3.8-27B-DFlash2-GGUF": {
 "abl": false,
 "downloads": 512094,
@@ -30346,6 +36840,15 @@
 "pinned": true,
 "sha": "2d9571f8ce46e151f61c6499c99dee6079e1d610",
 "snapshot": "2026-11-13T09:41:11Z",
+"status": 200
+},
+"z-lab/gpt-oss-120b-DFlash": {
+"abl": false,
+"downloads": 24621,
+"family": "gpt-oss",
+"pinned": true,
+"sha": "1278df34f0a7bd2c8588a27f49048aaa05c7db00",
+"snapshot": "2026-11-15T02:36:38Z",
 "status": 200
 },
 "zaakirio/gemma-4-12b-it-uncensored-GGUF": {
@@ -30358,5 +36861,32 @@
 "snapshot": "2026-11-13T14:09:40Z",
 "status": 200,
 "via": "search:uncensored top:100"
+},
+"zai-org/GLM-5.3-Flash-BF16": {
+"abl": false,
+"downloads": 49384,
+"family": "GLM",
+"pinned": true,
+"sha": "f9fed3bbc82291073373d67452e9f25317ef7577",
+"snapshot": "2026-11-15T02:36:38Z",
+"status": 200
+},
+"zarigata/FeveQwen-1.0": {
+"abl": true,
+"downloads": 104,
+"family": "Qwen1.0",
+"pinned": true,
+"sha": "7afc8008865c59c69f831c766b22f95c0d6d1417",
+"snapshot": "2026-11-15T02:36:39Z",
+"status": 200
+},
+"zeromodels/granite_speech_4_1_2b_plus": {
+"abl": false,
+"downloads": 39,
+"family": "Granite",
+"pinned": true,
+"sha": "3821b9cfe687312a4e288eb4728bb271ca7af13a",
+"snapshot": "2026-11-15T02:36:41Z",
+"status": 200
 }
 }

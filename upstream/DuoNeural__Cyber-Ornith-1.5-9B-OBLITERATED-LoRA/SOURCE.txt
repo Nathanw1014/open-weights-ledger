@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DuoNeural/Cyber-Ornith-1.5-9B-OBLITERATED-LoRA
+main commit at snapshot: 976e37262670a1b901d8b8cad3abd0f6704474e1
+snapshot taken: 2026-11-15T02:22:16Z

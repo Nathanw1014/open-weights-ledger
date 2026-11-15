@@ -1,0 +1,3 @@
+repo: https://huggingface.co/modal-labs/GLM-5.3-Flash-DFlash
+main commit at snapshot: dae6d319510889a7f1ac5242d5b7fb2d5d95eb05
+snapshot taken: 2026-11-15T02:32:46Z

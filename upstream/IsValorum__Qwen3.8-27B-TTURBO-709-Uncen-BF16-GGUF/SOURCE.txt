@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Qwen3.8-27B-TTURBO-709-Uncen-BF16-GGUF
+main commit at snapshot: 8feb9f63849a2c082b37bf10bbf6bd360deaaee2
+snapshot taken: 2026-11-15T02:23:27Z

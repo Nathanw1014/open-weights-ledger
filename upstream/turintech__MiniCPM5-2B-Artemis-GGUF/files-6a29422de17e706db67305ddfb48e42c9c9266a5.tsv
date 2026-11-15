@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+MiniCPM5-2B-Artemis-Q4_K_S.gguf	1533869920	923c844e2ccd7d65f56eb8cb51e868a8f6eda999f77b3ed5552c62de0b86cff2	sha256
+MiniCPM5-2B-Artemis-imatrix.gguf_file	6309216	3e176c3214203ebfb6183827923e57878b046f79167d14163b031fe56bf79b0d	sha256
+assets/comparison.png	117983	c6c7bd2b8eff9285f4169bd8a1eec2096e8fd66bf27d72a022a2fabbd8cf3752	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/GCSA-AiLab/GLM-5.3-Flash-Abliterated-LoRA-GGUF
+main commit at snapshot: 1d8439bff3ef52fe237a86e1c422dbff4834d825
+snapshot taken: 2026-11-15T02:22:32Z

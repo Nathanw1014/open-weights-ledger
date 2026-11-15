@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+calibration/imatrix-af2e8b99c5.gguf	13642720	6655a1afc6a364f2871d80f936a11c13a5d392d6a1ec0a00854c4dd9152593ea	sha256
+weights-gguf/Qwen3.8-27B-4.2BPW-16GB.gguf	12753177728	9aed587aa4154cea622905f103c4d80c3857f4e956c20c213d02ad6ecdc72933	sha256

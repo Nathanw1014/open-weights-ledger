@@ -1,0 +1,3 @@
+repo: https://huggingface.co/shamidk/apex-flash-1-abliterated-DS4-Q2-GGUF
+main commit at snapshot: 381775a084318dac4d435a0e97eb70fa1f9b5da3
+snapshot taken: 2026-11-15T02:35:17Z

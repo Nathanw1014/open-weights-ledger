@@ -1,0 +1,3 @@
+repo: https://huggingface.co/tinyopsec/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF
+main commit at snapshot: a90ed8d9a7d9ce94dd46c9eb4df85aacd9c907c8
+snapshot taken: 2026-11-15T02:35:52Z

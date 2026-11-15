@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SketchSSM/GLM-5.3-Flash-NVFP4
+main commit at snapshot: 1664eba598ef1d75d6d866b8f856cdd5ae1595f5
+snapshot taken: 2026-11-15T02:25:26Z

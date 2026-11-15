@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ProCreations/Ternary-Bonsai-2-27B-MTP
+main commit at snapshot: efffdea64c1f9e93cc7fa6bb24f72ae9d66ecf51
+snapshot taken: 2026-11-15T02:24:50Z

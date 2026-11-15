@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+adapter_model.safetensors	83946192	7fee993242168c43115a0b719d530b6355a11e3756b044504c4c837f1ff9f44a	sha256
+ggml-adapter-model.bin	167800832	5460b3f6415dd6264e7b288ea5251e6451abcfe9f57011a1e96dd4ba992ab28a	sha256
+tokenizer.model	493443	dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055	sha256

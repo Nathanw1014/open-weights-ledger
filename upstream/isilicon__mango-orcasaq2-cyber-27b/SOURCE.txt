@@ -1,0 +1,3 @@
+repo: https://huggingface.co/isilicon/mango-orcasaq2-cyber-27b
+main commit at snapshot: d3f64b072297f23eb742ec960c40c3ee29245fb7
+snapshot taken: 2026-11-15T02:30:40Z

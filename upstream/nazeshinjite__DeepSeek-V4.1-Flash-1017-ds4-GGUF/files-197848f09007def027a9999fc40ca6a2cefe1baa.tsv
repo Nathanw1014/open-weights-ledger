@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+DeepSeek-V4.1-Flash-1017-Q2.gguf	365713686528	f57e6c3e5e68c513249e1c472a2600bf59792ca78cacb7ac0531a6056376856e	sha256
+DeepSeek-V4.1-Flash-1017-Vision.gguf	970555552	861f1097e8686111fa23dc4a6bf139fd0c4cc114db2f1b4090a267f7683c0dbf	sha256

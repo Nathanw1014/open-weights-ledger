@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+package/checkpoint/adapter/adapter_model.safetensors	61907944	1c857224bd3609c6a71eacf7f71dd021115fcc0f791936b1fc332e915b548a81	sha256
+package/checkpoint/head.pt	22221	76e382f122abfa4e0c467d860a8d142d2fb6d2a98dc0ef9e19870bfc6eb296b4	sha256

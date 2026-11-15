@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dealignai/Bonsai-2-27B-1bit-CRACK-GGUF
+main commit at snapshot: 9665897ee63152226ecd64a1036d14292397186f
+snapshot taken: 2026-11-15T02:28:58Z

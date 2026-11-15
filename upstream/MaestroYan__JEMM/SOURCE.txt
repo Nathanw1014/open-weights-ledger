@@ -1,0 +1,3 @@
+repo: https://huggingface.co/MaestroYan/JEMM
+main commit at snapshot: 76e3c209e8441fa658221c7ba2725bad2f811176
+snapshot taken: 2026-11-15T02:24:13Z

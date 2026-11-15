@@ -1,0 +1,3 @@
+repo: https://huggingface.co/qaqab/Qwen3.8-27B-Uncensored-Q4_K_M-GGUF
+main commit at snapshot: b8d226998047333f9de7bac59d8ea1a10bd72040
+snapshot taken: 2026-11-15T02:34:50Z

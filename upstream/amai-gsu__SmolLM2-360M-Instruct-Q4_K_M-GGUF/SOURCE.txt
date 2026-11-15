@@ -1,0 +1,3 @@
+repo: https://huggingface.co/amai-gsu/SmolLM2-360M-Instruct-Q4_K_M-GGUF
+main commit at snapshot: 1269ca2ea6f4d15ee1c031c44355b66fca2b1a19
+snapshot taken: 2026-11-15T02:27:07Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mrfaqerzada/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: cf555656eeb0a03b09c961cdae49a1fdf67f9e9c
+snapshot taken: 2026-11-15T02:33:15Z

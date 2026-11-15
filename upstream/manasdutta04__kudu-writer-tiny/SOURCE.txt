@@ -1,0 +1,3 @@
+repo: https://huggingface.co/manasdutta04/kudu-writer-tiny
+main commit at snapshot: 0a45ae280eb00f7cdb57647885a8eaef3acaecd1
+snapshot taken: 2026-11-15T02:31:46Z

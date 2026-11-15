@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Baekpica/DeepSeek-V4.1-Flash-1017-UNCENSORED-VQ-GGUF
+main commit at snapshot: 50b8e3f69443d1e9113583252d1958e669db7d53
+snapshot taken: 2026-11-15T02:21:32Z

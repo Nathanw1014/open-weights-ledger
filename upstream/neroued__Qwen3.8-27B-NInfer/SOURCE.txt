@@ -1,0 +1,3 @@
+repo: https://huggingface.co/neroued/Qwen3.8-27B-NInfer
+main commit at snapshot: 337b691c109e60d67dc6213902d19d27d10acff9
+snapshot taken: 2026-11-15T02:33:32Z

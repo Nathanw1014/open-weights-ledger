@@ -1,0 +1,62 @@
+[
+{
+"Path": "AP-IQ3_S/Signal-3.8-27B-AP-IQ3_S.gguf",
+"Sha256": "f6ed7792bd884c8c65f186a6ab68e5f03c826735ca5b4f9e64df2a33e6d5cf1c",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "AP-IQ3_XXS/Signal-3.8-27B-AP-IQ3_XXS.gguf",
+"Sha256": "b1281537850915dba2d3bedcab9ed9c33c2e9e95b5228366cc62a66e017a9e6a",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "AP-IQ4_XS/Signal-3.8-27B-AP-IQ4_XS.gguf",
+"Sha256": "2a3c91ee163d01d65cbad68af0826374c313801fff9b2f29e6fa7fdfe061429b",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "AP-Q3_K_XL/Signal-3.8-27B-AP-Q3_K_XL.gguf",
+"Sha256": "621ea2404b5a903266d5b59463c386bdbc18a0eb467528ab0fcb2efaa8873ebc",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "AP-Q4_K_M/Signal-3.8-27B-AP-Q4_K_M.gguf",
+"Sha256": "66a1a2508def121d260293b41f0e9cb332786b84a026a5dd59c45aed6e449c54",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "AP-Q4_K_XL/Signal-3.8-27B-AP-Q4_K_XL.gguf",
+"Sha256": "d14962f56e25a686d9a8f78f6e69ca2b76b12040bba981975573b71de29d7895",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "AP-Q5_K_M/Signal-3.8-27B-AP-Q5_K_M.gguf",
+"Sha256": "a8b34db12110eeec9639deb2dd5b2cbee0d8f220b41447a648ac22dc7909a45f",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "AP-Q6_K/Signal-3.8-27B-AP-Q6_K.gguf",
+"Sha256": "fe4760215d62b697686a7e608a9705b629003103228228b37e104da22e2385c0",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "Q8_0/Signal-3.8-27B-Q8_0.gguf",
+"Sha256": "7df1f482c0e3a914216d30ec27ff63f8df324c7091f349167d4b8798a52fee5e",
+"IsLFS": true,
+"CommittedDate": 1789411339
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "83ee4f4f205fa514161778c41df1ea14144faa0f713510893b63c2395f5c2d53",
+"IsLFS": true,
+"CommittedDate": 1789019933
+}
+]

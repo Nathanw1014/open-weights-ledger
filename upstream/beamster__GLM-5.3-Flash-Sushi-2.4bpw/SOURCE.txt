@@ -1,0 +1,3 @@
+repo: https://huggingface.co/beamster/GLM-5.3-Flash-Sushi-2.4bpw
+main commit at snapshot: 0bc3bf157723d2bb7723e31118addf48b22101b0
+snapshot taken: 2026-11-15T02:28:07Z

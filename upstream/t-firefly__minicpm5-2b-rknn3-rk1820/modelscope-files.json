@@ -1,0 +1,32 @@
+[
+{
+"Path": "MiniCPM5-2B.embed.bin",
+"Sha256": "5e720b334ed68a4949481837d004be9afdee9ef08c32cceb005d215b5dd82918",
+"IsLFS": true,
+"CommittedDate": 1794449887
+},
+{
+"Path": "MiniCPM5-2B.rknn",
+"Sha256": "5e133851f59c7f2c98ef25c6d35b3847daa18d4bc3bd4aa10d3a4bdaa44ac437",
+"IsLFS": true,
+"CommittedDate": 1794449887
+},
+{
+"Path": "MiniCPM5-2B.weight",
+"Sha256": "8daf4d21ccf9e71ad537209ce88fa7881011f2984b8f72f81cab260f59e93c8d",
+"IsLFS": true,
+"CommittedDate": 1794449887
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "3e065a558a034185fe299917b398685c1facd0169a9eea1e629eb30c171fed81",
+"IsLFS": true,
+"CommittedDate": 1794449887
+},
+{
+"Path": "tokenizer_config.json",
+"Sha256": "e9b1064649e771d7a8e15637c68b2d2749724877ba3648bd74a4ece31c26303b",
+"IsLFS": true,
+"CommittedDate": 1794449887
+}
+]

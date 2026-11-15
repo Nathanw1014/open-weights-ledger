@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Ornith-1.5-35B-A3B-i1-GGUF
+main commit at snapshot: ba20fb3beb9903ef6757f3a91f0677d8553c01cd
+snapshot taken: 2026-11-15T02:32:56Z

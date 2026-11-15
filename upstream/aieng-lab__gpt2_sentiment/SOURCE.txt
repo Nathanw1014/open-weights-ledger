@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2_sentiment
+main commit at snapshot: ded3f7169d40e158a08866a6556e8f705d5f6f82
+snapshot taken: 2026-11-15T02:26:48Z

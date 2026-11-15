@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-DFlash2-Q2_K_S-MIX.gguf	561241824	0c1a01efa952a752b8bf139e8beb934d07278422eefc2e0ba968a75ee8bed528	sha256
+assets/dflash2-figure.png	286889	6d8dcc9a9472bddb644c881fe83050b5343d09bf5ffb0912e5598e55fe671e99	sha256
+assets/tg_vs_mib.png	117988	4d3be6429057cb3e01442748ba96ed1263cb034f48c7517de1f908d6ec7ea3f4	sha256

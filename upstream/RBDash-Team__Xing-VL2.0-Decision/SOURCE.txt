@@ -1,0 +1,3 @@
+repo: https://huggingface.co/RBDash-Team/Xing-VL2.0-Decision
+main commit at snapshot: c06b8050333757ddc9f7a8d6e78563a91a5acd98
+snapshot taken: 2026-11-15T02:25:00Z

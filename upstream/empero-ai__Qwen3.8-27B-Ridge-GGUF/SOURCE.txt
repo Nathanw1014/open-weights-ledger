@@ -1,0 +1,3 @@
+repo: https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF
+main commit at snapshot: 486faa5f2032ff99bdc8993ade1b8fff13d1464c
+snapshot taken: 2026-11-15T02:29:30Z

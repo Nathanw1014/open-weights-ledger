@@ -1,0 +1,3 @@
+repo: https://huggingface.co/QuantFactory/gpt2-GGUF
+main commit at snapshot: 7eae6f079f0164bff66b86eea5159f7a368f9381
+snapshot taken: 2026-11-15T02:24:59Z

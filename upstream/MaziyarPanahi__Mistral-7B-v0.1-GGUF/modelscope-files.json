@@ -1,0 +1,62 @@
+[
+{
+"Path": "Mistral-7B-v0.1.Q2_K.gguf",
+"Sha256": "bee4d8dcddbdc335e7061fd922b5cca993a19f0af7a007114025fda7f56c57c4",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q3_K_L.gguf",
+"Sha256": "0f61ef2788d3ee2dca2fc4762e61e1207f7f4b9b57b1a928cb0607634d466beb",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q3_K_M.gguf",
+"Sha256": "6f28a77ae18e8198c89ceec70519e5357cda1e6c34b8dcb0c0092fe67e517033",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q3_K_S.gguf",
+"Sha256": "e1e4ab9e0244bfbe0f87033f791a35a726f7a1aa43aaf5de116e3159eec5eaf0",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q4_K_M.gguf",
+"Sha256": "54f4b2bcb7fd286a2cfef6da25e90009a95b276dee82cb8e4f086136b478de64",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q4_K_S.gguf",
+"Sha256": "6a97371c064386d8d57b06eec645b4966ab66430f08b85fdf692eabab1e8d7e7",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q5_K_M.gguf",
+"Sha256": "31519c7e58a371f4d03a443ff9ebb6b5829df81fb80a3b7560a3896820642856",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q5_K_S.gguf",
+"Sha256": "749cd34ea569a14be684cd390b259b78162acf9e48bba5612556edaac432e36f",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q6_K.gguf",
+"Sha256": "1fa0031a9ae0680f68f427e1345ea3fd059767d0adce9c631748e17677fe37e1",
+"IsLFS": true,
+"CommittedDate": 1763998064
+},
+{
+"Path": "Mistral-7B-v0.1.Q8_0.gguf",
+"Sha256": "72ce9160cb78b782d675556373a1ecbb8c464451555d643b790f9281d5d1bb89",
+"IsLFS": true,
+"CommittedDate": 1763998064
+}
+]

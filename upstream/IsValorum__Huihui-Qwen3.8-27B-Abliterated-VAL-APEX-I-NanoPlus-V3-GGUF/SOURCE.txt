@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Huihui-Qwen3.8-27B-Abliterated-VAL-APEX-I-NanoPlus-V3-GGUF
+main commit at snapshot: e07cc5265e2da151369fcb3fb8155ad6299ef457
+snapshot taken: 2026-11-15T02:23:21Z

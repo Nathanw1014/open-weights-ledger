@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ornith-1.5-35B-A3B-Abliterated-CyberTiel_Calibrated-MTPv2-19G-ICE.gguf	18822569280	083a0d0b487e7d72bc3e9ca4b1d2c93c40e3601733afb6af63eb9334eec511b2	sha256
+Ornith-1.5-35B-A3B-Abliterated-CyberTiel_Calibrated-MTPv2-21G-ICE.gguf	20848418112	c7a977199b037a374e3897a49cfc1aa5feb954fb23f5382feeb3a9caf239babb	sha256
+Ornith-1.5-35B-A3B-Abliterated-CyberTiel_Calibrated-MTPv2-23G-ICE.gguf	22836518208	579a20a18649e79a9e1d56bb8c88150fe5764fb83903154de3c4cb9d6de2ef8a	sha256
+Ornith-1.5-35B-A3B-Abliterated-CyberTiel_Calibrated-MTPv2-25G-ICE.gguf	24849784096	948a300706b3c19947f59acb0227d34b19124e7443dccba65daff8302e787656	sha256
+Ornith-1.5-35B-A3B-Abliterated-CyberTiel_Calibrated-MTPv2-BF16.gguf	71067016544	9154fef33f46b3c8944077cc05d3886b76a187f67009c547fcac73427ee97bd6	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/allenai/OLMo-2-0425-1B-RLVR1
+main commit at snapshot: 12cb33498d26b411c38ac3ca9df27180a1d291b8
+snapshot taken: 2026-11-15T02:27:04Z

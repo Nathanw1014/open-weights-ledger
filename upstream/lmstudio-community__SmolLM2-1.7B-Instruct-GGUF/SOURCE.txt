@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lmstudio-community/SmolLM2-1.7B-Instruct-GGUF
+main commit at snapshot: e54b91ee756cb2d5fd8615757239acc89f88c7e0
+snapshot taken: 2026-11-15T02:31:34Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Blackfrost-AI/RED-SNOW-5.3-FLASH-NVFP4
+main commit at snapshot: 8133f8ba249427a0dbe0ee197f8562d2ef109569
+snapshot taken: 2026-11-15T02:21:43Z

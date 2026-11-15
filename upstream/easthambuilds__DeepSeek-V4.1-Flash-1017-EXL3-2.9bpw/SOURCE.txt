@@ -1,0 +1,3 @@
+repo: https://huggingface.co/easthambuilds/DeepSeek-V4.1-Flash-1017-EXL3-2.9bpw
+main commit at snapshot: 2913ea75b326801b6645bc2ffaefb485d049abc2
+snapshot taken: 2026-11-15T02:29:30Z

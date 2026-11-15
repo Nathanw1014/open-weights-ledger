@@ -1,0 +1,14 @@
+[
+{
+"Path": "1_Dense/model.safetensors",
+"Sha256": "ce211361ebcef24a459e172f5683999ea6323b04fea0171c9caf6cd5e2cf4579",
+"IsLFS": true,
+"CommittedDate": 1787578951
+},
+{
+"Path": "adapter_model.safetensors",
+"Sha256": "41673fb85f448ff15356e4dfcf9e039d7c6e3cffa1936bc3513f55453005e63e",
+"IsLFS": true,
+"CommittedDate": 1749001569
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nightmedia/OpenAI-gpt-oss-20B-INSTRUCT-Heretic-Uncensored-MXFP4-q8-hi-mlx
+main commit at snapshot: e54be7ef6099656c46718ef032176de6921f4bf7
+snapshot taken: 2026-11-15T02:33:39Z

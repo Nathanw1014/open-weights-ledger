@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HermiHg/Qwen3.8-27B-DFlash2-Q2_K_S-MIX-GGUF
+main commit at snapshot: 2b4527438b07460dcf27713107aedf0c6853e850
+snapshot taken: 2026-11-15T02:22:41Z

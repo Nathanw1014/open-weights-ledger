@@ -1,0 +1,86 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "f55217be716b6a997b97b9d8d7eb6fad02e00858f5010ec24f64603c3a98a0e8",
+"IsLFS": true,
+"CommittedDate": 1730425390
+},
+{
+"Path": "onnx/model.onnx",
+"Sha256": "9d47cfffc09e0062a9c7c03ed5d768df1bfffc6acf27c55e266eced858da41f8",
+"IsLFS": true,
+"CommittedDate": 1732632087
+},
+{
+"Path": "onnx/model.onnx_data",
+"Sha256": "023686a59a534e45af70bc5f99ae70e592481701680591f9844fc140a3db220a",
+"IsLFS": true,
+"CommittedDate": 1732632087
+},
+{
+"Path": "onnx/model_bnb4.onnx",
+"Sha256": "565c43798c19a63941d360ac00830431a1ab79a9893748c8624b52049cabeb5e",
+"IsLFS": true,
+"CommittedDate": 1732632087
+},
+{
+"Path": "onnx/model_fp16.onnx",
+"Sha256": "ecfaaeb3e66daa109e6d1ab365ce712dc833322045ca23e264a45acc80ec48e7",
+"IsLFS": true,
+"CommittedDate": 1732632087
+},
+{
+"Path": "onnx/model_fp16.onnx_data",
+"Sha256": "5f48c05c14ed97738f8dc5854c20c229ddc8661f43fa914085843901a4ba8740",
+"IsLFS": true,
+"CommittedDate": 1730425390
+},
+{
+"Path": "onnx/model_int8.onnx",
+"Sha256": "f8eeead8e191939562a98af969f9d63dd404dc72a9a65b2c19cabb857de7c8d9",
+"IsLFS": true,
+"CommittedDate": 1732632087
+},
+{
+"Path": "onnx/model_q4.onnx",
+"Sha256": "24ae37d376f94a0a47ba47b33150da0fe5269017ff71e483fdecbb9ab3230608",
+"IsLFS": true,
+"CommittedDate": 1732632087
+},
+{
+"Path": "onnx/model_q4f16.onnx",
+"Sha256": "71b383ff60bbe363fd16e2e842b59e7258f622ffd640c6a18dffd9edec3530e8",
+"IsLFS": true,
+"CommittedDate": 1732632087
+},
+{
+"Path": "onnx/model_quantized.onnx",
+"Sha256": "6e038fd6fb27b41fbb62e6a7df9b60b57215db3958d14382221beaab78fbc1d4",
+"IsLFS": true,
+"CommittedDate": 1732666057
+},
+{
+"Path": "onnx/model_uint8.onnx",
+"Sha256": "6e038fd6fb27b41fbb62e6a7df9b60b57215db3958d14382221beaab78fbc1d4",
+"IsLFS": true,
+"CommittedDate": 1732632087
+},
+{
+"Path": "runs/Oct31_06-24-59_ip-26-0-174-36/events.out.tfevents.1730356365.ip-26-0-174-36.3169719.0",
+"Sha256": "e6bfce1916438dd2e6553aa0a62d418087b3ae04f8af75e714ad1f01b7663db6",
+"IsLFS": true,
+"CommittedDate": 1730425390
+},
+{
+"Path": "runs/Oct31_06-24-59_ip-26-0-174-36/events.out.tfevents.1730363825.ip-26-0-174-36.3169719.1",
+"Sha256": "b3d7723fd0715ce6dcbccf7bb2097f59490b0ac670f798f5378ef5abb7d1301d",
+"IsLFS": true,
+"CommittedDate": 1730425390
+},
+{
+"Path": "training_args.bin",
+"Sha256": "7649586c424c337f6c403fdb617ac9d954daf9a7192f3afe5b6318f37e9bb19e",
+"IsLFS": true,
+"CommittedDate": 1730425390
+}
+]

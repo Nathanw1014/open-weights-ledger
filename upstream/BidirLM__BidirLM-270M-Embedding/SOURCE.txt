@@ -1,0 +1,3 @@
+repo: https://huggingface.co/BidirLM/BidirLM-270M-Embedding
+main commit at snapshot: 769f3a064aa4113a97d9b19c2417cb67a8cf5f30
+snapshot taken: 2026-11-15T02:21:38Z

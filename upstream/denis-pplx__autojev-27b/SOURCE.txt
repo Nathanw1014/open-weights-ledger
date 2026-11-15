@@ -1,0 +1,3 @@
+repo: https://huggingface.co/denis-pplx/autojev-27b
+main commit at snapshot: 6f5b557e037f5edb25c7dc92dbc6553e5a19c015
+snapshot taken: 2026-11-15T02:29:18Z

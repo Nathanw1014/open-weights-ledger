@@ -1,0 +1,3 @@
+repo: https://huggingface.co/richardyoung/Mistral-7B-Instruct-v0.2-abliterated-obliteratus
+main commit at snapshot: 9c17c8bda868d9422835ef6446015365b81fec70
+snapshot taken: 2026-11-15T02:35:02Z

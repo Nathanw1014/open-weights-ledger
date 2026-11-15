@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2_commit-intent
+main commit at snapshot: ec09663e1639b8deca90ae472e6d6741490a8cd3
+snapshot taken: 2026-11-15T02:26:42Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/Qwen3.8-27B-GGUF
+main commit at snapshot: 87410e7b9a5c21e6ca70c0c9cc5237de909fe621
+snapshot taken: 2026-11-15T02:27:57Z

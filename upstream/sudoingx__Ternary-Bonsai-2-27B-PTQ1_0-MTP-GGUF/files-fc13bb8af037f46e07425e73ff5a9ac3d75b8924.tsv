@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ternary-Bonsai-2-27B-PTQ1_0-mtp-lean.gguf	6297658848	1e33c571a5ce7a9a3e42474d66192923d5a6d77da7fb3a22986dc809522b5685	sha256
+Ternary-Bonsai-2-27B-PTQ1_0-mtp.gguf	7012820512	83a396ee218c36e5ed88205eccb940a71549d9a72a3d020cc2713f94a78f70f0	sha256
+bonsai2-small-gpu-linux-x64-cuda12.4-sm75-ff41412.tar.gz	445797836	8d9ea2691735222ef733af20f7ab97f09bbfb13f7dd3fdc814e8c9e5b1a58e23	sha256
+bonsai2-small-gpu-linux-x64-cuda12.4-sm86-sm89-285542d.tar.gz	514982389	46b0bc960f00352267ed34246b7cb5010fa64618077158647e5d2bbcf0fb60fe	sha256
+bonsai2-small-gpu-linux-x64-cuda12.8-sm120-ff41412.tar.gz	646541994	74e1cf451d41e1435d15ef93e76007219cdf28fd1eb59bf335d1f3d31bfbc4da	sha256
+bonsai2-small-gpu-windows-x64-cuda12.4-sm75-ff41412.zip	473325481	74c393bdca44225b3bae84e39b41b20ad3f3e03be222700baa2eaf135044ed6d	sha256
+bonsai2-small-gpu-windows-x64-cuda12.4-sm86-sm89-ff41412.zip	550702580	33b52007e4a1f0520d9428a2924a9a5fa7b7de58fc2e50909e1c2b0fecafc9bf	sha256
+bonsai2-small-gpu-windows-x64-cuda13.3-sm120-ff41412.zip	447095737	fc954067a7f8864d5687fe572c9be541955dcb2b583795eaa12f5c098528d341	sha256

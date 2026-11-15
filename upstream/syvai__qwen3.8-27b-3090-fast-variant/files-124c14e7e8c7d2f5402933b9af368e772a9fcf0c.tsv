@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+model-00007-of-00007.safetensors	655565120	ac4511ddfbdcd8399dffee570c31708c13f974a18e46d3c337ca652a46a1a437	sha256
+model_extra_tensors.safetensors	327162544	3643128012845562d066540990eceb012e6dc9d1ba794c668d774a91edcd9dbb	sha256
+mtp_draft_vocab_ids.pt	329341	8af9028616e41932e0c949cd5364d2da0a69d15375af9bb404cab1e4d723f581	sha256

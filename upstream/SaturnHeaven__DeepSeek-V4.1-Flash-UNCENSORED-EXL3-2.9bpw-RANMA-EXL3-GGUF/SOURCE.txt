@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SaturnHeaven/DeepSeek-V4.1-Flash-UNCENSORED-EXL3-2.9bpw-RANMA-EXL3-GGUF
+main commit at snapshot: e7bb849fc62f0a2abe5e8fbb8108cf6bf07246b4
+snapshot taken: 2026-11-15T02:25:23Z

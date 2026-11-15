@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+model.safetensors	497795892	bbc2b143422e5e53ad7777f10b70aa5f84e1ebdb5c2319bbe3dc878e60837b62	sha256
+optimized_thresholds.npy	156	f06be43ba94ea6d910ecb9a24dd96f24d12807d1d38936b77bd907527db070c6	sha256
+pytorch_model.bin	510420891	374c1d24677704fc706d96fcf530485cf367c64d65aeeac58110a04b443fcff5	sha256
+training_args.bin	4625	f415c7c7ca2d003f3750bafdafdbf470c082af3be9b054ffd63e21d4c9e151f4	sha256

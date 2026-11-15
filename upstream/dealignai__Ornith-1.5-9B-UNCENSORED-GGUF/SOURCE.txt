@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dealignai/Ornith-1.5-9B-UNCENSORED-GGUF
+main commit at snapshot: ff3af5719557150f553625b64fb8866fde796054
+snapshot taken: 2026-11-15T02:29:13Z

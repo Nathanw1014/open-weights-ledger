@@ -1,0 +1,14 @@
+[
+{
+"Path": "mask_embedding.safetensors",
+"Sha256": "791d35ddcfc86cc621ac0c921139d877b34313ad98173a4c2d88b85eba4fa3aa",
+"IsLFS": true,
+"CommittedDate": 1792675023
+},
+{
+"Path": "model.safetensors",
+"Sha256": "448fed97ee07d1bd2ab2550231ceeb6272f7c846903bac46060757757227b05f",
+"IsLFS": true,
+"CommittedDate": 1792523446
+}
+]

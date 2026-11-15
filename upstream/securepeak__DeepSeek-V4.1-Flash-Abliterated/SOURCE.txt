@@ -1,0 +1,3 @@
+repo: https://huggingface.co/securepeak/DeepSeek-V4.1-Flash-Abliterated
+main commit at snapshot: ac12fcceee317f9e01b698c8fed14c0a10c58833
+snapshot taken: 2026-11-15T02:35:12Z

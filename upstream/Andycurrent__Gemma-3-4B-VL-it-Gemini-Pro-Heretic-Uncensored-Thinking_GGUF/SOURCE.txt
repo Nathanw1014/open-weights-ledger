@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Andycurrent/Gemma-3-4B-VL-it-Gemini-Pro-Heretic-Uncensored-Thinking_GGUF
+main commit at snapshot: 0231eb901e7c7ea0058e4fc055fe3609c0debe5a
+snapshot taken: 2026-11-15T02:21:16Z

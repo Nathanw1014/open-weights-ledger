@@ -1,0 +1,3 @@
+repo: https://huggingface.co/redthing1/DeepSeek-V4.1-Flash-1017-EXL3-1.38bpw-Quantseekv2
+main commit at snapshot: 23530d477d7496045a300547e5509468f7d8d0e4
+snapshot taken: 2026-11-15T02:34:59Z

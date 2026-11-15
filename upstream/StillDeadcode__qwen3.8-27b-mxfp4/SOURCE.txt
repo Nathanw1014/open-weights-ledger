@@ -1,0 +1,3 @@
+repo: https://huggingface.co/StillDeadcode/qwen3.8-27b-mxfp4
+main commit at snapshot: 60bd4139f335205fbc120e5534329c30b691af0e
+snapshot taken: 2026-11-15T02:25:35Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jakeatx/Qwen3.8-27B-ATX-IQ4_XS-M-GGUF
+main commit at snapshot: a130d4150b29f5f202b650a10b82f9d4e9649095
+snapshot taken: 2026-11-15T02:30:44Z

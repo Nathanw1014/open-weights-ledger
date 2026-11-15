@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nlpguy/smolchess-v2
+main commit at snapshot: 6ced27c35a207a026fdc6857be0285aeec7c4165
+snapshot taken: 2026-11-15T02:33:40Z

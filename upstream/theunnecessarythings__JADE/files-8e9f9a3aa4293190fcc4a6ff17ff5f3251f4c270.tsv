@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+adapter.safetensors	162056864	944535b2b8439a9aba7daf986afffec41f19e54ee645a134608f196b6eb1f36a	sha256
+tokenizer.json	19989510	639e352c0f904c1875d448ebed6f6faac005fd3eb58393b7f1fb3ff044e5ca03	sha256
+vllm-adapter/adapter_model.safetensors	289220392	ced6e8da3261ba71b4f0a1bc7d71f86f85ebce8c08923ed581098f46917b8a32	sha256

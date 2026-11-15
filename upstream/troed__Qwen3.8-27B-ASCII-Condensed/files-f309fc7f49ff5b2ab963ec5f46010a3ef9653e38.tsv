@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-ASCII-Condensed-DFlash2-Q2_K_S-MIX.gguf	535306304	87e68e86f499a437eb610344a5575d1f0d89c075635279e22aaf352fd1984e11	sha256
+Qwen3.8-27B-ASCII-Condensed-IQ4_XS-3.84bpw.gguf	12251031520	5d1cec934b6b92ccd5736328c02f0d60a702a6b4424cc19a3d8e6f3fd4f7d64d	sha256

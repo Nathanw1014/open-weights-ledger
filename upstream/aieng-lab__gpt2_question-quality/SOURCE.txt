@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2_question-quality
+main commit at snapshot: 7c2da16eb882e0f0e9ceb286c0da52faec84349b
+snapshot taken: 2026-11-15T02:26:44Z

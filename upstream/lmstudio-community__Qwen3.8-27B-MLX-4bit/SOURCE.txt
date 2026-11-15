@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lmstudio-community/Qwen3.8-27B-MLX-4bit
+main commit at snapshot: 6067b15cf581666a4aecf6af3afaba4bb5efc20c
+snapshot taken: 2026-11-15T02:31:28Z

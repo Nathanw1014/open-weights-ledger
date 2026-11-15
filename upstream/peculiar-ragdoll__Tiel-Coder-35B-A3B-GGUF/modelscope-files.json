@@ -1,0 +1,86 @@
+[
+{
+"Path": "Tiel-Coder-35B-A3B-UD-IQ3_S.gguf",
+"Sha256": "f5a0c6740f5b94fda307a0c583b2367359f3090bd2bd6837e86fd74db2279680",
+"IsLFS": true,
+"CommittedDate": 1793029261
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-IQ3_XXS.gguf",
+"Sha256": "3317d98a339261b21c3c5104a87a95afedcca14cff4ed9c7f77adeff611db42d",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-IQ4_XS.gguf",
+"Sha256": "c4c340e1c87641f3eaffd2c81ead60dd4bccf9551dd2b7c172f9939702156493",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-Q2_K_XL.gguf",
+"Sha256": "3229e31db71348885788fbc5a5076cb88abc7dc9b707d348035d6028fd039f61",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-Q3_K_XL.gguf",
+"Sha256": "2e11a19591653d76e5b08906d18b32172dd6f6e270f9d25be41eb83fc39f7b3b",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-Q4_K_S.gguf",
+"Sha256": "f73a81b081520230e42f8ba803bd88be2f22e6d474616f400b41e7c00abdcaeb",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-Q4_K_XL.gguf",
+"Sha256": "9779b32f998371c66ae5e1aa9a0bc7ad946b1a36c61ea6a8eb39d523b4b19033",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-Q5_K_S.gguf",
+"Sha256": "2bf5ec6b4ae5c4ae43a696a0daf060ea11d727fdff2f5d63bbdb1006ec8cc422",
+"IsLFS": true,
+"CommittedDate": 1793029261
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-Q5_K_XL.gguf",
+"Sha256": "44df39d67c62edc2f084faa14ae456193977de50340ac1c3219202bcc8018616",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-Q6_K_XL.gguf",
+"Sha256": "98d32f5cd01e1ecd028d9cabdc374891256d5da07634ab03751f4d4e1476ddb6",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B-UD-Q8_K_XL.gguf",
+"Sha256": "1a9180c25ff57a6ada6971ab0c1c51fa691ccc072ad921ed4bd3fa455b44eb44",
+"IsLFS": true,
+"CommittedDate": 1789131518
+},
+{
+"Path": "Tiel-Coder-35B-A3B.imatrix.gguf",
+"Sha256": "ff7a3369b590bf765e479abb36bd775126fd818b657a0adb8ac6aa9d94b0b8bc",
+"IsLFS": true,
+"CommittedDate": 1787598192
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "d9ce31026d1cb1f3f8d5152e2e2a014d9d2b302b6c93a7dc07bb0a0487f52837",
+"IsLFS": true,
+"CommittedDate": 1787598225
+},
+{
+"Path": "mtp-Tiel-Coder-35B-A3B.gguf",
+"Sha256": "93d1937493be941538614911b845e3af2d419b4d6e95273427bb4daf5a1e2e83",
+"IsLFS": true,
+"CommittedDate": 1789048693
+}
+]

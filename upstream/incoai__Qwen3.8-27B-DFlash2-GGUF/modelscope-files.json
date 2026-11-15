@@ -1,0 +1,20 @@
+[
+{
+"Path": "Qwen3.8-27B-DFlash2-BF16.gguf",
+"Sha256": "e05758a42a5afa3438df834ac6df2157120554964e555873fbbd110a4989035a",
+"IsLFS": true,
+"CommittedDate": 1792503138
+},
+{
+"Path": "Qwen3.8-27B-DFlash2-Q4_K_M.gguf",
+"Sha256": "d169ad335929adc0d77e10e2523f968f3e75f547637ad739b0a137ccde111b5f",
+"IsLFS": true,
+"CommittedDate": 1792503138
+},
+{
+"Path": "Qwen3.8-27B-DFlash2-Q8_0.gguf",
+"Sha256": "651a1b2930c9825080480f79cf38057e681c9b175d580a357c14f67cf77ccf49",
+"IsLFS": true,
+"CommittedDate": 1792503138
+}
+]

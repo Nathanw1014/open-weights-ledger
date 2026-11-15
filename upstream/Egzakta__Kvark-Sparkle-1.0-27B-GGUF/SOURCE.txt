@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Egzakta/Kvark-Sparkle-1.0-27B-GGUF
+main commit at snapshot: 1d39e7b3af38c89cca2a46dbd54b701ba5edf77c
+snapshot taken: 2026-11-15T02:22:18Z

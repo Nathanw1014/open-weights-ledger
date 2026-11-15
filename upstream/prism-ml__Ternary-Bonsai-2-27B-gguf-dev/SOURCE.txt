@@ -1,0 +1,3 @@
+repo: https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf-dev
+main commit at snapshot: 1dc2d993003f2e659cb307645036cfa525d2c8bd
+snapshot taken: 2026-11-15T02:34:43Z

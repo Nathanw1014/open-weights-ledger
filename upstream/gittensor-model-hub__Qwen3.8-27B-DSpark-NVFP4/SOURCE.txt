@@ -1,0 +1,3 @@
+repo: https://huggingface.co/gittensor-model-hub/Qwen3.8-27B-DSpark-NVFP4
+main commit at snapshot: eba1ac5a66c74902eaa95a4000a7c5eda96d8e95
+snapshot taken: 2026-11-15T02:29:55Z

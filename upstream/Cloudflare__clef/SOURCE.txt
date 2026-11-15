@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Cloudflare/clef
+main commit at snapshot: 171287b2571042abec9e7b99752aee58216b0ed0
+snapshot taken: 2026-11-15T02:21:48Z

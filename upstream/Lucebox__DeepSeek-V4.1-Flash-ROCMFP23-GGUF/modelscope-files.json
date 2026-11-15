@@ -1,0 +1,56 @@
+[
+{
+"Path": "DeepSeek-V4.1-Flash-ROCMFP23.gguf",
+"Sha256": "2daea6ca1715bc987aae201e63445d3f7abdc2337c05f5f569f5e50237ce8be2",
+"IsLFS": true,
+"CommittedDate": 1792418722
+},
+{
+"Path": "DeepSeek-V4.1-Flash-ROCMFP2S-MIX10.gguf",
+"Sha256": "d8feb84b1f1a0c4acaec7e3f34e06aa757866b8f213eca00f7f2389b665a22ce",
+"IsLFS": true,
+"CommittedDate": 1792418722
+},
+{
+"Path": "DeepSeek-V4.1-Flash-ROCMFP2S.gguf",
+"Sha256": "73a6f07d6018ab301430468d7715772644b612f4c9a6ca24fd7c09e0575f14e5",
+"IsLFS": true,
+"CommittedDate": 1792418722
+},
+{
+"Path": "DeepSeek-V4.1-Flash-mmproj-BF16.gguf",
+"Sha256": "d412f5a73bfdfa57b70259358c83cd047164d6d1787f63fcd72836139d8a01fb",
+"IsLFS": true,
+"CommittedDate": 1792418724
+},
+{
+"Path": "ds41-lucebox-final.gguf",
+"Sha256": "0e41bea003f5bbfcc93385d5bd7d09d568b617028b7503b3832440796ecd6d4e",
+"IsLFS": true,
+"CommittedDate": 1792418724
+},
+{
+"Path": "ds41-lucebox-minus10gib.gguf",
+"Sha256": "329f7d573f988648eb825c3ca7aa07bc0ef6f8200cc9c5e3c3eedd42abeb11f4",
+"IsLFS": true,
+"CommittedDate": 1792418726
+},
+{
+"Path": "eval/heldout_8x1024.npy",
+"Sha256": "a37f66b8d90eff256fe659d0e9ce4340ec1fa100f3b0cca766a1092db1d4e4b3",
+"IsLFS": true,
+"CommittedDate": 1792418734
+},
+{
+"Path": "eval/teacher_8x1024.npz",
+"Sha256": "c7a035878442dcbcf35fc32f384aa10a0120c63432db3dce79364102ed3fa5d9",
+"IsLFS": true,
+"CommittedDate": 1792418736
+},
+{
+"Path": "imatrix/v41-smalinin-262144.dat",
+"Sha256": "00fc74f155499fe97f84b3006d871ca20f5d97119d9a70860c80451547b4a45d",
+"IsLFS": true,
+"CommittedDate": 1792418738
+}
+]

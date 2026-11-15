@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Andronovo/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 7bffc2c7bbeda85f69d73000ff1f008c8927696d
+snapshot taken: 2026-11-15T02:21:14Z

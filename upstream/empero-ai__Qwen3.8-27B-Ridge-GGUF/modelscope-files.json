@@ -1,0 +1,14 @@
+[
+{
+"Path": "Qwen3.8-27B-Ridge-3.7bpw.gguf",
+"Sha256": "95580dbdaad579582ee898257116abc18d7f3625a00c16a15735d41444a09f5e",
+"IsLFS": true,
+"CommittedDate": 1786820359
+},
+{
+"Path": "mmproj-Qwen3.8-27B-BF16.gguf",
+"Sha256": "52228402ce4823f10705d901813cd43ced71859524cf2d8bf83305ad6b7dcbc2",
+"IsLFS": true,
+"CommittedDate": 1786820359
+}
+]

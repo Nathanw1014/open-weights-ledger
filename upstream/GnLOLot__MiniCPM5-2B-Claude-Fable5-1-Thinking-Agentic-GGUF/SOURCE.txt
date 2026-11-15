@@ -1,0 +1,3 @@
+repo: https://huggingface.co/GnLOLot/MiniCPM5-2B-Claude-Fable5-1-Thinking-Agentic-GGUF
+main commit at snapshot: 0db8d0ff8753091b7eb2bc4b21cbb048fafda0a9
+snapshot taken: 2026-11-15T02:22:39Z

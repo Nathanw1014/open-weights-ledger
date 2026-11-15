@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Jiunsong/SuperQwen3.8-27b-abliterated-MLX-4bit
+main commit at snapshot: bd2a440fb188d55be2299771cf9740128f693d72
+snapshot taken: 2026-11-15T02:23:48Z

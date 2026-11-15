@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bsaleh03/Qwen3.8-27B-ASCII-Condensed
+main commit at snapshot: b0bf827c2322a7e3ba26abb36fe215c1127b7d89
+snapshot taken: 2026-11-15T02:28:15Z

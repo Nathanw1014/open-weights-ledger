@@ -1,0 +1,26 @@
+[
+{
+"Path": "adapters/humanizer-dpo/adapters.safetensors",
+"Sha256": "101a8d2833a7ad5f0610a112aadeedfc1571eacb9809464c1ce1f088ab2e269b",
+"IsLFS": true,
+"CommittedDate": 1780343861
+},
+{
+"Path": "adapters/humanizer-sft/adapters.safetensors",
+"Sha256": "2dd9685946a90b65dcd123a83a1f401b5b47ccbd6a68c09b19d8b6d2fe98e650",
+"IsLFS": true,
+"CommittedDate": 1780343897
+},
+{
+"Path": "model.safetensors",
+"Sha256": "88bb686ed4a28f7c2065e27aabef7669f84961ac47c83efe2d003436c179e2e4",
+"IsLFS": true,
+"CommittedDate": 1780343968
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "3e065a558a034185fe299917b398685c1facd0169a9eea1e629eb30c171fed81",
+"IsLFS": true,
+"CommittedDate": 1780344004
+}
+]

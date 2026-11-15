@@ -1,0 +1,3 @@
+repo: https://huggingface.co/underlotus/Qwen3.8-27B-heretic-ara-oQ4e-mtp
+main commit at snapshot: 3f356f5f995eedcdf54dab29cd366371e7b476aa
+snapshot taken: 2026-11-15T02:36:12Z

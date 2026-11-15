@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Jeff98/MiniCPM5-2B-openvino
+main commit at snapshot: ad2d36de8216231a83fbb6d96984da7bc842395e
+snapshot taken: 2026-11-15T02:23:43Z

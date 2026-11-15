@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ibm-granite/granitelib-core-r1.0
+main commit at snapshot: b881a4371db7284beac66a658b0cadcd32b12977
+snapshot taken: 2026-11-15T02:30:12Z

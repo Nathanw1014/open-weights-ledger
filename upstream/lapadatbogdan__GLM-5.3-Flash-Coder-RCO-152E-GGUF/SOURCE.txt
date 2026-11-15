@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lapadatbogdan/GLM-5.3-Flash-Coder-RCO-152E-GGUF
+main commit at snapshot: 22b67db7dc99aa82e45e32042f933181067bb6cf
+snapshot taken: 2026-11-15T02:31:13Z

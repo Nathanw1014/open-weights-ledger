@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+dspark-mixed-stage-0.safetensors	1556346856	381a7fbc8758cd86baab55e8f1ae3020e49e2977f067d4269416889c1aee8118	sha256
+dspark-mixed-stage-1.safetensors	1512099424	2ca7dc77528ebe3220e6e1633733925ca3420e346b4475163e1639541333876e	sha256
+dspark-mixed-stage-2.safetensors	1549346368	1ed4663f0487e13372e753b2a5e8b760ae8fd43ba661fae891dfdff62384e64b	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2-medium_incivility
+main commit at snapshot: 24d4ca6183e4a746b68d2b64a733a84c2d65305c
+snapshot taken: 2026-11-15T02:26:26Z

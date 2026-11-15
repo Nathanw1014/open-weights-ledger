@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-Uncensored-UD-Q2_K_XL.gguf	12055750048	84a73c07202b62aeafc91fbbdb838ca9fee31cfde4c202ffe0933ad31c7b665d	sha256
+banner.png	1567395	ed69dec21e0ea6a5cdf2982920fe6c54eba529b4ee1635121b68ad3ac2d69d6c	sha256
+mmproj-BF16.gguf	931146432	83ee4f4f205fa514161778c41df1ea14144faa0f713510893b63c2395f5c2d53	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/medismera/Qwen3.8-cyber-RedTeam-Surgical-Abliterated
+main commit at snapshot: 3c0dcfc1c4958376f591d82b434dca70735eb0e6
+snapshot taken: 2026-11-15T02:31:53Z

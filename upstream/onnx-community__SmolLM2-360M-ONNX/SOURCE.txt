@@ -1,0 +1,3 @@
+repo: https://huggingface.co/onnx-community/SmolLM2-360M-ONNX
+main commit at snapshot: 539c1088be2dcd673c39059d25a6bc4aec625504
+snapshot taken: 2026-11-15T02:33:51Z

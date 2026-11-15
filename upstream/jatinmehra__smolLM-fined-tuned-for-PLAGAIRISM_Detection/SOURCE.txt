@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jatinmehra/smolLM-fined-tuned-for-PLAGAIRISM_Detection
+main commit at snapshot: fb131a335c7fa8ddb28057de62b0ffe6abbba38d
+snapshot taken: 2026-11-15T02:30:47Z

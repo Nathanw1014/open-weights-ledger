@@ -1,0 +1,3 @@
+repo: https://huggingface.co/KatterMobile/DavidAU-Qwen3.8-27B-TWIN-ColdFusion-Astra-709-NVFP4
+main commit at snapshot: 61dd0c2e2227d2f186b6044e31068ed1de22f7bb
+snapshot taken: 2026-11-15T02:23:57Z

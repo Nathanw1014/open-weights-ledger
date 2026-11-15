@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lukaskremla/Qwen3.8-27B-2bit-MLX-TextOnly
+main commit at snapshot: 49217e7be1f217014b94bf391486b3b71de09d7c
+snapshot taken: 2026-11-15T02:31:42Z

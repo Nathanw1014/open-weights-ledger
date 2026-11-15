@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cdiamond/Qwen3.8-27B-iMatrix-NVFP4-MTP-GGUF
+main commit at snapshot: ac343e8f44caef0896f79d372ecc07ef7ab34ec8
+snapshot taken: 2026-11-15T02:28:42Z

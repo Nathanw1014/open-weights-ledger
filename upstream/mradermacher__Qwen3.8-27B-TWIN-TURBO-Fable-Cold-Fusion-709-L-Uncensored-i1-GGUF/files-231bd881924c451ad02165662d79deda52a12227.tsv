@@ -1,0 +1,16 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-IQ3_M.gguf	12768341344	898dc815b57e9bf2e66ee588b65d4d71ffd2d31a24f72b91c8f7742843424d42	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-IQ3_S.gguf	12602617184	6842bac7fbc6ba02aba497e169b2a409aeb55ff98298a27dc1e5f66888f2e382	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-IQ4_XS.gguf	15309049184	ff43725d4de9a6582741921a6e46d58202250eb09ae2b8220ab18bd267eb1e40	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q2_K.gguf	10864602464	21d595027533ce70c6388184b2defefed2f1e58d26d4c99425b26f60f6342695	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q3_K_L.gguf	14559808864	0e006a524c979c02080da827fb4cf19a073f9cf31d67c3cb3c7108fcbedb2255	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q3_K_M.gguf	13500747104	f47b1d137a29b494f0ed6cf9fcd5eef4a3e94df48ef7d5b0ed1dcb8b78f47fc4	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q3_K_S.gguf	12256546144	6e38c4ea15e8033cf9b359a4f738f08b7e76b7e4eef50c38ebbfc2c95e7c0dd9	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q4_0.gguf	15760428384	1ceeb07ce57ad30d650e0c97a6c6d19370e68e2060d13f97d4e51179e63d9b52	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q4_1.gguf	17343778144	91edfad931da7edbffc97364ff25c466978f980af43abb81c202124bae36070c	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q4_K_M.gguf	16810724704	82f572b2f656f9dd1cedef111c3eb267d1418fc528d7f43bcedcd3d94d315a24	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q4_K_S.gguf	15825309024	89621ff263e357b4cae4a5be7c57ed5a6543e83f2ac0069d07905ce70851203e	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q5_K_M.gguf	19535711584	a157898b35d14eb799bce5b97c7d5daa12063ca8a89de1deca8492e2d8d543b9	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q5_K_S.gguf	18971692384	28e93ff7a929f3d1239aa356ac9867b26d1699347a6bebbc50f3750d624ab818	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.i1-Q6_K.gguf	22431010144	432b3c3d5ae1fcfdc17dddecbf51aa03f58bc11a3828276cf0e3cddf31b2c128	sha256
+Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored.imatrix.gguf	13642624	6ca8127d7a4a87e690313d56cff33c3d7d699ce7567390ba7aa4b24c0349ddda	sha256

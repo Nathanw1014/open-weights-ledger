@@ -1,0 +1,3 @@
+repo: https://huggingface.co/keXjos/Qwen3.8-27B-mlx-2Bit
+main commit at snapshot: 39d5487ad4442961b64098e15aa11ce05e6f9976
+snapshot taken: 2026-11-15T02:31:09Z

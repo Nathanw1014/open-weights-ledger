@@ -1,0 +1,3 @@
+repo: https://huggingface.co/freakyskittle/apex-flash-1-abliterated-GGUF
+main commit at snapshot: 510d63f6836ed2392baba939e1a583eb0775c070
+snapshot taken: 2026-11-15T02:29:39Z

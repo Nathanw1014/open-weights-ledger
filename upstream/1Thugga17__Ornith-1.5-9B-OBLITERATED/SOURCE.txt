@@ -1,0 +1,3 @@
+repo: https://huggingface.co/1Thugga17/Ornith-1.5-9B-OBLITERATED
+main commit at snapshot: 37866ba33c99450f42913b4aecab02abe321dfc3
+snapshot taken: 2026-11-15T02:20:56Z

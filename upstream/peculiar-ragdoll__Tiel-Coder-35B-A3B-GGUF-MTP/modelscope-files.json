@@ -1,0 +1,74 @@
+[
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-IQ3_S.gguf",
+"Sha256": "928c4d44265b7af6c64cc54c2caf36333339a31c90100b2b3bb33319a80d51cc",
+"IsLFS": true,
+"CommittedDate": 1793031571
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-IQ3_XXS.gguf",
+"Sha256": "a4d8ffc7f030466c67db289543871a8f9e6d5340241b300c09fbaf16642273ca",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-IQ4_XS.gguf",
+"Sha256": "96b4c5430b5a693447a0aafce58840466829e1788e46fc037b23dfbafab009bf",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-Q2_K_XL.gguf",
+"Sha256": "86fdff7de814fe68c2d37b9e231a4e78a6efa39c6635c47b336790fefd70a5c7",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-Q3_K_XL.gguf",
+"Sha256": "46b8fbeba6e888c9a101e49cc717baa9bb8dfa0d203ec7b3185288159543ec14",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-Q4_K_S.gguf",
+"Sha256": "8076734d5a2215c32c5f8c082c656f5e2d624ecfa36e1cb55ebe776abf0b7170",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-Q4_K_XL.gguf",
+"Sha256": "54f46c4ce544c225122b0f066c2336f10404be7bc53b0cc94d1dbbc5e826bdc1",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-Q5_K_S.gguf",
+"Sha256": "a76aff155892fdbaf1f335ab49831629ea8773774ed476a3ce97634a1b4ad979",
+"IsLFS": true,
+"CommittedDate": 1793031571
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-Q5_K_XL.gguf",
+"Sha256": "d48801f2b01fe34280cbdc27e6fdad2a12ca2b28b1ec0d5bd344bff77ac7440b",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-Q6_K_XL.gguf",
+"Sha256": "ebf721ae2297242c254befdc6ac413240668c349f85b16c588d0b1ba2ecb085e",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "Tiel-Coder-35B-A3B-MTP-UD-Q8_K_XL.gguf",
+"Sha256": "bc3006e14a0b44837beb4577afce13c7016de1e2d163b0bfdb181f93e981e34f",
+"IsLFS": true,
+"CommittedDate": 1789137529
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "d9ce31026d1cb1f3f8d5152e2e2a014d9d2b302b6c93a7dc07bb0a0487f52837",
+"IsLFS": true,
+"CommittedDate": 1787637393
+}
+]

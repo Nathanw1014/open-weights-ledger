@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+MiniCPM5-2B-Claude-Fable5-1-Thinking-Agentic-F16.gguf	5039006592	491566000c608481fe275d16ac2aa0397a2eaa71e9dbd75a228644dd1a8c4b57	sha256
+MiniCPM5-2B-Claude-Fable5-1-Thinking-Agentic-Q4_K_M.gguf	1561318272	387aaabc72f07f26a2539f8b63452054516f1dd8a8ef4dcc1100eda1d2cedef1	sha256
+MiniCPM5-2B-Claude-Fable5-1-Thinking-Agentic-Q8_0.gguf	2679710592	b333575a9ba89324b1c9631d0d53ad9c02b35e6eef1d368bd69621cff19606df	sha256
+assets/banner.png	1497795	1a237cd1acafeb19cd94fc05effccd6e5149386a9e6aa7db19075567b545f02c	sha256

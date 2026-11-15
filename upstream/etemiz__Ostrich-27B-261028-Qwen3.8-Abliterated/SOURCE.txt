@@ -1,0 +1,3 @@
+repo: https://huggingface.co/etemiz/Ostrich-27B-261028-Qwen3.8-Abliterated
+main commit at snapshot: 38df9c0044768ce106faeea202de4fb043004998
+snapshot taken: 2026-11-15T02:29:35Z

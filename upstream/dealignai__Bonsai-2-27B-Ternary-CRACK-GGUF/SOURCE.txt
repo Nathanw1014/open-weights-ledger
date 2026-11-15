@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF
+main commit at snapshot: 3d36486a5fb2a3868116b8f6e768179e2391d28d
+snapshot taken: 2026-11-15T02:29:02Z

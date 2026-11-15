@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Lucebox/DeepSeek-V4.1-Flash-ROCMFP23-GGUF
+main commit at snapshot: f50369398ceae97730a0ad4771c770331fc08a11
+snapshot taken: 2026-11-15T02:24:08Z

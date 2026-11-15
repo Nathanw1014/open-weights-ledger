@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+eagle3-gpt-oss-20b-BF16.gguf	1722588800	b82e890aa1a5bc6270ea39434e8995e9039b2d706aed4e6a9346e5cc60ab65aa	sha256
+eagle3-gpt-oss-20b-Q8_0.gguf	921488000	6955f98a701e97a8c969f3ff33be8ba17b35bd60e5ac96258d2c42d710c7d63f	sha256
+gpt-oss-20b-MXFP4.gguf	12109566624	27cd6c432c7672cb812a92f611cf3ba7bbc35928262bb1e1253ff4ee6ae35901	sha256

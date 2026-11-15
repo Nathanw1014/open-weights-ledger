@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ukisai/Swift-1.5-Ornith-9B
+main commit at snapshot: 8df02d07c135c34d045dd6cc402047d2e016a3e0
+snapshot taken: 2026-11-15T02:36:09Z

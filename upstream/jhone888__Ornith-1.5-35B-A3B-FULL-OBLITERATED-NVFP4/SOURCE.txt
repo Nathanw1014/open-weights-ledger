@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jhone888/Ornith-1.5-35B-A3B-FULL-OBLITERATED-NVFP4
+main commit at snapshot: cd19fc78bfbb4b1676d8c6a89dc198eeb8b05517
+snapshot taken: 2026-11-15T02:30:54Z

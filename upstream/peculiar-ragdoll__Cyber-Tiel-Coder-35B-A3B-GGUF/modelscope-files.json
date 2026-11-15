@@ -1,0 +1,104 @@
+[
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-IQ3_S.gguf",
+"Sha256": "cf7dfee7b2a4b7fde4d6d43f7ffbedaf402030fa9a1a055f86fc2114317d0d20",
+"IsLFS": true,
+"CommittedDate": 1793108733
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-IQ3_XXS.gguf",
+"Sha256": "b6c8ee8debbc344b863709eff1c9e82ce0202851159a61501ee12c2aab65ab48",
+"IsLFS": true,
+"CommittedDate": 1788979479
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-IQ4_XS.gguf",
+"Sha256": "7a064f83186ebb058014e5bf7e60a4af96ebb27bdf156080de450d106817153b",
+"IsLFS": true,
+"CommittedDate": 1788979681
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q2_K_XL.gguf",
+"Sha256": "d824eea1925e57162b344a9fcddb4803e274aeff372a10e6097c1b73895a82e4",
+"IsLFS": true,
+"CommittedDate": 1788979681
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q3_K_XL.gguf",
+"Sha256": "1016769b07e0a0032a133158ed449c549c3e31194be9e0bd9843a904a1c4d792",
+"IsLFS": true,
+"CommittedDate": 1788979727
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q4_K_M.gguf",
+"Sha256": "fb4bc6c873afb6106b5eacc670a06fcd45052228c858de812d0426c8cea536dc",
+"IsLFS": true,
+"CommittedDate": 1788979727
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q4_K_S.gguf",
+"Sha256": "8ff5f1de2150957002608df69fb617459779fdfeab97f9c2e98a288edbebef1a",
+"IsLFS": true,
+"CommittedDate": 1788979732
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q4_K_XL.gguf",
+"Sha256": "21bff5a96fa051809f4a8260befe977771c9927cae9c32eadfcb0718bae960cd",
+"IsLFS": true,
+"CommittedDate": 1788979732
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q5_K_S.gguf",
+"Sha256": "0253f60d2d9b407d4a88f8c8bfe9b066f1beea2bdc9eccb1fa8618707e9c4bb0",
+"IsLFS": true,
+"CommittedDate": 1793108733
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q5_K_XL.gguf",
+"Sha256": "84949f1c48b4f200333bf7b09add2cff67e4f1fe68b092f304d191cbbc4a3cda",
+"IsLFS": true,
+"CommittedDate": 1788980214
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q6_K_XL.gguf",
+"Sha256": "86b112ccaf6f2f1d3c07f79abbea3ed6a9cadfa8b26f089f7c41085ab369ca97",
+"IsLFS": true,
+"CommittedDate": 1788980214
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-UD-Q8_K_XL.gguf",
+"Sha256": "7509f8c8e3b2df4c7bc5966fa711478c12c2c424f2832f7933f1e46dd180feb2",
+"IsLFS": true,
+"CommittedDate": 1788980339
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B-fullcorpus.imatrix.gguf",
+"Sha256": "8ea7dbe15bc4ecc38ed6a9153fc13356024667d18dd40f44fd0a9d9a648be284",
+"IsLFS": true,
+"CommittedDate": 1788980339
+},
+{
+"Path": "Cyber-Tiel-Coder-35B-A3B.imatrix.gguf",
+"Sha256": "c8539a4811e0d6b6d0bde3ce3dd5bb17b58ee35beca24a1d90b6cdca9bc3e762",
+"IsLFS": true,
+"CommittedDate": 1788980341
+},
+{
+"Path": "assets/cybertiel_bench_harmbench.gif",
+"Sha256": "b19926355370dc3b538e97149e1574f7e843c5b330eef9b99dd6ae6f0f3e417e",
+"IsLFS": true,
+"CommittedDate": 1788980345
+},
+{
+"Path": "mmproj-BF16.gguf",
+"Sha256": "d9ce31026d1cb1f3f8d5152e2e2a014d9d2b302b6c93a7dc07bb0a0487f52837",
+"IsLFS": true,
+"CommittedDate": 1788980351
+},
+{
+"Path": "mtp-Cyber-Tiel-Coder-35B-A3B.gguf",
+"Sha256": "34f22d95765353f538f035119d7a73fda72b3ac1a4dd083e234d5eb10e5ae341",
+"IsLFS": true,
+"CommittedDate": 1789048940
+}
+]

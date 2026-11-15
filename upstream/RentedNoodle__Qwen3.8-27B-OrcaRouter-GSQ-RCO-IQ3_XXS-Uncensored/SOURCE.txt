@@ -1,0 +1,3 @@
+repo: https://huggingface.co/RentedNoodle/Qwen3.8-27B-OrcaRouter-GSQ-RCO-IQ3_XXS-Uncensored
+main commit at snapshot: 2113bb22c43635fcdaad4b728c914db4c2ec1d3b
+snapshot taken: 2026-11-15T02:25:14Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2-medium_comment-type-pharo
+main commit at snapshot: 2db58be460fe98c4fc67aedfacb0e95cb95a709f
+snapshot taken: 2026-11-15T02:26:21Z

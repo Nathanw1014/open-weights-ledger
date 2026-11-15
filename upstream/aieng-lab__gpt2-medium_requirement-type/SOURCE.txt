@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2-medium_requirement-type
+main commit at snapshot: 83f65da88e32035e70485ff1692e4f0725ee792d
+snapshot taken: 2026-11-15T02:26:31Z

@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ornith-1.5-35B-A3B-Abliterated-BF16.gguf	69376637024	1a3539477bf1eb833355e358762f34445b3ad67eaf35e2d39295fa60f5cef625	sha256
+Ornith-1.5-35B-A3B-Abliterated-Q4_K_M.gguf	21166757664	a07f299e83a398b5078c1cb8ab4ec96333c8ea9d10d0cb479cb073056fedd3d0	sha256
+Ornith-1.5-35B-A3B-Abliterated-Q8_0.gguf	36903139104	ae2677248756dc4f5168615cc445f23b579478e22f5b23065c4034e8c4cf16fc	sha256
+mmproj-Ornith-1.5-35B-A3B-Abliterated-F16.gguf	899283296	f7cfbb1e0f99fddf06ec9944129e0cbe12f10be71f5514e0741f3b9afee1193b	sha256

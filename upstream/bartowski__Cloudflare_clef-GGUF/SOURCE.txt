@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/Cloudflare_clef-GGUF
+main commit at snapshot: 9d3b28af7cfe8b3575e9f06ea42f12ed4ccf3f3c
+snapshot taken: 2026-11-15T02:27:41Z

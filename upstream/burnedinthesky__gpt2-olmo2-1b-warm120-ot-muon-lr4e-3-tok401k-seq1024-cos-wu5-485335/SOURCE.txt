@@ -1,0 +1,3 @@
+repo: https://huggingface.co/burnedinthesky/gpt2-olmo2-1b-warm120-ot-muon-lr4e-3-tok401k-seq1024-cos-wu5-485335
+main commit at snapshot: cc412da011a53915537b7600d43e6594c80db7c3
+snapshot taken: 2026-11-15T02:28:17Z

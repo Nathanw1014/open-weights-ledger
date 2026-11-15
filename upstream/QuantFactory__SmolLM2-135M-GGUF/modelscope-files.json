@@ -1,0 +1,86 @@
+[
+{
+"Path": "SmolLM2-135M.Q2_K.gguf",
+"Sha256": "ccfefb4a20519e08f308247c91479c98ed04af311bb58701bdd652f729abfc36",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q3_K_L.gguf",
+"Sha256": "256d516bdf66723a84830cebca34bfe98dc61d2d2f375ef097169ffffaeeb6d1",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q3_K_M.gguf",
+"Sha256": "b351018cbcdce99c802e30275ae89c9eed6127a3b2c7abfb3f6294007c8a42d6",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q3_K_S.gguf",
+"Sha256": "1e3a65c54cd5b3be3cb2524848700862487be3ef97234784cc7387bf4bd7f9c6",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q4_0.gguf",
+"Sha256": "6f96e054a48f8fcdb5814abc1203ca12c0f9cce2791ca9a5153caad8c3b5479b",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q4_1.gguf",
+"Sha256": "0abf592e3d9880e26b455f8ee457909082bdb88ff2187d492addcebfdbad9388",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q4_K_M.gguf",
+"Sha256": "b38d0237afc63fa77f35b9f82f394ac2116e77609514461d6bc51deec02a9c91",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q4_K_S.gguf",
+"Sha256": "bd3436f16f8a9714823c436193917754c5c6ea6fcfb8e48c4ebc781a89e03094",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q5_0.gguf",
+"Sha256": "9fecb117045a4ec6922e407a09dd1299c0de4fc49368ba061981b77ff98af24b",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q5_1.gguf",
+"Sha256": "f4b25d36c10891278d367dc2f3463f495ba551dd73c2a3d20c662d46e4b8edf9",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q5_K_M.gguf",
+"Sha256": "d7ca55946137aa448010df7c2ddd9f22cb7cb8fd04807f5e2dc17293572c84db",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q5_K_S.gguf",
+"Sha256": "150df2a8fe3445d293eeb5891f7cc512185f42888e846a1c9dc5df86251f9b8c",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q6_K.gguf",
+"Sha256": "72bf9cf9d0ea616f800e02461ca42b257def6afff22807fe6ec405ea3dae1db8",
+"IsLFS": true,
+"CommittedDate": 1730523757
+},
+{
+"Path": "SmolLM2-135M.Q8_0.gguf",
+"Sha256": "b761d9ccdfce67726e41ca2ef30e9dfbcf6a32ca2aaef47df5c049ec362d04cd",
+"IsLFS": true,
+"CommittedDate": 1730523757
+}
+]

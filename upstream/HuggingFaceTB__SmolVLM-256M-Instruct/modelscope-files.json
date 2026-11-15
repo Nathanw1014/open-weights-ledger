@@ -1,0 +1,152 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "74dea5904032e5ae99a2e0eef5179e6ac0f1dedc3ab0c7c2a5d4d387c843203e",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/decoder_model_merged.onnx",
+"Sha256": "2817946df1e3b4c99ad196995338edc1c1c0d8423d3b5153da77f67f8c2efc0a",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/decoder_model_merged_bnb4.onnx",
+"Sha256": "1b8ba5c04aa524c2a3cdcba4825df38b24c04619ecffa6c6afcc77220f565bb3",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/decoder_model_merged_fp16.onnx",
+"Sha256": "6bb75887b9f71b0f61cc1621dcc47c711f5b61fbf64a895500fe2e577f2929c2",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/decoder_model_merged_int8.onnx",
+"Sha256": "5580b6f2f49fa7c034cd67ba12196b11d5ab5162d7318baf48ead494e45944ca",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/decoder_model_merged_q4.onnx",
+"Sha256": "e8f67dd06edf4edbbfeca36f79aaa1b3ea934a2b166d462b3b152788ec3232cd",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/decoder_model_merged_q4f16.onnx",
+"Sha256": "b297c76610889394757b8baacda12ce27b23747afafd3ddf5b7fbb183f699704",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/decoder_model_merged_quantized.onnx",
+"Sha256": "c3d19fafe563a1277492b94a562eda7c5c01a27373b2ee4cb4e716713d261a93",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/decoder_model_merged_uint8.onnx",
+"Sha256": "c3d19fafe563a1277492b94a562eda7c5c01a27373b2ee4cb4e716713d261a93",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/embed_tokens.onnx",
+"Sha256": "a68ea4058524059ed0e2873fdbc4f33b93e13ae3d3204938d32d0566d390ae00",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/embed_tokens_bnb4.onnx",
+"Sha256": "47ed7029703cff586fd719d70251324766a6591c8a58d315076b1781a65fc900",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/embed_tokens_fp16.onnx",
+"Sha256": "019af59078b8e4775216dd278c66574c39bfefa36cab68573db64d7ac7a11691",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/embed_tokens_int8.onnx",
+"Sha256": "4b919b829fe2bf225e42431230c56891116f0149e5170e36c99bcc0cfae0d2ef",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/embed_tokens_q4.onnx",
+"Sha256": "47ed7029703cff586fd719d70251324766a6591c8a58d315076b1781a65fc900",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/embed_tokens_q4f16.onnx",
+"Sha256": "d810e0849eda8128be2d9cf1a2be9ca0bd8e5bfbe5bf972f60ea8e2a566f6bfe",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/embed_tokens_quantized.onnx",
+"Sha256": "4b919b829fe2bf225e42431230c56891116f0149e5170e36c99bcc0cfae0d2ef",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/embed_tokens_uint8.onnx",
+"Sha256": "4b919b829fe2bf225e42431230c56891116f0149e5170e36c99bcc0cfae0d2ef",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/vision_encoder.onnx",
+"Sha256": "e27ad810eabfa7c881b409e1ca357e7a951541019add228ff73c72718fcf6218",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/vision_encoder_bnb4.onnx",
+"Sha256": "7d2b29e46fa0de326b63e92e751561cf28180d597ad0ad0859f92bf598944352",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/vision_encoder_fp16.onnx",
+"Sha256": "275c41d775508b7f7410580c4aaf67583a34acf23c31259effa8e53f67e8d9ae",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/vision_encoder_int8.onnx",
+"Sha256": "d534ab668d3563e6d1d809bbbf1ff18308ded48651178614dbcc4a1de13d16f7",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/vision_encoder_q4.onnx",
+"Sha256": "95814e6629ec465e7cf98a44edcee67abc06d41faa0d1acc410cf8a956cab488",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/vision_encoder_q4f16.onnx",
+"Sha256": "13c301dc0cbc79c8c23badc699129b47d05ba044e2274ca8a94681fcd4205fc1",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/vision_encoder_quantized.onnx",
+"Sha256": "f82adc84246fbfe8651038470166385452682cc889538f5106544e622e5f1595",
+"IsLFS": true,
+"CommittedDate": 1737688660
+},
+{
+"Path": "onnx/vision_encoder_uint8.onnx",
+"Sha256": "f82adc84246fbfe8651038470166385452682cc889538f5106544e622e5f1595",
+"IsLFS": true,
+"CommittedDate": 1737688660
+}
+]

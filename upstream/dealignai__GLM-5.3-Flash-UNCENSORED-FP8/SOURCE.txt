@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dealignai/GLM-5.3-Flash-UNCENSORED-FP8
+main commit at snapshot: d5822b068da8ddb301665b48c58718e6e18a2c3a
+snapshot taken: 2026-11-15T02:29:09Z

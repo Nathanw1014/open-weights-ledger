@@ -1,0 +1,3 @@
+repo: https://huggingface.co/LakyFx/DeepSeek-V4.1-Flash-1017-EXL3-3.5bpw-TensorFold
+main commit at snapshot: 56d0337162e80b11db05957fbb9e902e920568c0
+snapshot taken: 2026-11-15T02:24:01Z

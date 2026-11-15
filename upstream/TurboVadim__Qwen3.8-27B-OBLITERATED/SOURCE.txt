@@ -1,0 +1,3 @@
+repo: https://huggingface.co/TurboVadim/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 1d5cda784815339b069b22b50ba96e747ba41891
+snapshot taken: 2026-11-15T02:25:57Z

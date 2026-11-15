@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ornith-1.5-35B-A3B-Huihui-Sangreal-MTP-12G-ICEv2.gguf	12188332480	d2f709a30edb610bee4192f5b73323306267e6d4a341fbe49eddf0227b4e4cc4	sha256
+Ornith-1.5-35B-A3B-Huihui-Sangreal-MTP-15G-ICEv2.gguf	14805578176	a5ca497e22ef6240435ac7605b8a964688b40c9063bb3f501b49fd7f509c8433	sha256
+Ornith-1.5-35B-A3B-Huihui-Sangreal-MTP-19G-ICEv2.gguf	18762904000	89d2bb9cc86df310d5deede66527304a435d5eb82c319004e0d3a5fc27c435de	sha256
+Ornith-1.5-35B-A3B-Huihui-Sangreal-MTP-23G-ICEv2.gguf	22808310208	c71f0a7306399fad3a9cd65b388bd59c86a4e09e72a7645607f109df032c3ddb	sha256
+Ornith-1.5-35B-A3B-Huihui-Sangreal-MTP-25G-ICEv2.gguf	24821576128	f4e7fd01f59636fe862ccd267a1943ed38cc00fe9cabad0a11f06974db61bb85	sha256
+assets/Coral_Dragon_Reef_Rescue.7z	14954	c68544de383127ad5e05215a37c9aea4a9b38c350c961b8dfe3465ec74174a8c	sha256
+assets/demo.gif	4791706	d0c8e785599acb21d69e46c5995b10545980011d8da40ee0e44e8f32e5ddcae0	sha256
+imatrix/sangreal-36025.imatrix.gguf	192224864	7fa79f962abd37cc531d1e07fb6fd282d914cfe664fe80dabf129ba12fdf0276	sha256

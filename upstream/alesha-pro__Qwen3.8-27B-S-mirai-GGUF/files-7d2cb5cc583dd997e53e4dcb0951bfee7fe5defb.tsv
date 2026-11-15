@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-27B-S-mirai-refusal-direction.gguf	1293184	3f3432d09822864e0bcb4aff27f52ef58424fa92734e352a6abe67c2b570d879	sha256
+Qwen3.8-27B-S-mirai.gguf	11173346688	5aa4365c3362983e52ff71d8ec2452c2e2e199e299f91594dc85523aa62a43ce	sha256
+mmproj-Qwen3.8-27B-base-f16.gguf	927607008	cb0a71fe9b84af2552fc6260acf8e9773a29d115c683aba01c72a7ac537b212b	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/tsaipifong/Ornith-1.5-35B-A3B-MXFP4-GGUF
+main commit at snapshot: 7089a3b439d6ad70fc2e1a3ffb5a5fef1a9a9c01
+snapshot taken: 2026-11-15T02:36:01Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lmstudio-community/gpt-oss-20b-GGUF
+main commit at snapshot: 21f8a86825e36be34d24601e6d5ab45e2d366f4b
+snapshot taken: 2026-11-15T02:31:37Z

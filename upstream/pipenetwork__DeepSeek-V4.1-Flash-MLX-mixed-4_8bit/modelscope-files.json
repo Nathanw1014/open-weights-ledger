@@ -1,0 +1,272 @@
+[
+{
+"Path": "model-layers-00.safetensors",
+"Sha256": "0a2f9cc842c6ad196ea9de829887dc169fc0b38b7e178c89592d38f7da8eead3",
+"IsLFS": true,
+"CommittedDate": 1789101666
+},
+{
+"Path": "model-layers-01-engram.safetensors",
+"Sha256": "e748cdd75123196dcdcca5422238ab5bbd84c3ed71ee480c2a428c8b256415a9",
+"IsLFS": true,
+"CommittedDate": 1789101666
+},
+{
+"Path": "model-layers-01.safetensors",
+"Sha256": "62431946eda21b0151541d7477b2499a6b06d6b7ea9a7ce844b26efc82879b28",
+"IsLFS": true,
+"CommittedDate": 1789101668
+},
+{
+"Path": "model-layers-02.safetensors",
+"Sha256": "2c766f57a3f8ce028d922c9312942d65a48208fbe71224903fad9335d57fc9d7",
+"IsLFS": true,
+"CommittedDate": 1789101668
+},
+{
+"Path": "model-layers-03.safetensors",
+"Sha256": "83efa682b6fc4dbe974298382708ff4843f1aac348fcec488cf6598ee189631e",
+"IsLFS": true,
+"CommittedDate": 1789101668
+},
+{
+"Path": "model-layers-04.safetensors",
+"Sha256": "4a05ec5e0ab4a892d3df64175900a607125451976c810cebe969cd0e8786ca6f",
+"IsLFS": true,
+"CommittedDate": 1789101668
+},
+{
+"Path": "model-layers-05.safetensors",
+"Sha256": "7486720743edf54923071040a32bdfea0e24839d7243a3d09c32abd64c1a48c8",
+"IsLFS": true,
+"CommittedDate": 1789101668
+},
+{
+"Path": "model-layers-06.safetensors",
+"Sha256": "30929f2df45638706fee27d8e3b0442c2d0c9953da10a6f15cf07467b9568757",
+"IsLFS": true,
+"CommittedDate": 1789101671
+},
+{
+"Path": "model-layers-07.safetensors",
+"Sha256": "9ec98e909b4fae600cfeb73d1bce9765a34f7d342a9348425e071e43d4135271",
+"IsLFS": true,
+"CommittedDate": 1789101671
+},
+{
+"Path": "model-layers-08.safetensors",
+"Sha256": "3e9d4a7c26aa04767c86343f15eef05e7b7ed61b52c673f1be27a9c66c20a0d6",
+"IsLFS": true,
+"CommittedDate": 1789101671
+},
+{
+"Path": "model-layers-09.safetensors",
+"Sha256": "99dcd0517926919b9b3caa1d0d8734eb281a1e6af3f1c38be87f5c8289af7680",
+"IsLFS": true,
+"CommittedDate": 1789101671
+},
+{
+"Path": "model-layers-10.safetensors",
+"Sha256": "de5cb9684bb65f48f9aa0d866ee1efaeeb4f4ea39a4fc50f9af0104602f1fae0",
+"IsLFS": true,
+"CommittedDate": 1789102542
+},
+{
+"Path": "model-layers-11.safetensors",
+"Sha256": "ce4681170e7379e26455c0f891a0654c387834cc8675d16a2f6564e5c0124edd",
+"IsLFS": true,
+"CommittedDate": 1789102542
+},
+{
+"Path": "model-layers-12.safetensors",
+"Sha256": "c4d765b55c9eedb226f3cf4b2b239cf2160d65b015da537a7fcaa7d832a41270",
+"IsLFS": true,
+"CommittedDate": 1789102542
+},
+{
+"Path": "model-layers-13.safetensors",
+"Sha256": "9544561dea8a9c09a0ac45cfcb6f0b5b901e37010b7f97276b3ca9e3af8c64dc",
+"IsLFS": true,
+"CommittedDate": 1789102542
+},
+{
+"Path": "model-layers-14-engram.safetensors",
+"Sha256": "c840dda9a38044725b5360fa4c2d418d3eb06d597e9859a9d20a058f5f2165fa",
+"IsLFS": true,
+"CommittedDate": 1789102542
+},
+{
+"Path": "model-layers-14.safetensors",
+"Sha256": "c3b29c146edaf36510140289560b8dcde4252fc91029f24f44319a2b5000cc87",
+"IsLFS": true,
+"CommittedDate": 1789102545
+},
+{
+"Path": "model-layers-15.safetensors",
+"Sha256": "56d51f8f8eeb73204d3c85f69ccf2a24b826c3400e32a989c481dab31f585964",
+"IsLFS": true,
+"CommittedDate": 1789102545
+},
+{
+"Path": "model-layers-16.safetensors",
+"Sha256": "042e9261844b370b44a7a9d365275b76f77dcf344a39fbc463c0411eb9196dc3",
+"IsLFS": true,
+"CommittedDate": 1789102545
+},
+{
+"Path": "model-layers-17.safetensors",
+"Sha256": "2a894e5c6751396d4ba57a759c15798cfe528bfb933d079a3d8c0b9fba3e956a",
+"IsLFS": true,
+"CommittedDate": 1789102545
+},
+{
+"Path": "model-layers-18.safetensors",
+"Sha256": "2af36bfc86840d7794458f884c224ba1aff0b86ecc47627d6f323e82ff77c372",
+"IsLFS": true,
+"CommittedDate": 1789102545
+},
+{
+"Path": "model-layers-19.safetensors",
+"Sha256": "27e51e2dc0c5774b743098bfc5e527758e04246ba5d184391661e6363ecbdbd8",
+"IsLFS": true,
+"CommittedDate": 1789102548
+},
+{
+"Path": "model-layers-20.safetensors",
+"Sha256": "f86ea63a479e277e072cf0f9862a9757aafe0c432998e09c9ea32c8e51f0c223",
+"IsLFS": true,
+"CommittedDate": 1789102548
+},
+{
+"Path": "model-layers-21.safetensors",
+"Sha256": "2a4c7761b7381a9372b792b249d478be694f050373f40958410a27eb2fb1a22d",
+"IsLFS": true,
+"CommittedDate": 1789102548
+},
+{
+"Path": "model-layers-22.safetensors",
+"Sha256": "006d91292aae6862fbd17088e853be6b0250960ffee6bb94de22a1f32382a35c",
+"IsLFS": true,
+"CommittedDate": 1789102548
+},
+{
+"Path": "model-layers-23.safetensors",
+"Sha256": "92889cfd4a5702effc4bcc4e68107f4fa109421f8d87b2bd78b4ddbe0fe48354",
+"IsLFS": true,
+"CommittedDate": 1789102559
+},
+{
+"Path": "model-layers-24.safetensors",
+"Sha256": "b3a49f89682284fbd5e9388fd40034c0827fef11c6cd9f23c4e41666d2b80a82",
+"IsLFS": true,
+"CommittedDate": 1789102559
+},
+{
+"Path": "model-layers-25.safetensors",
+"Sha256": "5c2e3330c87405d1fda87e2b86a449136a7aea5e9522f58fa2e11b5660c30009",
+"IsLFS": true,
+"CommittedDate": 1789102559
+},
+{
+"Path": "model-layers-26.safetensors",
+"Sha256": "80214a972493da52fb34557c365e3d0b4844489f26a206ed8412954f4ddbb949",
+"IsLFS": true,
+"CommittedDate": 1789102559
+},
+{
+"Path": "model-layers-27.safetensors",
+"Sha256": "5549aa2f64698037e6a55d79a02dd4eb51f391fdbc1207e95656936191a32565",
+"IsLFS": true,
+"CommittedDate": 1789102559
+},
+{
+"Path": "model-layers-28.safetensors",
+"Sha256": "8f1bc788142e4cd70117bd9f04d569f5561e6723f5750839bb54db8bac3925b6",
+"IsLFS": true,
+"CommittedDate": 1789102567
+},
+{
+"Path": "model-layers-29.safetensors",
+"Sha256": "19b671cc48550f30db8400df6ba925e55389ac1f2c62e66b7f7d985066c6cf55",
+"IsLFS": true,
+"CommittedDate": 1789102567
+},
+{
+"Path": "model-layers-30.safetensors",
+"Sha256": "f2975d7c557e8d0615ee713e788b55149f72147d78568ed0132dbe5b6b27f68a",
+"IsLFS": true,
+"CommittedDate": 1789102567
+},
+{
+"Path": "model-layers-31.safetensors",
+"Sha256": "2fa6354a49f927a1c3bdd38c4674abd31c457cbc25d15bb3a266b66e1ccf5ca7",
+"IsLFS": true,
+"CommittedDate": 1789102567
+},
+{
+"Path": "model-layers-32.safetensors",
+"Sha256": "a1857d97a8f6002601308720cd9d0e12edba281f837f0c2fd85babb286df7353",
+"IsLFS": true,
+"CommittedDate": 1789102569
+},
+{
+"Path": "model-layers-33.safetensors",
+"Sha256": "fb2ddf62bd2cc015acd708e714c49cd8421112fb685e7ad2727bd3e29ad52eb6",
+"IsLFS": true,
+"CommittedDate": 1789102569
+},
+{
+"Path": "model-layers-34.safetensors",
+"Sha256": "0f5d5f607e2948ef11ad0545cf303ccc83ccb3828c9e354558a40f459d41a9d5",
+"IsLFS": true,
+"CommittedDate": 1789102569
+},
+{
+"Path": "model-layers-35.safetensors",
+"Sha256": "65ca94a8a5e92d87da8c4385577599dabe902b0586fc21a7227c54401147dbce",
+"IsLFS": true,
+"CommittedDate": 1789102569
+},
+{
+"Path": "model-layers-36.safetensors",
+"Sha256": "9af03a558e5f3d9dbd193727017e7f2dd46066864ef6eccbe5f6dc0d3730a11e",
+"IsLFS": true,
+"CommittedDate": 1789102569
+},
+{
+"Path": "model-layers-37.safetensors",
+"Sha256": "2a16dd941e4089fff3e82f020d70d122e7f9fb1c2114c4208ed8ab089ab3e7e7",
+"IsLFS": true,
+"CommittedDate": 1789102571
+},
+{
+"Path": "model-layers-38.safetensors",
+"Sha256": "de834b1edd8130a1dd19273a4230300940d716b740632c2aafb3690c9a5fa235",
+"IsLFS": true,
+"CommittedDate": 1789102571
+},
+{
+"Path": "model-layers-39.safetensors",
+"Sha256": "5b5e36399ff5565cc0a09d65c44d9a48fefc5a3ac6647cc74b6659adf3b169cd",
+"IsLFS": true,
+"CommittedDate": 1789102571
+},
+{
+"Path": "model-top.safetensors",
+"Sha256": "f917094442d3f82b8efb137b933b75db3a988a1a28ef34e9370c2138346f065e",
+"IsLFS": true,
+"CommittedDate": 1789102571
+},
+{
+"Path": "model-vision.safetensors",
+"Sha256": "f41dd1d5cff9b69deef6380feebb6a6f10ca17050ec16c169bc83519d9d19063",
+"IsLFS": true,
+"CommittedDate": 1789102574
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "c90dfa01249db1be4245780a052ede752e1361c612ac6d08e2bdada7d599476b",
+"IsLFS": true,
+"CommittedDate": 1789102574
+}
+]

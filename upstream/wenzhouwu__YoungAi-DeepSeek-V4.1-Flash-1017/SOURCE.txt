@@ -1,0 +1,3 @@
+repo: https://huggingface.co/wenzhouwu/YoungAi-DeepSeek-V4.1-Flash-1017
+main commit at snapshot: e0328bedc0155528a1757710522c2947cc34b728
+snapshot taken: 2026-11-15T02:36:26Z

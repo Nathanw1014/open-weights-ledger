@@ -1,0 +1,3 @@
+repo: https://huggingface.co/PinoCookie/MiniCPM5-2B-abliterated
+main commit at snapshot: f8f8b91adc49423f091f6974b2bf36876dab19a1
+snapshot taken: 2026-11-15T02:24:45Z

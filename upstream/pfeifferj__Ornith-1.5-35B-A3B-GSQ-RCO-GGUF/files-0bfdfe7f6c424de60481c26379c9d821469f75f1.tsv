@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ornith-1.5-35B-A3B-GSQ-RCO-3.5bit.gguf	15163013536	69191d3d2c402f7c13950815bf20d826d7066c8d7f1bef4594cf70c13ea56ccc	sha256
+Ornith-1.5-35B-A3B-GSQ-RCO-3bit.gguf	12992461216	9cae3b59a34308664b53e5b80fd74914cd0c1cf504bcd05609498b0f9126a74f	sha256
+assets/plots/ornith-perplexity.png	109957	1247f5871e99bc3c46ac586091f6ed61933230f1916ece4e02d57032ce9b69b4	sha256

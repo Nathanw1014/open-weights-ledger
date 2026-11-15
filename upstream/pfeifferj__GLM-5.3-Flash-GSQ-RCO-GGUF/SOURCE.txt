@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pfeifferj/GLM-5.3-Flash-GSQ-RCO-GGUF
+main commit at snapshot: 892aabe2e45835f58f3f24bf03dc5427d345e230
+snapshot taken: 2026-11-15T02:34:29Z

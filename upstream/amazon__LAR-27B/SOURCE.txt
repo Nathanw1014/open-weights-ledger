@@ -1,0 +1,3 @@
+repo: https://huggingface.co/amazon/LAR-27B
+main commit at snapshot: 468ca9d8298afc1506daeffafbb3b5405be7a45b
+snapshot taken: 2026-11-15T02:27:09Z

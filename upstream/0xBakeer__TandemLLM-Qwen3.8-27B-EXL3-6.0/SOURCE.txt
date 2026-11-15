@@ -1,0 +1,3 @@
+repo: https://huggingface.co/0xBakeer/TandemLLM-Qwen3.8-27B-EXL3-6.0
+main commit at snapshot: a82c4af49748ab7023845369c57855a5834cf2a5
+snapshot taken: 2026-11-15T02:20:51Z

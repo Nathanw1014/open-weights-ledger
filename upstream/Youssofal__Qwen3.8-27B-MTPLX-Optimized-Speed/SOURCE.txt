@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed
+main commit at snapshot: 1d5087d2062c02b279180a53e4016cf9cd7a3d7e
+snapshot taken: 2026-11-15T02:26:00Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pocharlies/qwen38-27b-uncensored-abliterated-refusal-directions
+main commit at snapshot: 7730fae46b5a878bc665e77b0de3822feb7d30a4
+snapshot taken: 2026-11-15T02:34:38Z

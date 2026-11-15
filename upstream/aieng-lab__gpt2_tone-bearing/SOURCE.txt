@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2_tone-bearing
+main commit at snapshot: 515a39b1a6d937ba2a089a2cc5652e88084f48bd
+snapshot taken: 2026-11-15T02:26:52Z

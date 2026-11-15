@@ -1,0 +1,3 @@
+repo: https://huggingface.co/junafinity/Ornith-1.5-9B-uncensored
+main commit at snapshot: 4d910f531ffce93800147003a4fd8b1b3432dd26
+snapshot taken: 2026-11-15T02:30:59Z

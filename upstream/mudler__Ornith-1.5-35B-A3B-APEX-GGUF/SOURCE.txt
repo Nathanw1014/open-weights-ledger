@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mudler/Ornith-1.5-35B-A3B-APEX-GGUF
+main commit at snapshot: 0f80fb29e615e72e1361b5db2436ff7980a7043f
+snapshot taken: 2026-11-15T02:33:15Z

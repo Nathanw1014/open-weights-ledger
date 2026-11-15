@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mars2titan/darkpane-v2
+main commit at snapshot: ec3924e30a11d0ff75dafc7d4946c34aee296b6e
+snapshot taken: 2026-11-15T02:31:50Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ewin-reg/MiniCPM5-2B-RotSVDMix-Quantized
+main commit at snapshot: b962434fa86b001b4d5650c45fbc35c35955c64e
+snapshot taken: 2026-11-15T02:29:36Z

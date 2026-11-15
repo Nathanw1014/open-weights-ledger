@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Intel/GLM-5.3-Flash-W4A16-AutoRound
+main commit at snapshot: 5eee1846f0321058ed73745f9aa16f2aaf0fc0a0
+snapshot taken: 2026-11-15T02:23:16Z

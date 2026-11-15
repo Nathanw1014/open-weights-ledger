@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+SMOLM2Prover-Q4_K_M.gguf	270591136	55f1d76afef32d2a1c3e1d67cd8f7f464286f60ff146270c9eeb875f95f96bbc	sha256
+SMOLM2Prover.gguf	725554336	d350a1f1c1ce510879cb06d28850d43afe723dfcd5a3c8113a9de699c4f98ae1	sha256

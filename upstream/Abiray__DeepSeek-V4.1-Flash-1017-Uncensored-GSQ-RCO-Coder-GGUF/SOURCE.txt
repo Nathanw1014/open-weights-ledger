@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-Coder-GGUF
+main commit at snapshot: cfe5da6df1b4e22baf864e33f5132a6202c821e3
+snapshot taken: 2026-11-15T02:21:05Z

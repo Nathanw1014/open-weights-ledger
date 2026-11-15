@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+assets/benchmarks.png	160355	386fe44e88976ada755da3e6a58f65a60763636b6de9ec7de5c8b622b6fcd462	sha256
+distill_80_20/butterfly_mixed_selected.bin	395180	662fd3f6734b80664601694b90251a6e61a8d55b166d50b1cb83e4ae75ae1ca6	sha256
+distill_80_20/square_general_selected.bin	395180	0a1b037dd8d108f9646aa2ded498a55afd643e0553864ae99c82fb1891ee6bbb	sha256
+distill_80_20/square_mixed_selected.bin	395180	3af4f3e12961771ed3857b85f98c08641d8362b13f088c66c67ad2002b7f965b	sha256

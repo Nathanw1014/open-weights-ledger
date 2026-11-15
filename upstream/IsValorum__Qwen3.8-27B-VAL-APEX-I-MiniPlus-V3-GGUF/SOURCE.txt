@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Qwen3.8-27B-VAL-APEX-I-MiniPlus-V3-GGUF
+main commit at snapshot: f7e225ef32ab66778d723fffd8ea9ae910984591
+snapshot taken: 2026-11-15T02:23:28Z

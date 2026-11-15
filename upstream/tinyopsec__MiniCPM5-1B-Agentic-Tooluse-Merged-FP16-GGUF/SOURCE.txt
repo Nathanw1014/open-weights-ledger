@@ -1,0 +1,3 @@
+repo: https://huggingface.co/tinyopsec/MiniCPM5-1B-Agentic-Tooluse-Merged-FP16-GGUF
+main commit at snapshot: 8d544b813ceff1892569f609fadeeb71b99144d7
+snapshot taken: 2026-11-15T02:35:50Z

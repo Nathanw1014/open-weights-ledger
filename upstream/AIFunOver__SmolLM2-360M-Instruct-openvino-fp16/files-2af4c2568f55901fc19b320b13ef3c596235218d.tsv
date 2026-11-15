@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+openvino_detokenizer.bin	528983	d236d05e0614ffda6abc8156b200f7bbb8af098165f711da7bb7183710d1139d	sha256
+openvino_model.bin	723767440	3a340c1500dc2be3250ebc0af8f687b048a67bf87fc91b760d2e0ad32a8c3062	sha256
+openvino_tokenizer.bin	1252873	87824b46e1a6a9d5c5b9e326d5dbb1997ae5a8c05ea39bd7d3e6879dad9a90a4	sha256

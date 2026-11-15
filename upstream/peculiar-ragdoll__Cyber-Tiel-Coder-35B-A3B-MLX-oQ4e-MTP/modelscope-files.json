@@ -1,0 +1,56 @@
+[
+{
+"Path": "assets/cybertiel_bench_harmbench.gif",
+"Sha256": "b19926355370dc3b538e97149e1574f7e843c5b330eef9b99dd6ae6f0f3e417e",
+"IsLFS": true,
+"CommittedDate": 1788979135
+},
+{
+"Path": "merges.txt",
+"Sha256": "a9d356d7bdf1ef4949e3e748e95b8e10ad9d4e2e838eddc38a0a7b6b94d1db8d",
+"IsLFS": true,
+"CommittedDate": 1788979193
+},
+{
+"Path": "model-00001-of-00005.safetensors",
+"Sha256": "695fdaf98a79b29c13f3504cbdbf7fa8851176f4c2917def319df00f8a90b91a",
+"IsLFS": true,
+"CommittedDate": 1793887849
+},
+{
+"Path": "model-00002-of-00005.safetensors",
+"Sha256": "74a9ba51d4c68f82ced998d859b2c5ef02a55d6f6e56a068fc0ffc668bac0f61",
+"IsLFS": true,
+"CommittedDate": 1793887849
+},
+{
+"Path": "model-00003-of-00005.safetensors",
+"Sha256": "e633808b2caf0ed07ffb2d799dc8eb3172117da1eed12d41c621b03f0e1cb384",
+"IsLFS": true,
+"CommittedDate": 1793887849
+},
+{
+"Path": "model-00004-of-00005.safetensors",
+"Sha256": "602155330c387d1fb6420a69420f02922142f9ae6ab708b6b139a5ea4c792e6f",
+"IsLFS": true,
+"CommittedDate": 1793887849
+},
+{
+"Path": "model-00005-of-00005.safetensors",
+"Sha256": "b97226758bd4f98b172e96095f29a63ae6ac994f88464945003870fcd21e5b0d",
+"IsLFS": true,
+"CommittedDate": 1793887849
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "5f9e4d4901a92b997e463c1f46055088b6cca5ca61a6522d1b9f64c4bb81cb42",
+"IsLFS": true,
+"CommittedDate": 1788979234
+},
+{
+"Path": "vocab.json",
+"Sha256": "ce99b4cb2983d118806ce0a8b777a35b093e2000a503ebde25853284c9dfa003",
+"IsLFS": true,
+"CommittedDate": 1788979237
+}
+]

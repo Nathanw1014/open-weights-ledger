@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/humanizer-1B-OptiQ-4bit
+main commit at snapshot: 8df1a5f5572407ff777481dc5096f9698bc463b9
+snapshot taken: 2026-11-15T02:32:45Z

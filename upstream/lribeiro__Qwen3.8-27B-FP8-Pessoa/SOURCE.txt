@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lribeiro/Qwen3.8-27B-FP8-Pessoa
+main commit at snapshot: 92d3b9c58baebc6bec085860c4030bda42ce3669
+snapshot taken: 2026-11-15T02:31:40Z

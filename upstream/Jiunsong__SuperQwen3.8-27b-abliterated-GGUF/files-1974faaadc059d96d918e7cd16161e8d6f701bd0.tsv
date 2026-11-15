@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+SuperQwen3.8-27b-abliterated-Q4_K_M.gguf	16547400704	692291d35fa3b5380f66486fe425ca715151c8b6136f07d3c5adb5ec179efd69	sha256
+evidence/imatrix-source/imatrix_unsloth.gguf	13642656	0ee5b10bd0c2fa2127c6f4b43dbfe1efd71e383b63217af9dade1de36599f1c1	sha256
+mmproj-SuperQwen3.8-27b-abliterated-Q8_0.gguf	629247136	8ceea1d2e01b1bbdc03fef8a0a749183cbd421e9ea8fec893608b7e485c9bbbf	sha256
+mtp-SuperQwen3.8-27b-abliterated-Q4_0.gguf	1680272000	fe6443b24ea659cc2d25680ac50303cb798b40056de45d1a9e567305d9c5f29b	sha256

@@ -1,0 +1,26 @@
+[
+{
+"Path": "media/banner.png",
+"Sha256": "17eee9967a72bdcc5bc1ca3b635d6699140bebc8a341f25cf1a45262f1f11931",
+"IsLFS": true,
+"CommittedDate": 1791743807
+},
+{
+"Path": "model-00001-of-00002.safetensors",
+"Sha256": "19c22d8e7c3d1f3276889b5277c4bd9d1d7631687b8797285f56809d1de18f36",
+"IsLFS": true,
+"CommittedDate": 1791743860
+},
+{
+"Path": "model-00002-of-00002.safetensors",
+"Sha256": "22be60355777581fe0ded99c7bf1b0d72d3a4ae863c069f5fbb4ff36549c483f",
+"IsLFS": true,
+"CommittedDate": 1791743862
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "3e065a558a034185fe299917b398685c1facd0169a9eea1e629eb30c171fed81",
+"IsLFS": true,
+"CommittedDate": 1791743865
+}
+]

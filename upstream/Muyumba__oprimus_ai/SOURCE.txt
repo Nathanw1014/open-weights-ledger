@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Muyumba/oprimus_ai
+main commit at snapshot: 48f13d833208a33c864ed66e904dc8d7ab0a70e8
+snapshot taken: 2026-11-15T02:24:37Z

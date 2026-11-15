@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2-medium_bug-issue
+main commit at snapshot: c27ed5b7b1a79fb34e1225f52479230b8079df2a
+snapshot taken: 2026-11-15T02:26:17Z

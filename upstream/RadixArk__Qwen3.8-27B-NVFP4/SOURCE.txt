@@ -1,0 +1,3 @@
+repo: https://huggingface.co/RadixArk/Qwen3.8-27B-NVFP4
+main commit at snapshot: 319f741cce68d7914884900c138a1fbb70a42f30
+snapshot taken: 2026-11-15T02:25:02Z

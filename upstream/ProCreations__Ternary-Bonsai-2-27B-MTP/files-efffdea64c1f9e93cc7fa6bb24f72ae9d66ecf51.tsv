@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Ternary-Bonsai-2-27B-PQ2_0-MTP-Q8_0.gguf	7657489728	3cb3f0056d2e34ee44245a64396004a21f8492573d6ce1266ec4b7222c131dd4	sha256
+model_mtp.safetensors	849400392	7a4a18b2d02116ef184d1b0ee4af46d829825ff2c042f79cf37ef8a03c399218	sha256
+runtime/llama-bonsai-mtp-linux-cuda13.3-sm120.tar.gz	51770366	4f2083fdb2809f5053cc1caa2ce6a2f2e07f79882b12b2021ed12b00d9661dff	sha256
+runtime/llama-bonsai-mtp-windows-cuda13.3-x64.zip	514200530	d3bb0ed40defdf854463029dc37e16d2aa53ec779ab999d2bd0163588a329c00	sha256
+runtime/llama-bonsai-mtp-windows-rocm7.14.1-gfx1201-x64.zip	581192445	0629d2f49ee85b78fce86b1c93b0b5a2cf69577c5c1e6a9fec19bc00e992d8c2	sha256
+runtime/prism-dflash2-source.tar.gz	36472761	8c0f589673b25574f27f013bb3278824384eb35eb984034a2445af3c437b9d05	sha256
+runtime/windows-ui-dist.tar.gz	3069348	b663bdd616464e818b6ffbfa837597006ac4138b264971111b759c1c2d3cbee8	sha256
+runtime/windows-ui-licenses.zip	1007971	3ecd089922573626836a1fd0e7b9a7afc5039dc30d62f714535e111c51998c27	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pinthoz/gus-net-gpt2
+main commit at snapshot: 60639c61a85743f25db3c49b797e614f8014eaae
+snapshot taken: 2026-11-15T02:34:34Z

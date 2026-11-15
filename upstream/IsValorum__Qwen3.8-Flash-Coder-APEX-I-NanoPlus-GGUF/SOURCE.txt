@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Qwen3.8-Flash-Coder-APEX-I-NanoPlus-GGUF
+main commit at snapshot: e770bfc17544fdec1e278cec9af8819ebfaf0fc2
+snapshot taken: 2026-11-15T02:23:32Z

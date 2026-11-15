@@ -1,0 +1,3 @@
+repo: https://huggingface.co/coderian/StoryGPT
+main commit at snapshot: f879c07a0e340adfa2c6ce58ea224006834e58da
+snapshot taken: 2026-11-15T02:28:45Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/turintech/Qwen3.8-27B-Artemis-GGUF
+main commit at snapshot: 00e1399e2c74367f15d56dd95542f10b6e6cb1bc
+snapshot taken: 2026-11-15T02:36:08Z

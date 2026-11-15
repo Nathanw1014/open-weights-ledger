@@ -1,0 +1,3 @@
+repo: https://huggingface.co/QuantFactory/SmolLM2-135M-Instruct-GGUF
+main commit at snapshot: 476854d00ede130660aba430d15f9347ad2e7d0e
+snapshot taken: 2026-11-15T02:24:57Z

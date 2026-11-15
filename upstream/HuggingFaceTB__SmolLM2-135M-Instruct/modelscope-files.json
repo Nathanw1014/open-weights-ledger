@@ -1,0 +1,50 @@
+[
+{
+"Path": "model.safetensors",
+"Sha256": "5af571cbf074e6d21a03528d2330792e532ca608f24ac70a143f6b369968ab8c",
+"IsLFS": true,
+"CommittedDate": 1730425033
+},
+{
+"Path": "onnx/model.onnx",
+"Sha256": "858441d985d9da8546e994ea85b07111e83aa6b30f9a9fe380ac33b7bc9e0f92",
+"IsLFS": true,
+"CommittedDate": 1732580557
+},
+{
+"Path": "onnx/model_fp16.onnx",
+"Sha256": "03feb9bf4a030f54512733a6286cfa8192c80d0d934f029ac647aa695547e759",
+"IsLFS": true,
+"CommittedDate": 1732580557
+},
+{
+"Path": "onnx/model_q4.onnx",
+"Sha256": "4e672089683dd4e363414f0cb3a6993281d7c9ac1fa7ee52c1de9993f52c90ef",
+"IsLFS": true,
+"CommittedDate": 1732580557
+},
+{
+"Path": "onnx/model_q4f16.onnx",
+"Sha256": "f1d01b95d264708570376c79564ff73c888678be5965b9b01566785aa5d3811e",
+"IsLFS": true,
+"CommittedDate": 1732580557
+},
+{
+"Path": "runs/Oct31_10-14-22_ip-26-0-174-36/events.out.tfevents.1730370128.ip-26-0-174-36.3239327.0",
+"Sha256": "774faae98f36baa1ee525b594023c5fc25b4ad9249e04ccdf4cba9ee4f4585fd",
+"IsLFS": true,
+"CommittedDate": 1730425033
+},
+{
+"Path": "runs/Oct31_10-14-22_ip-26-0-174-36/events.out.tfevents.1730376056.ip-26-0-174-36.3239327.1",
+"Sha256": "043a35029ecb401ef0df75148304075329cd444faf2097b0316e9200018fea5c",
+"IsLFS": true,
+"CommittedDate": 1730425033
+},
+{
+"Path": "training_args.bin",
+"Sha256": "90f508e5769b31070c2c8f82e7ecdce816d610763df89479b5258bc66ee8b357",
+"IsLFS": true,
+"CommittedDate": 1730425033
+}
+]

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Arkonyx/soo-mistral-7b-l16
+main commit at snapshot: 03892943d80706f2f57a611428ac7b67a6ea6bac
+snapshot taken: 2026-11-15T02:21:20Z

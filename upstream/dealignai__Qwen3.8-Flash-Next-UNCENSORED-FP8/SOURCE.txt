@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dealignai/Qwen3.8-Flash-Next-UNCENSORED-FP8
+main commit at snapshot: 0df192cfd5b20fcd109fb63a5e1f663afa0341d8
+snapshot taken: 2026-11-15T02:29:17Z

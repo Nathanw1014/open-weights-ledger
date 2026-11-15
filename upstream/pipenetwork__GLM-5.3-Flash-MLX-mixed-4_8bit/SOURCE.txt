@@ -1,0 +1,3 @@
+repo: https://huggingface.co/pipenetwork/GLM-5.3-Flash-MLX-mixed-4_8bit
+main commit at snapshot: d43ea8b407ce4e9c25e6ac9baec3feab70d9f5f3
+snapshot taken: 2026-11-15T02:34:37Z

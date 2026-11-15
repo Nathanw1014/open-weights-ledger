@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Savas65/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 762181f124612efd94b2dfa81ab1c0e03a775936
+snapshot taken: 2026-11-15T02:25:26Z

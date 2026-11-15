@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Abiray/MiniCPM5-2B-GGUF
+main commit at snapshot: 2cd21775dbf81d357bcafe70ac99f67e06df9390
+snapshot taken: 2026-11-15T02:21:07Z

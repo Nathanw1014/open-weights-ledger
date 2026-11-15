@@ -1,0 +1,3 @@
+repo: https://huggingface.co/catplusplus/Qwen3.8-27B-heretic-ara-NVFP4-MTP
+main commit at snapshot: 3065e616dd08276bc601f9d9a5e86d7ef5aad316
+snapshot taken: 2026-11-15T02:28:38Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/abenzerps/Clef-GGUF
+main commit at snapshot: 2afa3820aa7d3057d818d60b1516ab1afb74ab37
+snapshot taken: 2026-11-15T02:26:06Z

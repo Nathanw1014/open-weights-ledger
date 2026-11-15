@@ -1,0 +1,3 @@
+repo: https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B
+main commit at snapshot: 24c0bea14d53e6f67f1fbe2eca5bfe7cae389b33
+snapshot taken: 2026-11-15T02:35:42Z

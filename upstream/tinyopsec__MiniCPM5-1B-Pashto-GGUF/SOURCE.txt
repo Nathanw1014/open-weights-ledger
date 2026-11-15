@@ -1,0 +1,3 @@
+repo: https://huggingface.co/tinyopsec/MiniCPM5-1B-Pashto-GGUF
+main commit at snapshot: 1f8b0fc788fc651b63adddfa2e2bc6f306eb4d4c
+snapshot taken: 2026-11-15T02:35:54Z

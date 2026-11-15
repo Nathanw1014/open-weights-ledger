@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-27B-Fable-5-Coding-Distilled-GGUF
+main commit at snapshot: e8eeb91df17f4b8c107dbaaf3edeeff9f9bfb928
+snapshot taken: 2026-11-15T02:33:01Z

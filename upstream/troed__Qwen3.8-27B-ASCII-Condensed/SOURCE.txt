@@ -1,0 +1,3 @@
+repo: https://huggingface.co/troed/Qwen3.8-27B-ASCII-Condensed
+main commit at snapshot: f309fc7f49ff5b2ab963ec5f46010a3ef9653e38
+snapshot taken: 2026-11-15T02:35:54Z

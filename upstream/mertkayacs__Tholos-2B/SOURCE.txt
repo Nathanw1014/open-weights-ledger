@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mertkayacs/Tholos-2B
+main commit at snapshot: 67a55e438302ebf5bda116543b660c05ed78efca
+snapshot taken: 2026-11-15T02:31:54Z

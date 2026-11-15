@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Mistral-7B-Instruct-v0.2-abliterated-obliteratus-GGUF
+main commit at snapshot: 88912066ecb9b8b99ae6430c67d8262f0f441f97
+snapshot taken: 2026-11-15T02:32:52Z

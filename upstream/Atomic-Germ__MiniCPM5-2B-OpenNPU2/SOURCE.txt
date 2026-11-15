@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Atomic-Germ/MiniCPM5-2B-OpenNPU2
+main commit at snapshot: 3b3642c2d68348fc51d600bc2ab6f2f912d60f37
+snapshot taken: 2026-11-15T02:21:23Z

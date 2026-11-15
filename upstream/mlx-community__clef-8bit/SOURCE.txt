@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/clef-8bit
+main commit at snapshot: 1c8887c20827d91cb1b0c6f186e24f5bc5b0e0ce
+snapshot taken: 2026-11-15T02:32:40Z

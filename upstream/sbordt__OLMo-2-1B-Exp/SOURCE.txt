@@ -1,0 +1,3 @@
+repo: https://huggingface.co/sbordt/OLMo-2-1B-Exp
+main commit at snapshot: 42817d6675b2ba622355bc0de78c4faffbfbae21
+snapshot taken: 2026-11-15T02:35:10Z

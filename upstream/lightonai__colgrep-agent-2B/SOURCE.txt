@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lightonai/colgrep-agent-2B
+main commit at snapshot: f798a61129c6decb5166864e0a3c98373e62c764
+snapshot taken: 2026-11-15T02:31:20Z

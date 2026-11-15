@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/kldzj_gpt-oss-120b-heretic-v2-GGUF
+main commit at snapshot: 052a858e93be93ec15bf51275421dd9ade27381f
+snapshot taken: 2026-11-15T02:28:04Z

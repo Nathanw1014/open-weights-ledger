@@ -1,0 +1,3 @@
+repo: https://huggingface.co/hermitdave/LFM3-1.7B-MLX-MACaQ-R-4.25bpw
+main commit at snapshot: 31d20757756210f6c138a5e166e6ace003de4cef
+snapshot taken: 2026-11-15T02:29:59Z

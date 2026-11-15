@@ -1,0 +1,3 @@
+repo: https://huggingface.co/summerAIO/Qwen3.8-27B-Longbook27-v2
+main commit at snapshot: 46319430c16af66860b20f14986ad1032e991796
+snapshot taken: 2026-11-15T02:35:32Z

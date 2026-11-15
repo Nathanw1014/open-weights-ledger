@@ -1,0 +1,3 @@
+repo: https://huggingface.co/drwahl/2tpg
+main commit at snapshot: 02f777b247574c7a179bf350d0b8caab93842d61
+snapshot taken: 2026-11-15T02:29:26Z

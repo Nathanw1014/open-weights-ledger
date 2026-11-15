@@ -1,0 +1,3 @@
+repo: https://huggingface.co/canada-quant/GLM-5.3-Flash-DFlash2-E
+main commit at snapshot: 7aa3841c1d074a9603082586ea3ff32fd3bd3f21
+snapshot taken: 2026-11-15T02:28:30Z

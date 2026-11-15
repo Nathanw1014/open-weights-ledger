@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jayleaton/DeepSeek-V4.1-Flash-1017-EXL3-2.8bpw
+main commit at snapshot: 859396591c340195526aaf61f94b4ad5323a5e18
+snapshot taken: 2026-11-15T02:30:49Z

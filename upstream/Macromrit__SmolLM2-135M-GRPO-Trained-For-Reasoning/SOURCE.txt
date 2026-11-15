@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Macromrit/SmolLM2-135M-GRPO-Trained-For-Reasoning
+main commit at snapshot: d95fa2160034fe51a144a51ee400f8a8def79967
+snapshot taken: 2026-11-15T02:24:13Z

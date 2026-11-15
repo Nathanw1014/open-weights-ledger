@@ -1,0 +1,3 @@
+repo: https://huggingface.co/apetersson/DeepSeek-V4.1-Flash-MixedQ2-GGUF
+main commit at snapshot: af983b61ee7903f414e8152bf1ece8f6ef2a1020
+snapshot taken: 2026-11-15T02:27:23Z

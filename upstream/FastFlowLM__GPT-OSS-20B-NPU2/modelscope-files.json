@@ -1,0 +1,14 @@
+[
+{
+"Path": "model.q4nx",
+"Sha256": "77999a24839af21f01f35bc397e0aed3e6020ee38e7fffe4ac41bfe97ad18377",
+"IsLFS": true,
+"CommittedDate": 1785932837
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "4bb8ed14222fdea2ea7dd5483c05932cedbb57487f68aa9ce1076d0abef0b966",
+"IsLFS": true,
+"CommittedDate": 1785932837
+}
+]

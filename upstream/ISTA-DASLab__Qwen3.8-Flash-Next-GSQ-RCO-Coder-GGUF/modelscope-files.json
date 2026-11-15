@@ -1,0 +1,26 @@
+[
+{
+"Path": "IQ1_M/Qwen3.8-Flash-Next-GSQ-RCO-IQ1_M-00001-of-00002.gguf",
+"Sha256": "bfa3644db4adfff072fc946c20994f2909d2cf89879d83f80a4c811d4016c211",
+"IsLFS": true,
+"CommittedDate": 1792440774
+},
+{
+"Path": "IQ1_M/Qwen3.8-Flash-Next-GSQ-RCO-IQ1_M-00002-of-00002.gguf",
+"Sha256": "316b46f3a2dbd68c900f43136ab9449f9dcc3725dfd8c794847c204bc161e113",
+"IsLFS": true,
+"CommittedDate": 1790487441
+},
+{
+"Path": "mmproj-Qwen3.8-Flash-Next-BF16.gguf",
+"Sha256": "b1a82259702816a5330d7bd7607cd9676b11780e79ff7348c21103ff3ce49bd0",
+"IsLFS": true,
+"CommittedDate": 1790487441
+},
+{
+"Path": "tensor-allocation/Qwen3.8-Flash-Next-GSQ-RCO-IQ1_M-00001-of-00002.rco-allocation.txt",
+"Sha256": "9a04497b9133f76682550981772de8cdcde52ee89b164fa0d1cc18efdd30ef31",
+"IsLFS": true,
+"CommittedDate": 1792440774
+}
+]

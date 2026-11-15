@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Alogotron/Qwen3.8-27B-MixQ5A6E8-GGUF
+main commit at snapshot: e383868e440f36a0aaab85af461ffe6587bfd144
+snapshot taken: 2026-11-15T02:21:11Z

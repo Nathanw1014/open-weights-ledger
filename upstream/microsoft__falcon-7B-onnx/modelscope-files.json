@@ -1,0 +1,14 @@
+[
+{
+"Path": "falcon-7b.onnx",
+"Sha256": "b733079584bacfb36627e01e78c4245d43e7c7a52588ebc5042510247f02e85b",
+"IsLFS": true,
+"CommittedDate": 1753144333
+},
+{
+"Path": "falcon-7b.onnx.data",
+"Sha256": "ebe8789247bf6e8d4f3eb5e1184cd99982230349194c979e8b8dcab267e399c8",
+"IsLFS": true,
+"CommittedDate": 1753144332
+}
+]

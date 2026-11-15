@@ -1,0 +1,3 @@
+repo: https://huggingface.co/autotrust/GLM-5.3-Flash-GGUF-DGX-Spark
+main commit at snapshot: e1599a6bc0ea2bce3caa994a8c1efba706937f0d
+snapshot taken: 2026-11-15T02:27:26Z

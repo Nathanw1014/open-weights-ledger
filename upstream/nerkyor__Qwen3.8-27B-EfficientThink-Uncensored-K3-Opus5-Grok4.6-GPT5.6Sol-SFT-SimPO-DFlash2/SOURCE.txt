@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2
+main commit at snapshot: 882e1af3b8f5844f3b3163b132e343c06e91908f
+snapshot taken: 2026-11-15T02:33:32Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/tcclaviger/Qwen3.8-Flash-Next-MXFP4-FP8-GPTQ
+main commit at snapshot: 6fe3e7464c1892004f886b4b614117333c5acd34
+snapshot taken: 2026-11-15T02:35:41Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/canada-quant/GLM-5.3-Flash-W4A16-MTP
+main commit at snapshot: 5681f7c2dc6436d63f82ab6fb892b4f5062b8304
+snapshot taken: 2026-11-15T02:28:33Z

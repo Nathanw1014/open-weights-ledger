@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ManuelZnnmc/OpenAi-GPT-oss-20b-HERETIC-uncensored-NEO-Imatrix-gguf
+main commit at snapshot: 1b60a30f4160c7f7c8132a111569b4d9e67bcdaf
+snapshot taken: 2026-11-15T02:24:17Z

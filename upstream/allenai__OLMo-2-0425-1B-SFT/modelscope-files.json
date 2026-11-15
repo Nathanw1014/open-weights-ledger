@@ -1,0 +1,14 @@
+[
+{
+"Path": "pytorch_model.bin",
+"Sha256": "338aeb8b3049cc9b19ba1f3e6df4b5280f3e002b5ae9e38328a353d8f072d534",
+"IsLFS": true,
+"CommittedDate": 1746123243
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "73fd5254624f39a88e3faac6a8e11300fc3c735ed37880d4f4f08db898eaecca",
+"IsLFS": true,
+"CommittedDate": 1746123241
+}
+]

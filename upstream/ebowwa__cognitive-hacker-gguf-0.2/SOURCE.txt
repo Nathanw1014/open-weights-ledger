@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ebowwa/cognitive-hacker-gguf-0.2
+main commit at snapshot: 08803138a6c8fca49ea3cf11d04008590ede03a3
+snapshot taken: 2026-11-15T02:29:30Z

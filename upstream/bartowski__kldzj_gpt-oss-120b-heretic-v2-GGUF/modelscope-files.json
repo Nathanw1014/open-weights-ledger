@@ -1,0 +1,32 @@
+[
+{
+"Path": "kldzj_gpt-oss-120b-heretic-v2-MXFP4_MOE/kldzj_gpt-oss-120b-heretic-v2-MXFP4_MOE-00001-of-00002.gguf",
+"Sha256": "f04dc7f69cf248b6a8d082b621002a93914330aa2e747b8bfde5c8db57e8d3bd",
+"IsLFS": true,
+"CommittedDate": 1764280094
+},
+{
+"Path": "kldzj_gpt-oss-120b-heretic-v2-MXFP4_MOE/kldzj_gpt-oss-120b-heretic-v2-MXFP4_MOE-00002-of-00002.gguf",
+"Sha256": "08ff2a257f42118382353f69b765a6301f8a02b5db3cf99e28458f332145ef1c",
+"IsLFS": true,
+"CommittedDate": 1764280094
+},
+{
+"Path": "kldzj_gpt-oss-120b-heretic-v2-bf16/kldzj_gpt-oss-120b-heretic-v2-bf16-00001-of-00002.gguf",
+"Sha256": "0fc77e172467e2b434a7ee738a0a1267300777c0a4a447cd01a714b14474ae31",
+"IsLFS": true,
+"CommittedDate": 1764280094
+},
+{
+"Path": "kldzj_gpt-oss-120b-heretic-v2-bf16/kldzj_gpt-oss-120b-heretic-v2-bf16-00002-of-00002.gguf",
+"Sha256": "cc1a356dff03f9868f687d9943880bdb5b5944b4a5241acffbe69a14485ab369",
+"IsLFS": true,
+"CommittedDate": 1764280094
+},
+{
+"Path": "kldzj_gpt-oss-120b-heretic-v2-imatrix.gguf",
+"Sha256": "334aed135e333848d6fd3a26a6cea9c19fcd4ccbe7bb678324778c2c7ba78a46",
+"IsLFS": true,
+"CommittedDate": 1764280094
+}
+]

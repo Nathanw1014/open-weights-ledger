@@ -1,0 +1,3 @@
+repo: https://huggingface.co/local-inference-lab/GLM-5.3-Flash-NVFP4
+main commit at snapshot: 175ae8ce3b5af842b0d0140dbeb43e9cfc557c49
+snapshot taken: 2026-11-15T02:31:38Z

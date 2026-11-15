@@ -1,0 +1,3 @@
+repo: https://huggingface.co/t-firefly/minicpm5-2b-rknn3-rk1820
+main commit at snapshot: 375ba2977084dba0fe954c9e233e97519598d187
+snapshot taken: 2026-11-15T02:35:38Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/abenzerps/Ornith-1.5-9B-DFlash-GGUF
+main commit at snapshot: 4ba29c7a17fb17ba07deb79e25ebdeb00fd01e01
+snapshot taken: 2026-11-15T02:26:08Z

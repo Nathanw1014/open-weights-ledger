@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+adapters/humanizer-dpo/adapters.safetensors	119050013	101a8d2833a7ad5f0610a112aadeedfc1571eacb9809464c1ce1f088ab2e269b	sha256
+adapters/humanizer-sft/adapters.safetensors	119206006	2dd9685946a90b65dcd123a83a1f401b5b47ccbd6a68c09b19d8b6d2fe98e650	sha256
+model.safetensors	906870787	88bb686ed4a28f7c2065e27aabef7669f84961ac47c83efe2d003436c179e2e4	sha256

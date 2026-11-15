@@ -1,0 +1,3 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-F16.gguf	2166551904	7651b8292bd1b3d922397802ca03522b93ad55f3e74f52ca945d6548f6425b81	sha256
+MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-Q8_0.gguf	1153529184	fc3ee1eddd305c155f63b6bd7bb189daa4d5f226ca325ab219bd7acd3b00ec77	sha256

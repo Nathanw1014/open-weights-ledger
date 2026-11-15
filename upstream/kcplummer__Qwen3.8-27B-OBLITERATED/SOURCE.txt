@@ -1,0 +1,3 @@
+repo: https://huggingface.co/kcplummer/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 83ab74bc90e5bad6bc4d2c0ad4deec476bc1d475
+snapshot taken: 2026-11-15T02:31:10Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/sodgjkfroverjv/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: ac42f3e68e9efaf1d07147597a5a7f95a705dc34
+snapshot taken: 2026-11-15T02:35:26Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2_comment-type-python
+main commit at snapshot: 7dde8a550e0ce498c2d52892b2afa4e00538f1a3
+snapshot taken: 2026-11-15T02:26:41Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HermiHg/Qwen3.8-27B-mmproj-Q5_K-MIX-GGUF
+main commit at snapshot: dbf78ac52891f19cf175abb8813997267adb0e92
+snapshot taken: 2026-11-15T02:22:44Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/rapid-mlx/DeepSeek-V4.1-Flash-DSpark-4d2e-MLX
+main commit at snapshot: 0222e2902b79299428df8ba022e2eca9d91bc303
+snapshot taken: 2026-11-15T02:34:54Z

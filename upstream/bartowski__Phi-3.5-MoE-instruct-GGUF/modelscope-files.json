@@ -1,0 +1,176 @@
+[
+{
+"Path": "Phi-3.5-MoE-instruct-IQ2_M.gguf",
+"Sha256": "9765e8f2b42b0c0b7e49346355676c68f9bd85d041f0550a9e2d7cc6b6cd9dbc",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-IQ2_S.gguf",
+"Sha256": "1f71713cfe7c9e5dfb1f8d771a46723be6ec7d9a27cb4fd351ac91c1c92a6ebd",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-IQ2_XS.gguf",
+"Sha256": "753f2babcffe2b26c090ab5a06e9fb326e1e07a151885ce66a21df8b35292eac",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-IQ2_XXS.gguf",
+"Sha256": "6819aa5f3da73c74079a74cda1ef9fa10039ba88e6bf8bec51abe9f0feeceb03",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-IQ3_M.gguf",
+"Sha256": "0ed036d526092c13c76d765a8b39dc89d635eb93d6d20c054858e17647b67057",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-IQ3_XS.gguf",
+"Sha256": "5b51777cd34b4bef9ea88ddaf3ac3d414988e2e190c8263e92ed88c8071ee36a",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-IQ4_NL.gguf",
+"Sha256": "539393419a56c4717793efe50492ad2e4c1a86e2f3db0bab17c1f1d9ea1d7e70",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-IQ4_XS.gguf",
+"Sha256": "42679bd288340e388660a6f42b51d2359f6db080a5b56546ae551b8ad58ae96b",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q2_K.gguf",
+"Sha256": "c2de6845afd55f8dea679f86f9808175e8b8e8030f4b5f5af5cad56a45ba6088",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q2_K_L.gguf",
+"Sha256": "3390bfb42f9bef4a1de687248eaedda70ecc09de0df664c15c7e3012063702a7",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q3_K_L.gguf",
+"Sha256": "f334bd97574f26e26eccd9f4cebc278845a3e832b0758ec9309c7e680f1741cd",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q3_K_M.gguf",
+"Sha256": "720f81aa62e296c23990448bf026381983c82c4564fe360efb88506e658f51d0",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q3_K_S.gguf",
+"Sha256": "84d70e6268bde95dcc9cb1b8e30e78080914ca689ac88cd1af93b009c63fe5f9",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q3_K_XL.gguf",
+"Sha256": "bd55cf1e64a7c325d998095327a5acbc63c7b9c0a5d0584daf754c3fc3ce968e",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q4_0.gguf",
+"Sha256": "69e70b56b46ddfbf7d255b08fd1fd1d24a58ea11e62097b8408dff619c8eb1f6",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q4_1.gguf",
+"Sha256": "bf115b88fa3e2385a7e5d91e2906e433f07b7029e76db94c30bf6279b0a14dc8",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q4_K_L.gguf",
+"Sha256": "47b0cb8c542e90de58aa02e9e96c5784437201486597f47491ffdc75524c2153",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q4_K_M.gguf",
+"Sha256": "43e91bb720869bd8a92d8eb86bc3c74a52c49cf61642ca709b3d7bb89644df36",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q4_K_S.gguf",
+"Sha256": "4bd8a5fd29c1d3fda5f78d027e87f50f09f3f05ec63f51fb31ac903e1c49dcd6",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q5_K_L.gguf",
+"Sha256": "ec038107387204918838295741d2ce036b8ae25169c67010f990902ebea96341",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q5_K_M.gguf",
+"Sha256": "b319ecce9ecec2c85ff873bea9ea593fe24477a420f4de2f9c1aa5d4db8bf264",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q5_K_S.gguf",
+"Sha256": "0d0074ca60d50ab79fddd5f2596bd131faaf4bca9c7ecfad7b4c16cb1aacb0dd",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q6_K.gguf",
+"Sha256": "f35392b032241301b5ed6e91b081cffc90551273e3858b29ef9bd3f93c9aec6c",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q6_K_L.gguf",
+"Sha256": "991e6da0ba9db3450b8681700dba7fca61d58de1155ae8a4e17d62352adba129",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-Q8_0.gguf",
+"Sha256": "790fdf80ea3b436142b924294716050dba486eaf6bc76c8967d305215584019f",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-f16/Phi-3.5-MoE-instruct-f16-00001-of-00003.gguf",
+"Sha256": "1ab829b82221e4de507df02deee1bede7598096b9547bddcbcce7ec2c4ff7df7",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-f16/Phi-3.5-MoE-instruct-f16-00002-of-00003.gguf",
+"Sha256": "8ebadc61f744631191a32d9d5493d72e0d9d5495902b99f503e34a6f3cd6e11f",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct-f16/Phi-3.5-MoE-instruct-f16-00003-of-00003.gguf",
+"Sha256": "b24d88c27d9efbe4493f516189c96b854226375638fa42979d8052ae5ebb5aba",
+"IsLFS": true,
+"CommittedDate": 1736885111
+},
+{
+"Path": "Phi-3.5-MoE-instruct.imatrix",
+"Sha256": "9b7fdf80ae95f640d737dbfaa0cc6d9f7a5ad3a3d00dbabd1c21ff31c68efc60",
+"IsLFS": true,
+"CommittedDate": 1736885111
+}
+]

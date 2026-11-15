@@ -1,0 +1,3 @@
+repo: https://huggingface.co/philbert440/Qwen3.8-27B-W4A16-AWQ
+main commit at snapshot: 7908d42a71077a5e4dc458f273682b12dfe384a0
+snapshot taken: 2026-11-15T02:34:31Z

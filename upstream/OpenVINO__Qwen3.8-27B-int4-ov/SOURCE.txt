@@ -1,0 +1,3 @@
+repo: https://huggingface.co/OpenVINO/Qwen3.8-27B-int4-ov
+main commit at snapshot: d15f4d91eccd11dd44f615ffdb539c61bf1f1e6e
+snapshot taken: 2026-11-15T02:24:44Z

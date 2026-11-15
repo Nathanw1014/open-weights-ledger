@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ggml-org/gpt-oss-120b-GGUF
+main commit at snapshot: f59990363fbbb67f01bce03e5e7bf0929e3e320b
+snapshot taken: 2026-11-15T02:29:52Z

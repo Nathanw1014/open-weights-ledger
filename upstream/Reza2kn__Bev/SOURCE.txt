@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Reza2kn/Bev
+main commit at snapshot: f01edf952e3f2da8147aa08ec6d6229c863d5d19
+snapshot taken: 2026-11-15T02:25:16Z

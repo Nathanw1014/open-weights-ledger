@@ -1,0 +1,3 @@
+repo: https://huggingface.co/RentedNoodle/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-Uncensored
+main commit at snapshot: b5b12d28f0dcb90ccb041a2c977eae16b070a9d6
+snapshot taken: 2026-11-15T02:25:13Z

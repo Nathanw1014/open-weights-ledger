@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-27B-3MPER0RR-obliterated-i1-GGUF
+main commit at snapshot: b33ce592fa933acdf7d5a2a2ebbc16d792b55b09
+snapshot taken: 2026-11-15T02:33:01Z

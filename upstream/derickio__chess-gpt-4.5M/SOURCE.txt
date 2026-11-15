@@ -1,0 +1,3 @@
+repo: https://huggingface.co/derickio/chess-gpt-4.5M
+main commit at snapshot: cff82f55728f3b6284faf6043c1c44686951741d
+snapshot taken: 2026-11-15T02:29:18Z

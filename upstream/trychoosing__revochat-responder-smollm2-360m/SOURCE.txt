@@ -1,0 +1,3 @@
+repo: https://huggingface.co/trychoosing/revochat-responder-smollm2-360m
+main commit at snapshot: b92cb7220049266a64b324f25cee0c4bd348263e
+snapshot taken: 2026-11-15T02:35:59Z

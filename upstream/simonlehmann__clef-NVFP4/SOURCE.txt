@@ -1,0 +1,3 @@
+repo: https://huggingface.co/simonlehmann/clef-NVFP4
+main commit at snapshot: 817ac58ad358f42489980ead62f8bf7cafc628c2
+snapshot taken: 2026-11-15T02:35:23Z

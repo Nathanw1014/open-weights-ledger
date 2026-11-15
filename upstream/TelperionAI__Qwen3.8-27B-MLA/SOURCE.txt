@@ -1,0 +1,3 @@
+repo: https://huggingface.co/TelperionAI/Qwen3.8-27B-MLA
+main commit at snapshot: 572038ac511b583e4e18637d27070974ecdab5ae
+snapshot taken: 2026-11-15T02:25:41Z

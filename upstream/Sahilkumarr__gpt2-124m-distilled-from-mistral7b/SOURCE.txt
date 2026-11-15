@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Sahilkumarr/gpt2-124m-distilled-from-mistral7b
+main commit at snapshot: 0df1e9e40fb0e5c8940ebb9d90085448b48dbc9e
+snapshot taken: 2026-11-15T02:25:22Z

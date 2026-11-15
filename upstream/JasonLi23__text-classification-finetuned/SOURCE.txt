@@ -1,0 +1,3 @@
+repo: https://huggingface.co/JasonLi23/text-classification-finetuned
+main commit at snapshot: 306ef803d1b3cceb7e22f37714952d38ebe46e0a
+snapshot taken: 2026-11-15T02:23:43Z

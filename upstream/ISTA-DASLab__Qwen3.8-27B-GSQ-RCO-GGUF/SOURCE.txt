@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF
+main commit at snapshot: d562806dbafae37109975e970aae91b43e73b440
+snapshot taken: 2026-11-15T02:23:06Z

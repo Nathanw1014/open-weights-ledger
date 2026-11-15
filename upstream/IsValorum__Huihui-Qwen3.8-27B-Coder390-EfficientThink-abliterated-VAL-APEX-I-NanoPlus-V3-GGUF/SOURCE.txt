@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Huihui-Qwen3.8-27B-Coder390-EfficientThink-abliterated-VAL-APEX-I-NanoPlus-V3-GGUF
+main commit at snapshot: d093308128dba15439e1b5cf98936e0bec762e14
+snapshot taken: 2026-11-15T02:23:24Z

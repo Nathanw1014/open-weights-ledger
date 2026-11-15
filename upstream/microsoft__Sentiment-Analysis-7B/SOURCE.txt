@@ -1,0 +1,3 @@
+repo: https://huggingface.co/microsoft/Sentiment-Analysis-7B
+main commit at snapshot: ac3324057c2bfeeb2ab56c7a7c786316538552b1
+snapshot taken: 2026-11-15T02:32:08Z

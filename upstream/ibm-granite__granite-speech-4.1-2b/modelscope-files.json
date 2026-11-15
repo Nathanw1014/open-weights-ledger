@@ -1,0 +1,62 @@
+[
+{
+"Path": ".eval_results/MODEL_ibm-granite-granite-speech-4.1-2b_DATASET_hf-audio-esb-datasets-test-only-sorted_ami_test.jsonl",
+"Sha256": "658989736e252dee7fc0b89e7d7c65fc8a287f6a4a7f91bc50006fcba88684ee",
+"IsLFS": true,
+"CommittedDate": 1777487553
+},
+{
+"Path": ".eval_results/MODEL_ibm-granite-granite-speech-4.1-2b_DATASET_hf-audio-esb-datasets-test-only-sorted_gigaspeech_test.jsonl",
+"Sha256": "3c0e751220dd5c29dd2492ac34b7cd88f31571bbb4ad5c11d7d5f0d729cde4a2",
+"IsLFS": true,
+"CommittedDate": 1777487553
+},
+{
+"Path": ".eval_results/MODEL_ibm-granite-granite-speech-4.1-2b_DATASET_hf-audio-esb-datasets-test-only-sorted_spgispeech_test.jsonl",
+"Sha256": "f90bb97631d1d2774684f12112ed31b581175b3bf7de83351ae5660f816b1a0d",
+"IsLFS": true,
+"CommittedDate": 1777487566
+},
+{
+"Path": "model-00001-of-00003.safetensors",
+"Sha256": "3c987fdc29940c49d2498ea5925e8d57f88661af3ef30f73e56e2434ded3e42f",
+"IsLFS": true,
+"CommittedDate": 1777487671
+},
+{
+"Path": "model-00002-of-00003.safetensors",
+"Sha256": "8e18d6d3fbe009a95a4cf305e31c2aab4a3484eccbce29aa1aa1454fc8c046ee",
+"IsLFS": true,
+"CommittedDate": 1777487683
+},
+{
+"Path": "model-00003-of-00003.safetensors",
+"Sha256": "32f823497bc179f6f346efdd46984ab60e44b3d443bf40a18d757ddce626a2d2",
+"IsLFS": true,
+"CommittedDate": 1777487683
+},
+{
+"Path": "multilingual_sample.wav",
+"Sha256": "91d243650809c1274141ec20ff23045315eaf27567694002ea3ef390048b7058",
+"IsLFS": true,
+"CommittedDate": 1777487696
+},
+{
+"Path": "out_llm.safetensors",
+"Sha256": "6cc10d68fe05aec359aceffd597617c875b23f27211ee6dcdb7510d9e90fc64e",
+"IsLFS": true,
+"CommittedDate": 1777487696
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "43ca88fd0519c64ef93fa0a90cbc4e560fe485b5ba60348a86bc3c624f37918e",
+"IsLFS": true,
+"CommittedDate": 1777487720
+},
+{
+"Path": "vocab.json",
+"Sha256": "8af71076de8b0b626eed0f4c984faf0a7c062479164b2a31308a948524d4f69c",
+"IsLFS": true,
+"CommittedDate": 1777487720
+}
+]

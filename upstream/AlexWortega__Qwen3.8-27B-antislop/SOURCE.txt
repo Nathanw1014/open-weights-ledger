@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AlexWortega/Qwen3.8-27B-antislop
+main commit at snapshot: 395c2c057ac4d7d6fa333dd9774a652039ebddb6
+snapshot taken: 2026-11-15T02:21:09Z

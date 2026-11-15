@@ -1,0 +1,3 @@
+repo: https://huggingface.co/vcruz305/RED-SNOW-5.3-FLASH-EXL3-SAGE-4.91bpw
+main commit at snapshot: f6b8963784254095a54944f2963b2925fcf4b199
+snapshot taken: 2026-11-15T02:36:15Z

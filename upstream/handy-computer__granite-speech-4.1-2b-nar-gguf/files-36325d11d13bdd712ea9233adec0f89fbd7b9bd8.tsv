@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+granite-speech-4.1-2b-nar-BF16.gguf	4514736064	6f0d6649ae341fe78408cb9dbed10b31d19244c12edfd1a77351b741c1006122	sha256
+granite-speech-4.1-2b-nar-F16.gguf	4515792800	32105ef24132fdeff8d06bc89059b146f3c13e4df6e00dcf9e8e41c6d4528754	sha256
+granite-speech-4.1-2b-nar-Q4_K_M.gguf	1560008864	5b07bc8c66230764eab460d744f24d4f49b9524dc1cd53d26209ca517f258e48	sha256
+granite-speech-4.1-2b-nar-Q5_K_M.gguf	1782089376	dda8ffc26d2969dd3fc3f8d80e29d98d3435b830c83b01bb1263199fee79710a	sha256
+granite-speech-4.1-2b-nar-Q6_K.gguf	1977417600	be58c89ae5c2da2dd84fb685271eee2b10343e4dfadd1e7aa5b8236798f9c685	sha256
+granite-speech-4.1-2b-nar-Q8_0.gguf	2498105504	90535988815bc7408c491b1e46f7c1dfc5d5359badffe98804bb9f7e54bdc6a3	sha256

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/amazon/gpt-oss-120b-p-eagle-long-context
+main commit at snapshot: 9e061277a0dd26e92de30be3fb657eeff7775d46
+snapshot taken: 2026-11-15T02:27:09Z

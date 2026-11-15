@@ -1,0 +1,3 @@
+repo: https://huggingface.co/perplexity-ai/pplx-decider-v1-27b
+main commit at snapshot: d8c3bd18e31dc1804433d38528b3e770019bf00c
+snapshot taken: 2026-11-15T02:34:23Z

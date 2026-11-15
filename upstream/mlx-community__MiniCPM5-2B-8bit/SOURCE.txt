@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/MiniCPM5-2B-8bit
+main commit at snapshot: 2d20e8e672ce892d50f7265bfd3fc9b59b718f2a
+snapshot taken: 2026-11-15T02:32:31Z

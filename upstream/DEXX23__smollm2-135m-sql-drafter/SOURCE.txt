@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DEXX23/smollm2-135m-sql-drafter
+main commit at snapshot: 60d0ec365ceffdfe31494d472ab35c50563405c4
+snapshot taken: 2026-11-15T02:21:55Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/agentlans/SmolLM2-135M-multilingual-base
+main commit at snapshot: 7fe444e9d5130d8d62fc5454b17955912cc54ed9
+snapshot taken: 2026-11-15T02:26:16Z

@@ -1,0 +1,68 @@
+[
+{
+"Path": "openvino_detokenizer.bin",
+"Sha256": "48fc2c6a7a1056994982911eb9695826acef933c3d742364c56d16317a0b2a79",
+"IsLFS": true,
+"CommittedDate": 1786733832
+},
+{
+"Path": "openvino_language_model.bin",
+"Sha256": "95aac72ac7286707c5e0fd9b120ea7f22c93f3ae17e7f1263442587d1d887d50",
+"IsLFS": true,
+"CommittedDate": 1787240224
+},
+{
+"Path": "openvino_language_model.xml",
+"Sha256": "ab94a08ce150de6ae0cbf9835a6a63565833042ee7fe597df7cd69c6effffd13",
+"IsLFS": true,
+"CommittedDate": 1787240227
+},
+{
+"Path": "openvino_mtp_model.bin",
+"Sha256": "bc8ef47f252ad5a72be11e48ba6a23da50a67d1cef03396a7d902ca9aa1d5bc8",
+"IsLFS": true,
+"CommittedDate": 1787240229
+},
+{
+"Path": "openvino_text_embeddings_model.bin",
+"Sha256": "e2099d0d83dcdfb00c378b51b50a52d28116aee71eb4f81cef0fe19ae37a085f",
+"IsLFS": true,
+"CommittedDate": 1787240233
+},
+{
+"Path": "openvino_tokenizer.bin",
+"Sha256": "ca1ff37f580b558f0119b57824240adc92624d6d2ef6dd96ca2a24f4f1368c05",
+"IsLFS": true,
+"CommittedDate": 1787240237
+},
+{
+"Path": "openvino_vision_embeddings_merger_model.bin",
+"Sha256": "3792b6946c1f475aaac5d6f3960c7b912f612104e4f39ad68643b707370ed8e7",
+"IsLFS": true,
+"CommittedDate": 1786734127
+},
+{
+"Path": "openvino_vision_embeddings_merger_model.xml",
+"Sha256": "a8342c0e20b4b4124f63c801a42de66425a670e903d1bf33861002b21114f3c7",
+"IsLFS": true,
+"CommittedDate": 1787240241
+},
+{
+"Path": "openvino_vision_embeddings_model.bin",
+"Sha256": "5a8661b052abd07563d0f7148934d1fb77d5a842647151304287beb5dcee5541",
+"IsLFS": true,
+"CommittedDate": 1786734129
+},
+{
+"Path": "openvino_vision_embeddings_pos_model.bin",
+"Sha256": "82ccc97be0351cd82ebe1717fd7fa9adf72a44982a7ced8e8a845d869325d9e5",
+"IsLFS": true,
+"CommittedDate": 1786734130
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "87a7830d63fcf43bf241c3c5242e96e62dd3fdc29224ca26fed8ea333db72de4",
+"IsLFS": true,
+"CommittedDate": 1786734134
+}
+]

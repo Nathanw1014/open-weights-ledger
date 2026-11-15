@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mlx-community/DeepSeek-V4.1-Flash-1017-oQ4e-mtp
+main commit at snapshot: 8080db68c4d9323ad69e0e8c2496b0d673a336bc
+snapshot taken: 2026-11-15T02:32:23Z

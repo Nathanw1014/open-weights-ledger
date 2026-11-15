@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+assets/ornith_9b_eval.png	724267	5f13eb1febaa4656e2b23baea365bc6e03c052ec8b523e1c45b4a2b183393c43	sha256
+assets/ornith_logo.png	962441	458ee0d85baea4d1fc0b099245f243b21006f696921f896a5b59980a6eadef6a	sha256
+model.safetensors	18819722392	20c59628206bcbbfae378218a17a385c7647e48b786a92a659d68a752f523b7f	sha256
+tokenizer.json	19989492	6f32ce20dc35f57a7f9ad1eac03525bd7d30f9df8cea6507e958279cc3657706	sha256

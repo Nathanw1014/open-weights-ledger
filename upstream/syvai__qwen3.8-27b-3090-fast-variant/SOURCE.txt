@@ -1,0 +1,3 @@
+repo: https://huggingface.co/syvai/qwen3.8-27b-3090-fast-variant
+main commit at snapshot: 124c14e7e8c7d2f5402933b9af368e772a9fcf0c
+snapshot taken: 2026-11-15T02:35:36Z

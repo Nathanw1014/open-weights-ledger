@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ticeclock/Swift-Qwen3.8-27B-RCO-GGUF
+main commit at snapshot: ed93ea45e77ac5f30d258a62a838b6061c4a1c3b
+snapshot taken: 2026-11-15T02:35:49Z

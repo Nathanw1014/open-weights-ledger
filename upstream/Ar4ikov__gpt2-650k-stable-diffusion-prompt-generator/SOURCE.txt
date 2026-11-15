@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Ar4ikov/gpt2-650k-stable-diffusion-prompt-generator
+main commit at snapshot: 30a70df708cb7a5ea969fb8559c682f21502cfb5
+snapshot taken: 2026-11-15T02:21:19Z

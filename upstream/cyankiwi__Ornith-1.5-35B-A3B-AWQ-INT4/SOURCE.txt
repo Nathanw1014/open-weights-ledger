@@ -1,0 +1,3 @@
+repo: https://huggingface.co/cyankiwi/Ornith-1.5-35B-A3B-AWQ-INT4
+main commit at snapshot: 8afa232234a67f5bce4567982541a99688ac5137
+snapshot taken: 2026-11-15T02:28:49Z

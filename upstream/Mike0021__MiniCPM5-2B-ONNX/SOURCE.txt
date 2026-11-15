@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Mike0021/MiniCPM5-2B-ONNX
+main commit at snapshot: 04a6c49fcba3a65a0351c92644c3a7e9d4343059
+snapshot taken: 2026-11-15T02:24:31Z

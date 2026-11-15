@@ -1,0 +1,3 @@
+repo: https://huggingface.co/hell0ks/GLM-5.3-Flash-Uncensored-AWQ
+main commit at snapshot: fbc204e5774995fb04007e58be35a59624f1f4c1
+snapshot taken: 2026-11-15T02:29:59Z

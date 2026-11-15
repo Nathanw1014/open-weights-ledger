@@ -1,0 +1,20 @@
+[
+{
+"Path": "Qwen3.8-27B-APEX-I-Mini.gguf",
+"Sha256": "6cd1230e017d8f7dcfcc3502fa10c4c2fda6fdd7b17ed2c80cce9df28c73efa6",
+"IsLFS": true,
+"CommittedDate": 1786993781
+},
+{
+"Path": "Qwen3.8-27B-APEX-I-Nano.gguf",
+"Sha256": "47b627b7de17c2bcfa9cebb7cf2d9d81e68b4b61f8cad16cf85f839604c694cb",
+"IsLFS": true,
+"CommittedDate": 1786993781
+},
+{
+"Path": "mmproj-Qwen3.8-27B-F16.gguf",
+"Sha256": "56c344ea0fced651461ac14193cac0739d78b42f69c3c2310f8d173dd7490012",
+"IsLFS": true,
+"CommittedDate": 1786993781
+}
+]

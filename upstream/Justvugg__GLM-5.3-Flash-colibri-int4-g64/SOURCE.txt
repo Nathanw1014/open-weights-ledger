@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Justvugg/GLM-5.3-Flash-colibri-int4-g64
+main commit at snapshot: fe1d408f252c9c53a0d688aa54e41d9bdfdfd510
+snapshot taken: 2026-11-15T02:23:55Z

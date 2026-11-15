@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Youssofal/Ternary-Bonsai-2-27B-MTPLX-Optimized-Speed
+main commit at snapshot: 03bd60bb82755f2446f5083426dca9708eb8e0fe
+snapshot taken: 2026-11-15T02:26:02Z

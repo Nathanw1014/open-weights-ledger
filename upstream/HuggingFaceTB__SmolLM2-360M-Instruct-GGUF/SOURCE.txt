@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF
+main commit at snapshot: 593b5a2e04c8f3e4ee880263f93e0bd2901ad47f
+snapshot taken: 2026-11-15T02:22:57Z

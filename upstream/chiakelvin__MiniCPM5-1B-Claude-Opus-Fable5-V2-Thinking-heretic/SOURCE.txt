@@ -1,0 +1,3 @@
+repo: https://huggingface.co/chiakelvin/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-heretic
+main commit at snapshot: 331dd33c7851e2c687b849072c852cec6e7c7e44
+snapshot taken: 2026-11-15T02:28:45Z

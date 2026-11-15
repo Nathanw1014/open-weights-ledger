@@ -1,0 +1,3 @@
+repo: https://huggingface.co/protoLabsAI/Ornith-1.5-9B-MTP-GGUF
+main commit at snapshot: 5957ee5dcb88e9a9f4cd9a23c649320d20a574cd
+snapshot taken: 2026-11-15T02:34:46Z

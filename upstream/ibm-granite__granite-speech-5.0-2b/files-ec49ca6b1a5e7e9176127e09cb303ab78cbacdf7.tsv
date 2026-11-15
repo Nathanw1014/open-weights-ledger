@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+assets/granite-5.0-2b-vs-open-english.png	288836	7d90f7f57a4dce1a12ad88abb003d25ee145cbf3a7bc2de9a3b6105ac1968a89	sha256
+assets/granite-speech-5.0-2b-bleu-en-x.png	144819	6457dd120f1b20faa9a29377ca9c1c80b837e7186a7d03b453055db75d81bc3a	sha256
+assets/granite-speech-5.0-2b-bleu-x-en.png	133563	ec80a8565500554c8c1203f12723b27c55be107b0a552a2e7c72f278391bd079	sha256
+assets/granite-speech-5.0-2b-ffasr-wer.png	301790	44116a8de1c809c0f5f7e9a47e3a8e5c601e0af8025119f1b8853e0beabf81dc	sha256
+assets/granite-speech-5.0-2b-kwb-f1.png	240722	757ed050cb5e58f5953bbb93050ec80bfc93b02c3dc6a2bd0751fabc1062b113	sha256
+assets/granite-speech-5.0-2b-wer-cv.png	148082	a103bd94fc2a32214bb28ba0f1ca4802a1a8bd49fab14df69c9ee2c5afa15af3	sha256
+model.safetensors	4626528224	4151269881d2dd825d45ca75d6552b2a20e6e39d0934ed84c4db826af8bf6d88	sha256
+multilingual_sample.wav	1596240	91d243650809c1274141ec20ff23045315eaf27567694002ea3ef390048b7058	sha256
+out_llm.safetensors	411447460	a6b638a913b2dcf835dfbc621d9780d2557ac635a5c4718d1ffe64d39beb8ada	sha256

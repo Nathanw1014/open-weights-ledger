@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+MTP/mtp-Qwen3.8-27B-Artemis-Q4_0.gguf	1342556960	5331d11b17004975ef6844ef04f595d0deb439ed8e22f20496f3c3a7c31f3246	sha256
+Qwen3.8-27B-Artemis-IQ2_XXS.gguf	7830620736	6b41a0716f4222f364abbfa88e718db2501bdd173de186f0ba45dd490587602c	sha256
+assets/comparison.png	139850	69abdbcab53be20a4bd3ecf449847c2e9fe531f445d580d033acc15673ace5f0	sha256
+mmproj-BF16.gguf	931146176	b56aca76c51d2ba0e7b5c34d4fab84d50ad71dc7b12f17c0faa9f57e816a5df5	sha256
+mmproj-F16.gguf	927607232	7a47ce71686d9a26eb90a9aaa73da3e9a9fc6f3648d9646b1b06959e7e83bb6b	sha256

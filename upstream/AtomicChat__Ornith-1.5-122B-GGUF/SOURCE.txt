@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AtomicChat/Ornith-1.5-122B-GGUF
+main commit at snapshot: 98907d89aad91aa477464a1944ab8c844886dfa1
+snapshot taken: 2026-11-15T02:21:26Z

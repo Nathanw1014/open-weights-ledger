@@ -1,0 +1,3 @@
+repo: https://huggingface.co/fudan-generative-ai/Qwen3.8-27B-REMORY-1.9B
+main commit at snapshot: 5ada60e61d5425012b92a7c2b2796fc0b0f29241
+snapshot taken: 2026-11-15T02:29:42Z

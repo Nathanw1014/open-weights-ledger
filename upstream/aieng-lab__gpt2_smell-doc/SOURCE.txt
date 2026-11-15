@@ -1,0 +1,3 @@
+repo: https://huggingface.co/aieng-lab/gpt2_smell-doc
+main commit at snapshot: 3c51b7f24ed6783f04ed51b14fa83c53f97591c4
+snapshot taken: 2026-11-15T02:26:51Z

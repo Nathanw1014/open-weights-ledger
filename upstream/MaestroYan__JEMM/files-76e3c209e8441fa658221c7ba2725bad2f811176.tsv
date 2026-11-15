@@ -1,0 +1,5 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+adapter_model.safetensors	467062560	fac397c8af737bb8d259efbe16f771507f77276fb44ab74942cd2e1bc05c3fef	sha256
+assets/accuracy.png	332082	b8b6e778dec8769c2e1c060fb4c5dd75f4ddbcf6cf79d33ef94a1af6c89f7430	sha256
+assets/landscape.png	284807	17f8c52467592da6dd35a1a338f219fe6b3be2e89ffcb412a8a7c2477c9825cd	sha256
+assets/latency.png	242879	e6ff6a028ef370ae4809df8e3f06df5d1922e4105f4e217d88aacd30ac6b6115	sha256

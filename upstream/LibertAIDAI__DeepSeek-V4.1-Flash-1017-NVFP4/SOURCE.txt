@@ -1,0 +1,3 @@
+repo: https://huggingface.co/LibertAIDAI/DeepSeek-V4.1-Flash-1017-NVFP4
+main commit at snapshot: 5be99cd15675589fb6693d0a8651e413bcb9a396
+snapshot taken: 2026-11-15T02:24:04Z

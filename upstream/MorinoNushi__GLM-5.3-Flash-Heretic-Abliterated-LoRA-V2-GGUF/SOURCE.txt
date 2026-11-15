@@ -1,0 +1,3 @@
+repo: https://huggingface.co/MorinoNushi/GLM-5.3-Flash-Heretic-Abliterated-LoRA-V2-GGUF
+main commit at snapshot: 1ab13071490a9a1150177df69da16e9490f01dd3
+snapshot taken: 2026-11-15T02:24:33Z

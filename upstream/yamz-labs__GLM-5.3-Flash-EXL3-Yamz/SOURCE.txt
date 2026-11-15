@@ -1,0 +1,3 @@
+repo: https://huggingface.co/yamz-labs/GLM-5.3-Flash-EXL3-Yamz
+main commit at snapshot: e1c5c9752c4e35e5a06d6b32fef8025a4b3fd8c2
+snapshot taken: 2026-11-15T02:36:28Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/RadixArk/Qwen3.8-27B-NVFP4-BF16-LMHead
+main commit at snapshot: 009632fef96dd349150baa780c984e62e70e91fe
+snapshot taken: 2026-11-15T02:25:05Z

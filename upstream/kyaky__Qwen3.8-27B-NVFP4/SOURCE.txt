@@ -1,0 +1,3 @@
+repo: https://huggingface.co/kyaky/Qwen3.8-27B-NVFP4
+main commit at snapshot: 6de592a7a4a5618b87c952ab92928ee1755bd9c6
+snapshot taken: 2026-11-15T02:31:13Z

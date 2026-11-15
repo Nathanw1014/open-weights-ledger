@@ -1,0 +1,3 @@
+repo: https://huggingface.co/caslca/Qwen3.8-27B-Fable-Distill-OptiQ-4.5bpw-mixed-mtp-drafter
+main commit at snapshot: 0caad904fdd7706310f42f342226e7ae9b2d55dc
+snapshot taken: 2026-11-15T02:28:36Z

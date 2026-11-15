@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/SuperQwen3.8-27b-abliterated-i1-GGUF
+main commit at snapshot: cb1cc7d47b1d4a7308a5539492f9bb81ade9ff8e
+snapshot taken: 2026-11-15T02:33:09Z

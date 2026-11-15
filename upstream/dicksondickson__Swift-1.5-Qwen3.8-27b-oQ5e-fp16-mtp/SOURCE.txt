@@ -1,0 +1,3 @@
+repo: https://huggingface.co/dicksondickson/Swift-1.5-Qwen3.8-27b-oQ5e-fp16-mtp
+main commit at snapshot: 999f295f55af6e2876c8093199d4d4149c22cf87
+snapshot taken: 2026-11-15T02:29:21Z

@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+.eval_results/MODEL_ibm-granite-granite-speech-4.1-2b_DATASET_hf-audio-esb-datasets-test-only-sorted_spgispeech_test.jsonl	15286729	f90bb97631d1d2774684f12112ed31b581175b3bf7de83351ae5660f816b1a0d	sha256
+model-00001-of-00003.safetensors	2143518808	3c987fdc29940c49d2498ea5925e8d57f88661af3ef30f73e56e2434ded3e42f	sha256
+model-00002-of-00003.safetensors	2143963456	8e18d6d3fbe009a95a4cf305e31c2aab4a3484eccbce29aa1aa1454fc8c046ee	sha256
+model-00003-of-00003.safetensors	339045512	32f823497bc179f6f346efdd46984ab60e44b3d443bf40a18d757ddce626a2d2	sha256
+multilingual_sample.wav	1596240	91d243650809c1274141ec20ff23045315eaf27567694002ea3ef390048b7058	sha256
+out_llm.safetensors	205723810	6cc10d68fe05aec359aceffd597617c875b23f27211ee6dcdb7510d9e90fc64e	sha256

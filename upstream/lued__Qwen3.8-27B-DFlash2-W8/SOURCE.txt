@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lued/Qwen3.8-27B-DFlash2-W8
+main commit at snapshot: f454fa8e6a84387bf006f849584f72541cc29118
+snapshot taken: 2026-11-15T02:31:40Z

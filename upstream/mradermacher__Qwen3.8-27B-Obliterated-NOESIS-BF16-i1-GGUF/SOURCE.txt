@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3.8-27B-Obliterated-NOESIS-BF16-i1-GGUF
+main commit at snapshot: f97d1c91f991e84489d21de0e167fe96f4b0ae40
+snapshot taken: 2026-11-15T02:33:03Z

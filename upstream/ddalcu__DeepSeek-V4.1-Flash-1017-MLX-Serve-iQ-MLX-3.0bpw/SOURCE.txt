@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ddalcu/DeepSeek-V4.1-Flash-1017-MLX-Serve-iQ-MLX-3.0bpw
+main commit at snapshot: 6da9c4e4b3db7dabf5669af8dbee989c35a9f045
+snapshot taken: 2026-11-15T02:28:57Z

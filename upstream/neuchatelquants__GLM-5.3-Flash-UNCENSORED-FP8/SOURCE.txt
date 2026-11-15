@@ -1,0 +1,3 @@
+repo: https://huggingface.co/neuchatelquants/GLM-5.3-Flash-UNCENSORED-FP8
+main commit at snapshot: fab4bba5a3ee0aa642fd4c296efc950f473196c2
+snapshot taken: 2026-11-15T02:33:35Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/sweetand/qwen3.8-27b-1C
+main commit at snapshot: fc7b73810a3b604b9aa3876035193ad459c40cf8
+snapshot taken: 2026-11-15T02:35:34Z

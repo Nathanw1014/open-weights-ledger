@@ -1,0 +1,3 @@
+repo: https://huggingface.co/s-zaizen/DeepSeek-V4.1-Flash-Abliterated
+main commit at snapshot: 23da584e06e57ec43c896d286b44b822c9bb0ad6
+snapshot taken: 2026-11-15T02:35:05Z

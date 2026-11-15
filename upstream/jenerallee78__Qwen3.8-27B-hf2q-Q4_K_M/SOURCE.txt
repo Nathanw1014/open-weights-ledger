@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jenerallee78/Qwen3.8-27B-hf2q-Q4_K_M
+main commit at snapshot: 840dc4196706714939679630d137b04fb33c0c9f
+snapshot taken: 2026-11-15T02:30:51Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Qwen3.8-Flash-Coder-85GB-BF16-GGUF
+main commit at snapshot: bc3a1fea52a6dfab5abd6b2ff99a16ae144f8430
+snapshot taken: 2026-11-15T02:23:31Z

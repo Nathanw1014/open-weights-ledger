@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DogContext/GLM-5.3-Flash-Uncensored-Q2-ds4
+main commit at snapshot: 235989b3a2f4ede83c05c9bdb29130ea3f77e3bb
+snapshot taken: 2026-11-15T02:22:12Z
