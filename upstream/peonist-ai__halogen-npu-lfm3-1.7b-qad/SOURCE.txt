@@ -1,0 +1,3 @@
+repo: https://huggingface.co/peonist-ai/halogen-npu-lfm3-1.7b-qad
+main commit at snapshot: eb9877084a8017ebaa9eac384ebe7ce0bff67538
+snapshot taken: 2026-11-15T18:57:09Z

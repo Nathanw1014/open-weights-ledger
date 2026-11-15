@@ -1,3 +1,3 @@
 repo: https://huggingface.co/reaperdoesntknow/SMOLM2Prover-GGUF
-main commit at snapshot: 63933ea51b95239006480d1f803792e389a5ff77
-snapshot taken: 2026-11-15T02:34:57Z
+main commit at snapshot: da46ccf596f2473ae9c6ab4f50b1985cd8b3e830
+snapshot taken: 2026-11-15T18:56:56Z

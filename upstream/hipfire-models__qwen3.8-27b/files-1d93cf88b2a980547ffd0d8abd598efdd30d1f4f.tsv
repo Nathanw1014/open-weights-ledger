@@ -1,7 +1,4 @@
-# path	size	hash	kind (sha256 = LFS weight hash, git = git blob id)
-.gitattributes	2923	b0d784862ce522997a2c2669dfe10383b5a86402	git
-README.md	10100	368738900e162d3ddc2aaf6692d3a73a91ed323b	git
-kld/VERIFY.md	19556	1f3119ff6748e2e7da32be7e3b882e54174cd533	git
+# path	size	hash	kind (sha256 = LFS weight hash)
 kld/heldout-code24.gptqsym.kldref.bin	12631904	43ab7591f2acf6b5b4058b77253109230d96591be02469ddef55235102ec7582	sha256
 kld/qwen3.8-27b.ref_wt2.bin	50675552	8c545178fb43647499c4c7bdd33178c24fd402615c641add9ed51a0c9a43234a	sha256
 qwen3.8-27b-vision.hfq	927611840	269457cb42adc9d2fd20b33d2911e1b3015a30ef2033927f500c7fbe508753c9	sha256

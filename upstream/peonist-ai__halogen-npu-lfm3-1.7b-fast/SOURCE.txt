@@ -1,3 +1,3 @@
 repo: https://huggingface.co/peonist-ai/halogen-npu-lfm3-1.7b-fast
-main commit at snapshot: b04fc8f1d37f700f3973719e43db340f86a1ec49
-snapshot taken: 2026-11-13T14:52:19Z
+main commit at snapshot: aa6207e4d84fc10c669629da29c133248a473429
+snapshot taken: 2026-11-15T18:57:07Z

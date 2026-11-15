@@ -3676,3 +3676,38 @@ time	repo	event	detail
 2026-11-15T03:29:52Z	unsloth/FLUX.2-klein-4B-GGUF	PF-TORRENT-ADDED	torrent btih:3a80b82d47615244d82d3d1ad17e2fefa25f6de5, pinned to 0084d1df98e2e2137fe776d55170bc4792ec1d66, 2 seeds
 2026-11-15T03:31:08Z	unsloth/gemma-2b-it	PF-TORRENT-ADDED	torrent btih:2e271f1060c2b5dd80414e4acc0c9042c241e8f5, pinned to 5ae754dee0b5cbf7f7fb39a7731aefa6b7987c2d, 2 seeds
 2026-11-15T03:36:28Z	unsloth/GLM-4-32B-0414-GGUF	PF-TORRENT-ADDED	torrent btih:4552ffbff9ee7d253142365dbf3b6a55bf98b96f, pinned to 13abb7e80567c1c28bbea7f04eb386b7bf10f99b, 0 seeds
+2026-11-15T18:56:53Z	diffbot/DeepSeek-V4.1-Flash-EXL3-3bpw-2x-RTX-PRO-6000	MAIN-MOVED	124a42dcd885c44c4920c8de2881ac23f1ea0f8f -> 6110453b901e4b51da66f539f3802b5c7f18e8e8
+2026-11-15T18:56:54Z	hipfire-models/qwen3.8-27b	MAIN-MOVED	f3f240897aaf84affb5d6be64567d5a62949baff -> 1d93cf88b2a980547ffd0d8abd598efdd30d1f4f
+2026-11-15T18:56:55Z	gbuzhf/Ornith-1.5-35B-A3B-Huihui-Sangreal-MTP-ICE-GGUF	MAIN-MOVED	a6a036b3866a03c0a0783522a457131999a0571b -> 3e50c86fa0179cd75c1984e3c8e52bc30ef89d51
+2026-11-15T18:56:56Z	reaperdoesntknow/SMOLM2Prover	MAIN-MOVED	9013f9c19f44cae65e1ff893f7dbbd227c6ceb31 -> 25168ff75bb7b78a6b972b6a4fa3553212695658
+2026-11-15T18:56:57Z	nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2	MAIN-MOVED	44b13a82d39e63d1c039eece3826e90e2f28eefa -> 7eced947d7132dffbc2c0ea4db332081360afbf8
+2026-11-15T18:56:57Z	reaperdoesntknow/SMOLM2Prover-GGUF	MAIN-MOVED	63933ea51b95239006480d1f803792e389a5ff77 -> da46ccf596f2473ae9c6ab4f50b1985cd8b3e830
+2026-11-15T18:57:00Z	reaperdoesntknow/gemma-270m-math-reasoner	MAIN-MOVED	ab490d06fc80b38739abb0bdff41c20152b2f7e3 -> 996dde2cc4a5f14a2b3298946053c30105b4b3f0
+2026-11-15T18:57:00Z	unsloth/DeepSeek-V4.1-Flash-1017-GGUF	MAIN-MOVED	2688c0c3c2c3b052ec4f6d10a8417b0ef7ee4eba -> dfcee0ec8d6b874c6663eca0fc55d90ab32534c8
+2026-11-15T18:57:02Z	nvidia/nemotron-labs-audio-visual-flamingo-hf	MAIN-MOVED	4e40cc207574b8d95628f44691f75b01e012e46c -> d09c69554f258b7398bbcad9408b5361349468c8
+2026-11-15T18:57:02Z	nvidia/nemotron-labs-audio-visual-flamingo-hf	REUPLOAD	model.safetensors f5ccde60b75eab18a2952c6410222e710b04c8518f57bb2019a031780b8ded0e -> 14c851b9d0e386b2238b23f3494d351d03357f77adf7997118a0f002125353c7
+2026-11-15T18:57:02Z	mradermacher/Huihui-Qwen3-Coder-Next-abliterated-i1-GGUF	NEW-REPO	main bb2319c165f926dc768a16029f29086382e19ecf, 24 weight files, 24 hash versions in history
+2026-11-15T18:57:04Z	mradermacher/Qwen3.5-122B-A10B-heretic-GGUF	NEW-REPO	main e6d4ac4cc52fc88bbc3467ac74b802e3280de669, 13 weight files, 13 hash versions in history
+2026-11-15T18:57:04Z	medismera/Qwen3.8-27B-OBLITERATED-Mythos-Class-Agentic	NEW-REPO	main b10479b0e41103794cca8c9ac851256eb332acfd, 30 weight files, 42 hash versions in history
+2026-11-15T18:57:06Z	mradermacher/Qwen3.5-122B-A10B-heretic-v2-GGUF	NEW-REPO	main 214810bd43efea922e87e55e2117a78db3536a88, 13 weight files, 13 hash versions in history
+2026-11-15T18:57:08Z	peonist-ai/halogen-qwen3.8-flash-next	MAIN-MOVED	f5a151cf3f5fac07c2da30cb9af08066231c9ef0 -> 95a013da045c174163b4458d64886f3ce96b9b79
+2026-11-15T18:57:08Z	peonist-ai/halogen-npu-lfm3-1.7b	MAIN-MOVED	8586fb6b23895d1c0c98a3a6500ee4df3ab97524 -> b9b15f09c8a8ecb2550791e5fb806674a310c8da
+2026-11-15T18:57:08Z	peonist-ai/halogen-npu-lfm3-1.7b	REUPLOAD	devices/consts.hnpb f7e5ab4f49201e3fa6df23c7b8520afa2602f161b27273e41eadb784479855da -> 9c590c1229c058855b51fce9803b79e7f6ddcd751b693cfc668fb3bf72d4a6f7
+2026-11-15T18:57:08Z	peonist-ai/halogen-npu-lfm3-1.7b	REUPLOAD	devices/u0.elf e42eef7a9feca2df475d83de0925382364420e8a0ef3314e2d6366f66427f7be -> 0edbd7a01afc0d14d1b8945022cb968cb8846e2b81417d1335eb006291a15589
+2026-11-15T18:57:08Z	peonist-ai/halogen-npu-lfm3-1.7b	REUPLOAD	devices/u1.elf a49b1f736e7e40a887ccfd3e1c8a7f7d8a91e7f03f824f082192979f6aaee192 -> 783a17c28b3c5eacc70fa59c879de9ed6969851180a46353f8b4746b92c1b940
+2026-11-15T18:57:08Z	peonist-ai/halogen-npu-lfm3-1.7b	REUPLOAD	devices/u2.elf f7eba56d869ef2a968d520e3c02fafaacfa21573c7416ba94b4c45e0b7deb940 -> d8fdce76d9249ef69b33ea8b509cff8afbfb0acc3b82ec0c075ed26fbf4507c4
+2026-11-15T18:57:08Z	peonist-ai/halogen-npu-lfm3-1.7b	REUPLOAD	devices/u3.elf 666f5fba581939a3b394002788667ad19186150d1187c5c9bee04130bb83f210 -> da4c9e44dddfd76719d5ef5c92f780d91ed2a495e6f4bcad081c6508d28d8507
+2026-11-15T18:57:08Z	peonist-ai/halogen-npu-lfm3-1.7b	REUPLOAD	devices/u4.elf 2cf1999715a2b08923db61e4341e0b1148abf399de43a40ff45ea9dfec2f170e -> 300cd55a2d2ad49e7d9a8cb983afef395cc5ecf0ffe3e2837cdf35a966e69b6b
+2026-11-15T18:57:08Z	peonist-ai/halogen-npu-lfm3-1.7b	REUPLOAD	devices/u5.elf a6b9bd230e7699346aff9a05547def4ebbbac805508f858ed0a80a452a9f6499 -> 18cb080cef8c74a239a2b198a472e5cb1fbe7c110356ceaa369b98550c70315e
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-fast	MAIN-MOVED	b04fc8f1d37f700f3973719e43db340f86a1ec49 -> aa6207e4d84fc10c669629da29c133248a473429
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-fast	REUPLOAD	devices/consts.hnpb e4a75b321e4f3c2108bce4534e1be66fc006e36ddf80bdbcaba1465d2e807f8c -> 4f779f9c0de091fbf2ddeed079d7a04a9e2d97b5b9162f530b8dff8406258f90
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-fast	REUPLOAD	devices/u0.elf df1727d0faa6a85ad565143ec17506a503f1ea03db55207c9335d78776ae1c59 -> 0edbd7a01afc0d14d1b8945022cb968cb8846e2b81417d1335eb006291a15589
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-fast	REUPLOAD	devices/u1.elf 16a74a4b8bf8ccaf05a826b5e2eef0ef3c0ebc4d16055211851abfc30e163e64 -> 783a17c28b3c5eacc70fa59c879de9ed6969851180a46353f8b4746b92c1b940
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-fast	REUPLOAD	devices/u2.elf 07a56c358e70c5c6e7bc2a28377f63ed542cd91cc9dae57411c4dcaa997822ef -> d8fdce76d9249ef69b33ea8b509cff8afbfb0acc3b82ec0c075ed26fbf4507c4
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-fast	REUPLOAD	devices/u3.elf 9cd3c291490862c4cb0531a34cfb0e065c6e1c57f4db46d933c78d2990a21bc6 -> da4c9e44dddfd76719d5ef5c92f780d91ed2a495e6f4bcad081c6508d28d8507
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-fast	REUPLOAD	devices/u4.elf 0e92e18dce7716ae6733a99ab3e098da034c7790aabdfa042ce8e23730462f5e -> 300cd55a2d2ad49e7d9a8cb983afef395cc5ecf0ffe3e2837cdf35a966e69b6b
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-fast	REUPLOAD	devices/u5.elf 9971f7bbedae69f1383a6f9c04c37278debb117c164963b441b658f235f8e6c9 -> 18cb080cef8c74a239a2b198a472e5cb1fbe7c110356ceaa369b98550c70315e
+2026-11-15T18:57:10Z	peonist-ai/halogen-npu-lfm3-1.7b-qad	NEW-REPO	main eb9877084a8017ebaa9eac384ebe7ce0bff67538, 9 weight files, 9 hash versions in history
+2026-11-15T18:57:12Z	D3rPapst/ace-step-1.5-gufo	MAIN-MOVED	54c799b9f22cf0493eec75cde0308a6d6664f536 -> c5e51bec844ef0c59df4bd9672518d110aca7078
+2026-11-15T18:57:12Z	D3rPapst/ace-step-1.5-gufo	REUPLOAD	dit-sft.safetensors fbe389cbe9f05181a30c8fbf3f2600a6b9606ac2c6b332f161c09bbb8f948ab7 -> d3693d78dde6c1e6fbe4144c599ca97d98f729126eeea4d7e8db0c3f0bb3479d
+2026-11-15T18:57:21Z	GCSA-AiLab/GLM-5.3-Flash-Uncensored-RCO-GSQ-GGUF	MAIN-MOVED	1827843362350fbc87ee6b478d9dd09e33d9fb50 -> 75437aaecab292d8cd08d1538848d99cde1eb6a5
