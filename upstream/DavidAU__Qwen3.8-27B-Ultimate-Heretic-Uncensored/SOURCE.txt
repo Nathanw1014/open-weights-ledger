@@ -1,3 +1,3 @@
 repo: https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored
-main commit at snapshot: fe5a47e1cd6960c17454fd223a8e6c71c6f55bfa
-snapshot taken: 2026-11-15T02:22:04Z
+main commit at snapshot: 74ac9c3ca6c8ac3d24e1668375f908a753c563f4
+snapshot taken: 2026-11-16T18:44:59Z

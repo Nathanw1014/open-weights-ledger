@@ -1,3 +1,3 @@
 repo: https://huggingface.co/turintech/MiniCPM5-2B-Artemis-GGUF
-main commit at snapshot: 6a29422de17e706db67305ddfb48e42c9c9266a5
-snapshot taken: 2026-11-15T02:36:06Z
+main commit at snapshot: a69c3cc409c53fe059bc78c1d178787104596605
+snapshot taken: 2026-11-16T18:45:12Z

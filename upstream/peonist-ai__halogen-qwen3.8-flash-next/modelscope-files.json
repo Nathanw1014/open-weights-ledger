@@ -1,5 +1,11 @@
 [
 {
+"Path": "qwen38-flash-next-drafter-r2.hgn",
+"Sha256": "07a7b5b358cb02737ecf85043db0d30b4938aed06ae6311772ea4e40b939696b",
+"IsLFS": true,
+"CommittedDate": 1794831448
+},
+{
 "Path": "qwen38-flash-next-ht43.hgn",
 "Sha256": "12e8e91b06dfd3bad4b68cdd275138733da64542a254612b116e8bd9fe77fdd8",
 "IsLFS": true,

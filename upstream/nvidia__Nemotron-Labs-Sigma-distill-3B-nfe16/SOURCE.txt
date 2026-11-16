@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-3B-nfe16
+main commit at snapshot: 7c3fcfeda4494ec7055e151fa7678854f2ff5ab0
+snapshot taken: 2026-11-16T18:45:32Z

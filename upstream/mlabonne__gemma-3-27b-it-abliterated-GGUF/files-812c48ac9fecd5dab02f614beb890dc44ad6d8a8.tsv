@@ -1,0 +1,8 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+gemma-3-27b-it-abliterated.q2_k.gguf	10503720672	89a8a00f2e58bdcfb3da7d41196830988c56c1e4669f2413cb50a22aa394315a	sha256
+gemma-3-27b-it-abliterated.q3_k_m.gguf	13437640416	8a5d2259cd1cba809f9f7681574f70e015dba40ffdcf58701e60e7c1ddc8f653	sha256
+gemma-3-27b-it-abliterated.q4_k_m.gguf	16546688736	119d79d1ed8662318458a9be1443cd00b747523000613a88dae661a80fc039ec	sha256
+gemma-3-27b-it-abliterated.q5_k_m.gguf	19271675616	f62cb39b93b868abbfeba14f2fb1bd0149f5162c93fa98141fc049367d6c6f6f	sha256
+gemma-3-27b-it-abliterated.q6_k.gguf	22166974176	eb2bcd21aeab0f0926fc07b3bfb29ec40a322fb7b8844a94fbc9af64fe264c8c	sha256
+gemma-3-27b-it-abliterated.q8_0.gguf	28707972192	157910b4292f3bc69735dd1d0ef93f02937d84d6921debaef661cac5696baad4	sha256
+mmproj-mlabonne_gemma-3-27b-it-abliterated-f16.gguf	857739168	54cb61c842fe49ac3c89bc1a614a2778163eb49f3dec2b90ff688b4c0392cb48	sha256

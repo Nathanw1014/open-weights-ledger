@@ -1,0 +1,3 @@
+repo: https://huggingface.co/therickcain/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+main commit at snapshot: 3f9b203772eb5b239c2ff8f6a0ab7e792ba5a781
+snapshot taken: 2026-11-16T18:45:42Z

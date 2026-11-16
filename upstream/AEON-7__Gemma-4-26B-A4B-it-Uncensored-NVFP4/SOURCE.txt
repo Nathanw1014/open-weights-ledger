@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Gemma-4-26B-A4B-it-Uncensored-NVFP4
+main commit at snapshot: c7e78e0c008527ee9bcda2ef3e0f52cde20b149e
+snapshot taken: 2026-11-16T18:45:55Z

@@ -1,0 +1,44 @@
+[
+{
+"Path": "gemma-3-27b-it-abliterated.q2_k.gguf",
+"Sha256": "89a8a00f2e58bdcfb3da7d41196830988c56c1e4669f2413cb50a22aa394315a",
+"IsLFS": true,
+"CommittedDate": 1742274948
+},
+{
+"Path": "gemma-3-27b-it-abliterated.q3_k_m.gguf",
+"Sha256": "8a5d2259cd1cba809f9f7681574f70e015dba40ffdcf58701e60e7c1ddc8f653",
+"IsLFS": true,
+"CommittedDate": 1742274948
+},
+{
+"Path": "gemma-3-27b-it-abliterated.q4_k_m.gguf",
+"Sha256": "119d79d1ed8662318458a9be1443cd00b747523000613a88dae661a80fc039ec",
+"IsLFS": true,
+"CommittedDate": 1742274948
+},
+{
+"Path": "gemma-3-27b-it-abliterated.q5_k_m.gguf",
+"Sha256": "f62cb39b93b868abbfeba14f2fb1bd0149f5162c93fa98141fc049367d6c6f6f",
+"IsLFS": true,
+"CommittedDate": 1742274948
+},
+{
+"Path": "gemma-3-27b-it-abliterated.q6_k.gguf",
+"Sha256": "eb2bcd21aeab0f0926fc07b3bfb29ec40a322fb7b8844a94fbc9af64fe264c8c",
+"IsLFS": true,
+"CommittedDate": 1742274948
+},
+{
+"Path": "gemma-3-27b-it-abliterated.q8_0.gguf",
+"Sha256": "157910b4292f3bc69735dd1d0ef93f02937d84d6921debaef661cac5696baad4",
+"IsLFS": true,
+"CommittedDate": 1742274948
+},
+{
+"Path": "mmproj-mlabonne_gemma-3-27b-it-abliterated-f16.gguf",
+"Sha256": "54cb61c842fe49ac3c89bc1a614a2778163eb49f3dec2b90ff688b4c0392cb48",
+"IsLFS": true,
+"CommittedDate": 1743469994
+}
+]

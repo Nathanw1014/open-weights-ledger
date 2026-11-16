@@ -1,0 +1,3 @@
+repo: https://huggingface.co/HumanjavaEnterprises/DeepSeek-V4.1-Flash-1017-obliterated-upstream-GGUF
+main commit at snapshot: f80c4863ac39a6a7002b3a3675a7c46580f0038b
+snapshot taken: 2026-11-16T18:45:46Z
