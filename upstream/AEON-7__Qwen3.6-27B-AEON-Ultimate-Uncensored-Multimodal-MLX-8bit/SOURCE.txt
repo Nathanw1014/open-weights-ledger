@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-Multimodal-MLX-8bit
+main commit at snapshot: 371c09534761fa03dd433b4a3c4b32cf3147009a
+snapshot taken: 2026-11-17T18:41:40Z

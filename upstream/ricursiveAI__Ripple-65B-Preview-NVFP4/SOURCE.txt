@@ -1,3 +1,3 @@
 repo: https://huggingface.co/ricursiveAI/Ripple-65B-Preview-NVFP4
-main commit at snapshot: 2789217ba87d93e8d032fad25217c4c63a0e1d5b
-snapshot taken: 2026-11-14T03:53:54Z
+main commit at snapshot: b4b4e36de43b5401f95c8e467cb3d1a355fd1e9f
+snapshot taken: 2026-11-17T18:41:21Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-BF16
+main commit at snapshot: c7092b90fc2fdea497f29c38f884da0977c38966
+snapshot taken: 2026-11-17T18:41:41Z

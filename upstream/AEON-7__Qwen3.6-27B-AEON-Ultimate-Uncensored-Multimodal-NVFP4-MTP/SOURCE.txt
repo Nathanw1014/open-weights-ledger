@@ -1,0 +1,3 @@
+repo: https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-Multimodal-NVFP4-MTP
+main commit at snapshot: fd251f74861aad8c23f218b0595fea94a3d8d2f3
+snapshot taken: 2026-11-17T18:41:40Z

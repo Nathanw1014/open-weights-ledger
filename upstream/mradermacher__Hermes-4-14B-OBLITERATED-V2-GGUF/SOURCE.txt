@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Hermes-4-14B-OBLITERATED-V2-GGUF
+main commit at snapshot: 9b4e9055a357a5405b557a2392ddc9f880a3122c
+snapshot taken: 2026-11-17T18:41:30Z

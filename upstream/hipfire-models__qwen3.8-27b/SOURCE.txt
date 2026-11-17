@@ -1,3 +1,3 @@
 repo: https://huggingface.co/hipfire-models/qwen3.8-27b
-main commit at snapshot: 1d93cf88b2a980547ffd0d8abd598efdd30d1f4f
-snapshot taken: 2026-11-15T18:56:51Z
+main commit at snapshot: f83b9e3c77f7694ac2b4bb9bafab6b3eeb1d74e2
+snapshot taken: 2026-11-17T18:41:20Z
