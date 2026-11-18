@@ -1,0 +1,3 @@
+repo: https://huggingface.co/BoldingBuilds/GLM-5.3-Flash-Uncensored-GGUF
+main commit at snapshot: be99016c76c70d84ed8eae126655449b677d0b10
+snapshot taken: 2026-11-18T18:52:31Z

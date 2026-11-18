@@ -1,0 +1,152 @@
+[
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-IQ2_M.gguf",
+"Sha256": "ff3eeb97756a6c173aff59478017a4e23da6c757424aef3f40b6fe8be7d46738",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-IQ3_M.gguf",
+"Sha256": "0b47fd670654ce755f3af4cbad04f52acc4bf842b2c321baddec5652c9cbb629",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-IQ3_XS.gguf",
+"Sha256": "7cb0c9512962657bcb1c6265393ea925699b52e49ee8296abfceb7ead0844be3",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-IQ4_XS.gguf",
+"Sha256": "18112952269dd83b2b04a20895de66e475c2cac4831ddbe75341b3182fffee39",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q2_K.gguf",
+"Sha256": "9a7b865ad68e2cce58b5bed9c6fc65096c0a88b1eceb5a12f55005ffc75c2d1f",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q2_K_L.gguf",
+"Sha256": "fdf40566806b55fb2c662da43f1735c0f53d2365f9e131d1509e3b7ab5457947",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q3_K_L.gguf",
+"Sha256": "64b7a71c96b80526e5d88ffcc3ab9f0f94f8a24f4e138f09bfcfcb449a7c5f80",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q3_K_M.gguf",
+"Sha256": "1e7d20fc77b8e22e43f11d86246a4858ce97d65fe54bbd80b53814adf6497cac",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q3_K_S.gguf",
+"Sha256": "2388c887e5b183b1740d5d5a12a8d46e96e16cc456945b2c22e4c7e773f3990b",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q3_K_XL.gguf",
+"Sha256": "2a257d732e978495f6de517717d4dde7a8e55b1c53b572fc8b9212e9fe3a3c46",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q4_0.gguf",
+"Sha256": "2ed14a569301b5eb82bacaf710c84539f94916d30dec9cd73d1f8294a2c10982",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q4_0_4_4.gguf",
+"Sha256": "25523476a159e73c61e5eab9f492c149b2a4db54f89fdb80d0719a11bfe5b6f3",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q4_0_4_8.gguf",
+"Sha256": "22d55e6d7dcc860c228f830db0c57d20a2d4e2e92e45c285186f4b04ff3d283b",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q4_0_8_8.gguf",
+"Sha256": "ce2aea3d4712b81d69e96db3d34ceffdde4a7410b405aa2a234dbf1ace0fc427",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q4_K_L.gguf",
+"Sha256": "108902ab59d8988d6efa27b06eb0675dcbf52b8209c7b49332172e2f5c003535",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q4_K_M.gguf",
+"Sha256": "389b8172028c874b79a11358d258222dbce272b56ab3512ccc743893a25e06b4",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q4_K_S.gguf",
+"Sha256": "5593d73b1f6664bd54bac17a7340c571c27adbecb51200eedaf9c9f269e53e2d",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q5_K_L.gguf",
+"Sha256": "6044e7fdbde4e016f691ccc9f5108bc2b1223ec841f0eac8edbe0d6637c9c429",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q5_K_M.gguf",
+"Sha256": "12a8ae418ab50c59cd1b5bdbc1d8ab7a30c6239de8e1f622e97d932bc3fc7f04",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q5_K_S.gguf",
+"Sha256": "3c69d6f744b26a13b212822a752999229f5514adaf8c77879329399dc332bfbb",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q6_K.gguf",
+"Sha256": "36062301cb5ff47837113c616cf7f9983c84434031b44c284d5d125760bda153",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q6_K_L.gguf",
+"Sha256": "9f584bcf5e0ccdef12063bd4138d7f809d40c20afd6231ab41ae064b63ceb414",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-Q8_0.gguf",
+"Sha256": "15492089c47f1c36f3a548c067ba20264e377d54dd559292bfaed39eb33bf0d4",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated-f16.gguf",
+"Sha256": "52c1f3b872adee66fe4ae97e0fb85167912287135d6548791c311937ebd57456",
+"IsLFS": true,
+"CommittedDate": 1732103736
+},
+{
+"Path": "Qwen2.5-Coder-1.5B-Instruct-abliterated.imatrix",
+"Sha256": "a79302b507a93fa7b118c6a87995cdee21ff3aad3774619c07a27dc020845acf",
+"IsLFS": true,
+"CommittedDate": 1732103736
+}
+]

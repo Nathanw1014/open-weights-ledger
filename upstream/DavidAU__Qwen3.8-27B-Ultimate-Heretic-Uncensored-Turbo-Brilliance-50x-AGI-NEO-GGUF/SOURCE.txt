@@ -1,3 +1,3 @@
 repo: https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF
-main commit at snapshot: 39043e2d1758afcd7e52ed0b1478adab51d480d8
-snapshot taken: 2026-11-17T18:41:33Z
+main commit at snapshot: e8184bb74b60381ca275d3067e3b74f08a9be44d
+snapshot taken: 2026-11-18T18:52:29Z

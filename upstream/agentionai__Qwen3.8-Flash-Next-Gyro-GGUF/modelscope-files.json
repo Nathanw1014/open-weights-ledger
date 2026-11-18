@@ -36,6 +36,12 @@
 "CommittedDate": 1791732894
 },
 {
+"Path": "Qwen3.8-Flash-Next-PLE-IQ4_NL-GyroS.gguf",
+"Sha256": "03d8f3ed2b4977d0feaf922aa2b43e498d2daa011dd6919ba111026370cb05ad",
+"IsLFS": true,
+"CommittedDate": 1795022785
+},
+{
 "Path": "mmproj-F16.gguf",
 "Sha256": "f456cd796fdbdef0cadb22710b54e0071b6cdf22c07963365baa898267aec517",
 "IsLFS": true,

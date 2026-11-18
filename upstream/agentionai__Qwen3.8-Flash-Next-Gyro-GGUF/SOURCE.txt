@@ -1,3 +1,3 @@
 repo: https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-GGUF
-main commit at snapshot: 257c95704b87e99d12e4b1cbd65794837009d587
-snapshot taken: 2026-11-13T13:01:04Z
+main commit at snapshot: 8efdc41d092da63763f39173b0fff80eac1c0898
+snapshot taken: 2026-11-18T18:52:06Z

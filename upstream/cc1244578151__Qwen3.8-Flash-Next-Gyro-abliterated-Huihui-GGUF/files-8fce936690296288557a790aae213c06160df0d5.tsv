@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.8-Flash-Next-Gyro-M-abliterated-TQ2_0.gguf	91965774560	9f31a8d1f449f67cfd3b7eb6d500f4ae37d95be6e3f83b8d4a1572646b99874e	sha256
+mmproj-F16.gguf	904004128	f456cd796fdbdef0cadb22710b54e0071b6cdf22c07963365baa898267aec517	sha256
+mtp-Qwen3.8-Flash-Next-draft.gguf	2697439648	008183784ac5aa2cdcd3d7777e4e6febb0645ae4b8d1da1c065b2149c1d6391b	sha256

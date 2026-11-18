@@ -1,0 +1,3 @@
+repo: https://huggingface.co/QWER123951/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF
+main commit at snapshot: 311410cc78bdf034799a0f1bfa7387ef070e28da
+snapshot taken: 2026-11-18T18:52:17Z

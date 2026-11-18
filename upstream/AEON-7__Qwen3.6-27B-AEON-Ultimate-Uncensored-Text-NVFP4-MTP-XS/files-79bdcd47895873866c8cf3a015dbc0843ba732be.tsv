@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+cartridge.jpg	374782	e613e97c39d145759bb54003ad4ca4f44ed8d0fc7a4b1edd628999a93ad7032e	sha256
+model.safetensors	19637775848	248d99acb1e139352e2da2e66788250556d8e172b70a984b05a7e6493f01a0ca	sha256
+tokenizer.json	11071634	530dc3d0de71a4d102af7d2f92a2a9178f430b489b1d5b48feb56d9c37e6a54e	sha256

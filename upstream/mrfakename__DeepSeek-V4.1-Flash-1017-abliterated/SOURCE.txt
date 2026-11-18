@@ -1,3 +1,3 @@
 repo: https://huggingface.co/mrfakename/DeepSeek-V4.1-Flash-1017-abliterated
-main commit at snapshot: 517efab9ccfef7f714dbd7d679f181a86f43ccf9
-snapshot taken: 2026-11-13T14:04:07Z
+main commit at snapshot: a6a8f2004b05ef71efc7b40551fd5547faed1ac7
+snapshot taken: 2026-11-18T18:52:22Z
