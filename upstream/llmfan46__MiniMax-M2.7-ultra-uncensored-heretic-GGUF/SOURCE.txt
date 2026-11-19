@@ -1,3 +1,3 @@
 repo: https://huggingface.co/llmfan46/MiniMax-M2.7-ultra-uncensored-heretic-GGUF
-main commit at snapshot: 397e0902deba3c46a6585a307c78ace8601fbe45
-snapshot taken: 2026-11-13T14:08:51Z
+main commit at snapshot: 865bc186902dfe4ca126116df19055ebb1bb66c7
+snapshot taken: 2026-11-19T18:54:06Z

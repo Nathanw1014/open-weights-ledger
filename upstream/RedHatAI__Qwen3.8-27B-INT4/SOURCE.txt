@@ -1,3 +1,3 @@
 repo: https://huggingface.co/RedHatAI/Qwen3.8-27B-INT4
-main commit at snapshot: e45c27e8f463817db788d141a73a3c235a0a7c0c
-snapshot taken: 2026-11-15T02:25:09Z
+main commit at snapshot: 71dface38d4cbfa34121f1d446d4a0fa1025f13c
+snapshot taken: 2026-11-19T18:53:38Z

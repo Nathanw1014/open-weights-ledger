@@ -1,3 +1,3 @@
 repo: https://huggingface.co/mrfakename/DeepSeek-V4.1-Flash-1017-abliterated-GGUF
-main commit at snapshot: b82300670252bda21f520037ec692dccada41d85
-snapshot taken: 2026-11-13T14:02:20Z
+main commit at snapshot: dc943d2bcf71a48cc88f266efe2f527052fdbb10
+snapshot taken: 2026-11-19T18:53:49Z

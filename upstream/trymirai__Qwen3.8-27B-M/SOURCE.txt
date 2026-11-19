@@ -1,3 +1,3 @@
 repo: https://huggingface.co/trymirai/Qwen3.8-27B-M
-main commit at snapshot: 344113702f109cfbb63aa0a0d648fe58a383089e
-snapshot taken: 2026-11-15T02:36:00Z
+main commit at snapshot: 51a4664b56f6a404a69e8866fce0a936d173350d
+snapshot taken: 2026-11-19T18:53:44Z

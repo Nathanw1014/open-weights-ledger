@@ -72,6 +72,12 @@
 "CommittedDate": 1788980630
 },
 {
+"Path": "Cyber-Tiel-Coder-35B-A3B.imatrix.gguf",
+"Sha256": "09f1795e26f6ed7d4d6374a0f7178eaee011b06e3edc3d3e6668a2c3d282c962",
+"IsLFS": true,
+"CommittedDate": 1795094482
+},
+{
 "Path": "assets/cybertiel_bench_harmbench.gif",
 "Sha256": "b19926355370dc3b538e97149e1574f7e843c5b330eef9b99dd6ae6f0f3e417e",
 "IsLFS": true,

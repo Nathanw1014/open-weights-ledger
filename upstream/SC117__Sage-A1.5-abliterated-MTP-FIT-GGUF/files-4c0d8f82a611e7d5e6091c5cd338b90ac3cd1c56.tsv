@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Sage-A1.5-abliterated-MTP-BF16-imatrix.gguf	393972256	746d03755673be2cac965930d3ccae396e59c5ac66349d183d5d49cb6690eb9f	sha256
+Sage-A1.5-abliterated-MTP-BF16.gguf	71066995232	afbd044fee468db1f6e0e3ca58a56d5e7d716500a7057c527313d62aa41a8c03	sha256
+Sage-A1.5-abliterated-MTP-FIT-balanced-13.17GiB-IQ3_S.gguf	14139028000	6557938b2c9bb04c2b0ea1a6c182b021833dbd104656f044e5ea089897c1a178	sha256
+Sage-A1.5-abliterated-MTP-FIT-compact-11.40GiB-IQ3_XXS.gguf	12241527328	c219e1d8cce6dc73785075c0270630cf7504700912aea814905c5935e47ed9a2	sha256
+Sage-A1.5-abliterated-MTP-FIT-mini-11.11GiB-IQ2_M.gguf	11932934688	c1cf148dce7127b40918a2bcaa98d489143447a8b5bcc9dc0a7f41ce7a85957a	sha256
+Sage-A1.5-abliterated-MTP-FIT-quality-16.06GiB-IQ4_XS.gguf	17243875872	5dbbeb9a81fcd647f3a72f873a1aa6ba7aa0c9dccc060d0f05f8b29b921c7d6a	sha256
+Sage-A1.5-abliterated-MTP-FIT-reference-23.61GiB-Q5_K_M.gguf	25347533344	10cbd3383978d7c03bc77478cd969f8e14dbb65e3ca04bbee02d0949ee8e2405	sha256
+mmproj-Sage-A1.5-abliterated-bf16.gguf	902821824	f2295e948aa36b50493c751afc37a4f72f7512d965b00fa6406b91f6e7733470	sha256

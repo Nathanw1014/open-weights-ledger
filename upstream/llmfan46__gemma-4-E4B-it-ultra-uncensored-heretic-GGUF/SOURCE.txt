@@ -1,3 +1,3 @@
 repo: https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF
-main commit at snapshot: 1465f37b7dbd15e91241ae78ffebecb9f25e15de
-snapshot taken: 2026-11-13T14:06:36Z
+main commit at snapshot: 93619707525a1c3d95ca011b4058ac0907043be5
+snapshot taken: 2026-11-19T18:53:57Z

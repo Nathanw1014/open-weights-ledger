@@ -1,3 +1,3 @@
 repo: https://huggingface.co/Jundot/Qwen3.8-27B-oQ4e-mtp
-main commit at snapshot: 7dd276b77fcb27c982ebd8d8a434539345713fea
-snapshot taken: 2026-11-15T02:23:53Z
+main commit at snapshot: 836759eefbef7ef588a5ffd44cc59a640808f944
+snapshot taken: 2026-11-19T18:53:36Z

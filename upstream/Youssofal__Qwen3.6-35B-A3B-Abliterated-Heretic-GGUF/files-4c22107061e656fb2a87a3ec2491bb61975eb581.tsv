@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Qwen3.6-35B-A3B-Abliterated-Heretic-BF16/Qwen3.6-35B-A3B-Abliterated-Heretic-BF16.gguf-00001-of-00002.gguf	47503647968	1eb9dc80dc1613e399333a771f2aef424c597b4dcc22b80a6693ad971d2af72d	sha256
+Qwen3.6-35B-A3B-Abliterated-Heretic-BF16/Qwen3.6-35B-A3B-Abliterated-Heretic-BF16.gguf-00002-of-00002.gguf	21872989632	a59b01688688fd3f25c514d2542d7721c97e70a5476148cf0f512204e1060dcb	sha256
+Qwen3.6-35B-A3B-Abliterated-Heretic-Q4_K_M/Qwen3.6-35B-A3B-Abliterated-Heretic-Q4_K_M.gguf	21166758336	ae2fb73ac0da875640269f1e65e9c7fb415b066c6d544c3eef9adb0d03f04792	sha256
+Qwen3.6-35B-A3B-Abliterated-Heretic-Q6_K/Qwen3.6-35B-A3B-Abliterated-Heretic-Q6_K.gguf	28514152896	e4c1edb8d458d8f840d7d03a1ee997e50b94e6513c7b469d3948a7f7b9a50ea1	sha256
+Qwen3.6-35B-A3B-Abliterated-Heretic-Q8_0/Qwen3.6-35B-A3B-Abliterated-Heretic-Q8_0.gguf	36903139776	5f3c5abb86f2aff799032c0e0de9e73087efe80dd46ff171d2d16af6805a04ed	sha256
+mmproj-Qwen3.6-35B-A3B-Abliterated-Heretic.gguf	902822624	42ef6d5f3564946163628d28ce1380b729ff3634dc37482506bb1eb951138f8c	sha256

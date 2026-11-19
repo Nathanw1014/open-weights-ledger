@@ -1,3 +1,3 @@
 repo: https://huggingface.co/aj9o9/Qwen3.8-27B-DSpine-b16-GGUF
-main commit at snapshot: e27cc7dfe121a0c9327eb36a7cce82a0dfa9e3e6
-snapshot taken: 2026-11-14T03:53:56Z
+main commit at snapshot: d8f145b29efc36fbddb454a5f03bb19f7ef56c74
+snapshot taken: 2026-11-19T18:53:35Z

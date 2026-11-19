@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SC117/Sage-A1.5-abliterated-MTP-FIT-GGUF
+main commit at snapshot: 4c0d8f82a611e7d5e6091c5cd338b90ac3cd1c56
+snapshot taken: 2026-11-19T18:53:54Z
