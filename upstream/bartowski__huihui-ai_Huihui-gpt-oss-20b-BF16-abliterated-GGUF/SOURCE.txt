@@ -1,0 +1,3 @@
+repo: https://huggingface.co/bartowski/huihui-ai_Huihui-gpt-oss-20b-BF16-abliterated-GGUF
+main commit at snapshot: 119a7449dd895220548fb3b67f55ef60e01b059c
+snapshot taken: 2026-11-20T18:46:01Z

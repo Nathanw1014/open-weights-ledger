@@ -1,3 +1,3 @@
 repo: https://huggingface.co/peonist-ai/halogen-qwen3.8-27b-ht4
-main commit at snapshot: d0756c9c566966217eed1d4d709b75850234bc1b
-snapshot taken: 2026-11-19T18:54:08Z
+main commit at snapshot: a2e9e0aa565765ee5d86f436d6e40932d72fff9c
+snapshot taken: 2026-11-20T18:46:10Z

@@ -1,0 +1,15 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-gemma-4-E4B-it-abliterated.IQ4_XS.gguf	5091430912	f3ee4eaa44db19e93c090ce7dd67eff2fe3b1a0d3f68d19618e25b13bee6914f	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q2_K.gguf	4401316352	59196b245ce26675ec6a77ff2df2d843d9102bb99965a2cf078e6fc7917b94df	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q3_K_L.gguf	5021276672	28303d969dc100207432afa3090c0cb4a04351c25871e77b16fa928e8e28fb51	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q3_K_M.gguf	4850391552	79bd6b437f4651e0e9d6f070d354dad44529175466cc77b9543c875a8cb701ce	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q3_K_S.gguf	4654633472	7724bfb18ce2736cec92ed3c6e96abcb531482e063064f45e832215feea6c88a	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q4_K_M.gguf	5335286272	d793116ec11cacac0228e7c907a40e9765969d76dd45708f0f638df008718f87	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q4_K_S.gguf	5202964992	53d5a50624cd0b8a143fa77e6c71dda4ac3632b8ff18e78444d868e935cc8edc	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q5_K_M.gguf	5762908672	a15afee1f50dbc0f6c14c413a62d720f91a9d376a717ab4b81868a10efaa9912	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q5_K_S.gguf	5685965312	860b0666ea87af7a44ab60a441d6100d4ea3aef64b505c6c517b4ee167dbf5db	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q6_K.gguf	6217257472	12705d3bdb5130df172b1e47c327fcefba32f9e4314efd48084ae5ce5b9244a1	sha256
+Huihui-gemma-4-E4B-it-abliterated.Q8_0.gguf	8031236608	8bb670d57c5dc042c6ef9571f8b86674b4d1835e55708ae5ac5b40aa16687036	sha256
+Huihui-gemma-4-E4B-it-abliterated.f16.gguf	15053091328	334107a0ab4b13d6e4f6bf4dc393f8382e3470d66037e92febe643d89ca8610f	sha256
+Huihui-gemma-4-E4B-it-abliterated.mmproj-Q8_0.gguf	559874880	46f248feeb9288819cdd6a239dfa42335780dcf085165247cbe2c56cae403839	sha256
+Huihui-gemma-4-E4B-it-abliterated.mmproj-f16.gguf	990372672	4bb860a6935408ae23494e2dd39cf43e3169b795af2e33988b6177957c36c7ee	sha256

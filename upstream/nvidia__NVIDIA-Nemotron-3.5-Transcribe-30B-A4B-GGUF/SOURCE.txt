@@ -1,0 +1,3 @@
+repo: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-GGUF
+main commit at snapshot: cbd72f20b96fab06e8106dba70408210fd789794
+snapshot taken: 2026-11-20T18:45:58Z

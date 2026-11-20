@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-gemma-4-E4B-it-abliterated-GGUF
+main commit at snapshot: 580a4a13e9633a0f123befcfab222cfcd9a36b77
+snapshot taken: 2026-11-20T18:46:00Z

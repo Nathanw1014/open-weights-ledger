@@ -1,2 +1,3 @@
 # path	size	hash	kind (sha256 = LFS weight hash)
 chatrlabs-omni-lora-v0.1-bf16.safetensors	671151136	5991a9845bc5251240febf944f653505a00966515b77073f2c639c4dfcba672a	sha256
+chatrlabs-omni-turbo-8step-fp32.safetensors	671148320	77e8863bed85e7baebd31e242810a708e11071674e42b7c21b0ff9c88cd94b43	sha256

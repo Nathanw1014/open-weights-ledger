@@ -1,0 +1,4 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+halogen.jpg	250572	96542c8f6d06e01c896c94d50d98fa5da66a7140825a2956db090f306b24ac0f	sha256
+qwen38-27b-ht4.hgn	13786218048	cd2570dc985174ecbea82b65b2ed5c3125d56512fdf88ddd43f7b17c37cd5eff	sha256
+qwen38-27b-vision.hgn	921514496	cae5552fc4e34ad0f74c54c11d4f3b91d55fa3652e1b0ff52dbd65859daa83fd	sha256

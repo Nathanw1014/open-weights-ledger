@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Wymsil/Qwen3.8-27B-OBLITERATED
+main commit at snapshot: 1bfaf02859e895ff419ee07df21f8b273bd6ae0a
+snapshot taken: 2026-11-20T18:46:05Z

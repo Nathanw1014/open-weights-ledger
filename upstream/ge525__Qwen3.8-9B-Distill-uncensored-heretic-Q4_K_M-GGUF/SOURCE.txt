@@ -1,0 +1,3 @@
+repo: https://huggingface.co/ge525/Qwen3.8-9B-Distill-uncensored-heretic-Q4_K_M-GGUF
+main commit at snapshot: 72aaa20870ab64522aa5429a833ff780652522ea
+snapshot taken: 2026-11-20T18:46:07Z

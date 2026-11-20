@@ -1,3 +1,3 @@
 repo: https://huggingface.co/mradermacher/Huihui-Qwen3.8-Flash-Next-abliterated-i1-GGUF
-main commit at snapshot: 8c4ef5b35b6314f06f233d600d8bcb562dfca6a4
-snapshot taken: 2026-11-13T14:02:37Z
+main commit at snapshot: e89cd5d34d89ae57650f9de5a25981019f45a15f
+snapshot taken: 2026-11-20T18:45:58Z

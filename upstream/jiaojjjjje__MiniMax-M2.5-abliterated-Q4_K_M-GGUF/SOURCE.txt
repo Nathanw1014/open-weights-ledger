@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jiaojjjjje/MiniMax-M2.5-abliterated-Q4_K_M-GGUF
+main commit at snapshot: cdd150c5f282857011becbf121e39a89b0f04ac0
+snapshot taken: 2026-11-20T18:45:58Z

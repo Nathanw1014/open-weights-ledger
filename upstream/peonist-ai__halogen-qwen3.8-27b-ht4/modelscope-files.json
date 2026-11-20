@@ -1,8 +1,14 @@
 [
 {
-"Path": "q27-ht4.hgn",
+"Path": "qwen38-27b-ht4.hgn",
 "Sha256": "cd2570dc985174ecbea82b65b2ed5c3125d56512fdf88ddd43f7b17c37cd5eff",
 "IsLFS": true,
-"CommittedDate": 1795112973
+"CommittedDate": 1795176545
+},
+{
+"Path": "qwen38-27b-vision.hgn",
+"Sha256": "cae5552fc4e34ad0f74c54c11d4f3b91d55fa3652e1b0ff52dbd65859daa83fd",
+"IsLFS": true,
+"CommittedDate": 1795176545
 }
 ]

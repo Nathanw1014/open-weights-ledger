@@ -1,0 +1,3 @@
+repo: https://huggingface.co/jenerallee78/Mistral-Small-4-119B-2603-obliterated-Q4_K_M-GGUF
+main commit at snapshot: e2eb1ee9d356405cd70577699cda8b0276839efe
+snapshot taken: 2026-11-20T18:46:04Z
