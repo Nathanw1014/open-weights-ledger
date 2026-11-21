@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/gpt-oss-20b-heretic-ara-v3-i1-GGUF
+main commit at snapshot: 3b9726c1defdf1c159a93a7b48aea677b959df3c
+snapshot taken: 2026-11-21T18:59:53Z

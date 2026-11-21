@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Llama-3.1-8B-Lexi-Uncensored-V2-OBLITERATED-i1-GGUF
+main commit at snapshot: 1313820b2b1e16535e554bc97cd6b8a5e707ed98
+snapshot taken: 2026-11-21T18:59:50Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/alesha-pro/Hy4-flash-Uncensored-GGUF
+main commit at snapshot: 239e9f9b7edf36c96eebe3d17ccdb83302bf228d
+snapshot taken: 2026-11-21T18:59:54Z

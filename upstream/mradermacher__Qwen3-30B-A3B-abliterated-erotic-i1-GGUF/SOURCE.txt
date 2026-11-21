@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Qwen3-30B-A3B-abliterated-erotic-i1-GGUF
+main commit at snapshot: 0de9ed4efb67e979c7c378d5afe040f1fe15ec20
+snapshot taken: 2026-11-21T18:59:48Z

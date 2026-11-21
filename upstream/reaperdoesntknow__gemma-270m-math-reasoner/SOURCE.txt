@@ -1,3 +1,3 @@
 repo: https://huggingface.co/reaperdoesntknow/gemma-270m-math-reasoner
-main commit at snapshot: 987c436648ac3cb3895264c5a99c390d4b52da0a
-snapshot taken: 2026-11-20T18:45:47Z
+main commit at snapshot: b0cfcc7b623546784c2b2d3328ac2a7b571ff312
+snapshot taken: 2026-11-21T18:59:47Z
