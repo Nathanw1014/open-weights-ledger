@@ -1,0 +1,3 @@
+repo: https://huggingface.co/hotocooo/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-DFlash
+main commit at snapshot: 5d496ec0f1f26a600ff66d7ac01d144a438ac183
+snapshot taken: 2026-11-22T18:44:59Z

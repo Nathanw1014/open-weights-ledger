@@ -1,0 +1,3 @@
+repo: https://huggingface.co/hellmans/Huihui-Qwen3-8B-abliterated-v2-GGUF
+main commit at snapshot: 1a5454e9f5379dda13cef1e02b9755d9a4e1e49d
+snapshot taken: 2026-11-22T18:44:58Z

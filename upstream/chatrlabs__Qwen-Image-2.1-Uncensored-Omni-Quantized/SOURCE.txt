@@ -1,3 +1,3 @@
 repo: https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized
-main commit at snapshot: f5265c60e98818d5baa9e5329cea624daabcbece
-snapshot taken: 2026-11-14T18:38:55Z
+main commit at snapshot: 85156a863c05a58b73831d21bd968b5344d7296e
+snapshot taken: 2026-11-22T18:45:08Z
