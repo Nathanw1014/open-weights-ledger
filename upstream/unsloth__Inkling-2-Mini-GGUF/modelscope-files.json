@@ -120,6 +120,12 @@
 "CommittedDate": 1795241134
 },
 {
+"Path": "Mainline_Support/dspark-Inkling-2-Mini-Q8_0.gguf_file",
+"Sha256": "3da00cf7c31bbe5662b3c0d373ecf782d74d32ef43990acc158ce60c2add72e0",
+"IsLFS": true,
+"CommittedDate": 1795442784
+},
+{
 "Path": "assets/size_vs_kld.png",
 "Sha256": "1deab167f405bcc5e34cb32851da9ab6c52a3247b7aa4d624bd54e4536a9ed2f",
 "IsLFS": true,
@@ -136,6 +142,18 @@
 "Sha256": "2ec78510da837e8fc3be54a14757a0c5fbd2d8d9e85a0d92853fafdf674f3773",
 "IsLFS": true,
 "CommittedDate": 1795241134
+},
+{
+"Path": "dspark-Inkling-2-Mini-Q8_0_Old.gguf",
+"Sha256": "2ec78510da837e8fc3be54a14757a0c5fbd2d8d9e85a0d92853fafdf674f3773",
+"IsLFS": true,
+"CommittedDate": 1795442784
+},
+{
+"Path": "dspark/dspark-Inkling-2-Mini-BF16-mainline.gguf_file",
+"Sha256": "dba3d73cd7cb342460e0c12f3d46f29eb4641ad13b87526b8f262a5fa2cd157b",
+"IsLFS": true,
+"CommittedDate": 1795442784
 },
 {
 "Path": "dspark/dspark-Inkling-2-Mini-BF16.gguf",

@@ -1,4 +1,5 @@
 # path	size	hash	kind (sha256 = LFS weight hash)
+ComfyUI_workflows/woman.png	1520361	f259468bf6407b35168e79357a62ac71a6006be35a6ec02a8f9da61705d3da10	sha256
 qwen-image-2.1-step90000-BF16.gguf	14230297376	027501fd6abb571a2415e9728c128e96acdf3271222ea4fbf69f9efad4f136d3	sha256
 qwen-image-2.1-step90000-BF16/diffusion_pytorch_model.safetensors	14230284680	97b3ad25796fc4b7d5e2572ffb3bd8560e3c343d79623e2711fabe9ebcf3cfe3	sha256
 qwen-image-2.1-step90000-FP8-comfy.safetensors	7116789419	ff341f9485d8f8e57ea4dbb4817eac5f8fddfd3c95299b20b66e691732cd698e	sha256

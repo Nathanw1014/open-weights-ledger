@@ -1,3 +1,3 @@
 repo: https://huggingface.co/IndrasMirror/DeepSeek-V4.1-Flash-GSQ-Uncensored
-main commit at snapshot: 0ae18f838e103fb03d952fa8ed73c7aa9c34002f
-snapshot taken: 2026-11-15T02:23:11Z
+main commit at snapshot: 3018caf17f1a7d357e7dfa3bb1d11ae61fc92e0a
+snapshot taken: 2026-11-23T18:43:04Z

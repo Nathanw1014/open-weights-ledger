@@ -1,0 +1,12 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.IQ4_XS.gguf	43108775968	bf320500afed9ee65bcf2d564caca9a523cbb713c952fe7f8bba6522de6d4d79	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q2_K.gguf	29127911456	54eebdfcea938114736404d48d91c5a31fd865577f35c973606645c39e9f5845	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q3_K_L.gguf	41233395744	cd733ae136ddd819773593556ba91f698de61c1cf00901f8ffbbf9dabe7e8cd4	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q3_K_M.gguf	38193704992	2f6f7b5e88d6b5982a2fa6f78ac6e2447ad4ea7fa48aee9a88d9ee66b9a2e1fe	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q3_K_S.gguf	34547445792	88a121b5e32ea4f6e064ef83dea56b78f84eec988cee4d869f7eced4feb32785	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q4_K_M.gguf	48410990624	f75963a2aa6f6df28ad0d88a68bf84ba3157f4bc0f6db07bf27c3e2030e06ee4	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q4_K_S.gguf	45484955680	3f3c42cecd1df2d1488b4845395d5a3a0e7dd3683d282b56240489dafb33d95c	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q5_K_M.gguf	56710371360	4a6e2e6710d0b63e90d96f87e54076f96a2d7baae31fa6f0f9ff73481e39a77f	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q5_K_S.gguf	54994917408	e7b61c768d84aefaeb433b6c64f781099069d0447eed22cddf7e0e824cd70070	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q6_K.gguf	65528463392	48f16b162f442b43c6333db1ebe85f3d37d15c4540fb9f0fd55d3868fab85fca	sha256
+Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated.Q8_0.gguf	84812054560	14436aeaf0833435f7a90f3664459f9a9d0a6dcd82f50df3d1750ca3c684d056	sha256

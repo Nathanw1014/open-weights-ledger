@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated-GGUF
+main commit at snapshot: 653a39f995a4b3bab9c756b699de2314ea19818c
+snapshot taken: 2026-11-23T18:43:17Z

@@ -1,3 +1,3 @@
 repo: https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-LoRA-v0.1
-main commit at snapshot: 142de7a5af56387c5282a0e91532cafc726af7b8
-snapshot taken: 2026-11-20T18:46:10Z
+main commit at snapshot: 04651bc83877565575c7da47e470696c3d5f43fa
+snapshot taken: 2026-11-23T18:43:24Z

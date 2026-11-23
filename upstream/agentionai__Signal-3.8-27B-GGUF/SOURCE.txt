@@ -1,3 +1,3 @@
 repo: https://huggingface.co/agentionai/Signal-3.8-27B-GGUF
-main commit at snapshot: ae272aa3e533854feebcfa1ded0f1dca9afedcef
-snapshot taken: 2026-11-15T02:26:14Z
+main commit at snapshot: 44831a2ef3f7b334051895bca9e51ac50c496b3e
+snapshot taken: 2026-11-23T18:43:07Z

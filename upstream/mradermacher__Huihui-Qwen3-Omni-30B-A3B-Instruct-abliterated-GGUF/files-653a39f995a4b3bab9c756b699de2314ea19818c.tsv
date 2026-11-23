@@ -1,0 +1,14 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.IQ4_XS.gguf	16557453152	bf6ab529a9fa84b5d5e6deaf094fa1dae642207e0c4cff03071d79ddbf29dfe9	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q2_K.gguf	11258916704	9c7b9f5853698ddbcd635afa88009041acb86cf6795133a1da760a8cf36d473e	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q3_K_L.gguf	15901003616	47c4a81b9b469ba21011a116882aea3073770676ed62e5b6c486475b5d62910d	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q3_K_M.gguf	14712180576	5860ed51ad25c1130b3300175e3b5957d461ba2eb6580630a9b5fe6e611f9317	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q3_K_S.gguf	13292801888	8fc3b2ce8fd783040d6ac3df70d25e70f9119738ef66a47df0d1d3f522500a5a	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q4_K_M.gguf	18557054816	4c6ded574729ca41a084414245d84e47ef3431db3dafdcf8a631576a89f43a58	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q4_K_S.gguf	17456377696	b0b9fbb6b526fded5ab714bbf5b34466bde49cabbfbd5391bbbe5471f7e285a3	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q5_K_M.gguf	21725982560	a2f0ee902c2a5a91ef7eccd8c220abdcb393e9184ce293f4dfb886d9d265436a	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q5_K_S.gguf	21080911712	01e3584940e8e1b67d53ace5ccf778ebc733df70dec0abcf6a4e01a0ced98f3b	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q6_K.gguf	25092968288	2d6d0ab1eec8b37b95809a5781c6aefc6a821584dc6b7199136813f77cb8acc2	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.Q8_0.gguf	32484495200	5112b2420fb7dcdaa7dbf4915cabe60319930472121b639ffb7009417fcb7a3e	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.mmproj-Q8_0.gguf	1325020480	141ab8770bc9da884df3cdf278f2296f35d620871180b39de50e93d9275025f2	sha256
+Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated.mmproj-f16.gguf	2203926976	41162fc625b142c5150da5fd4244ba617154fb6a5fa7166b6c798ca918b4214f	sha256

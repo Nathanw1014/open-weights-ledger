@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated-GGUF
+main commit at snapshot: c2e26d259894d06f56b1b40cef9b89648ff76e70
+snapshot taken: 2026-11-23T18:43:19Z

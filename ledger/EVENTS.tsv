@@ -4725,3 +4725,62 @@ time	repo	event	detail
 2026-11-22T19:45:49Z	unsloth/granite-4.1-3b-GGUF	PF-TORRENT-ADDED	torrent btih:97aa4703879c075f979aee5e8b5a1aca36c1bacd, pinned to 5b88826e4b80789548180f8faab39c5cf68772c9, 0 seeds
 2026-11-22T19:45:53Z	unsloth/granite-4.1-8b-GGUF	PF-TORRENT-ADDED	torrent btih:bef0384330090dc3df2e65832e5f43885e32bb50, pinned to 6f9671f73eb03273bc09319194b8a4e810e03a8f, 0 seeds
 2026-11-22T19:46:08Z	unsloth/gte-modernbert-base	PF-TORRENT-ADDED	torrent btih:66732aa4e3f8453fc6399760e3da732ffbc1c167, pinned to a56ccd75fc0d64db16102c2c1c739a67e70e3dce, 1 seeds
+2026-11-23T18:37:39Z	dealignai/GLM-5.3-Flash-CYBERSECURITY-W4A16	REPO-UNAVAILABLE	http 401 (Hugging Face answers 401 or 404 for a repo that is deleted, private or gated); last main 4c2ee763ff75f3ba50652ee0f024b0b630cd54a0
+2026-11-23T18:42:10Z	orcarouter/Hy4-flash-abliterated-GGUF	REPO-GATED	gated (auto); cannot be read without an account, main 3fd6454b8b1d179d532f8b1635ac7b284733e20c
+2026-11-23T18:43:04Z	IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored	HISTORY-REWRITTEN	56 commit(s) we recorded are gone from the repo, e.g. 016c1cc1c78c9d168ffb0ad10f54a43134e7b947; previous main ed44acec8175a06485c55f0f8915fb57eea9d7ee. Recorded hashes are kept in the ledger; saved history.bundle left untouched
+2026-11-23T18:43:04Z	IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored	MAIN-MOVED	ed44acec8175a06485c55f0f8915fb57eea9d7ee -> a607d33601e8293c74ab0accc239c587e5bbf628
+2026-11-23T18:43:06Z	agentionai/Qwen3.8-Flash-Next-Gyro-GGUF	MAIN-MOVED	dc9e8a57022bc57103906ab77cf165d2efdb4559 -> f3034aabaf4b40f02edcb52bc584d057f1da9914
+2026-11-23T18:43:06Z	IndrasMirror/DeepSeek-V4.1-Flash-GSQ-Uncensored	HISTORY-REWRITTEN	20 commit(s) we recorded are gone from the repo, e.g. 07200240be3d6fb513c93873ff1770023e7de6b5; previous main 0ae18f838e103fb03d952fa8ed73c7aa9c34002f. Recorded hashes are kept in the ledger; saved history.bundle left untouched
+2026-11-23T18:43:06Z	IndrasMirror/DeepSeek-V4.1-Flash-GSQ-Uncensored	MAIN-MOVED	0ae18f838e103fb03d952fa8ed73c7aa9c34002f -> 3018caf17f1a7d357e7dfa3bb1d11ae61fc92e0a
+2026-11-23T18:43:08Z	SkyIsNotGreen/Scion-FlashNext-176B-A6B	MAIN-MOVED	4c2d3d73d6ebd36a1a565ba8e86d5fe86120a9b7 -> 7b367f22fc15ff8ff655db7d5735c31fa415ad3c
+2026-11-23T18:43:08Z	agentionai/Qwen3.8-27B-DFlash2-ROCmFP4-FAST-GGUF	MAIN-MOVED	97e4e252d2b48899f12905f8aac814ece633af61 -> e620a255759a8b593fbfaabece045fd01d2a8d24
+2026-11-23T18:43:10Z	agentionai/Signal-3.8-27B-GGUF	MAIN-MOVED	ae272aa3e533854feebcfa1ded0f1dca9afedcef -> 44831a2ef3f7b334051895bca9e51ac50c496b3e
+2026-11-23T18:43:11Z	diffbot/DeepSeek-V4.1-Flash-EXL3-3bpw-2x-RTX-PRO-6000	MAIN-MOVED	6110453b901e4b51da66f539f3802b5c7f18e8e8 -> df0e545faadd14f8becaee09334b40870a8de141
+2026-11-23T18:43:12Z	jstarks/Qwen3.8-27B-Weight-Space-Programming	MAIN-MOVED	bafc8451fa8a320e640ce77aee1e4437dd2a676a -> 0f0ec537a375a9f5b6426a83d47a60ef46795c6a
+2026-11-23T18:43:13Z	chenyumo/moziAI-35B-A3B-MOE-MTP	MAIN-MOVED	fd1acd56ab5eadaf92b061fb1842d27c2a18c1fe -> 606ccc9e1e658a653262da088423179ec0b08316
+2026-11-23T18:43:13Z	chenyumo/moziAI-35B-A3B-MOE-MTP	FILE-REMOVED	mmproj/35B/moziAI-35B-mmproj-BF16-V1.0.gguf was 27b316521af1b6338a679e17ed26c3960c843cf0e1510ae45a247352b8513d41
+2026-11-23T18:43:13Z	chenyumo/moziAI-35B-A3B-MOE-MTP	FILE-REMOVED	moziAI-35B-V3.8-MOE-MTP-Q4_K_M-Uncensored-Qwen3.6-35B-A3B-Ornith-1.5.gguf was e3f5a1992e6df760f973a63c516b917aa4c08249fa08c19c232dfc0fe43fb904
+2026-11-23T18:43:14Z	reaperdoesntknow/SMOLM2Prover	MAIN-MOVED	3d5d726d108d21cb770b0266fd5c26ff8948a159 -> 8c471e2f5b53eee6c56c91dc1c7b2f002ff7f226
+2026-11-23T18:43:16Z	reaperdoesntknow/gemma-270m-math-reasoner	MAIN-MOVED	7d815a0ff4457716fde23359dfde8b91128d9e15 -> f49acbe41729c6fca292b816694a9c0bd9ec0f88
+2026-11-23T18:43:16Z	reaperdoesntknow/SMOLM2Prover-GGUF	MAIN-MOVED	e3102b16a158a42db68221cbff463205f6823b5e -> 8d3530f614f437b906e88f7a7dd7d54c6af590f8
+2026-11-23T18:43:18Z	mradermacher/Huihui-Qwen3-Omni-30B-A3B-Instruct-abliterated-GGUF	NEW-REPO	main 653a39f995a4b3bab9c756b699de2314ea19818c, 13 weight files, 13 hash versions in history
+2026-11-23T18:43:18Z	SC117/Qwen3.8-Flash-Next-abliterated-UD-GGUF	NEW-REPO	main 2eb0ef18bfb05164030b5559539bc1e183fa977f, 16 weight files, 16 hash versions in history
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	MAIN-MOVED	45fd08764f2b0bf16b03a5483a80e5c7aaec8772 -> 8078d149286eec7193795413b9e0643da6d11fa1
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-IQ1_M.gguf 544e0b2412ba2392272b0510b0c8f53a1ab872b73c2ba4f7488de0d5d61467d9 -> af7b45e1c0097fb2602d4c69abf72a009cad78e54201da2265853f5ef11a514a
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-IQ1_S.gguf c09c028b050c108624682baeb28ac6e0cdb936af021ac637c8c3609f923ea4b8 -> 17a7ff34acb0e1fe878309962458e0633172c7f93ffe3b1c4f5f6b317dc317db
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-IQ2_XXS.gguf 4fe958f73a667d8082f911a4347e52bc34696a7816cf3d5b9f7c8a81d5c5ceaa -> 2f953a44281cf861b19ccfdb2ce65f7648e1e92bda4af3729893604fd907c544
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-IQ3_XXS.gguf bd7ef0865adf119b5183e45e741c629bafa649769b33b5ebf689bb4bcc4690d6 -> fd9ccedae17c1bb89744612fbb46730b5275f2a342133d0419776bd1ae311657
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-IQ4_XS.gguf a861d21e7c6d7bc69d8cdcdfb9eb195fd37ef1cd2ab31499db61cd7d30d9b3a1 -> 374970bf6f151fc50da49419751c3e77b82e373a3b9445ded617bd386cd12163
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-Q2_K_XL.gguf 20292e8142b69535ca88a5d04439d0fdeb4dc698d44c002dca706dcf92901441 -> b42841608ea380ddde5a3f1125081357128a3c71b80d006246de4e31292fc6c1
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-Q3_K_XL.gguf f72f396d1b479b14d76346df80baa449c8b1f399653bff38fa4764b359a40048 -> e2d03e8c92ac21cff0e3309b95f40dfd27d1825184f0d2bc09db249797273639
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-Q4_K_M.gguf f90c5a4df44d335ac9f9eea2a15c31d6c5a377b1b3cd9ff7fc2cf123f3cdf7e1 -> 78fcedcf93c5d1bfe83e225513b71392bb52259be0eaa5f8899c856a2e5834ae
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-Q4_K_XL.gguf e62d463c135ffe283df8d94b279a96ca145ac128b52ce854478613045bf4de15 -> e64276656f072e9b2197a61723667cbdb71da66a716ffd966e572c21088f3cd3
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	Inkling-2-Mini-UD-Q8_K_XL.gguf dfb04bf37bee457f98800989dedf93ec442ede8636dbea9433992f1e527e9a41 -> 2da51788d43a17e1f033bec420fa83ba9cb87ac1f0130dc9135a4d2ed2678b68
+2026-11-23T18:43:19Z	unsloth/Inkling-2-Mini-GGUF	REUPLOAD	dspark-Inkling-2-Mini-Q8_0.gguf 2ec78510da837e8fc3be54a14757a0c5fbd2d8d9e85a0d92853fafdf674f3773 -> 3da00cf7c31bbe5662b3c0d373ecf782d74d32ef43990acc158ce60c2add72e0
+2026-11-23T18:43:21Z	mradermacher/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic-i1-GGUF	MAIN-MOVED	a30e78a1f4106b2878d89c51de41d6eebe7053d5 -> ae4c2eaf54fecb065b253fdb0dadeaaf17e40b6e
+2026-11-23T18:43:21Z	mradermacher/Huihui-Qwen3-Next-80B-A3B-Thinking-abliterated-GGUF	NEW-REPO	main c2e26d259894d06f56b1b40cef9b89648ff76e70, 11 weight files, 11 hash versions in history
+2026-11-23T18:43:22Z	mradermacher/gemma-4-31B-it-ARA-heretic-i1-GGUF	MAIN-MOVED	eb4b78ccb28f843aaff3b6ee6e6575a8543be4a3 -> b8f2c3b4a3ebee05ce0edec4cadcbf45b66c5929
+2026-11-23T18:43:23Z	ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF	MAIN-MOVED	1e664931451831589ce16389a55e0d5605dd4bc5 -> 22f1fb9eb4846bdea6bce6b32fc96f05c9db5f6b
+2026-11-23T18:43:23Z	mradermacher/ThinkingCap-Qwen3.8-27B-Uncensored-Heretic-i1-GGUF	NEW-REPO	main 30879781f2a62308929ccc184afaec98e02ab0e6, 24 weight files, 24 hash versions in history
+2026-11-23T18:43:24Z	chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized	MAIN-MOVED	85156a863c05a58b73831d21bd968b5344d7296e -> af0343c259513913de8056af85819c70f627d681
+2026-11-23T18:43:26Z	chatrlabs/Qwen-Image-2.1-Uncensored-Omni-LoRA-v0.1	MAIN-MOVED	142de7a5af56387c5282a0e91532cafc726af7b8 -> 04651bc83877565575c7da47e470696c3d5f43fa
+2026-11-23T18:49:32Z	Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF	PF-TORRENT-UPDATED	pinned 994bb4e69663ec880a4d9a61604e6debc3a49b9a -> 994bb4e69663ec880a4d9a61604e6debc3a49b9a; btih:3ad680760d287acef7236740e5a7ea51df0a88d9 -> btih:e31d449c3020f40c3708f45f0f3112e62ac3298d
+2026-11-23T18:54:36Z	garak-llm/attackgeneration-toxicity_gpt2	PF-TORRENT-REMOVED	torrent btih:8213edc29dbd1fb6fc6358477c95d55341fc82ec (pinned to 565f41dd443592c2146a604211468974d7a7d1a7) is no longer listed
+2026-11-23T18:55:41Z	HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive	PF-TORRENT-UPDATED	pinned f34c1414c2f9a3629187098bdf0e90c85f5034f5 -> f34c1414c2f9a3629187098bdf0e90c85f5034f5; btih:a50d9085d9f37fa649557c35b84de9bc479c84a3 -> btih:84fd14327ab0a3e9cce15d41f43690a595300de7
+2026-11-23T19:08:14Z	mradermacher/Qwen3.8-cyber-RedTeam-Surgical-Abliterated-GGUF	PF-TORRENT-UPDATED	pinned 7d8e7064c099d8f5fde08bcd57bc27073c3988f4 -> 7d8e7064c099d8f5fde08bcd57bc27073c3988f4; btih:52e2472610618e89d4832e7f722f7d1f8b9aeeee -> btih:5bb895c9c456046256ffccffc5295abbe4acc542
+2026-11-23T19:12:05Z	ornith-ai/Ornith-1.0-35B	PF-TORRENT-UPDATED	pinned 5df2ed3f675c7beaa490328cc70bb573b65fb660 -> 5df2ed3f675c7beaa490328cc70bb573b65fb660; btih:ecc20e1f8c78e04a089bdca7156dd182a73f4f7d -> btih:22a115b6a501f3f42ec664c0c50acc08d9b09622
+2026-11-23T19:17:35Z	Qwen/Qwen2.5-32B-Instruct	PF-TORRENT-UPDATED	pinned 5ede1c97bbab6ce5cda5812749b4c0bdf79b18dd -> 5ede1c97bbab6ce5cda5812749b4c0bdf79b18dd; btih:2b29609286895688e3b9bda03a4a41c98ffbb3ac -> btih:f09d77233288a2f0c2a342e39e4cfbf9c5b62eb5
+2026-11-23T19:18:48Z	Qwen/Qwen2.5-VL-32B-Instruct	PF-TORRENT-UPDATED	pinned 7cfb30d71a1f4f49a57592323337a4a4727301da -> 7cfb30d71a1f4f49a57592323337a4a4727301da; btih:b9abf8fa87f4dd1c33a2ac8da32d031d2514b5bc -> btih:9f0dadacf9bd262f62312acaa701fc3f444e92d1
+2026-11-23T19:20:05Z	Qwen/Qwen3-32B	PF-TORRENT-UPDATED	pinned 9216db5781bf21249d130ec9da846c4624c16137 -> 9216db5781bf21249d130ec9da846c4624c16137; btih:3875825c39bb3c832b1e0d278b6897201234abac -> btih:23bafc27239e00b970d06565087004f3e7e42fc9
+2026-11-23T19:27:53Z	TSalpha/Ornith-1.5-Reap50-12Gcard_mixQuant	PF-TORRENT-REMOVED	torrent btih:8690a13d4084ffa3f8ab10b95524c42996857311 (pinned to 6d5fac510f7d85d3b2b421ccadcbfddae7ee8f86) is no longer listed
+2026-11-23T19:43:01Z	unsloth/MiMo-VL-7B-RL-GGUF	PF-TORRENT-ADDED	torrent btih:c906a9d127c4a283e5c1b56b26f259d87c2c8e03, pinned to 9a1d60e80d877e6ee044d2c3b92e95c1c35b04ab, 0 seeds
+2026-11-23T19:44:22Z	unsloth/Ministral-3-3B-Instruct-2512-bnb-4bit	PF-TORRENT-ADDED	torrent btih:64468988156662f11368d8c0968797866765abc4, pinned to 8491af399e7ad92759da849790a5f7e6c2fdfbc4, 0 seeds
+2026-11-23T19:44:32Z	unsloth/Ministral-3-3B-Reasoning-2512-GGUF	PF-TORRENT-ADDED	torrent btih:c8d8515bcb379ebe536080c54d4cdea21dd7fee7, pinned to e22649036c52d4ea95a91a9900dd97b2c431852a, 0 seeds
+2026-11-23T19:45:17Z	unsloth/mistral-7b-instruct-v0.3	PF-TORRENT-ADDED	torrent btih:13e523fe4e72e4191ebb9964a1c15acdd42e3e5c, pinned to 60b99dcbc7f853b7cd18472a607e8d045b96f03e, 0 seeds
+2026-11-23T19:45:47Z	unsloth/Mistral-Nemo-Instruct-2407	PF-TORRENT-ADDED	torrent btih:fb8e36456272d8640ed605740a7fd320801ddbe7, pinned to e9976040f42d8a5590ed58cefe973061b3f973b5, 0 seeds
+2026-11-23T19:46:28Z	unsloth/Mistral-Small-3.2-24B-Instruct-2506	PF-TORRENT-ADDED	torrent btih:6acdf70a3c4c46917e368bd215d25c7a27cc541c, pinned to 3ed8d341b53ea3d0e4194689905477688a6cf733, 0 seeds
+2026-11-23T19:47:05Z	unsloth/MOSS-Image-SFT-FP8	PF-TORRENT-ADDED	torrent btih:0784d88819a2e3cff5710d4e48b219998a97f89a, pinned to 8fb0d8c3a126cfd1406acaf96698dbfe9d99b680, 0 seeds
+2026-11-23T19:48:14Z	unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF	PF-TORRENT-ADDED	torrent btih:4a543cab6ca323482ba6675790122a39b1d8832e, pinned to f2d3fe3694501008786e81e5f20360cbf715496a, 1 seeds
+2026-11-23T19:48:18Z	unsloth/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4	PF-TORRENT-ADDED	torrent btih:5f3661a03496f1c8609b7a0184942d11767545d0, pinned to e8e360d920b9efb4ca5ecedc938fb2d1e61822f5, 0 seeds
+2026-11-23T19:48:46Z	unsloth/Olmo-3-32B-Think-GGUF	PF-TORRENT-ADDED	torrent btih:414971e10d960828a91638fc382a468e1e5d979a, pinned to 4cfefcbb7a9526e8e566c8212e0c72c7f68b0f38, 0 seeds
+2026-11-23T19:49:41Z	unsloth/orpheus-3b-0.1-pretrained-bnb-4bit	PF-TORRENT-ADDED	torrent btih:750ead4aea09740364aa5bad86bca43eb6310f93, pinned to 99f6fa171a423d682345c1f849e785ded83a7276, 0 seeds

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/ThinkingCap-Qwen3.8-27B-Uncensored-Heretic-i1-GGUF
+main commit at snapshot: 30879781f2a62308929ccc184afaec98e02ab0e6
+snapshot taken: 2026-11-23T18:43:22Z
