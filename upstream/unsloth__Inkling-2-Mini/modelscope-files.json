@@ -1,0 +1,38 @@
+[
+{
+"Path": "hf_quant_config.json",
+"Sha256": "7c656207d3ce37879c7be209a036b0dde43bf01f78159bff06880b868ed57143",
+"IsLFS": true,
+"CommittedDate": 1795544337
+},
+{
+"Path": "model-00001-of-00001.safetensors",
+"Sha256": "65e60f51aa1284d4fb022584908c315270334d991828bb774af60584523539d1",
+"IsLFS": true,
+"CommittedDate": 1795544337
+},
+{
+"Path": "model.safetensors.index.json",
+"Sha256": "c1631065b7b00787993522dddc66a68b3abee869192977fb3dcb796e63bc5838",
+"IsLFS": true,
+"CommittedDate": 1795544337
+},
+{
+"Path": "mtp.safetensors",
+"Sha256": "7c3b651317f01f73bcf4e1dceba66ef8b7e1a1eac6bc171e882e690a4b10a1d2",
+"IsLFS": true,
+"CommittedDate": 1795544337
+},
+{
+"Path": "tiktoken/tokenizer.model",
+"Sha256": "f170372dd655728909228220d77cf6b8104a59f38a91262a7d2c4027906ec0d8",
+"IsLFS": true,
+"CommittedDate": 1795544337
+},
+{
+"Path": "tokenizer.json",
+"Sha256": "7f332727f9a3f093dd452a39cc978e6757627e5dad1b0673aa4e75174f236dd6",
+"IsLFS": true,
+"CommittedDate": 1795544337
+}
+]

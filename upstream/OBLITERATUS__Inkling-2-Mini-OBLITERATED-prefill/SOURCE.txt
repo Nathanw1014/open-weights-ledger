@@ -1,0 +1,3 @@
+repo: https://huggingface.co/OBLITERATUS/Inkling-2-Mini-OBLITERATED-prefill
+main commit at snapshot: a7908a893c41b905da1b91351edb4b67332dd525
+snapshot taken: 2026-11-24T18:45:35Z

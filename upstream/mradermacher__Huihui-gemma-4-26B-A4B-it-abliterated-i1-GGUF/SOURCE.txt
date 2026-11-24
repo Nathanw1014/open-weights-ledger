@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-gemma-4-26B-A4B-it-abliterated-i1-GGUF
+main commit at snapshot: 00f632730d7c1b6999c86d4d6035fa0ce39483d8
+snapshot taken: 2026-11-24T18:45:32Z

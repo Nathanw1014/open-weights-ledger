@@ -1,14 +1,14 @@
 [
 {
-"Path": "mmproj/35B/moziAI-35B-mmproj-BF16-V1.0.gguf",
-"Sha256": "27b316521af1b6338a679e17ed26c3960c843cf0e1510ae45a247352b8513d41",
+"Path": "MoziAier-35B-A3B-3.9-MOE-IQ3_XXS.gguf",
+"Sha256": "8097a02635a1d175d35b9e62c1ec8e37c466f772811896cee8ced23e49155c27",
 "IsLFS": true,
-"CommittedDate": 1788156702
+"CommittedDate": 1795477297
 },
 {
-"Path": "moziAI-35B-V3.8-MOE-MTP-Q4_K_M-Uncensored-Qwen3.6-35B-A3B-Ornith-1.5.gguf",
-"Sha256": "e3f5a1992e6df760f973a63c516b917aa4c08249fa08c19c232dfc0fe43fb904",
+"Path": "MoziAier-35B-V3.9-mmproj-Q8_0.gguf",
+"Sha256": "56addf158d80cc53d1a5841f06c711f37774551b7abb34188feed162dd1829e6",
 "IsLFS": true,
-"CommittedDate": 1788230219
+"CommittedDate": 1795477300
 }
 ]

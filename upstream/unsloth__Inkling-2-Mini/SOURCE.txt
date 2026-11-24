@@ -1,0 +1,3 @@
+repo: https://huggingface.co/unsloth/Inkling-2-Mini
+main commit at snapshot: ae70da4f4059a637c28f393ffce5c5e81e70c7c0
+snapshot taken: 2026-11-24T18:45:27Z

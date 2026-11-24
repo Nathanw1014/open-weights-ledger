@@ -1,0 +1,3 @@
+repo: https://huggingface.co/JSon-AI/Qwen3.8-Flash-Next-Basalt-Uncensored
+main commit at snapshot: 0c12d194c98c10d730cc1109f32272cf0c234486
+snapshot taken: 2026-11-24T18:45:38Z

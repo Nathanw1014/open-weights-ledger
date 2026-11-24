@@ -1,0 +1,3 @@
+repo: https://huggingface.co/Abiray/Inkling-2-Mini-Uncensored-GGUF
+main commit at snapshot: 4f86d37974746901ab40a9a34bcd309ca64a4c83
+snapshot taken: 2026-11-24T18:45:38Z

@@ -1,0 +1,3 @@
+repo: https://huggingface.co/tuanlai001/H3-IMAGE-PE-HERETIC-NVFP4-COMFYUI
+main commit at snapshot: b4c33a0777eaa3944c70fd0c1142498c8fa541a7
+snapshot taken: 2026-11-24T18:45:36Z
