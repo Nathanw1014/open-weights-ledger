@@ -1,0 +1,3 @@
+repo: https://huggingface.co/JoaoZaokk/Inkling-2-Mini-Heretic-GGUF
+main commit at snapshot: 1f407a1edd9dbdffdfa38d331156a00cfecea2ae
+snapshot taken: 2026-11-25T18:43:40Z

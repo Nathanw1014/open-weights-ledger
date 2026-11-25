@@ -1,0 +1,16 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-IQ4_NL.gguf	15305203936	6683df47a5e93c48063f9d571e0cc1797d859c5690488e2a80212a78037a36bb	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-IQ4_XS.gguf	14760934624	f0abab87cbeef540b593ec0485098f9ca151453a66f3b7f5c5f611772716cb07	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q2_K.gguf	10863981280	c5d986b85618783a4d1e18013e0e49874ae517315df0de8f0714cca8975db5a4	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q3_K_M.gguf	13723441504	b59a730ec0412f75c542309469ea69baf890f8754ec812fa5ec937b5ba6fefb6	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q4_0.gguf	14922997984	c24445027d7cd89ec3eb7215c719e663a7953f4330d9bfc059ec4c98aa3fcb91	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q4_K_M.gguf	17478336736	6f4c35609e0095a13688abcd0d93298bab9d930c44686fba730a25b584ffd287	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q5_1.gguf	19717437664	93e6a33064fdcd374ab730e7023b37b736eedbbd2be28dbb062e909d402da766	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q5_K_M.gguf	19906679008	1c6fd88579247ff64e70ccb6b9e37680a8f44ed1e21ae84980d9a2b70fb6c068	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q5_K_S.gguf	18628899040	1c1dfe6b8ed67a8fc16f020b4347fb63ede5d97938ff3e37a5ff71765dd1a016	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q6_K.gguf	23490083680	179ad23f405b433b8d70770983d563a0576fc32e0b74f19e74e5d5bbd56acf36	sha256
+Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-Q8_0.gguf	27820341856	1676ea9e579ee3ce2d07063288c515bc85dadc901451d985c661a3545df98f82	sha256
+free-mind.gif	17871127	988bc94e5dee167e126b0885d17ad52fe0b5d8f579becdf9dc7b178be04d347e	sha256
+mmproj-BF16.gguf	641805760	2c165c78790e78a3f45a2d1e9e931083e52ee69d45ff2a0dc9c281fdf1a666e7	sha256
+mmproj-F16.gguf	639348160	3bff75ffeb2d6e0371ba7bd42e30d26a7d98aea681fa44b03b5a20891cfa2c5f	sha256
+mmproj-F32.gguf	1273048512	fa6f2478812f33876e279b6fe8e9f00ea5ff4e9db40868c98c0a39277a439e25	sha256

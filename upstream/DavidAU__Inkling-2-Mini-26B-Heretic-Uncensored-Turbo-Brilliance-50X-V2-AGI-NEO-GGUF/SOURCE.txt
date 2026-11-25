@@ -1,0 +1,3 @@
+repo: https://huggingface.co/DavidAU/Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-GGUF
+main commit at snapshot: d41db62659b4fec755bb4acc27903508221914a9
+snapshot taken: 2026-11-25T18:43:39Z

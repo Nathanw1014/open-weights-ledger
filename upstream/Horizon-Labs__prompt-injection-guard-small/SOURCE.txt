@@ -1,3 +1,3 @@
 repo: https://huggingface.co/Horizon-Labs/prompt-injection-guard-small
-main commit at snapshot: 2efc2ed5abecd21eb45c2506d231a65d6e392b85
-snapshot taken: 2026-11-14T03:53:48Z
+main commit at snapshot: f29d6c05f3b53d6ca8d9fdd7ec52502628ff16e2
+snapshot taken: 2026-11-25T18:43:22Z

@@ -1,0 +1,7 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+SenseNova-Loop-9B-abliterated-Q4_K_M.gguf	5637767264	af9d1ee39eb2e5fe3bc6090ec57ea407e9057364f5a8fdc6c0458898490e6a4e	sha256
+SenseNova-Loop-9B-abliterated-Q6_K.gguf	7379271776	956b2bc301d6b4de6bc15ab3123ec9902e8720159dfe302f5a4152cd5fd71163	sha256
+SenseNova-Loop-9B-abliterated-drafter-2-Q4_K_M.gguf	917479392	18f05878ae8790b0d28015be1a744f0c8207050d026917d5adddab5727261eaf	sha256
+SenseNova-Loop-9B-abliterated-drafter-Q4_K_M.gguf	765960000	b54965ab5d55e9afc7ecda7228542c2160de7c639decbd7cb8f363fec0a60cac	sha256
+SenseNova-Loop-9B-abliterated-upstream-Q4_K_M.gguf	5637767840	c8969d1ef37d72fcdffafda6a4476bd094e883afa40b73d4e7487e24ccbc5880	sha256
+SenseNova-Loop-9B-abliterated-upstream-Q6_K.gguf	7379272352	3432d22d8073b9c2374ce031acc1ec0f995b8dea32340bdad5ecae1c11370f33	sha256

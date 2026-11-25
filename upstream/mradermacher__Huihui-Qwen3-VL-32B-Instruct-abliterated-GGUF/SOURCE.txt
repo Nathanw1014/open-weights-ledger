@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Huihui-Qwen3-VL-32B-Instruct-abliterated-GGUF
+main commit at snapshot: 49c9c05f49b8c65a893180b62135ed29f00068fb
+snapshot taken: 2026-11-25T18:43:36Z

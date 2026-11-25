@@ -1,0 +1,10 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Inkling-2-Mini-abliterated-BF16-imatrix.gguf	90752032	8a91ab85cb4323147697bd078325e8848299f56e1e7c73070447bef04d1da2a8	sha256
+Inkling-2-Mini-abliterated-BF16.gguf	52226509664	c064fff530090b3a9c3b2c6a7fb527e2b320849cd2ce501be9c5449731b890ac	sha256
+Inkling-2-Mini-abliterated-FIT-BALANCED-9G-IQ2_XXS.gguf	9787253088	120dc685200961df9e5a626755322059a1f4be129023e046a7fd65b4b68e9bb9	sha256
+Inkling-2-Mini-abliterated-FIT-QUALITY-11G-IQ3_XXS.gguf	11519243616	24e91bf18e867b03e02b009b5ce3d13207524fbceba98d6fe8146ea0c2f55f3e	sha256
+Inkling-2-Mini-abliterated-FIT-REFERENCE-13G-IQ3_S.gguf	13696206432	5e6fbb4c9340d7e284655dc80b5d0ffaf392a80c3231fc03655bb3b0e6c088b8	sha256
+Inkling-2-Mini-abliterated-Q6_K.gguf	23489841504	eb9ce48604f3ceca6e860d473043efbad07d31c92c99360ab05f54763026d784	sha256
+mmproj-Inkling-2-Mini-BF16.gguf	641806112	73b64fc98003b6fd5dca85dae26da3fe292d6075978138d319bdcbe4528f5b15	sha256
+results/fit-vs-native-en.png	250051	b6db5e54850b68c24e88872212c1fff937153536fbb8dc85fe7555b5993aa099	sha256
+results/fit-vs-native-zh.png	277890	e5b364ec692cc7de24d50ca7bb9265cea99b9d041e6e949921cf02e7598022c5	sha256

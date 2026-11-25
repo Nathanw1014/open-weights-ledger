@@ -1,0 +1,3 @@
+repo: https://huggingface.co/yanauto/Inkling-2-Mini-heretic
+main commit at snapshot: 618bbfdbdabe7e8ec82f37be4806fa9c8dc188f1
+snapshot taken: 2026-11-25T18:43:39Z

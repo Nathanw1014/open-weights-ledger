@@ -1,3 +1,3 @@
 repo: https://huggingface.co/Comfy-Org/Qwen3.8-27B
-main commit at snapshot: 15daf09dbed69c7d82181547c7ed78fc4f26dbe8
-snapshot taken: 2026-11-15T02:21:51Z
+main commit at snapshot: a5cd28c6adbf5e84d2367db27ce7ca8ba136b003
+snapshot taken: 2026-11-25T18:43:22Z

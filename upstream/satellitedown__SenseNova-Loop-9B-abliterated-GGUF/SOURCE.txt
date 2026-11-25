@@ -1,0 +1,3 @@
+repo: https://huggingface.co/satellitedown/SenseNova-Loop-9B-abliterated-GGUF
+main commit at snapshot: 2db5ad9463c396e779e9247fa40f3ed6d0cc1b04
+snapshot taken: 2026-11-25T18:43:36Z

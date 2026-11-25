@@ -1,0 +1,11 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Inkling-2-Mini-Heretic-UD-IQ4_XS.gguf	15733755232	d4511b87e2a56426ff1cea29e5164fd92551e8a57f7c343c0af945c8c7b88b12	sha256
+Inkling-2-Mini-Heretic-UD-Q2_K_XL.gguf	9138715328	3879fc37b999a4b0b397b3139e46dcd5421b206e5b8fc2ac26301f5d64b47588	sha256
+Inkling-2-Mini-Heretic-UD-Q3_K_XL.gguf	13631778016	dcf5e7b848b196146089ccc754eef4f4cab18d99ccfade7ee07b429449fe417e	sha256
+Inkling-2-Mini-Heretic-UD-Q4_K_M.gguf	16610543328	71a9bda6f7fe63a90fe623a4206ffc523909a76a4450cc406d73c1b34dd7bf79	sha256
+Inkling-2-Mini-Heretic-UD-Q4_K_XL.gguf	17629759456	040ed98bfcd64a37418c5ff931131e6af636af7f73ded13288685dc3a26adc0b	sha256
+dspark-Inkling-2-Mini-BF16.gguf	647792800	b8985695c949a4e3270666b44b65959a8c3a599c6e599e0e3e5028f8c217f7b2	sha256
+dspark-Inkling-2-Mini-Q8_0.gguf	402278560	2ec78510da837e8fc3be54a14757a0c5fbd2d8d9e85a0d92853fafdf674f3773	sha256
+mmproj-Inkling-2-Mini-Q8_0.gguf	345910944	233287272ec5ac39b4168677aba54a4c024f202410f5629fac1830e1059f8abb	sha256
+recipes/C5_MidCoT_TriBoundary.hbin	1327888	86534d3d2e7b90d5393eaac646a6aac9850ef1ddc2a4ebe5f7c145ecd82cd965	sha256
+recipes/heretic_v2_winner.bin	1088272	ce875cc675bf8aecbdd108fc371c9ab74cc40deb3f5957308ea3649fc14c2652	sha256

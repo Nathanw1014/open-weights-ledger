@@ -1,0 +1,3 @@
+repo: https://huggingface.co/SC117/Inkling-2-Mini-abliterated-FIT-GGUF
+main commit at snapshot: 12b8f12608d061f7dea2af897053a65f04a39ef3
+snapshot taken: 2026-11-25T18:43:34Z
