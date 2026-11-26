@@ -1,3 +1,3 @@
 repo: https://huggingface.co/ibm-granite/granite-speech-5.0-2b
-main commit at snapshot: ec49ca6b1a5e7e9176127e09cb303ab78cbacdf7
-snapshot taken: 2026-11-15T02:30:15Z
+main commit at snapshot: cf467f6cc2698739019113bc71739c4663b81d80
+snapshot taken: 2026-11-26T18:58:45Z

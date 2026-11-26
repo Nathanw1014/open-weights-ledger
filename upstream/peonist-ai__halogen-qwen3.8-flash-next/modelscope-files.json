@@ -1,15 +1,15 @@
 [
 {
 "Path": "qwen38-flash-next-drafter-r2-ht4.hgn",
-"Sha256": "f9aa330800cc921fe20f4cf997d660f519c67b0052af0c8078b6b648972b07e6",
+"Sha256": "6feed319c3d8fa6c4c6cb021131205c3e9ed3164446fe9d86b897cf514da00c8",
 "IsLFS": true,
-"CommittedDate": 1795003857
+"CommittedDate": 1795608638
 },
 {
 "Path": "qwen38-flash-next-drafter-r2.hgn",
-"Sha256": "07a7b5b358cb02737ecf85043db0d30b4938aed06ae6311772ea4e40b939696b",
+"Sha256": "5a5d07b39bf65168915ea8e36047f0ef89b5c68f89e698e4e9c70be408bd6b17",
 "IsLFS": true,
-"CommittedDate": 1794831448
+"CommittedDate": 1795608638
 },
 {
 "Path": "qwen38-flash-next-ht43.hgn",

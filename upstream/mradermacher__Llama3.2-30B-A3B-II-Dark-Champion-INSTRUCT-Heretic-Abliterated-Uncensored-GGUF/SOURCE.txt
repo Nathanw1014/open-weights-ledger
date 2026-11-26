@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored-GGUF
+main commit at snapshot: 5e685c4f383b12ef5a160897753a7e7f90d75ac1
+snapshot taken: 2026-11-26T18:58:55Z

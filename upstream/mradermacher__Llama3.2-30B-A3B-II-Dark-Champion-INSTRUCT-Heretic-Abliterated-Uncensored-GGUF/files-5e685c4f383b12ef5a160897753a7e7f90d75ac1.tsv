@@ -1,0 +1,12 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.IQ4_XS.gguf	16429506656	2aa399c06d080d585a9be15b800514d652b8ad44074dbefe888c056d9a990bf0	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q2_K.gguf	11377025120	0e6a5c1bf03b139c1d17cad60e65ee40dd88018092cee59db6d4ff0df91d6821	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q3_K_L.gguf	15669272672	ef045d8ea7cb3d70df3505fd5020814ba57f7812d28b6b76f924da21f0c5a322	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q3_K_M.gguf	14651162720	da6c70eaeaee094b0ec54572ba746a442f500640f36bc1a3644e77c0f39ce4bc	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q3_K_S.gguf	13344112736	fbd85caccd1c7e19fde47dfed72698b0ef0b0b43ec7b37740c0c46bd810e0aa0	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q4_K_M.gguf	18366980192	04de76ecb576718e17cedca7c2db31ca3863221da976aa2651c062e4b533a239	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q4_K_S.gguf	17299005536	7309958d56b8cf4efda4f6649ed13b3534e61c17366cfacb8ac01151bcad73d0	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q5_K_M.gguf	21391990880	846a83f4c2b88bc17dbf228af29be5b96dfe491462d209ef3e7bd111e3abe075	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q5_K_S.gguf	20777001056	2968334e6a0ba5c727e9fb51d66ff73d86dc11b7e2a20b238d61fef373cf2dba	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q6_K.gguf	24664973408	300d257a1e9a312590b5f3e0abd5d4f5832cc04c84c286161c38b34d049065ec	sha256
+Llama3.2-30B-A3B-II-Dark-Champion-INSTRUCT-Heretic-Abliterated-Uncensored.Q8_0.gguf	31850227808	bf8eff39d2daf7eb4906cfcb556b1d25703cdff90b6f03377914043e2678bc0c	sha256

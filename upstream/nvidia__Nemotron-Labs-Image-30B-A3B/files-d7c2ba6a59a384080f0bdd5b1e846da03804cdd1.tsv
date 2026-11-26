@@ -1,6 +1,7 @@
 # path	size	hash	kind (sha256 = LFS weight hash)
 Nemotron-Labs-Image-Tokenizer/model.safetensors	2569713904	1d94c3f77f601d7b2c8ccffe87a8851234fb12dd6f25d2070ababfaabedbbb95	sha256
 assets/harness-workflow.png	167334	8e1c917857d93a1f53d6c1d2adfc808041a6ba6c111dac75c2fa1573feffbe5d	sha256
+assets/nemotron-labs-visualcreation-showcase.gif	9361307	d53388de30a91bf91bc2ec21c3b8528d96709cadf09413cb851ee0d695fb8b38	sha256
 assets/nemotron-labs-visualcreation-under10mb.gif	9647178	4ec0006cbe56b24a3ecd4f74977b4df72668a44bff1c22733b11e1186897a194	sha256
 assets/nemotron-labs-visualcreation.gif	19816727	cbbc4a46a9083df36094d31d3aa141be40a10b556d990c48e4d7ad38287c4a67	sha256
 assets/paper-figure2.png	3631169	3888b62ee89f344af04f8756e66b973761492848965202476eaf3be1bc3547cc	sha256

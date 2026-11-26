@@ -7,8 +7,8 @@
 },
 {
 "Path": "qwen38-27b-vision.hgn",
-"Sha256": "cae5552fc4e34ad0f74c54c11d4f3b91d55fa3652e1b0ff52dbd65859daa83fd",
+"Sha256": "869fa7d2347c67f2a74a7cbb18fe271e73e4d8e359ced8e2548397343f001829",
 "IsLFS": true,
-"CommittedDate": 1795176545
+"CommittedDate": 1795608631
 }
 ]

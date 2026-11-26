@@ -1,3 +1,3 @@
 repo: https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B
-main commit at snapshot: 53e47bcda9bd99808895cc7542f8311c57897ba8
-snapshot taken: 2026-11-25T18:43:33Z
+main commit at snapshot: d7c2ba6a59a384080f0bdd5b1e846da03804cdd1
+snapshot taken: 2026-11-26T18:58:54Z
