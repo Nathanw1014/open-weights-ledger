@@ -1,0 +1,3 @@
+repo: https://huggingface.co/diablomike20/North-Mini-Code-1.0-Uncensored-Heretic-i1-GGUF
+main commit at snapshot: 5e593bc26daec9f76071c8ba3e3b55a259d518b9
+snapshot taken: 2026-11-27T18:57:34Z

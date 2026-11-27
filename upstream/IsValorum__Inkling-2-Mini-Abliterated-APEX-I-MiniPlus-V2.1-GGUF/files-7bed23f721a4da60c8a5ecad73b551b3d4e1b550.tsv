@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Inkling-2-Mini-Abliterated-APEX-I-MiniPlus-V2.1-Unsloth-Studio-Adapted.gguf	12977514752	ba986c972b7c7c7b8fc3c25b377b678be83c20c994d4d7be36491c2dbe46b1cf	sha256
+Inkling-2-Mini-Abliterated-APEX-I-MiniPlus-V2.1.gguf	12977516064	daa179670b2c4311a8e34c724efb6ee300791a0ae52b493e91a69f7ec273ad02	sha256
+dspark-Inkling-2-Mini-Q4_0.gguf	271337632	b183646a4da2aa2b6eed9ea008f85935dfa7262e1e840c445e3905bdefa5eb5c	sha256
+dspark-Inkling-2-Mini-Q8_0.gguf	503889952	3da00cf7c31bbe5662b3c0d373ecf782d74d32ef43990acc158ce60c2add72e0	sha256
+mmproj-Inkling-2-Mini-Q8_0.gguf	345910944	fd84b797a57a6aadd79a469631ecef3392ac72992241c55306d6f751e3cd5491	sha256

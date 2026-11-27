@@ -4996,3 +4996,47 @@ time	repo	event	detail
 2026-11-26T20:01:22Z	nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-Base-BF16	PF-TORRENT-ADDED	torrent btih:000faf5549444f566e369a95c2c90f2832a6330c, pinned to 9f5b80e4845884eb8da03353b0b176503631e034, 0 seeds
 2026-11-26T20:04:44Z	peonist-ai/halogen-npu-qwen3-asr-0.6b	PF-TORRENT-ADDED	torrent btih:fd6305da4f4812cdcff875a7e03e7ccb47a7a6e6, pinned to b21cd6703b56fc3cd2d5c1bed252cd6a2ef4f611, 1 seeds
 2026-11-26T20:05:06Z	petruhonk/Qwen3.8-9B-Distill-uncensored-heretic-GGUF	PF-TORRENT-ADDED	torrent btih:8ff59f3430e67ddb7841aec12370cc599da7d7fa, pinned to b8c338d24f8518ec8ae0c6c77c7d97802daeb4a0, 2 seeds
+2026-11-27T18:55:56Z	orcarouter/Inkling-2-Mini-abliterated-GGUF	REPO-GATED	gated (auto); cannot be read without an account, main 20b83559fef0b641145603d089210269ae721a74
+2026-11-27T18:57:11Z	agentionai/Qwen3.8-Flash-Next-Gyro-GGUF	MAIN-MOVED	cd23c6471022c233b7014913a6e471501539d2ba -> 3cb6d6c0048ff65be53cf81e53f1849899924ea1
+2026-11-27T18:57:11Z	agentionai/Qwen3.8-Flash-Next-Gyro-GGUF	REUPLOAD	Qwen3.8-Flash-Next-Gyro-M-TQ2_0-noPLE.gguf b3b977d29944e50ad5ae7f85bfce1bf78f5727da4c0640e9dc67854af908d8b3 -> 77f29aa35e1378d51877e10825365c0e22b27d7950923cb0bd73fff0832b824e
+2026-11-27T18:57:11Z	agentionai/Qwen3.8-Flash-Next-Gyro-GGUF	REUPLOAD	Qwen3.8-Flash-Next-Gyro-M-TQ2_0.gguf 7aa36d15131d255179ab6c87fa9c9f81a0b541fc9e81e959d4c3e29eb20feb5f -> 4791f759c7fbbf4742e8c07249583233d038415d9964f70d4ff476990842e770
+2026-11-27T18:57:12Z	chenyumo/moziAI-35B-A3B-MOE-MTP	MAIN-MOVED	48d01287f40b99b9ac011979cfd15295474333ca -> 7e529aa14ba6ee009224b54475af96e5dc098e71
+2026-11-27T18:57:13Z	ManniX-ITA/Qwen3.8-27B-Omnimerge-v6-MTP-GGUF	MAIN-MOVED	32206a950b9689384474dfba348267e453300ac5 -> 57e89d61160532357a32fd72c6a9533cdb030d43
+2026-11-27T18:57:13Z	mradermacher/GLM-5.3-Flash-i1-GGUF	MAIN-MOVED	c35c8f48262b4f5192b491b250b7d7d4300b1ee3 -> 3e32653d8c7c309b171778afbef68dec702038bb
+2026-11-27T18:57:15Z	mradermacher/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-i1-GGUF	MAIN-MOVED	216e6abf95fb0af1abfa773dfaf45e641f026d9e -> b89076f4a300b1996d16c646b692ad99a36b821d
+2026-11-27T18:57:18Z	mxxm-t/DeepSeek-V4.1-Flash-GGUF	MAIN-MOVED	7165fa2b4a80e1ba942bf9a814e1d05442ff073e -> 3b1bd7ea95ee8563cab900204960e49349cd00a8
+2026-11-27T18:57:19Z	reaperdoesntknow/SMOLM2Prover	MAIN-MOVED	b17ea6ae1a281694140abee9f4ef9a66b678fb06 -> 2b255fa55f98a62102cceddb03af2949c1a1ae29
+2026-11-27T18:57:21Z	reaperdoesntknow/SMOLM2Prover-GGUF	MAIN-MOVED	05fdc107c4b44100d5d688453063f0320981ae82 -> 7cd63e185db7ba593c91e9d20d20e25b41442ada
+2026-11-27T18:57:21Z	reaperdoesntknow/gemma-270m-math-reasoner	MAIN-MOVED	ff28f8f26d4357c4c6cafd210fbfa93a90256367 -> 7b30d6b519f0e306a44a3b1a05371bfb46de93ec
+2026-11-27T18:57:24Z	wenzhouwu/YoungAi-DeepSeek-V4.1-Flash-1017	MAIN-MOVED	789990a09846587f869f160654f298a53bec3ef9 -> d723e7e18f6401a9e5ced546336d0d70ecf45963
+2026-11-27T18:57:24Z	wenzhouwu/YoungAi-DeepSeek-V4.1-Flash-1017	REUPLOAD	posttrain-restore-20261125/exit_ctrl.bin 683ab5a06cd0c813b34d516f6a0787e3e8b4256a76f07bb3e33e3ada2f562cd4 -> 2258b41cd5361872584bd3a5bea1728802eadcd0447f5865289fe1464729e007
+2026-11-27T18:57:24Z	IsValorum/Inkling-2-Mini-Abliterated-APEX-I-MiniPlus-V2.1-GGUF	NEW-REPO	main 7bed23f721a4da60c8a5ecad73b551b3d4e1b550, 5 weight files, 5 hash versions in history
+2026-11-27T18:57:25Z	mradermacher/Inkling-2-Mini-Abliterated-Healed-i1-GGUF	NEW-REPO	main e565bd205cdc9f6dd2d49bdd98bcd1726742905b, 24 weight files, 24 hash versions in history
+2026-11-27T18:57:27Z	Kujira/Inkling-2-Mini-CHiPS-Abliterated-GGUF	NEW-REPO	main 553724c2e31c9735f7ed2d5dbc58a896301ae48b, 5 weight files, 14 hash versions in history
+2026-11-27T18:57:28Z	mradermacher/Gemma-4-E2B-it-ARA-Abliterated-i1-GGUF	NEW-REPO	main 418bc23ffdd299d0b98ccafff0ed03ed53c07208, 25 weight files, 25 hash versions in history
+2026-11-27T18:57:28Z	mrfakename/Inkling-2-Mini-abliterated-GGUF	NEW-REPO	main 686fa052107b25ef0c636d3897eb82a915db2fbb, 11 weight files, 16 hash versions in history
+2026-11-27T18:57:30Z	zanezhang666/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF	NEW-REPO	main ec5038ffd58a6d8250ff57412c31c984987df5b1, 173 weight files, 173 hash versions in history
+2026-11-27T18:57:31Z	mudler/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-APEX-GGUF	NEW-REPO	main 23666d2f4d42e5684d5bccc8cd1eaa2bd020d461, 8 weight files, 8 hash versions in history
+2026-11-27T18:57:32Z	OBLITERATUS/Inkling-2-Mini-OBLITERATED	NEW-REPO	main c36a0ec6815b53feb95be185bdab6fac0241bcc0, 1 weight files, 1 hash versions in history
+2026-11-27T18:57:33Z	mradermacher/gemma-4-31B-it-qat-q4_0-unquantized-uncensored-heretic-i1-GGUF	NEW-REPO	main 618c839349c30a09c4aff61ad6403c298ebf7bd8, 21 weight files, 21 hash versions in history
+2026-11-27T18:57:34Z	PocketAiHub/DeepSeek-V4.1-Flash-1017-obliterated-MLX-oQ2.5e	NEW-REPO	main 8b20212d2fcab4082a6cf7ed47282fddf55f3097, 1046 weight files, 1046 hash versions in history
+2026-11-27T18:57:36Z	llmfan46/AI21-Jamba2-Mini-Ultra-Uncensored-Heretic-GGUF	NEW-REPO	main dbbc57e949e0fb3e34233b9a6e3b64b87fdb41cc, 10 weight files, 10 hash versions in history
+2026-11-27T18:57:37Z	diablomike20/North-Mini-Code-1.0-Uncensored-Heretic-i1-GGUF	NEW-REPO	main 5e593bc26daec9f76071c8ba3e3b55a259d518b9, 24 weight files, 24 hash versions in history
+2026-11-27T18:57:37Z	mradermacher/Gemma-4-Garnet-V2-31B-it-ultra-uncensored-heretic-i1-GGUF	NEW-REPO	main d1e9509ba9df490e2418d5d7e4a66b43eb894948, 24 weight files, 24 hash versions in history
+2026-11-27T18:57:40Z	lyf/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-NVFP4	NEW-REPO	main c9eb0a997ecfc688c468146404606ef6df49555f, 2 weight files, 6 hash versions in history
+2026-11-27T18:57:40Z	AtomicChat/Inkling-2-Mini-Uncensored-GGUF	MAIN-MOVED	82b34b9b0e5bc2e3e7b6d617ec8cc3e0f9692ee2 -> c5667da36fe35da026fbee394d00547a921e98ab
+2026-11-27T18:57:41Z	mradermacher/OpenAI-gpt-oss-20B-INSTRUCT-Heretic-Uncensored-MXFP4-i1-GGUF	NEW-REPO	main 6f411fc95756dbb8cb79bdac2c23c12c1fd4b110, 25 weight files, 25 hash versions in history
+2026-11-27T18:57:43Z	mradermacher/Huihui-Qwen3.8-Flash-Next-abliterated-i1-GGUF	MAIN-MOVED	e89cd5d34d89ae57650f9de5a25981019f45a15f -> b171d56e48e3c9095c31dee38c53d80333bf9213
+2026-11-27T18:57:44Z	Thunder13240/Ornith-1.5-9B-heretic-GGUF	MAIN-MOVED	a2e7bbe174b637fafb28ecccce8c8355307f5cd4 -> 4e3d130d75abb5f7dd9b4d75a85dcff278bca5de
+2026-11-27T19:04:36Z	Bojun-Feng/Qwen3.8-27B-OBLITERATUS-Uncensored-llamafile	PF-TORRENT-UPDATED	pinned 3c38ca0a0f9f4d568e1694d37a6cb43635a21a8d -> 3c38ca0a0f9f4d568e1694d37a6cb43635a21a8d; btih:2cfc8aa8e10a0bacfda68a87073abb0ff7e87e3d -> btih:093a45a0b7e48c4478fccd2c16cb4b8ccabe7520
+2026-11-27T19:27:00Z	ornith-ai/Ornith-1.0-397B-FP8	PF-TORRENT-UPDATED	pinned 8b61f97a8512d9d01bff1a9625c9a16730e115bb -> 8b61f97a8512d9d01bff1a9625c9a16730e115bb; btih:4ac2406ce1b950a94e2ea4ff844471a55fa5a2a6 -> btih:a574aca808ee375c6e33ca7de6e2a36140f85259
+2026-11-27T19:35:51Z	Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8	PF-TORRENT-UPDATED	pinned 003f183a92fbe5b9a8325aaa8b2ae797c91dd90f -> 003f183a92fbe5b9a8325aaa8b2ae797c91dd90f; btih:692876b5651a8e4b8cc31e0351a19162f1669b2e -> btih:095d41cf0e2f69a2a5a8002e75a5d255af02c8d2
+2026-11-27T19:57:38Z	Qwen/Qwen2.5-14B-Instruct-1M	PF-TORRENT-ADDED	torrent btih:076c63aa3813ebef40dc0808258b4b29c1a10d45, pinned to 620fad32de7bdd2293b3d99b39eba2fe63e97438, 0 seeds
+2026-11-27T20:01:07Z	Qwen/Qwen3-VL-235B-A22B-Instruct-FP8	PF-TORRENT-ADDED	torrent btih:6f74ad80b22a2ba7b57d47988c943d4378688ff1, pinned to 7fbcd8c9e2ad011808ed8a57d64c462605c3e381, 1 seeds
+2026-11-27T20:01:11Z	Qwen/Qwen3-VL-235B-A22B-Thinking	PF-TORRENT-ADDED	torrent btih:484e4bc48a14680888094df22df6d2a12a079b03, pinned to 6664affde68449468deb7527186455c7450c13c0, 1 seeds
+2026-11-27T20:01:18Z	Qwen/Qwen3-VL-30B-A3B-Instruct-GGUF	PF-TORRENT-ADDED	torrent btih:e7ac8fa08b85ce387ee639d5de03599d9c2431d6, pinned to f54435e6cc31258f04b0969105c3f6badb197931, 0 seeds
+2026-11-27T20:01:25Z	Qwen/Qwen3-VL-32B-Instruct-GGUF	PF-TORRENT-ADDED	torrent btih:88b987baa46454a6ca5d0d3a0e4224326015965a, pinned to e3e1fe0c76de7ee58ea65db420c643adfe2e457c, 1 seeds
+2026-11-27T20:01:34Z	Qwen/Qwen3.5-27B-GPTQ-Int4	PF-TORRENT-ADDED	torrent btih:f48dc27905c8a84273c1e42be27cf8d48c3c07f6, pinned to 8f0c09f227ae570e79617c6d9172b59df9c16081, 2 seeds
+2026-11-27T20:01:49Z	Qwen/QwQ-32B	PF-TORRENT-ADDED	torrent btih:b4ef5cf2504af7a849fc71eab07d6bfc0cd36ed3, pinned to 976055f8c83f394f35dbd3ab09a285a984907bd0, 2 seeds
+2026-11-27T20:03:15Z	spiritfather/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-heretic-ara-i1-GGUF	PF-TORRENT-ADDED	torrent btih:67ccb541014dea1cfdb3d59454cb4dd2e554ecf7, pinned to 28261d680b80c4c5c2724d5f0a3ebb74e2f41b4f, 1 seeds
+2026-11-27T20:03:22Z	twolven/Qwen3.8-27B-abliterated-AWQ-MTP	PF-TORRENT-ADDED	torrent btih:43fbba85b9fceda90ede19163d91c1f586a3018f, pinned to c2f5341e7c9a1c55e6d61cfc8e6d0ca897bd7443, 0 seeds

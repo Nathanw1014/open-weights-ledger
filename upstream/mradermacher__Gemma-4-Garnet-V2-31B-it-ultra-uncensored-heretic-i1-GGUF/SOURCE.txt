@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Gemma-4-Garnet-V2-31B-it-ultra-uncensored-heretic-i1-GGUF
+main commit at snapshot: d1e9509ba9df490e2418d5d7e4a66b43eb894948
+snapshot taken: 2026-11-27T18:57:35Z

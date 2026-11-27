@@ -1,0 +1,3 @@
+repo: https://huggingface.co/IsValorum/Inkling-2-Mini-Abliterated-APEX-I-MiniPlus-V2.1-GGUF
+main commit at snapshot: 7bed23f721a4da60c8a5ecad73b551b3d4e1b550
+snapshot taken: 2026-11-27T18:57:22Z

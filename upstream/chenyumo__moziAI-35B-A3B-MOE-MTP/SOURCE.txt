@@ -1,3 +1,3 @@
 repo: https://huggingface.co/chenyumo/moziAI-35B-A3B-MOE-MTP
-main commit at snapshot: 48d01287f40b99b9ac011979cfd15295474333ca
-snapshot taken: 2026-11-26T18:58:44Z
+main commit at snapshot: 7e529aa14ba6ee009224b54475af96e5dc098e71
+snapshot taken: 2026-11-27T18:57:10Z

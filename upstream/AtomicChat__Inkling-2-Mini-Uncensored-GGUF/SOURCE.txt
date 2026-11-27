@@ -1,3 +1,3 @@
 repo: https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF
-main commit at snapshot: 82b34b9b0e5bc2e3e7b6d617ec8cc3e0f9692ee2
-snapshot taken: 2026-11-24T18:45:38Z
+main commit at snapshot: c5667da36fe35da026fbee394d00547a921e98ab
+snapshot taken: 2026-11-27T18:57:38Z

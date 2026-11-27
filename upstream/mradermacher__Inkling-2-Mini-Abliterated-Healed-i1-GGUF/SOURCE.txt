@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mradermacher/Inkling-2-Mini-Abliterated-Healed-i1-GGUF
+main commit at snapshot: e565bd205cdc9f6dd2d49bdd98bcd1726742905b
+snapshot taken: 2026-11-27T18:57:22Z

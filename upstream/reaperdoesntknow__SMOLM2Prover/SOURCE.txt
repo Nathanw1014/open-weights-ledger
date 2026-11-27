@@ -1,3 +1,3 @@
 repo: https://huggingface.co/reaperdoesntknow/SMOLM2Prover
-main commit at snapshot: b17ea6ae1a281694140abee9f4ef9a66b678fb06
-snapshot taken: 2026-11-26T18:58:46Z
+main commit at snapshot: 2b255fa55f98a62102cceddb03af2949c1a1ae29
+snapshot taken: 2026-11-27T18:57:15Z

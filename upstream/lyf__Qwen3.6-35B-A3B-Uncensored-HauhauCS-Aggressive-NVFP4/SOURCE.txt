@@ -1,0 +1,3 @@
+repo: https://huggingface.co/lyf/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-NVFP4
+main commit at snapshot: c9eb0a997ecfc688c468146404606ef6df49555f
+snapshot taken: 2026-11-27T18:57:38Z

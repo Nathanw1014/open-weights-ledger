@@ -1,0 +1,9 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-APEX-Balanced.gguf	25886843296	47a30dc7ee6d8e83fd089944b47499431c30b5b3a82905704aab6bed9010e2c4	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-APEX-Compact.gguf	17085557152	73839090389c58796229354f89cbf1e43349b6fce4ea48fa7eaa2bca896db905	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-APEX-I-Balanced.gguf	25886843520	17cb23b009dc806074883860b50245906373784e46364868878751860d8d94e1	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-APEX-I-Compact.gguf	17085557376	0204b64d4467c8d6abaf122841f781d0f9fdfd2d9cab031f67cedab35aa5cf59	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-APEX-I-Mini.gguf	13869237888	2d103125a2e8fa6cd5e7dfa78904a1a5789bab31c71ea4f88d38e3117235fdcc	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-APEX-I-Quality.gguf	23513981568	819d3eb42151aafb8c98ba06b37e45bcf9bd8ef482a91114b1765c3f0b1cc048	sha256
+Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-APEX-Quality.gguf	23513981344	c4ee2981e2ba4d8099395a25eda7af580ebaa374776df283e42dca3362a2444c	sha256
+mmproj.gguf	902822752	3af9dced679ea66ef17fd39ded47cd3fce8fde8e4e83ab5fecc6528c9e5f13fc	sha256

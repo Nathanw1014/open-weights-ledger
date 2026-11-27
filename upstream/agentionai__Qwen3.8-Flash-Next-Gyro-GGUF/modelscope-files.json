@@ -13,27 +13,27 @@
 },
 {
 "Path": "Qwen3.8-Flash-Next-Gyro-M-TQ2_0-noPLE.gguf",
-"Sha256": "b3b977d29944e50ad5ae7f85bfce1bf78f5727da4c0640e9dc67854af908d8b3",
+"Sha256": "77f29aa35e1378d51877e10825365c0e22b27d7950923cb0bd73fff0832b824e",
 "IsLFS": true,
-"CommittedDate": 1793979187
+"CommittedDate": 1795792638
 },
 {
 "Path": "Qwen3.8-Flash-Next-Gyro-M-TQ2_0.gguf",
-"Sha256": "7aa36d15131d255179ab6c87fa9c9f81a0b541fc9e81e959d4c3e29eb20feb5f",
+"Sha256": "4791f759c7fbbf4742e8c07249583233d038415d9964f70d4ff476990842e770",
 "IsLFS": true,
-"CommittedDate": 1791832805
+"CommittedDate": 1795792638
 },
 {
 "Path": "Qwen3.8-Flash-Next-Gyro-S-TQ1_0-noPLE.gguf",
-"Sha256": "ae7bad99385cc5074029596c049d2839f37ae02a2cd9ff77f1aa54f6e0f53fd6",
+"Sha256": "e33a245502a4ae0083ac2064b019f948f5a2cfec6152b1dd6854dd014aee66bb",
 "IsLFS": true,
-"CommittedDate": 1793979187
+"CommittedDate": 1795625397
 },
 {
 "Path": "Qwen3.8-Flash-Next-Gyro-S-TQ1_0.gguf",
-"Sha256": "c6ea1b08ca312f99095b27588ba35976b53f948268e7f91e7761926aa01d9c87",
+"Sha256": "1a8267c29026748ac7445e37b2f9d50c27aa30426be8eab70a30c7fa019264f0",
 "IsLFS": true,
-"CommittedDate": 1791732894
+"CommittedDate": 1795625778
 },
 {
 "Path": "Qwen3.8-Flash-Next-PLE-IQ4_NL-GyroS.gguf",

@@ -1,3 +1,3 @@
 repo: https://huggingface.co/mradermacher/GLM-5.3-Flash-i1-GGUF
-main commit at snapshot: c35c8f48262b4f5192b491b250b7d7d4300b1ee3
-snapshot taken: 2026-11-20T18:45:42Z
+main commit at snapshot: 3e32653d8c7c309b171778afbef68dec702038bb
+snapshot taken: 2026-11-27T18:57:12Z

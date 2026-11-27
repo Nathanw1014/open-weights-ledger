@@ -1,0 +1,11 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+AI21-Jamba2-Mini-ultra-uncensored-heretic-BF16.gguf	103155432064	445d9da523796fc5064425361c04b1318f228f0981b03dabf1f500bbcebe514f	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q3_K_L.gguf	26428512896	8081f454da10fa10d0fb9a9734fd857656f5cbaa189f2b05d5f53aff3fb98b75	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q3_K_M.gguf	24547367552	88ba29a081d5e68922ea01096b61ab84ac059aa666ef4484c9c024c72b2d4347	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q3_K_S.gguf	22289128064	e3e83010c38307888f4015dd36de623176e0b15148c51c2c0022b225a1e0aa58	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q4_K_M.gguf	31162825344	73d6efb241f5398401b9a58128eb00ca3655c49f5bb26954813dc85b6684f5b1	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q4_K_S.gguf	29353441920	45916a62a24741ed7b41344e4b0c9df3fdff895a0db0d877a669f0c80e4f3412	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q5_K_M.gguf	36575443584	67d92f3fc3028daddb70949d7a2522035c41ae4003cc0562f6fe0a9a17913b02	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q5_K_S.gguf	35513694848	2b6a7812c1ba8bec718097bf75dae8a735dffa879133892bc390ef0a736cf2dd	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q6_K.gguf	42326350464	c6e7c55820aac5ebd14c064cba18683de7ff7f99d3bd000c674dc42eb8f89813	sha256
+AI21-Jamba2-Mini-ultra-uncensored-heretic-Q8_0.gguf	54814440064	d5ea8fb33838f7450b156c89cd2f916b435dcf1e24cdd75844454e737f28df09	sha256

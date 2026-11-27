@@ -1,0 +1,6 @@
+# path	size	hash	kind (sha256 = LFS weight hash)
+Inkling-2-Mini-CHiPS-Abliterated-UD-IQ2_XXS.gguf	8486237632	20dd61a138f73d835cdddc520706ddba4ee61d6fb07cafc7dc0732f66b07c1e5	sha256
+Inkling-2-Mini-CHiPS-Abliterated-UD-Q2_K_XL.gguf	9138716608	cacdd95a679aeabcf14e22cf7154d653487432ae0732cfd8803a25f4c2d55a25	sha256
+Inkling-2-Mini-CHiPS-Abliterated-UD-Q3_K_XL.gguf	13631779296	eb7477f8920a0b7bacd4bf65869102a6d97ce1718f864d9f317cc0b8ac6dcdc0	sha256
+Inkling-2-Mini-CHiPS-Abliterated-UD-Q4_K_XL.gguf	17629760736	97db43e8ef4bfec3b145f5b29bf285d9611d7bbea68917bc7effc0e6004a437f	sha256
+Inkling-2-Mini-CHiPS-Abliterated-UD-Q8_K_XL.gguf	22867452896	247bd640b0e98381b41f34a3e6a66e02c270adae08c63f495c91e2576699105e	sha256

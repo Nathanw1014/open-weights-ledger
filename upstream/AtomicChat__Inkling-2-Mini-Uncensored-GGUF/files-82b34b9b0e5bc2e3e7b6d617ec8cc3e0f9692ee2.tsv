@@ -1,8 +1,0 @@
-# path	size	hash	kind (sha256 = LFS weight hash)
-Inkling-2-Mini-Uncensored-AD-IQ2_M.gguf	8665091680	fca99d488bff5d401c8bc6b0110c5377c743f0ffb3a6d19c1ae4a3b9071fa2cd	sha256
-Inkling-2-Mini-Uncensored-AD-IQ3_S.gguf	13340510176	23a8e6792481b6f1d0ebad51399e9ee2a2c2be8525b09ed1ae6737811159f892	sha256
-Inkling-2-Mini-Uncensored-AD-Q4_K.gguf	16525559776	36e99f1f56ca33cb356f19d7e3822938f65af1cde978ad13170238928d4c955f	sha256
-Inkling-2-Mini-Uncensored-LoRA.gguf	43805184	42914b85c874e7fe249e93f0ac6e8abf08dc0bdf32aa1ec46c72714e64808f12	sha256
-dspark-Inkling-2-Mini-Q8_0.gguf	503857696	f51f32d3fb4dca9ca2f094e447b80741caac0a3445ec02af02a8cc3c86e45992	sha256
-mmproj-Inkling-2-Mini-Uncensored-BF16.gguf	641806048	7dd7fd3a59b501efce2fadbeaee9baf22972e1c751066a374bb90b49923735d6	sha256
-mmproj-Inkling-2-Mini-Uncensored-F16.gguf	639348448	5a72e0b6e2bef13c3f455f4edb85df0c752b92ff76ab46af879eae088163efe6	sha256

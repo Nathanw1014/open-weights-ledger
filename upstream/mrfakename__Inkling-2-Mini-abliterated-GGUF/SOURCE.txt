@@ -1,0 +1,3 @@
+repo: https://huggingface.co/mrfakename/Inkling-2-Mini-abliterated-GGUF
+main commit at snapshot: 686fa052107b25ef0c636d3897eb82a915db2fbb
+snapshot taken: 2026-11-27T18:57:25Z

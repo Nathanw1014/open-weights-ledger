@@ -1,0 +1,3 @@
+repo: https://huggingface.co/llmfan46/AI21-Jamba2-Mini-Ultra-Uncensored-Heretic-GGUF
+main commit at snapshot: dbbc57e949e0fb3e34233b9a6e3b64b87fdb41cc
+snapshot taken: 2026-11-27T18:57:33Z
